@@ -110,6 +110,9 @@
     <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_title">Разрешить подключение?</string>
     <string name="wifi_suggestion_imsi_privacy_title">Подключиться к сети Wi-Fi %s?</string>
     <string name="wifi_suggestion_title">Подключиться к сети Wi-Fi?</string>
+    <string name="wifi_tofu_invalid_cert_chain_message">Цепочка сертификатов сервера недействительна</string>
+    <string name="wifi_tofu_invalid_cert_chain_ok_text">ОК</string>
+    <string name="wifi_tofu_invalid_cert_chain_title">Ошибка подключения к %1$s</string>
     <string name="wifi_wakeup_enabled_content">Доступна сохраненная сеть %1$s.</string>
     <string name="wifi_wakeup_enabled_title">Wi-Fi включён автоматически</string>
     <string name="wifi_wakeup_onboarding_action_disable">Не включать снова</string>

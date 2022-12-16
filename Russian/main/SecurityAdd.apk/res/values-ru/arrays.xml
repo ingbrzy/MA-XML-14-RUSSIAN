@@ -102,6 +102,14 @@
         <item>Высокая</item>
         <item>Очень высокая</item>
     </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>Баланс</item>
+        <item>Наилучшее качество</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture_value">
+        <item>Баланс</item>
+        <item>По умолчанию</item>
+    </string-array>
     <string-array name="gb_gpu_custom_texture">
         <item>Максимальная скорость</item>
         <item>Баланс скорости и качества</item>

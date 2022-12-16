@@ -442,6 +442,7 @@
     <string name="has_mamual_hide_aod">Элемент скрыт</string>
     <string name="has_mamual_hide_font">Скрытые</string>
     <string name="has_mamual_hide_icons">Скрытые</string>
+    <string name="has_mamual_hide_large_icons">Супериконка скрыта</string>
     <string name="has_mamual_hide_theme">Скрытые</string>
     <string name="has_mamual_hide_wallpaper">Скрытые</string>
     <string name="head_portraits">Фото профиля</string>
@@ -456,6 +457,7 @@
     <string name="hide_mamual_hide_aod">Не показывать скрытые вручную элементы</string>
     <string name="hide_mamual_hide_font">Не показывать скрытые шрифты</string>
     <string name="hide_mamual_hide_icons">Не показывать скрытые вручную иконки</string>
+    <string name="hide_mamual_hide_large_icons">Не показывать скрытые супериконки</string>
     <string name="hide_mamual_hide_miwallpaper">Не показывать скрытые эффекты рабочего стола</string>
     <string name="hide_mamual_hide_theme">Не показывать скрытые темы</string>
     <string name="hide_mamual_hide_wallpaper">Не показывать скрытые обои</string>
@@ -502,6 +504,22 @@
     <string name="kuyin_user_agreement_content">Подписки на пользовательские рингтоны предоставлены iFlytek. Прежде чем использовать пользовательские рингтоны, Вы должны принять %s. Согласны?</string>
     <string name="kuyin_user_agreement_content_href">Политика конфиденциальности iFlytek</string>
     <string name="lab">Лаборатория тем</string>
+    <string name="large_icon_apply_fail_for_in_dock">Нельзя использовать супериконки в панели приложений</string>
+    <string name="large_icon_apply_fail_for_in_folder">Нельзя использовать супериконки в папках</string>
+    <string name="large_icon_apply_fail_for_in_oldmode">Супериконки не поддерживаются в Простом режиме</string>
+    <string name="large_icon_apply_fail_for_not_in_launcher">Нельзя использовать супериконки для приложений, которых нет на рабочем столе</string>
+    <string name="large_icon_detail_title">Супериконки %s</string>
+    <string name="large_icon_no_more">Ничего нет</string>
+    <string name="large_icon_no_network">Не удалось подключиться к сети</string>
+    <string name="large_icon_not_support">Не удалось установить иконки для %s</string>
+    <string name="large_icon_official">Официальные</string>
+    <string name="large_icon_picker_haven">Доступные иконки</string>
+    <string name="large_icon_picker_more">Ещё</string>
+    <string name="large_icon_picker_size">Размер иконки</string>
+    <string name="large_icon_to_find_more">Ещё</string>
+    <string name="large_icon_warning_install">Установить</string>
+    <string name="large_icon_warning_not_install">Установка %s</string>
+    <string name="large_icon_warning_not_install_msg">Установить %s, чтобы использовать супериконки?</string>
     <string name="like_list">Отмеченные</string>
     <string name="live_wallpaper">Живые обои</string>
     <string name="load_from_local_photos">Галерея</string>
@@ -1253,6 +1271,7 @@ mm"</string>
     <string name="show_mamual_hide_aod">Показать скрытые вручную элементы</string>
     <string name="show_mamual_hide_font">Показать скрытые шрифты</string>
     <string name="show_mamual_hide_icons">Показать скрытые вручную иконки</string>
+    <string name="show_mamual_hide_large_icons">Показать скрытые супериконки</string>
     <string name="show_mamual_hide_miwallpaper">Показать скрытые эффекты рабочего стола</string>
     <string name="show_mamual_hide_theme">Показать скрытые темы</string>
     <string name="show_mamual_hide_wallpaper">Показать скрытые обои</string>
@@ -1403,6 +1422,7 @@ mm"</string>
     <string name="theme_component_title_framework">Система</string>
     <string name="theme_component_title_homepage">Домашняя страница</string>
     <string name="theme_component_title_icon">Иконки</string>
+    <string name="theme_component_title_large_icon">Супериконки</string>
     <string name="theme_component_title_launcher">Рабочий стол</string>
     <string name="theme_component_title_lockstyle">Стиль блокировки</string>
     <string name="theme_component_title_lockwallpaper">Обои блокировки</string>

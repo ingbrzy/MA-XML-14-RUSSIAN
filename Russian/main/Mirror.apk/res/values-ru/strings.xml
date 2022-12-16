@@ -95,6 +95,7 @@
     <string name="eras_bc">до н. э.</string>
     <string name="evening">После полудня</string>
     <string name="expand_button_title">Дополнительно</string>
+    <string name="file_transferring">Дождитесь окончания текущей передачи и повторите попытку</string>
     <string name="fingerprint_dialog_touch_sensor">Коснитесь сенсора отпечатков</string>
     <string name="fingerprint_error_hw_not_available">Сенсор отпечатков недоступен</string>
     <string name="fingerprint_error_hw_not_present">Сенсор отпечатков отсутствует</string>
@@ -238,6 +239,7 @@
     <string name="notify_clip_title">Из %1$s</string>
     <string name="notify_connected_action_button">Отключить</string>
     <string name="notify_connected_message">Можно передавать файлы и взаимодействовать с мобильным устройством, используя ПК</string>
+    <string name="notify_connected_message_pad">Выполняйте задачи на подключенном ПК или используйте это устройство в качестве расширения экрана</string>
     <string name="notify_connected_title">Подключено к %1$s</string>
     <string name="ok">ОК</string>
     <string name="open_folder">Открыть</string>
@@ -349,6 +351,7 @@
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="save_failed">Не удалось сохранить</string>
+    <string name="scanner_lower_version_toast">Обновите MIUI+ на ПК для подключения</string>
     <string name="scanner_uninstalled_text">Приложение Сканер не установлено на устройстве. Сначала установите приложение.</string>
     <string name="scanner_uninstalled_title">Приложение не установлено</string>
     <string name="screen_num_over_limit">Достигнут лимит количества окон</string>

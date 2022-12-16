@@ -36,6 +36,7 @@
     <string name="default_error_message">Неверный ввод</string>
     <string name="default_popup_window_title">Всплывающее окно</string>
     <string name="dropdown_menu">Выпадающее меню</string>
+    <string name="hint_close_app">Нажмите дважды, чтобы закрыть</string>
     <string name="important_ration_info">Важная информация</string>
     <string name="in_progress">Обработка…</string>
     <string name="indeterminate">Не выбрано</string>

@@ -154,6 +154,14 @@
         <item quantity="one">через 1 минуту</item>
         <item quantity="few">через %d минуты</item>
     </plurals>
+    <plurals name="large_icon_batch_has_update_text">
+        <item quantity="other">Доступно обновление для %1$d супериконок</item>
+        <item quantity="one">Доступно обновление для %1$d супериконки</item>
+    </plurals>
+    <plurals name="large_icon_batch_updating_text">
+        <item quantity="other">Обновление %1$d супериконок</item>
+        <item quantity="one">Обновление %1$d супериконки</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Только что</item>
     </plurals>
@@ -185,6 +193,10 @@
         <item quantity="other">Загружено %1$d объектов</item>
         <item quantity="one">Загружен %1$d объект</item>
         <item quantity="few">Загружено %1$d объекта</item>
+    </plurals>
+    <plurals name="resource_mibi_per_set">
+        <item quantity="other">%1$s Mi Coins/набор</item>
+        <item quantity="one">%1$s Mi Coin/набор</item>
     </plurals>
     <plurals name="resource_rating">
         <item quantity="other">%1$.1f пунктов</item>

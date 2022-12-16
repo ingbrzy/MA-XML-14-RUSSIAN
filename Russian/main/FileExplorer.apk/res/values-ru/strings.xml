@@ -231,7 +231,7 @@
     <string name="dialog_account_permission_denied_msg">Разрешите приложению доступ к аккаунтам на устройстве для входа в Mi Drive. Разрешение можно предоставить в Настройках.</string>
     <string name="dialog_account_permission_denied_negative_button">Отмена</string>
     <string name="dialog_account_permission_denied_positive_button">Настройки</string>
-    <string name="dialog_account_permission_denied_title">Требуются разрешения</string>
+    <string name="dialog_account_permission_denied_title">Предоставьте разрешения</string>
     <string name="dialog_keep_choice">Запомнить выбор</string>
     <string name="dialog_msg_score_explorer">Вам нравится Проводник?</string>
     <string name="dialog_msg_score_not_good">Могли бы вы оставить отзыв?</string>

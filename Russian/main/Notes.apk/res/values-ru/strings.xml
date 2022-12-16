@@ -62,6 +62,9 @@
     <string name="app_name">Заметки</string>
     <string name="app_notification_info">Заметки работают в фоне</string>
     <string name="app_widget">Заметки</string>
+    <string name="app_widget_name_create_note">Создание заметок</string>
+    <string name="app_widget_name_create_todo">Создание задач</string>
+    <string name="app_widget_name_fast_entry">Ярлыки</string>
     <string name="app_widget_name_new">Заметки</string>
     <string name="application_icon">Иконка приложения</string>
     <string name="audio_btn_mode_meeting">Встреча</string>

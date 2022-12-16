@@ -347,7 +347,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="public_net_error_sub_title">Проверьте настройки сети и повторите попытку</string>
     <string name="public_net_error_title">Не удалось подключиться к сети</string>
     <string name="public_open_feedback_service">Открыть</string>
-    <string name="public_please_authorize">Для продолжения требуются разрешения</string>
+    <string name="public_please_authorize">Для продолжения предоставьте разрешения</string>
     <string name="public_welcome_use_feedback_service">Добро пожаловать в \"Сервисы и обратная связь\". Если у вас возникли какие-либо вопросы в процессе использования продуктов Xiaomi, вы можете отправить отзыв, просмотреть общие проблемы или подать заявку на послепродажное обслуживание.</string>
     <string name="rationale_ask">Приложение может работать некорректно без запрошенных разрешений.</string>
     <string name="rationale_ask_again">Приложение может работать некорректно без запрошенных разрешений. Откройте настройки, чтобы изменить разрешения.</string>

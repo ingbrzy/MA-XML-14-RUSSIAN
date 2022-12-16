@@ -293,7 +293,8 @@ ID: %s
     <string name="installing">Установка…</string>
     <string name="insufficient_space">Недостаточно места</string>
     <string name="invalid_address">Неверный путь к файлу</string>
-    <string name="jump_rank_hint">Взгляните на сегодняшний рейтинг загрузок &gt;</string>
+    <string name="jump_rank_hint">Посмотрите рейтинг загрузок &gt;</string>
+    <string name="jump_rank_hint2">Посмотрите популярные загрузки</string>
     <string name="keep_queued_download">Оставить</string>
     <string name="kilobyteShort">" КБ"</string>
     <string name="load_finish_hint">На данный момент это всё</string>

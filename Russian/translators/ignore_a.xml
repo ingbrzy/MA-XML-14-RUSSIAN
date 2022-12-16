@@ -600,6 +600,7 @@
     <string-array name="cota_vf_config_disabled_dialpad_tone_mcc_mnc"></string-array>
     <string-array name="country_codes_5ghz_supported"></string-array>
     <string-array name="country_codes_hid_sap_5GHz_band"></string-array>
+    <string-array name="country_support_esim"></string-array>
     <string-array name="crossSimSpnFormats"></string-array>
     <array name="cross_profile_apps" />
     <string-array name="crypto_fingerprint_fallback_prefixes"></string-array>
@@ -792,6 +793,8 @@
     <string-array name="gb_gpu_custom_anisotropic_value"></string-array>
     <string-array name="gb_gpu_custom_anti"></string-array>
     <string-array name="gb_gpu_custom_anti_value"></string-array>
+    <string-array name="gb_gpu_custom_cut_anti"></string-array>
+    <string-array name="gb_gpu_custom_cut_anti_value"></string-array>
     <string-array name="gb_gpu_custom_fps"></string-array>
     <string-array name="gb_gpu_custom_lod_value"></string-array>
     <string-array name="gb_gpu_custom_texture_value"></string-array>
@@ -1424,6 +1427,7 @@
     <integer-array name="support_networktypes_cdma_master"></integer-array>
     <integer-array name="support_networktypes_cdma_master_all"></integer-array>
     <integer-array name="support_networktypes_cdma_vice"></integer-array>
+    <integer-array name="support_networktypes_gsm_lte_nr"></integer-array>
     <integer-array name="support_networktypes_gsm_master"></integer-array>
     <integer-array name="support_networktypes_gsm_nr_master_mtk"></integer-array>
     <integer-array name="support_networktypes_gsm_vice"></integer-array>
@@ -1474,6 +1478,7 @@
     <string-array name="tian_gan"></string-array>
     <string-array name="tile_states_default"></string-array>
     <string-array name="time"></string-array>
+    <string-array name="time_choices"></string-array>
     <string-array name="time_format_values"></string-array>
     <string-array name="time_formate_items"></string-array>
     <string-array name="time_ticks"></string-array>

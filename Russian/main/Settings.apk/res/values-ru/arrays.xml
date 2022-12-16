@@ -63,6 +63,32 @@
         <item>По выходным</item>
         <item>Выбрать дни</item>
     </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>А</item>
         <item>Б</item>
@@ -1444,6 +1470,10 @@
         <item>Наглядность</item>
         <item>Акцент</item>
     </string-array>
+    <string-array name="tabs_taptic_detail_m2">
+        <item>Хруст</item>
+        <item>Сплошной</item>
+    </string-array>
     <string-array name="tare_modifiers_subfactors">
         <item>Зарядка</item>
         <item>Спящий режим</item>
@@ -1655,6 +1685,10 @@
         <item>Только 2.4 ГГц</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
+        <item>Нет</item>
+        <item>Да</item>
+    </string-array>
+    <string-array name="wifi_hidden_gbk_entries">
         <item>Нет</item>
         <item>Да</item>
     </string-array>
