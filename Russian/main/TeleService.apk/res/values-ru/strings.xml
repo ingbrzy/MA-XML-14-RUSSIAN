@@ -2983,7 +2983,6 @@ UT-интерфейс: %5$s"</string>
     <string name="user_setup_dialog_title">Настроить пространство?</string>
     <string name="user_setup_profile_dialog_message">Настроить профиль?</string>
     <string name="user_switch_to_user">Переключиться на %s</string>
-    <string name="username">UserName</string>
     <string name="username_title">Имя пользователя</string>
     <string name="ussdRunning">Выполняется USSD запрос…</string>
     <string name="ussdinitiated_title">USSD запущен</string>

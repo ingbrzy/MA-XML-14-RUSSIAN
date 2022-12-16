@@ -138,7 +138,6 @@
     <string name="app_disable_description_content">Приложение \"Музыка\" является системным. Его отключение может повлиять на использование других приложений. Отключить?</string>
     <string name="app_disable_description_title">Отключить системное приложение?</string>
     <string name="app_label">Загрузки</string>
-    <string name="app_name">liveeventbus</string>
     <string name="app_permission_confirm">Подтвердить</string>
     <string name="app_permission_optional">Необязательные разрешения</string>
     <string name="app_permission_require">Обязательные разрешения</string>
