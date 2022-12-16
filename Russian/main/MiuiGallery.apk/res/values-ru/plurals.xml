@@ -752,9 +752,9 @@
         <item quantity="few">Файлы могут храниться здесь %1$d дня (%2$s)</item>
     </plurals>
     <plurals name="trash_vip_info_text_login_medium_or_low_level">
-        <item quantity="other">Файлы могут храниться здесь %1$d дней. Нажмите для продления периода.</item>
-        <item quantity="one">Файлы могут храниться здесь %1$d день. Нажмите для продления периода.</item>
-        <item quantity="few">Файлы могут храниться здесь %1$d дня. Нажмите для продления периода.</item>
+        <item quantity="other">Файлы могут храниться здесь %1$s дней. Нажмите для продления периода.</item>
+        <item quantity="one">Файлы могут храниться здесь %1$s день. Нажмите для продления периода.</item>
+        <item quantity="few">Файлы могут храниться здесь %1$s дня. Нажмите для продления периода.</item>
     </plurals>
     <plurals name="trash_vip_info_text_no_sync_server">
         <item quantity="other">Удаленные файлы будут храниться в облаке %1$d дней</item>

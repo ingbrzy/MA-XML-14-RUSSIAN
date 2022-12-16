@@ -481,6 +481,8 @@
         <item>Отключён</item>
         <item>Включён фильтр</item>
         <item>Включён</item>
+        <item>Включён фильтр заголовков</item>
+        <item>Включён фильтр медиа-пакетов</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 секунда</item>
@@ -1144,6 +1146,7 @@
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
+        <item>ICCID</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Медленная скорость из-за большой нагрузки</item>

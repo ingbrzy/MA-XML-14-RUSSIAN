@@ -1650,7 +1650,7 @@
     <string name="kg_sim_pin_instructions">Введите PIN SIM-карты</string>
     <string name="kg_sim_pin_instructions_multi">Введите PIN SIM-карты \"%1$s\"</string>
     <string name="kg_sim_unlock_progress_dialog_message">Разблокировка SIM карты…</string>
-    <string name="kg_too_many_failed_attempts_countdown">Повторите попытку через %d сек.</string>
+    <string name="kg_too_many_failed_attempts_countdown">{count, plural, =1 {Повторите попытку через # сек.} other {Повторите попытку через # сек.} }</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Количество неудачных попыток ввода пароля: %1$d.
 
 Повторите попытку через %2$d сек."</string>
@@ -1822,7 +1822,7 @@ d MMMM"</string>
     <string name="media_output_dialog_add_output">Устройства вывода</string>
     <string name="media_output_dialog_button_stop_casting">Остановить трансляцию</string>
     <string name="media_output_dialog_connect_failed">Не удалось подключить. Повторите попытку.</string>
-    <string name="media_output_dialog_disconnected">%1$s (отключено)</string>
+    <string name="media_output_dialog_disconnected">(отключено)</string>
     <string name="media_output_dialog_group">Группа</string>
     <string name="media_output_dialog_launch_app_text">Чтобы начать трансляцию, откройте приложение</string>
     <string name="media_output_dialog_multiple_devices">Выбрано устройств: %1$d</string>

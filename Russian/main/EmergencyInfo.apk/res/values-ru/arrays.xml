@@ -85,6 +85,9 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LC3</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Выбор системы (по умолчанию)</item>
@@ -93,6 +96,9 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LC3</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -115,7 +121,9 @@
         <item>Отключено</item>
         <item>Включён фильтр</item>
         <item>Включено</item>
-    </string-array>
+        <item>Включён фильтр заголовков</item>
+        <item>Включён фильтр медиа-пакетов</item>
+</string-array>
     <string-array name="color_mode_descriptions">
         <item>Улучшенные цвета</item>
         <item>Натуральные цвета, привычные глазу</item>

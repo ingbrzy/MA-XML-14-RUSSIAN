@@ -10584,7 +10584,7 @@ UT-интерфейс: %5$s"</string>
     <string name="use_this_wlan">Использовать</string>
     <string name="use_wifi_hotsopt_main_switch_title">Использовать точку доступа Wi-Fi</string>
     <string name="user_account_title">Аккаунт для контента</string>
-    <string name="user_add_max_count">Можно добавить до %1$d пользователей</string>
+    <string name="user_add_max_count">Достигнут лимит количества пользователей. Удалите пользователя, чтобы добавить нового.</string>
     <string name="user_add_on_lockscreen_menu">Доб. пользов. на забл. экране</string>
     <string name="user_add_profile_item_summary">Ограничение доступа к приложениям и контенту из вашего аккаунта</string>
     <string name="user_add_profile_item_title">Профиль с огранич. доступом</string>
@@ -10893,7 +10893,7 @@ UT-интерфейс: %5$s"</string>
     <string name="vpn_turn_on">Включить</string>
     <string name="vpn_type">Тип</string>
     <string name="vpn_username">Имя пользователя</string>
-    <string name="vpn_version">Версия %s</string>
+    <string name="vpn_version">Версия</string>
     <string name="vr_listener_security_warning_summary">%1$s сможет начать работу, когда вы будете использовать приложения в режиме виртуальной реальности.</string>
     <string name="vr_listener_security_warning_title">Разрешить VR-сервису доступ к сервису \"%1$s\"?</string>
     <string name="vr_listeners_title">Вспомогательные VR-сервисы</string>
