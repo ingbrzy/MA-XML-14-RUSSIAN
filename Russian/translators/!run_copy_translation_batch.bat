@@ -104,6 +104,7 @@ call run_copy_translation.bat %1 Shell
 call run_copy_translation.bat %1 SmartHomePlus
 call run_copy_translation.bat %1 SoundPicker
 call run_copy_translation.bat %1 SoundRecorder
+call run_copy_translation.bat %1 Stk
 call run_copy_translation.bat %1 Tag
 call run_copy_translation.bat %1 Telecom
 call run_copy_translation.bat %1 TelephonyProvider
