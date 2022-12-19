@@ -1150,7 +1150,7 @@
     <string name="module_name_pixel_48m">48M</string>
     <string name="module_name_pixel_50m">50M</string>
     <string name="module_name_pixel_64m">64M</string>
-    <string name="module_name_pixel_xxxm">50MP</string>
+    <string name="module_name_pixel_xxxm">200MP</string>
     <string name="module_name_portrait">Портрет</string>
     <string name="module_name_professional">Ручной режим</string>
     <string name="module_name_scanner">Сканер</string>
@@ -2213,7 +2213,7 @@
     <string name="ultra_pixel_photography_close_tip">%s Ультра HD отключён</string>
     <string name="ultra_pixel_photography_open_tip">%s Ультра HD включён</string>
     <string name="ultra_pixel_portrait_hint">HD портрет</string>
-    <string name="ultra_pixel_xxxmp">50MP</string>
+    <string name="ultra_pixel_xxxmp">200MP</string>
     <string name="ultra_pixel_zoom_no_support_tip">Увеличение не работает в режиме %s Ультра HD</string>
     <string name="ultra_tele_use_hint_text_body">"Используйте 50-кратный зум для захвата удаленных объектов
 с улучшенной детализацией"</string>

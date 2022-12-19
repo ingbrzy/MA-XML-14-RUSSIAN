@@ -524,6 +524,8 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
+    <string name="talkback_close">Закрыть</string>
+    <string name="talkback_close_open_picture">Отмена</string>
     <string name="talkback_continue">Продолжить</string>
     <string name="talkback_doc_filter">Кнопка фильтра</string>
     <string name="talkback_list_play">Воспроизвести все</string>

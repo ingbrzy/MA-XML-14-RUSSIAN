@@ -206,6 +206,8 @@ ID: %s
     <string name="facebook_login_btn_content_description">Войти с помощью Facebook</string>
     <string name="failed_dup_secure_phone_number">Этот номер телефона связан с другим Xiaomi аккаунтом</string>
     <string name="failed_to_fetch_fql">Не удалось получить информацию FAQ, проверьте подключение к сети</string>
+    <string name="feedback_account_inconsistent_login_hint">Сейчас активен другой аккаунт. Войдите в свой предыдущий аккаунт Xiaomi.</string>
+    <string name="feedback_account_login_hint">Войдите в свой аккаунт Xiaomi</string>
     <string name="feedback_answer_detail_feedback_resolved">Да</string>
     <string name="feedback_answer_detail_feedback_result">Спасибо за обратную связь!</string>
     <string name="feedback_answer_detail_feedback_title">Было ли это полезно?</string>
@@ -399,6 +401,7 @@ ID: %s
     <string name="login_by_local_phone_long_text">Войдите в аккаунт</string>
     <string name="login_by_local_phone_short_text">Вход</string>
     <string name="login_other">Другой Xiaomi аккаунт</string>
+    <string name="login_out">Выход</string>
     <string name="login_register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="login_system_failed">Ошибка авторизации, повторите попытку</string>
     <string name="login_with_sns">Другие варианты входа</string>

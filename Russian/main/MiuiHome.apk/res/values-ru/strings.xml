@@ -157,9 +157,9 @@
     <string name="app_drawer_guide_description">Поиск среди приложений</string>
     <string name="app_drawer_guide_title">Меню приложений</string>
     <string name="app_drawer_tip_title">Лента заменена на меню приложений</string>
+    <string name="app_edit_icon">Изменить иконку</string>
     <string name="app_install_state">Установлено</string>
     <string name="app_name">matrix-io-canary</string>
-    <string name="app_set_icon">Установить иконку</string>
     <string name="application_name">Рабочий стол MIUI</string>
     <string name="apply">Применить</string>
     <string name="apply_action">Применить</string>
@@ -301,6 +301,8 @@
     <string name="dialog_work_profile_content_2">Рабочие приложения и данные видны вашему ИТ-администратору</string>
     <string name="dialog_work_profile_title">Рабочий профиль</string>
     <string name="disable_wallpaper_scroll">Отключить прокрутку обоев</string>
+    <string name="dock_and_folder_not_edit_icon_tip">Чтобы изменить иконку, переместите приложение из панели приложений или папки</string>
+    <string name="dock_not_edit_icon_tip">Чтобы изменить иконку, переместите приложение из панели приложений</string>
     <string name="double_tap_to_lock_title">Блокировка экрана двойным касанием</string>
     <string name="download_action">Загрузить</string>
     <string name="drag_icon_to_homescreen_guide">Перетащите иконку приложения, чтобы добавить ярлык на рабочий стол</string>
@@ -368,6 +370,7 @@
     <string name="fold_pair_install_shortcut_long_click">Нажмите и удерживайте для добавления на рабочий стол</string>
     <string name="fold_pair_installed_shortcut_launcher">Ярлык уже существует</string>
     <string name="folder_name">Папка</string>
+    <string name="folder_not_edit_icon_tip">Чтобы изменить иконку, переместите приложение из папки</string>
     <string name="folder_picker_big_text">Увеличенный</string>
     <string name="folder_picker_default_text">Нормальный</string>
     <string name="folder_picker_options_tab_text">Размер</string>

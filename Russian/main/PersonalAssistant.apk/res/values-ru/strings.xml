@@ -2120,7 +2120,10 @@ ID:%s
     <string name="pa_shopping_widget_no_cta_content_desc">Нажмите, чтобы предоставить необходимые разрешения</string>
     <string name="pa_shopping_widget_no_network_content_desc">Не удалось подключиться к сети</string>
     <string name="pa_shopping_widget_no_privacy_content_desc">Чтобы использовать эту функцию, примите Политику конфиденциальности Покупок. Нажмите для просмотра.</string>
+    <string name="pa_shopping_widget_no_privacy_content_main_desc">Шопинг</string>
+    <string name="pa_shopping_widget_no_privacy_content_sub_desc">Разрешите виджету получать купоны и предложения для ваших избранных платформ электронной коммерции.</string>
     <string name="pa_shopping_widget_no_setting_content_desc">Настройки</string>
+    <string name="pa_shopping_widget_np_privacy_bottom_text">Разрешить</string>
     <string name="pa_shopping_widget_title">Покупки</string>
     <string name="pa_shortcut_accessibility_description">Лента виджетов позволяет создавать ярлыки для сторонних приложений. Эти ярлыки не будут работать, если вы отключите эту функцию.</string>
     <string name="pa_shortcut_accessibility_service">Лента виджетов</string>

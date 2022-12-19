@@ -454,7 +454,7 @@ ID: %s
     <string name="miui_install_failed_reason">Приложение не совместимо с этим устройством</string>
     <string name="miui_install_failed_suggestion">Загрузите совместимую версию этого приложения</string>
     <string name="miui_install_source">Установка из приложения %s</string>
-    <string name="miui_install_source_unkown">Неизвестно</string>
+    <string name="miui_install_source_unkown">неизвестно</string>
     <string name="miui_install_success">Приложение установлено</string>
     <string name="miui_install_version">Версия: %s</string>
     <string name="miui_install_version_3">Версия: %1$s -&gt; %2$s (%3$s)</string>
