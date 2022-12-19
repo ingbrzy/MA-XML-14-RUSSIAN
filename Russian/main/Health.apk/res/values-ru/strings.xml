@@ -89,8 +89,8 @@
     <string name="am">AM</string>
     <string name="app_name">plugin.health.analyze</string>
     <string name="app_setting">Приложения</string>
-    <string name="audio_permission_dialog_desc">Разрешение на запись аудио было отклонено, предоставьте его</string>
-    <string name="audio_permission_dialog_title">Запись аудио</string>
+    <string name="audio_permission_dialog_desc">Разрешение на запись звука было отклонено, предоставьте его</string>
+    <string name="audio_permission_dialog_title">Запись звука</string>
     <string name="audio_permission_subtitle">Для обнаружения храпа и разговора во сне</string>
     <string name="audio_permission_title">Доступ к микрофону</string>
     <string name="audio_record_perm_description">Запись храпа и сна</string>

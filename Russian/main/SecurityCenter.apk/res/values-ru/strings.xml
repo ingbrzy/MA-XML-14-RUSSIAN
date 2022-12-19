@@ -584,7 +584,7 @@
     <string name="app_permission_use_group_location">Геолокация</string>
     <string name="app_permission_use_group_location_des">Точная и приблизительная геолокация</string>
     <string name="app_permission_use_group_mic">Микрофон</string>
-    <string name="app_permission_use_group_mic_des">Запись аудио</string>
+    <string name="app_permission_use_group_mic_des">Запись звука</string>
     <string name="app_permission_use_group_phone">Телефон</string>
     <string name="app_permission_use_group_phone_des">Чтение и редактирование журнала звонков, осуществление вызовов, доступ к статусу вызовов</string>
     <string name="app_permission_use_group_sensor">Нательные датчики</string>
@@ -1033,6 +1033,8 @@
     <string name="bh_purchase_dialog_tips">Покупки могут доставляться с задержкой</string>
     <string name="bh_set_phone_dialog_title">"Убедитесь в корректности номера телефона.
 Номер телефона можно изменить в настройках."</string>
+    <string name="bh_set_phone_dialog_title_new">"Добавьте свой номер телефона для просмотра и покупки доступных тарифных планов мобильного трафика.
+Номер телефона всегда можно изменить в настройках."</string>
     <string name="bh_settings_declare">Отказ от ответственности</string>
     <string name="bh_settings_policy_text">Политика конфиденциальности</string>
     <string name="bh_settings_user_agreement">Пользовательское соглашение</string>
@@ -2178,6 +2180,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_advance_settings_vibration_4d_summary2">Вибрировать в игре в момент убийства</string>
     <string name="gb_audition_instruction">Нажмите и удерживайте для записи (%1$s-%2$s сек.)</string>
     <string name="gb_audition_play_instruction">Используйте наушники для лучшего эффекта</string>
+    <string name="gb_award_noti_message">Включите фоновые обновления в Ускорении игр, чтобы получать вознаграждения</string>
+    <string name="gb_award_noti_title">Получайте вознаграждения</string>
     <string name="gb_barrage_chat_desc">Всегда верьте, что скоро произойдет что-то замечательное</string>
     <string name="gb_barrage_chat_pre_desc">Предпросмотр</string>
     <string name="gb_barrage_chat_text_color">Цвет</string>
@@ -2325,7 +2329,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_predownload_noti_message">%2$1.2f ГБ обновления уже загружено. Оно станет доступно, как только выйдет новая версия.</string>
     <string name="gb_predownload_noti_title">Обновление %s завершено</string>
     <string name="gb_predownload_receive">Получить награды</string>
+    <string name="gb_predownload_receive_error">Ошибка сети. Повторите попытку.</string>
+    <string name="gb_predownload_receive_max">Достигнуто максимальное количество наград</string>
     <string name="gb_predownload_receive_tips">Включите обновление в фоновом режиме для получения наград</string>
+    <string name="gb_predownload_receiving">Получение…</string>
     <string name="gb_predownload_title">Обновления в фоновом режиме</string>
     <string name="gb_shortcut_pref_title">Ярлык на рабочем столе</string>
     <string name="gb_shoulder_guide_message1">Переместите [Л] в любое функциональное положение для использования с навесным триггером.</string>
@@ -3473,6 +3480,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_battery_history_total_consumption_title">Энергопотребление</string>
     <string name="pc_battery_history_usetime_title">Активный режим</string>
+    <string name="pc_emergency_call">SOS</string>
     <string name="pc_endurance_calculation">Вычисление…</string>
     <string name="pc_fast_charge_notifi_action_text_off">Выключить</string>
     <string name="pc_fast_charge_notifi_action_text_on">Ускорение</string>
@@ -3493,6 +3501,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_hidemode_performance">Скорость</string>
     <string name="pc_hidemode_performance_title">Производительный режим</string>
     <string name="pc_hidemode_power_save">Экономия</string>
+    <string name="pc_high_temp_protection_noti_bt_text">Понятно</string>
+    <string name="pc_high_temp_protection_noti_summary">Точка доступа, мобильный интернет и геолокация недоступны</string>
+    <string name="pc_high_temp_protection_noti_tile">Устройство перегрелось</string>
     <string name="pc_install_manager">Установка через USB</string>
     <string name="pc_main_activity_back">Назад</string>
     <string name="pc_main_battery_text_day">Добавлено: %1$s мин. Заряда хватит на %2$s д.</string>
@@ -3519,7 +3530,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_statistics_battery_use_hour_minute">%1$d ч. %2$d мин. с момента зарядки</string>
     <string name="pc_statistics_battery_use_summary">%s с момента зарядки</string>
     <string name="pc_statistics_battery_use_title">Расход батареи</string>
+    <string name="pc_temperature_too_high">Устройство перегрелось</string>
     <string name="pc_to_phone_install">Заблокирована установка %s через USB</string>
+    <string name="pc_wait_device_cools_down">Дождитесь, когда устройство остынет, чтобы использовать эту функцию</string>
     <string name="pc_xiaoai_create_auto_task">Новая задача из Mi AI</string>
     <string name="per_month_pkg_traffic_settings">Тарифный план</string>
     <string name="perfermance_optimization_summary">Избегать перегрева и аппаратных проблем</string>
@@ -3605,6 +3618,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_instruction_send_mms">Это разрешение позволяет приложениям отправлять мультимедийные сообщения, за что может взиматься дополнительная плата. Вредоносные программы могут использовать это разрешение для отправки платных сообщений без вашего согласия.</string>
     <string name="permission_instruction_send_payment_sms">Это разрешение позволяет приложениям отправлять платные текстовые сообщения.</string>
     <string name="permission_instruction_send_sms">Это разрешение позволяет приложениям отправлять текстовые сообщения, за что может взиматься дополнительная плата. Вредоносные программы могут использовать это разрешение для отправки платных сообщений без вашего согласия.</string>
+    <string name="permission_instruction_shake">Это разрешение позволяет приложениям отслеживать ориентацию и движения устройства (например, встряхивание, наклон и вращение).</string>
     <string name="permission_instruction_show_locked">Это разрешение позволяет приложениям отображать элементы на экране блокировки. Вредоносные программы могут использовать это разрешение для показа вам надоедливой рекламы.</string>
     <string name="permission_instruction_sociality">Чтобы защитить конфиденциальность, MIUI позволяет отдельно настроить разрешения на доступ к файлам приложений соцсетей для тех приложений, у которых есть доступ к внутренней памяти. Для приложений с уровнем API 29 и выше, поддерживающих разделы памяти, выбор не предоставляется.</string>
     <string name="permission_instruction_storage">Чтобы защитить конфиденциальность, MIUI позволяет отдельно настроить разрешения на доступ к Галерее и файлам приложений соцсетей для тех приложений, у которых есть доступ к внутренней памяти. Для приложений с уровнем API 29 и выше, поддерживающих разделы памяти, выбор не предоставляется.</string>
@@ -4005,6 +4019,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_setting_wireless_reverse_charging_summary">Беспроводная зарядка совместимых устройств</string>
     <string name="power_setting_wireless_reverse_charging_title">Обратная беспроводная зарядка</string>
     <string name="power_settings_category_title">Индикатор батареи</string>
+    <string name="power_settings_firmware_update_title">Обновления прошивки</string>
     <string name="power_settings_lock_screen_saver_title">Экран блокировки</string>
     <string name="power_settings_number">Процентный</string>
     <string name="power_settings_saver_title">Экономия заряда при блокировке</string>
@@ -4097,7 +4112,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_prohibit_use_camera_in_background">Запрет использования камеры в фоновом режиме</string>
     <string name="pp_prohibit_use_camera_in_background_detail">По умолчанию приложениям недоступно использование камеры в фоновом режиме</string>
     <string name="pp_read_phone_info_summary">Доступ к информации о SIM-карте</string>
-    <string name="pp_record_msg">Запись аудио</string>
+    <string name="pp_record_msg">Запись звука</string>
     <string name="pp_safe_box">Личное пространство</string>
     <string name="pp_safe_box_detail">Личные данные шифруются и хранятся только на этом устройстве. Посторонние лица и приложения, а также само устройство не смогут получить к ним доступ.</string>
     <string name="pp_safe_box_summary">Управление доступом к конфиденциальным данным</string>
@@ -5255,6 +5270,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="storage_system_memory_expansion">Расширение памяти</string>
     <string name="storage_system_memory_expansion_tip">Увеличьте размер ОЗУ за счет хранилища</string>
     <string name="storage_system_other_tip">Данные, необходимые для нормальной работы системы (размер файла может меняться)</string>
+    <string name="storage_system_other_tip_new">Необходимый размер для работы системы и её обновлений. Размер раздела меняется в зависимости от состояния системы.</string>
     <string name="storage_unmount_failure">Ошибка извлечения: %1$s</string>
     <string name="storage_unmount_success">Успешно извлечено: %1$s</string>
     <string name="storage_wizard_format_confirm_v2_action">Форматировать</string>
@@ -5975,6 +5991,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="vb_video_effects_dolby_headset">" (только наушники)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos вкл.</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Расширенное стерео</string>
+    <string name="vb_video_effects_immersion_sound">Иммерсивный звук</string>
+    <string name="vb_video_effects_immersion_sound_summary">Эффект погружения и ощущения пространства при воспроизведении через наушники</string>
     <string name="vb_video_effects_liquid_summary">Повышение четкости диалогов в видео</string>
     <string name="vb_video_effects_only_headphone">Работает только с наушниками</string>
     <string name="vb_video_effects_setting_black_white">Ч/Б</string>
@@ -5998,6 +6016,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="vb_video_effects_spatial">Отслеживание движения головы</string>
     <string name="vb_video_effects_spatial_summary">"Регулировка объемного звука движениями головы
 *Поддерживается только игровыми моделями наушников"</string>
+    <string name="vb_video_effects_spatial_summary_new">Улучшение ощущения пространства и направления для поддерживаемых аудио и видео, регулировка иммерсивного звука движениями головы</string>
     <string name="vb_video_effects_srs_premium_sound">Звук</string>
     <string name="vb_video_super_division">Увеличение разрешения</string>
     <string name="vb_video_super_division_desc">"Автоматически увеличивать разрешение при ≤720p.

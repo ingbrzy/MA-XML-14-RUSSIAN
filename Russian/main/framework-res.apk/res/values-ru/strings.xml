@@ -1664,8 +1664,8 @@
     <string name="permlab_receiveMms">Приём MMS-сообщений</string>
     <string name="permlab_receiveSms">Приём SMS-сообщений</string>
     <string name="permlab_receiveWapPush">Приём WAP-сообщений</string>
-    <string name="permlab_recordAudio">Запись аудио</string>
-    <string name="permlab_recordBackgroundAudio">Запись аудио в фоновом режиме</string>
+    <string name="permlab_recordAudio">Запись звука</string>
+    <string name="permlab_recordBackgroundAudio">Запись звука в фоновом режиме</string>
     <string name="permlab_register_call_provider">Регистрация новых операторов связи</string>
     <string name="permlab_register_sim_subscription">Регистрация новых SIM-карт</string>
     <string name="permlab_removeDrmCertificates">Удаление сертификатов DRM</string>

@@ -29,20 +29,6 @@
         <item quantity="other">%d мин. назад</item>
         <item quantity="one">1 мин. назад</item>
     </plurals>
-    <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">Режим экстренных обратных вызовов будет действовать ещё %s мин. Приложения с поддержкой передачи данных будут недоступны. Выйти?</item>
-        <item quantity="one">Режим экстренных обратных вызовов будет действовать ещё %s мин. Приложения с поддержкой передачи данных будут недоступны. Выйти?</item>
-    </plurals>
-    <plurals name="alert_dialog_exit_ecm_without_data_restriction_hint">
-        <item quantity="other">"Режим экстренных обратных вызовов будет действовать ещё %s мин. 
-Выйти?"</item>
-        <item quantity="one">"Режим экстренных обратных вызовов будет действовать ещё %s мин. 
-Выйти?"</item>
-    </plurals>
-    <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">Выбранное действие недоступно в режиме экстренных обратных вызовов. Устройство будет в этом режиме ещё %s мин. Выйти?</item>
-        <item quantity="one">Выбранное действие недоступно в режиме экстренных обратных вызовов. Устройство будет в этом режиме ещё %s мин. Выйти?</item>
-    </plurals>
     <plurals name="auto_answer_summary_delay">
         <item quantity="other">задержка: %d секунд</item>
         <item quantity="one">задержка: %d секунда</item>

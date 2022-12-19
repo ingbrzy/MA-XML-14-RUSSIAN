@@ -236,6 +236,8 @@
     <string name="greenguard_install_confirm">Установить</string>
     <string name="greenguard_install_message">Семейный защитник - системное приложение. Для установки приложения интернет не нужен.</string>
     <string name="greenguard_install_title">Установить Семейный защитник</string>
+    <string name="greenguard_new_install_message">Семейный защитник - системное приложение. Для установки приложения интернет не нужен.</string>
+    <string name="greenguard_new_install_title">Установить Семейный защитник</string>
     <string name="greenguard_parent_des">Управляйте устройствами друзей и близких</string>
     <string name="greenguard_parent_des_title">Используйте Kite Guard для добавления устройств</string>
     <string name="guide_contact_sub_title_desc">"Контакты, добавленные во второе пространство, будут личными.

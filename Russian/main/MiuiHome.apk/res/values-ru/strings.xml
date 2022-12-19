@@ -159,6 +159,7 @@
     <string name="app_drawer_tip_title">Лента заменена на меню приложений</string>
     <string name="app_install_state">Установлено</string>
     <string name="app_name">matrix-io-canary</string>
+    <string name="app_set_icon">Установить иконку</string>
     <string name="application_name">Рабочий стол MIUI</string>
     <string name="apply">Применить</string>
     <string name="apply_action">Применить</string>
@@ -313,6 +314,7 @@
     <string name="dual_app">Клонировать</string>
     <string name="early_morning">Утро</string>
     <string name="edit">Редактировать</string>
+    <string name="edit_folder">Изменить папку</string>
     <string name="edit_folder_title">Переименовать папку</string>
     <string name="edit_mode_dual_app">Клонирование</string>
     <string name="edit_mode_group">Группировать</string>
@@ -366,6 +368,11 @@
     <string name="fold_pair_install_shortcut_long_click">Нажмите и удерживайте для добавления на рабочий стол</string>
     <string name="fold_pair_installed_shortcut_launcher">Ярлык уже существует</string>
     <string name="folder_name">Папка</string>
+    <string name="folder_picker_big_text">Увеличенный</string>
+    <string name="folder_picker_default_text">Нормальный</string>
+    <string name="folder_picker_options_tab_text">Размер</string>
+    <string name="folder_picker_sliding_button_tab_text">Предлагать выделенные приложения</string>
+    <string name="folder_picker_tab_text">Папка</string>
     <string name="frame_load_failed">Не удалось загрузить рамку</string>
     <string name="free_style_apps_title">Выберите приложение</string>
     <string name="free_style_drawer_title">Все приложения</string>
@@ -448,6 +455,7 @@
     <string name="image_too_small_message">Размер изображения слишком мал</string>
     <string name="in_app_result_by">Результаты предоставлены</string>
     <string name="install">Установить</string>
+    <string name="intelligent_exposed_button_summary_text">Предлагать рекомендации, основанные на статистике использования приложений, для выделения приложений в увеличенных папках</string>
     <string name="invalid_contact_shortcut">Недопустимый контакт</string>
     <string name="is_setting_wallpaper_message">Установка обоев…</string>
     <string name="is_system_wallpaper_message">Нельзя удалить системные обои</string>
@@ -544,6 +552,7 @@
     <string name="minus_one_screen">Лента виджетов</string>
     <string name="miui_screen_config_title">Настройки рабочего стола</string>
     <string name="miui_widget_menu_replace_text">Переключить</string>
+    <string name="miui_widget_toast_for_not_support_by_pa">Лента виджетов не поддерживает виджеты такого размера</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>

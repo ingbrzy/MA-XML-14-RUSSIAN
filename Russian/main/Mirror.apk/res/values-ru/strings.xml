@@ -46,7 +46,7 @@
     <string name="circulate_cta_desc_phone">Добро пожаловать в Mi Smart Hub! Это приложение можно использовать для трансляции содержимого экрана, воспроизведения мультимедиа на разных устройствах, для использования Mi Smart Play, MIUI+ и обмена между приложениями. Для нормальной работы приложению необходимы подключение к интернету и следующие разрешения:</string>
     <string name="circulate_cta_exit">Выход</string>
     <string name="circulate_cta_premission_sound_subtitle">Для трансляции аудиопотока на подключенные устройства</string>
-    <string name="circulate_cta_premission_sound_title">Запись аудио</string>
+    <string name="circulate_cta_premission_sound_title">Запись звука</string>
     <string name="circulate_cta_premission_storage_pad_title">Доступ к файлам в хранилище</string>
     <string name="circulate_cta_premission_storage_subtitle">Для отправки и получения файлов</string>
     <string name="circulate_cta_premission_storage_title">Доступ к файлам в хранилище</string>

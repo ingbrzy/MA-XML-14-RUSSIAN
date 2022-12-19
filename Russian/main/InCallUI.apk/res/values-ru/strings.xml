@@ -363,8 +363,8 @@
     <string name="relay_cal_from_device_name">От %1$s</string>
     <string name="relay_call">Ретрансляция</string>
     <string name="relay_call_device_name">Подключённое устройство (%1$s)</string>
-    <string name="relay_deny_permission_msg">Для ретрансляции вызовов разрешите запись аудио</string>
-    <string name="relay_grant_permissions_on_phone">Разрешите запись аудио</string>
+    <string name="relay_deny_permission_msg">Для ретрансляции вызовов разрешите запись звука</string>
+    <string name="relay_grant_permissions_on_phone">Разрешите запись звука</string>
     <string name="relay_known">Понятно</string>
     <string name="relay_network_error">Ошибка сети</string>
     <string name="relay_network_error_msg">Вызовы недоступны из-за ошибки сети, переключитесь на основное устройство.</string>
