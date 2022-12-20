@@ -504,8 +504,8 @@ ID: %s
     <string name="eq_jazz">Джаз</string>
     <string name="eq_metal">Металл</string>
     <string name="eq_pop">Поп</string>
-    <string name="eq_preset_format">Моя настройка %d</string>
-    <string name="eq_preset_hint">Имя настройки</string>
+    <string name="eq_preset_format">Мой пресет %d</string>
+    <string name="eq_preset_hint">Название пресета</string>
     <string name="eq_preset_select">Выберите настройку</string>
     <string name="eq_rock">Рок</string>
     <string name="equalizer">Эквалайзер</string>

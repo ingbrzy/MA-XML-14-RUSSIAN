@@ -650,7 +650,7 @@
     <string name="wifi_assistant_wifi_no_internet_detail">Нажмите для просмотра.</string>
     <string name="windchime">Музыка ветра</string>
     <string name="wireless_charging_notification_message1">Не удалось найти беспроводные устройства для зарядки. Обратная беспроводная зарядка отключена.</string>
-    <string name="wireless_charging_notification_message2">Заряд батареи менее чем 30%. Обратная беспроводная зарядка отключена.</string>
+    <string name="wireless_charging_notification_message2">Заряд батареи менее %s. Обратная беспроводная зарядка отключена.</string>
     <string name="wireless_charging_notification_message3">Ошибка во время зарядки. Обратная беспроводная зарядка отключена.</string>
     <string name="wireless_charging_notification_titile">Обратная беспроводная зарядка отключена</string>
     <string name="xiaomi">Mi</string>

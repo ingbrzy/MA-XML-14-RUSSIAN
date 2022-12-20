@@ -2413,6 +2413,7 @@
     <string name="common_issue">Частые вопросы</string>
     <string name="common_settings">Быстрые настройки</string>
     <string name="complete_parameters">Все характеристики</string>
+    <string name="complete_parameters_new">Информация и характеристики</string>
     <string name="complete_settings">Основные настройки</string>
     <string name="computer_backup_summary">Резервное копирование и восстановление с использованием компьютера</string>
     <string name="computer_backup_title">Компьютер</string>
@@ -2760,6 +2761,7 @@
     <string name="dark_ui_title">Тёмный режим</string>
     <string name="dark_wallpaper_mode">Затемнять обои</string>
     <string name="dashboard_title">Настройки</string>
+    <string name="data_acceleration_summery">Использовать мобильный интернет для увеличения скорости при плохом Wi-Fi соединении</string>
     <string name="data_connection_3_5g">H</string>
     <string name="data_connection_3_5g_plus">H+</string>
     <string name="data_connection_3g">3G</string>
@@ -2925,6 +2927,7 @@
     <string name="dc_light_summary_new">Предотвращение сильного мерцания и уменьшение нагрузки на глаза в условиях низкой освещенности</string>
     <string name="dc_light_title">Устранение мерцания</string>
     <string name="dclight_unavailable_prompt">Устранение мерцания поддерживается только для внешнего дисплея</string>
+    <string name="dds_preference_smart_dds_switch_is_on">Умное переключение DDS включено</string>
     <string name="debug_app">Приложение для отладки</string>
     <string name="debug_app_not_set">Приложение не выбрано</string>
     <string name="debug_app_set">Приложение: %1$s</string>
@@ -3516,6 +3519,7 @@ ID: %s
     <string name="enable_sizecompat_freeform">Принудительный запуск в окнах с изменяемым размером</string>
     <string name="enable_sizecompat_freeform_summary">Разрешить приложениям с ограничениями совместимости запускаться в окнах с изменяемым размером</string>
     <string name="enable_snapshot_screenlock">Удерживайте кнопку \"Назад\", чтобы сделать фото</string>
+    <string name="enable_snpn">Включить SNPN</string>
     <string name="enable_terminal_summary">Включить приложение, которое предлагает терминальный доступ к локальной оболочке</string>
     <string name="enable_terminal_title">Локальный терминал</string>
     <string name="enable_text">Включить</string>
@@ -4133,6 +4137,7 @@ ID: %s
     <string name="freeform_guide_slide_up_to_close_title">Закрытие</string>
     <string name="freeform_guide_to_sidehide_summary">Быстро перетащите приложение к краю экрана, чтобы скрыть его</string>
     <string name="freeform_guide_to_sidehide_title">Скрытие</string>
+    <string name="freeform_guide_vedio_description">Нажмите на приложение на боковой панели, чтобы открыть его в плавающем окне</string>
     <string name="freeform_vedio_description">"Варианты открытия плавающего окна:
 	
 • Потяните вниз панель действий плавающего окна.
@@ -4342,6 +4347,9 @@ ID: %s
     <string name="handy_mode_tips_full_screen">Включите режим работы одной рукой, проведя пальцем по индикатору полноэкранного режима. Эта функция не будет работать, если индикатор скрыт.</string>
     <string name="haptic_agent_completion_01_content_description">Завершенная задача</string>
     <string name="haptic_cursor_movement_07_content_description">Регулировка яркости</string>
+    <string name="haptic_descripthion_for_max_level">Сильный</string>
+    <string name="haptic_descripthion_for_middle_level">Средний</string>
+    <string name="haptic_descripthion_for_min_level">Слабый</string>
     <string name="haptic_experience">Демонстрация</string>
     <string name="haptic_experience_details">Виброотклик и спец. возможности</string>
     <string name="haptic_feedback_enable_title">Виброотклик</string>
@@ -4641,6 +4649,7 @@ ID: %s
     <string name="imitate_real_keyboard_summary">Удобство использования, когда устройство на плоской поверхности</string>
     <string name="immediately_destroy_activities">Не хранить активити</string>
     <string name="immediately_destroy_activities_summary">Уничтожать активити приложения после их завершения</string>
+    <string name="immersive_audio_sources">Иммерсивный звук</string>
     <string name="importance_default">По умолчанию</string>
     <string name="importance_high">Высокая</string>
     <string name="importance_low">Средняя</string>
@@ -6142,7 +6151,7 @@ ID: %s
     <string name="miui_sos_exit_emergency_title">Отключение</string>
     <string name="miui_sos_exit_send_location_title">Трансляция вашей геопозиции экстренным контактам в режиме реального времени</string>
     <string name="miui_sos_green_guard_summary">Отслеживайте местоположение в режиме реального времени</string>
-    <string name="miui_sos_green_guard_title">Родительский контроль</string>
+    <string name="miui_sos_green_guard_title">Семейный защитник</string>
     <string name="miui_sos_hospital_card">Медицинская карта</string>
     <string name="miui_sos_hospital_card_important_info">Ваша важная медицинская информация для экстренных служб</string>
     <string name="miui_sos_launch_error">Не удалось активировать функцию \"Экстренная помощь\"</string>
@@ -6439,6 +6448,7 @@ ID: %s
     <string name="multi_face_name_prefix">"Данные лица "</string>
     <string name="multi_face_number_reach_limit">Нельзя добавить данные больше, чем для 2 лиц</string>
     <string name="multi_network_acceleration_app_settings">Ускорение сети для приложений</string>
+    <string name="multi_network_acceleration_summery">Подключаться одновременно к нескольким сетям Wi-Fi для увеличения скорости</string>
     <string name="multi_touch_points_category_title">Мультитач</string>
     <string name="multi_touch_points_preference">Изменения вступят в силу после перезагрузки устройства</string>
     <string name="multi_window_cvw_summary">Перетащите угол, чтобы переключиться на плавающее окно или изменить его размер</string>
@@ -6512,6 +6522,7 @@ ID: %s
     <string name="network_4G_pure">4G</string>
     <string name="network_5G">5G</string>
     <string name="network_5G_recommended">5G (рекомендуется)</string>
+    <string name="network_acceleration">Ускорение сети</string>
     <string name="network_alarm">Не приглушать интернет-вызовы</string>
     <string name="network_alarm_summary">Примечание. Некоторые приложения не совместимы с этой функцией. %1$s</string>
     <string name="network_alarm_summary_reg">Показать доступные приложения</string>
@@ -6519,6 +6530,8 @@ ID: %s
     <string name="network_and_internet_preferences_summary">Подключаться к общедоступным сетям</string>
     <string name="network_and_internet_preferences_title">Настройки подключения</string>
     <string name="network_assistant">Передача данных</string>
+    <string name="network_auto_switch">Переключение между сетями</string>
+    <string name="network_auto_switch_summery">Переключаться на мобильный интернет, если плохой сигнал Wi-Fi или сеть недоступна</string>
     <string name="network_changed_noti_summary">Используется мобильный интернет</string>
     <string name="network_changed_noti_title">Сеть Wi-Fi отключена</string>
     <string name="network_changed_notification_text">Мобильная сеть изменена</string>
@@ -7238,6 +7251,7 @@ OTG отключается автоматически через 10 минут �
     <string name="picture_in_picture_title">Картинка в картинке</string>
     <string name="pin_failed">Не удалось разблокировать SIM-карту</string>
     <string name="ping_test_label">Выполнить тест ping</string>
+    <string name="placeholder_activity">*Это временное резервное действие-заполнитель.</string>
     <string name="platform_compat_dashboard_summary">Переключение совместимости приложений</string>
     <string name="platform_compat_dashboard_title">Совместимость приложений</string>
     <string name="platform_compat_default_disabled_title">Изменения по умолчанию отключены</string>
@@ -9225,6 +9239,7 @@ UT-интерфейс: %5$s"</string>
     <string name="solar_term_white_dews">Белые росы</string>
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
+    <string name="solid_text">Использовать низкочастотный виброотклик и визуальные переходы для реалистичности жестов</string>
     <string name="sometimes_running">Иногда (%s)</string>
     <string name="sort_avg_use">Упорядочить по средн. объему исп. памяти</string>
     <string name="sort_max_use">Упорядочить по макс. объему исп. памяти</string>
@@ -9930,6 +9945,10 @@ UT-интерфейс: %5$s"</string>
     <string name="tare_min_balance_headless_app">Минимальный баланс при полном заряде (для консольных системных приложений)</string>
     <string name="tare_min_balance_other_app">Минимальный баланс при полном заряде (для остальных приложений)</string>
     <string name="tare_modifiers">Модификаторы</string>
+    <string name="tare_nonwakeup_exact">Exact NonWakeup Alarm</string>
+    <string name="tare_nonwakeup_exact_idle">Разрешить во время простоя Exact NonWakeup Alarm</string>
+    <string name="tare_nonwakeup_inexact">Inexact NonWakeup Alarm</string>
+    <string name="tare_nonwakeup_inexact_idle">Разрешить во время простоя Inexact NonWakeup Alarm</string>
     <string name="tare_notification_interaction">Взаимодействие с уведомлением</string>
     <string name="tare_notification_seen">Уведомление просмотрено</string>
     <string name="tare_notification_seen_15_min">Уведомление просмотрено &lt; 15 мин. назад</string>
@@ -9942,7 +9961,12 @@ UT-интерфейс: %5$s"</string>
     <string name="tare_rewards_ongoing">Число бонусов за каждую секунду события</string>
     <string name="tare_settings">Настройки TARE</string>
     <string name="tare_settings_reverted_toast">Установлены настройки по умолчанию.</string>
+    <string name="tare_title">TARE</string>
     <string name="tare_top_activity">Максимальная активность</string>
+    <string name="tare_wakeup_exact">Exact Wakeup Alarm</string>
+    <string name="tare_wakeup_exact_idle">Разрешить во время простоя Exact Wakeup Alarm</string>
+    <string name="tare_wakeup_inexact">Inexact Wakeup Alarm</string>
+    <string name="tare_wakeup_inexact_idle">Разрешить во время простоя Inexact Wakeup Alarm</string>
     <string name="tare_widget_interaction">Взаимодействие с виджетом</string>
     <string name="temporary_not_available">Временно недоступно</string>
     <string name="temporary_style">В течение 10 секунд после нажатия</string>
@@ -11263,6 +11287,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_generation_summary">Отображать значок поколения беспроводной технологии</string>
     <string name="wifi_generation_title">Технология</string>
     <string name="wifi_hand_sel_wapi_cert">Сертификат WAPI</string>
+    <string name="wifi_hidden_gbk">Кодировка GBK</string>
     <string name="wifi_hidden_network">Скрытая сеть</string>
     <string name="wifi_hidden_network_warning">"Если маршрутизатор не передает идентификатор сети, но вы планируете подключение к нему, установите сеть как скрытую.
 
@@ -11385,6 +11410,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_password">Пароль</string>
     <string name="wifi_poor_network_detection">Фильтр сетей Wi-Fi</string>
     <string name="wifi_poor_network_detection_summary">Не использовать Wi-Fi при нестабильном соединении</string>
+    <string name="wifi_primary">Основная сеть</string>
     <string name="wifi_priority_changed" formatted="false">Старое значение: %s | Новое значение: %s</string>
     <string name="wifi_priority_label">Приоритет</string>
     <string name="wifi_priority_settings_label">Настройки приоритетов</string>
@@ -11409,6 +11435,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_required_info_text">Для завершения настройки необходим доступ к Wi-Fi. После настройки вы сможете переключаться между мобильным интернетом и Wi-Fi.</string>
     <string name="wifi_sap_no_channel_error">Частота 5 ГГц недоступна в этой стране</string>
     <string name="wifi_save">Сохранить</string>
+    <string name="wifi_saved_access_point">Сохраненные сети</string>
     <string name="wifi_saved_access_points_label">Сохраненные сети</string>
     <string name="wifi_saved_other_networks_tab">Другие сети</string>
     <string name="wifi_scan_always_available">Постоянный поиск сетей</string>

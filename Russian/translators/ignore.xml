@@ -26,6 +26,7 @@
     <string name="HA_SERVICE_ID">PLAY</string>
     <string name="IS_SUPPORT_SPACE_SOUND">1652086800</string>
     <string name="L71_AUTO_UPGRADE_FEATURE">20220321</string>
+    <string name="L71_MANUAL_AND_SILENT_UPGRADE">20220916</string>
     <string name="MM">mm</string>
     <string name="MOBILE_QQ">mobileqq</string>
     <string name="SINA">sina.</string>

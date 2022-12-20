@@ -297,6 +297,7 @@
     <string name="download_failed">Ошибка загрузки</string>
     <string name="download_preview_failed">Не удалось загрузить эскиз</string>
     <string name="download_success">Загрузка завершена</string>
+    <string name="dynamic_large_icon_not_support_current_type">%s не поддерживается для этой динамической иконки</string>
     <string name="dynamic_video_wallpaper">24-часовые обои</string>
     <string name="early_morning">Утро</string>
     <string name="empty"/>
@@ -509,13 +510,19 @@
     <string name="large_icon_apply_fail_for_in_oldmode">Супериконки не поддерживаются в Простом режиме</string>
     <string name="large_icon_apply_fail_for_not_in_launcher">Нельзя использовать супериконки для приложений, которых нет на рабочем столе</string>
     <string name="large_icon_detail_title">Супериконки %s</string>
+    <string name="large_icon_detail_warning_dialog_btn_keep">Оставить</string>
+    <string name="large_icon_detail_warning_dialog_btn_not_keep">Заменить</string>
+    <string name="large_icon_detail_warning_dialog_msg">Для некоторых приложений используются супериконки. Оставить супериконки или заменить на иконки по умолчанию из текущей темы?</string>
+    <string name="large_icon_detail_warning_dialog_title">Настройки супериконок</string>
     <string name="large_icon_no_more">Ничего нет</string>
     <string name="large_icon_no_network">Не удалось подключиться к сети</string>
     <string name="large_icon_not_support">Не удалось установить иконки для %s</string>
+    <string name="large_icon_not_support_current_type">%s не поддерживается для этой иконки</string>
     <string name="large_icon_official">Официальные</string>
     <string name="large_icon_picker_haven">Доступные иконки</string>
     <string name="large_icon_picker_more">Ещё</string>
     <string name="large_icon_picker_size">Размер иконки</string>
+    <string name="large_icon_theme">Темы</string>
     <string name="large_icon_to_find_more">Ещё</string>
     <string name="large_icon_warning_install">Установить</string>
     <string name="large_icon_warning_not_install">Установка %s</string>

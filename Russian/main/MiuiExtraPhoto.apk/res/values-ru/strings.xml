@@ -244,6 +244,14 @@
     <string name="refocus_type_relighting_small_face">Студийное освещение работает на фотографиях, где лица занимают больше места, чем здесь.</string>
     <string name="refocus_type_static">Уровень размытия</string>
     <string name="refocus_type_video">Световые потоки</string>
+    <string name="saf_operation_guide_1">"Редактору галереи необходимы разрешения для защиты и управления вашими данными. "</string>
+    <string name="saf_operation_guide_2">Чтобы предоставить разрешение, нажмите \"%1$s\", затем выберите \"%2$s\".</string>
+    <string name="saf_operation_guide_param1">Далее</string>
+    <string name="saf_operation_guide_param2">Доступ к папке</string>
+    <string name="saf_requester_cancel">Отмена</string>
+    <string name="saf_requester_title">Разрешить Редактору галереи доступ к \"%s\"</string>
+    <string name="saf_secret_album">Приватный альбом</string>
+    <string name="saf_secret_album_guide">Этому приложению необходимы разрешения для отображения приватного альбома</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>

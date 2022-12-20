@@ -80,8 +80,8 @@
     <string name="eq_ok">ОК</string>
     <string name="eq_pop">Поп</string>
     <string name="eq_preset_create">Создать</string>
-    <string name="eq_preset_format">Пользовательский %d</string>
-    <string name="eq_preset_hint">Название эффекта</string>
+    <string name="eq_preset_format">Мой пресет %d</string>
+    <string name="eq_preset_hint">Название пресета</string>
     <string name="eq_preset_rename">Переименовать</string>
     <string name="eq_preset_select">Выберите пресет</string>
     <string name="eq_return">Возврат</string>
