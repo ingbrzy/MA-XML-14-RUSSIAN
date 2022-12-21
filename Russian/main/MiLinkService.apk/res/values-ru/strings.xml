@@ -269,6 +269,8 @@
     <string name="err_toast_msg_not_support_audio_protocol">Передача аудиопотока на это устройство не поддерживается</string>
     <string name="err_toast_msg_not_support_video_protocol">Это устройство не поддерживает MIUI+</string>
     <string name="err_toast_msg_retry_later">Не удалось выполнить это действие. Повторите позже.</string>
+    <string name="err_toast_msg_try_switch_network">Подключите мобильное устройство и ПК к одной сети Wi-Fi</string>
+    <string name="err_toast_msg_upgrade_pc_version">Чтобы использовать эту функцию, обновите MIUI+ на ПК</string>
     <string name="error_data_in_transfer">Синхронизация завершится через %s ч.</string>
     <string name="error_forbidden">Синхронизация отключена из-за проблем с вашим Xiaomi аккаунтом.</string>
     <string name="error_icon_content_description">Ошибка</string>
@@ -330,6 +332,7 @@
     <string name="hang_up_alert_dialog_neg">Отмена</string>
     <string name="hang_up_alert_dialog_pos">ОК</string>
     <string name="hang_up_alert_dialog_title">Трансляция при выключенном экране</string>
+    <string name="headset_circulate_connect_success">подключено</string>
     <string name="help_page_text_01">Справка</string>
     <string name="help_page_text_02">Что такое трансляция?</string>
     <string name="help_page_text_03">Трансляция - вывод содержимого экрана на внешний монитор. Можно делиться фото и видео, играть в игры. Расход батареи при этом повышается незначительно.</string>
@@ -628,8 +631,12 @@
     <string name="privacy_permission_nfc_desc">Для сопряжения устройств с использованием NFC</string>
     <string name="privacy_permission_optional">Дополнительные разрешения</string>
     <string name="privacy_permission_optional_desc">Для работы дополнительных функций во время их использования</string>
+    <string name="privacy_permission_read_write_mobile_phone_storage">Доступ к хранилищу</string>
+    <string name="privacy_permission_read_write_mobile_phone_storage_desc">Для чтения и сохранения файлов и фото на устройство</string>
     <string name="privacy_permission_screencast">Доступ к информации на экране</string>
     <string name="privacy_permission_screencast_desc">Во время записи или трансляции, сервису будет доступна любая конфиденциальная информация, отображаемая на экране или воспроизводимая с устройства, включая пароли, платежные данные, аудиозаписи, фото и сообщения.</string>
+    <string name="privacy_permission_sound_recording">Запись звука</string>
+    <string name="privacy_permission_sound_recording_desc">Для голосовых вызовов или записи звука</string>
     <string name="privacy_permission_wlan">Включение/отключение Wi-Fi</string>
     <string name="privacy_permission_wlan_china">Включение/отключение Wi-Fi</string>
     <string name="privacy_permission_wlan_desc">Для поиска доступных устройств поблизости</string>
@@ -814,6 +821,7 @@
     <string name="upgrade_login_dialog_title">Вход в аккаунт Xiaomi</string>
     <string name="upgrade_no_devices">Обновления отсутствуют</string>
     <string name="upgrade_now">Обновить</string>
+    <string name="upgrade_phone_device_tip">*Обновления предоставляются Xiaomi</string>
     <string name="upgrade_scan">Проверить обновления</string>
     <string name="upgrade_start">Обновить</string>
     <string name="upgrade_start_all">Обновить</string>
@@ -824,9 +832,11 @@
     <string name="upgrade_tv_device_tip">*Обновления предоставлены Xiaomi TV</string>
     <string name="upgrade_ver_can_upgrade">Доступно обновление</string>
     <string name="upgrade_ver_can_upgrade_1to2">Обновить с версии %1$d до %2$d</string>
+    <string name="upgrade_ver_can_upgrade_1to2s">Обновить с версии %1$s до %2$s</string>
     <string name="upgrade_ver_can_upgrade_to1">Обновить до версии %1$d</string>
     <string name="upgrade_ver_latest">Обновление не требуется</string>
     <string name="upgrade_ver_latest1">Обновление не требуется (версия: %1$d)</string>
+    <string name="upgrade_ver_latest1s">Обновление не требуется (версия: %1$s)</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="wednesday">Среда</string>
