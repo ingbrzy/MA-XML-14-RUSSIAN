@@ -705,6 +705,7 @@ ID:%s
     <string name="dkmibrowsershopad__ad_view_video_replay">Повтор</string>
     <string name="doc_viewer_label">Чтение (Mi Браузер)</string>
     <string name="doc_viewer_open_out_file_prompt">Чтобы открыть и просмотреть файл, полученный из внешнего источника, приложению требуется создать копию файла. Продолжить?</string>
+    <string name="doc_viewer_user_guide_profile">Недавно просмотренные объекты будут сохранены здесь</string>
     <string name="document_download_background_btn">Загрузить в фоновом режиме</string>
     <string name="document_download_cancel_btn">Отмена</string>
     <string name="document_download_failed">Ошибка загрузки</string>
@@ -1181,7 +1182,7 @@ ID:%s
     <string name="incognito_on">Теперь вы инкогнито!</string>
     <string name="incognito_tips1">"Браузер не будет сохранять следующую информацию:
 • Вашу историю просмотров
-• Файлы Cookie и данные сайтов
+• Файлы cookie и данные сайтов
 • Информацию, введенную в формы"</string>
     <string name="incognito_tips2">"Ваша активность может быть видима для:
 • Сайтов, которые вы посещаете
@@ -1695,6 +1696,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="my_account">Мой аккаунт</string>
     <string name="my_cahnnel">Мои каналы</string>
     <string name="my_channel">Мои каналы</string>
+    <string name="my_prize_entry">Мои награды</string>
     <string name="name_empty">Необходимо ввести имя.</string>
     <string name="nav_bottom_bar_back">Назад</string>
     <string name="nav_bottom_bar_close_all">Закрыть все</string>

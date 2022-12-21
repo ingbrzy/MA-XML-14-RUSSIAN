@@ -217,6 +217,7 @@
     <string name="cloud_online_switch">Персонализированные рекомендации</string>
     <string name="cloud_online_switch_close_time">Вы можете включить персонализированные рекомендации по контенту в %s</string>
     <string name="cloud_online_switch_open_time">Показывать персонализированные рекомендации по контенту</string>
+    <string name="cmp_tier_privacy_policy">Сторонние политики конфиденциальности</string>
     <string name="collect_diagnosis_log">Сбор журнала диагностики</string>
     <string name="columbus_ad_flag_text">Реклама</string>
     <string name="columbus_player_close_desc">Вы потеряете полученное вознаграждение</string>
@@ -345,8 +346,11 @@ ID: %s
     <string name="dialog_clearn_title">Очистка истории</string>
     <string name="dialog_confirm">ОК</string>
     <string name="dialog_delete_bookmarks_content">Удалить закладку?</string>
-    <string name="dialog_disagree_privacychange_info">В случае несогласия с нашей Политикой конфиденциальности, вы не сможете использовать онлайн-сервисы потоковой передачи Mi Видео. Нажмите \"Отмена\", чтобы вернуться, или \"Отказ\", чтобы продолжить использовать Mi Видео только как локальный видеоплеер.</string>
+    <string name="dialog_disagree_continue">Продолжить</string>
+    <string name="dialog_disagree_info">В случае несогласия с Политикой конфиденциальности Mi Видео, онлайн-сервисы будут недоступны, вы сможете использовать Mi Видео только как локальный видеоплеер. Продолжить?</string>
+    <string name="dialog_disagree_privacychange_info">В случае несогласия с нашей Политикой конфиденциальности, онлайн-сервисы потоковой передачи Mi Видео будут недоступны. Нажмите \"Отмена\", чтобы вернуться, или \"Отказ\", чтобы продолжить использовать Mi Видео только как локальный видеоплеер.</string>
     <string name="dialog_disagree_privacychange_title">Отказ</string>
+    <string name="dialog_disagree_title">Политика конфиденциальности</string>
     <string name="dialog_edit_bookmarks">Изменить закладку</string>
     <string name="dialog_edit_hint_bookmarks_name">Имя закладки</string>
     <string name="dialog_edit_hint_bookmarks_url">URL</string>
@@ -2173,6 +2177,11 @@ ID: %s
     <string name="welcome_tip_into_mivideo">Начать</string>
     <string name="welcome_tip_skip">Пропустить</string>
     <string name="welcome_tip_title">Добро пожаловать в Mi Видео</string>
+    <string name="widget_add_dialog_button_add">Добавить</string>
+    <string name="widget_add_dialog_button_cancel">Отмена</string>
+    <string name="widget_add_dialog_desc_local">Этот виджет позволяет воспроизводить аудио- и видеофайлы на устройстве прямо с рабочего стола. Добавить виджет?</string>
+    <string name="widget_add_dialog_desc_online">Этот виджет позволяет просматривать популярные сегодня видео прямо с рабочего стола. Добавить виджет?</string>
+    <string name="widget_add_dialog_title">Добавление виджета</string>
     <string name="widget_local_video">Локальные</string>
     <string name="widget_local_video_click">Просмотр видео на устройстве</string>
     <string name="widget_more_channel">Больше каналов</string>
