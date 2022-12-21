@@ -133,6 +133,16 @@
         <item>Изменение пароля Xiaomi аккаунта</item>
         <item>Изменение пароля;Обновление пароля;Mi аккаунт;Аккаунт;Xiaomi аккаунт</item>
     </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Семейное хранилище</item>
+        <item>Просмотр/включение семейного хранилища</item>
+        <item>Семейное хранилище;Общее хранилище</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Семейные сервисы</item>
+        <item>Просмотр/включение семейных сервисов</item>
+        <item>Семья;Семейные сервисы;Семейный доступ</item>
+    </string-array>
     <string-array name="settings_search_help_center">
         <item>Помощь</item>
         <item>Получение справки и поддержки для Xiaomi аккаунта</item>

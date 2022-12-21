@@ -770,7 +770,12 @@ ID:%s
     <string name="push_notify_dialog_title">Проверка аккаунта</string>
     <string name="pwd_width_phone_number_or_mail_num">Пароль не может содержать ваш номер телефона, адрес электронной почты или идентификатор Xiaomi аккаунта</string>
     <string name="qq">QQ</string>
-    <string name="recycle_phone_notification_msg">Похоже, что ваш номер был перевыпущен. Нажмите для обновления.</string>
+    <string name="qrcode_login_entry_text"><Data>Выполнен вход с другого устройства? Используйте &lt;a href=>быстрый вход&lt;/a>.</Data></string>
+    <string name="qrcode_login_load_refresh"><Data>Срок действия QR-кода истек. Нажмите, чтобы &lt;a href=>обновить&lt;/a>.</Data></string>
+    <string name="qrcode_login_load_retry"><Data>Не удалось загрузить. &lt;a href=>Повторить попытку&lt;/a>.</Data></string>
+    <string name="qrcode_login_message">Отканируйте с помощью приложения Сканер, Mi Home или другого приложения Xiaomi, чтобы войти</string>
+    <string name="qrcode_login_title">Отсканируйте для входа</string>
+    <string name="recycle_phone_notification_msg">Похоже, ваш номер телефона был использован повторно. Нажмите для обновления.</string>
     <string name="recycle_phone_notification_title">Угроза безопасности</string>
     <string name="remove_device_success_notice">После удаления устройства из списка доверенных потребуется повторно пройти процесс проверки при входе в аккаунт​​</string>
     <string name="remove_trust_btn">Удалить из доверенных</string>
