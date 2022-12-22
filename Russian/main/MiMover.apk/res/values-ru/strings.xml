@@ -38,6 +38,9 @@
     <string name="activating">Активация…</string>
     <string name="address">Адрес</string>
     <string name="afternoon">PM</string>
+    <string name="android_id">Android ID</string>
+    <string name="android_id_usage">Для определения версии приложения и совместимости между старыми и новыми устройствами</string>
+    <string name="android_oaid">OAID</string>
     <string name="antispam">Список блокировок</string>
     <string name="app_name">Mi Mover</string>
     <string name="app_update_64_dialog_cancel">Отмена</string>
@@ -129,6 +132,9 @@
     <string name="cloud_service_check_dialog_message">Похоже, отключена синхронизация для контактов и Галереи. Включите синхронизацию.</string>
     <string name="cloud_service_check_dialog_positive_button">Включить</string>
     <string name="cloud_service_check_dialog_title">Синхронизация контактов и Галереи</string>
+    <string name="collect_content">Собранный контент</string>
+    <string name="collect_situation">Статус сбора</string>
+    <string name="collected">Собрано</string>
     <string name="comma_seperator">", "</string>
     <string name="confirm_description">Подтвердить</string>
     <string name="connect_icloud_fail">Не удалось подключиться к iCloud</string>
@@ -352,6 +358,22 @@
     <string name="lack_perm_msg">Mi Mover необходимы следующие разрешения: %s.</string>
     <string name="lack_perm_title">Предоставьте разрешения</string>
     <string name="launcher">Макет рабочего стола</string>
+    <string name="league_acquire_accept">Принимаю</string>
+    <string name="league_acquire_message1">Для переноса сторонних приложений и их данных с этого устройства на новое устройство %s, необходимы следующие разрешения:</string>
+    <string name="league_acquire_message2">Разрешите Mi Mover доступ к данным сторонних приложений</string>
+    <string name="league_acquire_message3">Это однократное разрешение необходимо для переноса данных. По окончанию переноса данных, это разрешение будет автоматически отозвано для Mi Mover.</string>
+    <string name="league_acquire_message4">В случае отказа предоставить это разрешение, вы не сможете перенести сторонние приложения и их данные.</string>
+    <string name="league_acquire_refuse">Отмена</string>
+    <string name="league_acquire_title">Необходимы разрешения</string>
+    <string name="league_check_service_content">Идёт перенос с помощью %s. Mi Mover в настоящее время недоступен.</string>
+    <string name="league_check_service_title">Перенос с помощью %s</string>
+    <string name="league_client_acquire">Открыть %s</string>
+    <string name="league_client_hint_text">Cloning Alliance может помочь перенести данные сторонних приложений (например, истории чатов WeChat и QQ). Нажмите \"%s\", чтобы продолжить с нами, или нажмите \"Не сейчас\", чтобы продолжить без переноса сторонних приложений и их данных.</string>
+    <string name="league_client_install">Установить %s</string>
+    <string name="league_client_title">Перенос с помощью Mi Mover</string>
+    <string name="league_client_traditional">Не сейчас</string>
+    <string name="league_client_update">Обновить %s</string>
+    <string name="league_mi_device">Xiaomi</string>
     <string name="less_than_1_minute">Меньше минуты</string>
     <string name="loading_data">Подождите…</string>
     <string name="location_permission_desc">Для поиска устройств поблизости</string>
@@ -504,6 +526,7 @@
     <string name="no_sim">SIM-карта отсутствует.</string>
     <string name="noon">PM</string>
     <string name="not_set">Не задано</string>
+    <string name="not_support">Не поддерживается</string>
     <string name="not_support_data_content1">1. Данные, специфичные для модели устройства</string>
     <string name="not_support_data_content2">2. Данные выбранных приложений</string>
     <string name="not_support_data_content3">3. Данные второго пространства</string>
@@ -537,6 +560,7 @@
     <string name="notification_trans_running_title">Mi Mover работает…</string>
     <string name="notification_trans_send_message">Отправка данных. Не выключайте Wi-Fi и не переключайтесь между сетями.</string>
     <string name="notification_trans_send_title">Отправка данных…</string>
+    <string name="oaid_usage">Для обеспечения безопасности передаваемых файлов</string>
     <string name="ok">ОК</string>
     <string name="old_app_name">Старая версия</string>
     <string name="old_task_cleared">Старые задачи успешно удалены</string>
@@ -548,7 +572,12 @@
     <string name="open_photo_and_contacts_cloud_sync_summary">Включите синхронизацию, чтобы контакты и файлы из Галереи появились на этом устройстве.</string>
     <string name="open_photo_and_contacts_cloud_sync_title">Синхронизация контактов и Галереи</string>
     <string name="option_feedback_title">Обратная связь</string>
+    <string name="option_personal_info_list">Сбор личной информации</string>
     <string name="option_privacy_policy">Политика конфиденциальности</string>
+    <string name="option_privacy_settings">Конфиденциальность</string>
+    <string name="option_third_party_shared_info_instruction">Обмен данными с третьей стороной</string>
+    <string name="option_user_agreement">Пользовательское соглашение</string>
+    <string name="option_user_device_info">Информация об устройстве</string>
     <string name="organization">Организация</string>
     <string name="other_system_data">Данные системного приложения</string>
     <string name="other_user_app">Сторонние приложения</string>
@@ -622,6 +651,9 @@
     <string name="receiver_finish_title">Все готово!</string>
     <string name="receiver_video_summary">Разблокируйте свое старое устройство, нажмите \"Перенести\" и отсканируйте это изображение</string>
     <string name="receiver_video_title">Перенос со старого устройства</string>
+    <string name="recent_one_year">За 1 год</string>
+    <string name="recent_seven_days">За 7 дней</string>
+    <string name="recent_thirty_days">За 30 дней</string>
     <string name="recommend_hint">Рекомендуемые</string>
     <string name="reconnect">Подключиться снова</string>
     <string name="recreate_soft_ap_tips">Нажмите кнопку ниже, чтобы повторить попытку.</string>
@@ -633,6 +665,7 @@
 - Доступ к SMS
 - Доступ к хранилищу"</string>
     <string name="request_all_permission_title">Предоставьте разрешения</string>
+    <string name="request_permission">Разрешить</string>
     <string name="restore_data_to_device_content">"Ваши данные были синхронизированы с Xiaomi Cloud.
 Войдите в ваш Xiaomi аккаунт, чтобы восстановить их."</string>
     <string name="restore_data_to_device_title">Восстановление данных на этом устройстве</string>
@@ -752,6 +785,7 @@
     <string name="solar_term_white_dews">Белые росы</string>
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
+    <string name="ssid_name">Имя SSID/Wi-Fi</string>
     <string name="succ_description">Готово</string>
     <string name="summary_open_wlan">Для нормальной работы приложения, предоставьте необходимое разрешение</string>
     <string name="summary_request_alert_window_prem">Требуется разрешение</string>
@@ -900,9 +934,14 @@
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
+    <string name="uncollected">Не собрано</string>
     <string name="unselected">Не выбрано</string>
     <string name="update_later">Не сейчас</string>
     <string name="update_now">Обновить</string>
+    <string name="use_purpose">Цель использования</string>
+    <string name="use_purpose_description">Для подключения к точке доступа нового устройства</string>
+    <string name="use_scene">Сценарий использования</string>
+    <string name="use_scene_description">Для переноса файлов со старого устройства на новое</string>
     <string name="user_agreement">Условия использования</string>
     <string name="user_experience_program">Программа улучшения качества</string>
     <string name="user_manual">Инструкций</string>

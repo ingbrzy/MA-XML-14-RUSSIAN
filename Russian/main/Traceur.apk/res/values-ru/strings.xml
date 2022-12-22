@@ -490,7 +490,7 @@
     <string name="local_backup_password_toast_validation_failure">Не удалось задать пароль для резервных копий</string>
     <string name="long_traces">Длительная трассировка</string>
     <string name="long_traces_summary">Постоянно сохраняется на устройстве</string>
-    <string name="long_traces_summary_betterbug">Постоянно сохраняется на устройстве (не будет автоматически прикрепляться к отчетам об ошибках)</string>
+    <string name="long_traces_summary_betterbug">Постоянно сохраняется на устройстве (не будет автоматически прикрепляться к отчётам об ошибках)</string>
     <string name="managed_user_title">Корпоративные приложения</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Выберите AM или PM</string>

@@ -92,6 +92,26 @@
         <item quantity="one">Отмечен как %2$s %1$d человеком</item>
         <item quantity="few">Отмечен как %2$s %1$d людьми</item>
     </plurals>
+    <plurals name="max_audio_length">
+        <item quantity="other">Аудиосообщения должны быть до %1$4d сек.</item>
+        <item quantity="one">Аудиосообщения должны быть до %1$4d сек.</item>
+    </plurals>
+    <plurals name="max_file_size">
+        <item quantity="other">Файлы должны быть до %1$4d МБ</item>
+        <item quantity="one">Файлы должны быть до %1$4d МБ</item>
+    </plurals>
+    <plurals name="max_recipients_size">
+        <item quantity="other">Можно отправить сообщение %1$4d контактам</item>
+        <item quantity="one">Можно отправить сообщение %1$4d контакту</item>
+    </plurals>
+    <plurals name="max_text_size">
+        <item quantity="other">Сообщения должны быть до %1$4d символов</item>
+        <item quantity="one">Сообщения должны быть до %1$4d символа</item>
+    </plurals>
+    <plurals name="max_video_length">
+        <item quantity="other">Видео должны быть не более %1$4d сек.</item>
+        <item quantity="one">Видео должны быть не более %1$4d сек.</item>
+    </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s сообщений</item>
         <item quantity="one">%1$s сообщение</item>
