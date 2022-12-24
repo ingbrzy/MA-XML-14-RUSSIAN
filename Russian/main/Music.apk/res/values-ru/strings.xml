@@ -491,7 +491,7 @@ ID: %s
     <string name="enroll_in">Регистрация</string>
     <string name="enter_garbage_clean">Требуется очистка</string>
     <string name="entertainment">Развлечения</string>
-    <string name="eq_auto">Пользовательский</string>
+    <string name="eq_auto">Мой пресет</string>
     <string name="eq_blues">Блюз</string>
     <string name="eq_classical">Классика</string>
     <string name="eq_country">Кантри</string>
