@@ -2334,7 +2334,7 @@
     <string name="widget_camera_lens_35mm_description">Объектив 35 мм</string>
     <string name="widget_camera_lens_50mm_description">Объектив 50 мм</string>
     <string name="widget_camera_lens_90mm_description">Объектив 90 мм</string>
-    <string name="widget_camera_lens_description">Экспериментируйте с фокусным расстоянием</string>
+    <string name="widget_camera_lens_description">Эксперименты с фокусным расстоянием</string>
     <string name="widget_camera_lens_none_description">Объектив 50 мм для портретов</string>
     <string name="widget_camera_lens_talk_back">Pro-объективы</string>
     <string name="width">Ширина</string>
