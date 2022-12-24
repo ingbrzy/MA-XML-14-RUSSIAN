@@ -19,9 +19,7 @@
     <string name="app_camera">Камера</string>
     <string name="app_clock">Часы</string>
     <string name="app_gallery">Галерея</string>
-    <string name="app_google">Google</string>
     <string name="app_health">Здоровье</string>
-    <string name="app_midrop">ShareMe</string>
     <string name="app_mifitness">Mi Фитнес</string>
     <string name="app_mihome">Умный дом</string>
     <string name="app_mipay">Кошелёк</string>
@@ -31,7 +29,6 @@
     <string name="app_security">Безопасность</string>
     <string name="app_settings">Настройки</string>
     <string name="app_weather">Погода</string>
-    <string name="app_whatsapp">WhatsApp</string>
     <!-- Shortcut groups -->
     <string name="shortcuts_external">Внешние ярлыки</string>
     <string name="shortcuts_system">Системные ярлыки</string>
@@ -97,8 +94,6 @@
     <string name="widget_health_stats_desc">Статистика вашей активности</string>
     <string name="widget_health_steps">Шаги</string>
     <string name="widget_health_steps_desc">Количество шагов и прогресс</string>
-    <string name="widget_mipay_wallet">服务助手</string>
-    <string name="widget_mipay_wallet_desc">快速查看理财、信贷、保险信息及重要待办提醒</string>
     <string name="widget_notes_quick">Ярлыки</string>
     <string name="widget_notes_quick_desc">Быстрое создание заметок и задач</string>
     <string name="widget_notes_quick_note">Заметки</string>
