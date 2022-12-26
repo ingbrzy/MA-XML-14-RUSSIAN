@@ -1529,7 +1529,7 @@
     <string name="bluetooth_details_head_tracking_summary">Звук меняется, когда вы двигаете головой, и становится более естественным.</string>
     <string name="bluetooth_details_head_tracking_title">Отслеживание движений головы</string>
     <string name="bluetooth_details_spatial_audio_summary">Звук из поддерживаемых источников становится более выразительным</string>
-    <string name="bluetooth_details_spatial_audio_title">Пространственное звучание</string>
+    <string name="bluetooth_details_spatial_audio_title">Объемный звук</string>
     <string name="bluetooth_device">Bluetooth-устройство без названия</string>
     <string name="bluetooth_device_address">Адрес устройства:</string>
     <string name="bluetooth_device_advanced_enable_opp_title">Разрешить получение файлов</string>

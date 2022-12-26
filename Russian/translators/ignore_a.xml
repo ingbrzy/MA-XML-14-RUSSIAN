@@ -211,6 +211,7 @@
     <array name="boot_msg_text" />
     <string-array name="broadcast_locales"></string-array>
     <string-array name="bt_hci_snoop_log_values"></string-array>
+    <string-array name="bt_hci_snoop_log_values_enhanced"></string-array>
     <array name="bt_icon_bg_colors"></array>
     <array name="bt_icon_fg_colors"></array>
     <string-array name="buffer_size_names"></string-array>
@@ -1283,6 +1284,7 @@
     <string-array name="screenrecorder_settings_resolution_full_values"></string-array>
     <string-array name="screenrecorder_settings_resolution_values"></string-array>
     <string-array name="screenrecorder_settings_sound_values"></string-array>
+    <string-array name="screenrecorder_settings_sound_values_native"></string-array>
     <string-array name="screenrecorder_settings_storage_location_values"></string-array>
     <string-array name="screenrecorder_utils_support_90fps_frames_cpu"></string-array>
     <string-array name="screenrecorder_utils_support_high_frames_cpu"></string-array>

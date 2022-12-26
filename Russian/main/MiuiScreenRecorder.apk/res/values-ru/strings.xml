@@ -202,6 +202,7 @@
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy_settings">Конфиденциальность</string>
     <string name="quit_recording">Выход из приложения…</string>
+    <string name="record_time_too_short">Записанное видео слишком короткое</string>
     <string name="recording_failure">Ошибка записи, начните сначала</string>
     <string name="recording_max_size">Запись была остановлена и сохранена из-за достижения предельного размера видео. Если нужно, начните запись с того места, где вы остановились.</string>
     <string name="recording_without_mic">Микрофон сейчас занят и не может записывать звук</string>

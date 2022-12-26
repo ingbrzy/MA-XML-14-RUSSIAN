@@ -1818,6 +1818,7 @@
     <string name="train_card_title_change_arrival">Место назначения успешно изменено</string>
     <string name="train_card_title_refund">Билет успешно аннулирован</string>
     <string name="train_travel_refund_info" formatted="false">Комиссия за возврат ¥%s，возврат ¥%s</string>
+    <string name="translated_text_too_long">Преведённый текст слишком длинный</string>
     <string name="translation_loading">Подождите…</string>
     <string name="translation_no_result">Нет результатов</string>
     <string name="translation_pronunciation_am">AmE</string>
