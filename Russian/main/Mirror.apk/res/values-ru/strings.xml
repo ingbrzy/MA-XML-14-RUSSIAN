@@ -40,7 +40,9 @@
     <string name="cast_mcc_tips_button_cancel">Отмена</string>
     <string name="cast_mcc_tips_button_ok">Настройки</string>
     <string name="cast_mcc_tips_message">Чтобы избежать задержек при использовании MIUI+, подключите оба устройства к одной сети Wi-Fi</string>
+    <string name="cast_mcc_tips_message_china">Чтобы избежать задержек при использовании MIUI+, подключите оба устройства к одной сети Wi-Fi</string>
     <string name="cast_mcc_tips_title">Изменение настроек Wi-Fi</string>
+    <string name="cast_mcc_tips_title_china">Изменение настроек Wi-Fi</string>
     <string name="circulate_cta_agree">Принимаю</string>
     <string name="circulate_cta_app_name">Mi Smart Hub</string>
     <string name="circulate_cta_desc_phone">Добро пожаловать в Mi Smart Hub! Это приложение можно использовать для трансляции содержимого экрана, воспроизведения мультимедиа на разных устройствах, для использования Mi Smart Play, MIUI+ и обмена между приложениями. Для нормальной работы приложению необходимы подключение к интернету и следующие разрешения:</string>
@@ -50,8 +52,10 @@
     <string name="circulate_cta_premission_storage_pad_title">Доступ к файлам в хранилище</string>
     <string name="circulate_cta_premission_storage_subtitle">Для отправки и получения файлов</string>
     <string name="circulate_cta_premission_storage_title">Доступ к файлам в хранилище</string>
-    <string name="circulate_cta_premission_wlan_subtitle">Для передачи и подключения устройств через Wi-Fi</string>
+    <string name="circulate_cta_premission_wlan_subtitle">Для передачи файлов и подключения устройств через Wi-Fi</string>
+    <string name="circulate_cta_premission_wlan_subtitle_china">Для передачи файлов и подключения устройств через Wi-Fi</string>
     <string name="circulate_cta_premission_wlan_title">Включение и выключение Wi-Fi</string>
+    <string name="circulate_cta_premission_wlan_title_china">Включение и выключение Wi-Fi</string>
     <string name="circulate_cta_user_agreement">Прежде чем продолжить, прочтите и примите наши &lt;txt href=\"%1$s\">Пользовательское соглашение&lt;/txt> и &lt;txt href=\"%2$s\">Политику конфиденциальности&lt;/txt>.</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="clipboard_tip">Скопировано из %1$s</string>
@@ -87,6 +91,7 @@
     <string name="enable_wifi_alert_cancel">Отмена</string>
     <string name="enable_wifi_alert_message">MIUI+ для подключения устройств требуется Wi-Fi. Включить Wi-Fi?</string>
     <string name="enable_wifi_alert_message_china">MIUI+ для подключения устройств требуется Wi-Fi. Включить Wi-Fi?</string>
+    <string name="enable_wifi_alert_message_for_photo_relay">MIUI+ позволяет легко переключаться между устройствами, когда нужно отредактировать фото, сделанные на другом устройстве. Включить Wi-Fi для использования функции Handoff?</string>
     <string name="enable_wifi_alert_message_for_photo_relay_china">MIUI+ позволяет легко переключаться между устройствами, когда нужно отредактировать фото, сделанные на другом устройстве. Включить Wi-Fi для использования функции Handoff?</string>
     <string name="enable_wifi_alert_ok">Включить</string>
     <string name="enable_wifi_alert_title">Включение Wi-Fi</string>
@@ -126,6 +131,12 @@
     <string name="generic_error_no_device_credential">PIN-код, пароль или графический ключ не установлены</string>
     <string name="generic_error_no_keyguard">Устройство не поддерживает PIN-код, пароль или графический ключ</string>
     <string name="generic_error_user_canceled">Аутентификация отменена пользователем</string>
+    <string name="global_cta_agree">Принимаю</string>
+    <string name="global_cta_desc">Добро пожаловать в %s! Наше приложение предоставляет следующие возможности:</string>
+    <string name="global_cta_exit">Выход</string>
+    <string name="global_cta_feature_connect">Подключение смартфонов и планшетов с помощью аккаунта Xiaomi</string>
+    <string name="global_cta_feature_control">Просмотр и использование приложений для смартфонов на планшете</string>
+    <string name="global_cta_user_agreement">Перед использованием %1$s, прочтите и примите &lt;txt href=\"%2$s\">Пользовательское соглашение&lt;/txt> и &lt;txt href=\"%3$s\">Политику конфиденциальности&lt;/txt>.</string>
     <string name="guide_window_btn_know">Понятно</string>
     <string name="guide_window_operation">Проведите от края к центру экрана</string>
     <string name="guide_window_title">Назад</string>
@@ -143,9 +154,16 @@
     <string name="loading_view_load_timeout_close">Понятно</string>
     <string name="loading_view_load_timeout_sub">"Убедитесь, что Wi-Fi включен на обоих устройствах и они находятся близко друг к другу.
 Вы можете начать другой сеанс на своем ПК."</string>
+    <string name="loading_view_load_timeout_sub_china">"Убедитесь, что Wi-Fi включен на обоих устройствах и они находятся близко друг к другу.
+Вы можете начать другой сеанс на своем ПК."</string>
     <string name="lock_layout_sub">Разблокируйте, чтобы продолжить</string>
     <string name="lock_layout_title">ПК заблокирован</string>
     <string name="log_warning">Включение журнала может повлиять на безопасность и производительность. Используйте только при необходимости.</string>
+    <string name="login_xiaomi_account_cancel">Отмена</string>
+    <string name="login_xiaomi_account_goto_login">Вход</string>
+    <string name="login_xiaomi_account_summary_pad">Для подключения к смартфону, необходимо использовать один аккаунт на обоих устройствах. Войти в аккаунт Xiaomi?</string>
+    <string name="login_xiaomi_account_summary_phone">Для подключения к планшету, необходимо использовать один аккаунт на обоих устройствах. Войти в аккаунт Xiaomi?</string>
+    <string name="login_xiaomi_account_title">Вход в аккаунт Xiaomi</string>
     <string name="low_battery_notification_action">Включить</string>
     <string name="low_battery_notification_content">Заряд батареи на %1$s менее %2$d%%. Включите экономию заряда батареи.</string>
     <string name="low_battery_notification_title">Низкий заряд батареи</string>
@@ -233,6 +251,9 @@
     <string name="not_set">Не задано</string>
     <string name="notification_channel_description_download">Показать прогресс загрузки в шторке уведомлений</string>
     <string name="notification_channel_name_download">Показать прогресс загрузки</string>
+    <string name="notification_state_cancel">Отключить</string>
+    <string name="notification_state_content">Это устройство подключено к ПК %1$s. Вам доступно совместное использование устройств ввода, файлов и изображений.</string>
+    <string name="notification_state_title">Подключение к ПК</string>
     <string name="notify_clip_action_browser">Перейти</string>
     <string name="notify_clip_action_call">Вызов</string>
     <string name="notify_clip_action_navigation">Управление</string>
@@ -258,6 +279,8 @@
     <string name="pad_pc_message_introduction_title">Общий буфер обмена</string>
     <string name="pad_pc_mirror_introduction_summary">Трансляция содержимого экрана ПК на планшет</string>
     <string name="pad_pc_mirror_introduction_title">Трансляция экрана</string>
+    <string name="pad_pc_share_introduction_summary">Используйте мышь и клавиатуру ПК с этим планшетом</string>
+    <string name="pad_pc_share_introduction_title">Устройства ввода</string>
     <string name="pad_settings_bluetooth_enable_summary">Для поиска устройств поблизости необходимо включить Bluetooth. Включить?</string>
     <string name="pad_settings_bluetooth_enable_title">Включение Bluetooth</string>
     <string name="pad_settings_click_toast_msg">Подключитесь с помощью Mi Smart Hub на ПК</string>
@@ -272,7 +295,7 @@
     <string name="pad_settings_feature_characteristics_summary_3">Для автоподключения просто приблизьте устройство к ранее подключённому ПК.</string>
     <string name="pad_settings_feature_dnd_summary">Показывать уведомления мобильного устройства на ПК</string>
     <string name="pad_settings_feature_dnd_summary_phone">Показывать уведомления мобильного устройства на ПК</string>
-    <string name="pad_settings_feature_dnd_title">Режим  \"Не беспокоить\"</string>
+    <string name="pad_settings_feature_dnd_title">Режим \"Не беспокоить\"</string>
     <string name="pad_settings_feature_intro">О функции</string>
     <string name="pad_settings_handoff_app_summary">Продолжайте работу в том же приложении на другом устройстве</string>
     <string name="pad_settings_handoff_app_title">Приложения</string>
@@ -335,6 +358,7 @@
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy_all_purpose">Добро пожаловать в MIUI+! Это приложение можно использовать для объединения мобильного устройства и ПК в одну рабочую станцию.</string>
     <string name="privacy_describe_change_wifi_state">Для подключения устройств и передачи файлов по Wi-Fi</string>
+    <string name="privacy_describe_change_wifi_state_china">Для подключения устройств и передачи файлов по Wi-Fi</string>
     <string name="privacy_describe_location">Для поиска ПК поблизости и передачи файлов</string>
     <string name="privacy_describe_record_audio">Для перенаправления вывода звука на ПК</string>
     <string name="privacy_describe_storage">Для отправки и приёма файлов</string>
@@ -421,6 +445,17 @@
     <string name="settings_trusted_device_none">Нет устройств</string>
     <string name="settings_trusted_tips">Автоматически подключаться к выбранным устройствам поблизости при включенном Bluetooth или Wi-Fi</string>
     <string name="settings_trusted_tips_china">Автоматически подключаться к выбранным устройствам поблизости при включенном Bluetooth или Wi-Fi</string>
+    <string name="share_pc_abort_dialog_message">Убедитесь, что Bluetooth и Wi-Fi включены на обоих устройствах, затем снова запустите сеанс на ПК.</string>
+    <string name="share_pc_abort_dialog_message_china">Убедитесь, что Bluetooth и Wi-Fi включены на обоих устройствах, затем снова запустите сеанс на ПК.</string>
+    <string name="share_pc_abort_dialog_ok">ОК</string>
+    <string name="share_pc_abort_dialog_title">Соединение прервано</string>
+    <string name="share_pc_file_transfer_finish">Передача завершена</string>
+    <string name="share_pc_folder_error_dialog_message">Перетаскивание папок и их передача в настоящее время не поддерживается.</string>
+    <string name="share_pc_folder_error_dialog_ok">ОК</string>
+    <string name="share_pc_folder_error_dialog_title">Ошибка передачи</string>
+    <string name="share_pc_folder_multi_error_dialog_message">Выбранные файлы успешно переданы. Передача папок в настоящее время не поддерживается.</string>
+    <string name="share_pc_folder_multi_error_dialog_ok">ОК</string>
+    <string name="share_pc_folder_multi_error_dialog_title">Не удалось передать все файлы</string>
     <string name="size_byte">" Б"</string>
     <string name="size_giga_byte">" ГБ"</string>
     <string name="size_kilo_byte">" КБ"</string>
@@ -462,10 +497,13 @@
     <string name="sunday_shortest">Вс</string>
     <string name="switch_wlan_action">Подключиться</string>
     <string name="switch_wlan_failed">Ошибка подключения</string>
-    <string name="switch_wlan_failed_desc">Не удалось автоматически подключиться к этой сети Wi-Fi. Попробуйте подключение вручную в настройках.</string>
+    <string name="switch_wlan_failed_desc">Не удалось автоматически подключиться к этой сети Wi-Fi. Попробуйте подключиться вручную в настройках.</string>
+    <string name="switch_wlan_failed_desc_china">Не удалось автоматически подключиться к этой сети Wi-Fi. Попробуйте подключиться вручную в настройках.</string>
     <string name="switch_wlan_success">Подключено</string>
-    <string name="switch_wlan_tips">Подключение к общей сети</string>
+    <string name="switch_wlan_tips">Подключение к одной сети</string>
+    <string name="switch_wlan_tips_china">Подключение к одной сети</string>
     <string name="switch_wlan_tips_desc">Подключиться к той же сети Wi-Fi, к которой подключено другое устройство?</string>
+    <string name="switch_wlan_tips_desc_china">Подключиться к той же сети Wi-Fi, к которой подключено другое устройство?</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>
