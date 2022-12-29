@@ -77,15 +77,15 @@
         <item>Синий</item>
     </string-array>
     <string-array name="nf_ad_feedback_reason">
-         <item>Не интересно</item>
-         <item>Повторяется</item>
+         <item>Не интересует</item>
+         <item>Надоедливая</item>
          <item>Низкое качество</item>
          <item>Неуместное фото</item>
          <item>Мошенническая информация</item>
     </string-array>
     <string-array name="nf_feedback_reason">
-        <item>Откровенное содержимое</item>
-        <item>Ложь</item>
+        <item>Откровенный контент</item>
+        <item>Ложные сведения</item>
         <item>Устаревшие новости</item>
         <item>Экстремизм</item>
         <item>Скрытая реклама</item>
@@ -98,19 +98,19 @@
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>По умолчанию</item>
-        <item>Пользовательская</item>
+        <item>Особая</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Телефон</item>
         <item>Планшет</item>
     </string-array>
     <string-array name="pref_navscreen_layoutstate_choices">
-        <item>Вертикальный вид</item>
-        <item>Горизонтальный вид</item>
+        <item>По вертикали</item>
+        <item>По горизонтали</item>
     </string-array>
     <string-array name="pref_security_do_not_track_keys">
         <item>Включено</item>
-        <item>Только в режиме инкогнито</item>
+        <item>В режиме инкогнито</item>
         <item>Отключено</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
@@ -128,12 +128,12 @@
     </string-array>
     <string-array name="pref_web_permissions">
         <item>Запретить</item>
-        <item>Спросить</item>
+        <item>Спрашивать</item>
         <item>Разрешить</item>
     </string-array>
     <string-array name="pref_web_permissions_sub_one">
         <item>Запретить</item>
-        <item>Спросить</item>
+        <item>Спрашивать</item>
     </string-array>
     <string-array name="pref_web_permissions_sub_two">
         <item>Запретить</item>
@@ -165,20 +165,20 @@
         <item>Следите за Олимпиадой с Mi</item>
     </string-array>
     <string-array name="speed_result_tips">
-        <item>Текущее сетевое соединение очень медленное. Похоже, вы в зоне с плохим покрытием сети.</item>
-        <item>Текущее сетевое соединение медленное.</item>
-        <item>Проблемы с сетевым соединением не найдены.</item>
-        <item>Текущее сетевое соединение быстрое, подходит для потокового просмотра фильмов.</item>
-        <item>Текущее сетевое соединение очень быстрое, отлично подходит для игр.</item>
+        <item>Очень низкая скорость соединения. Возможно вы находитесь в зоне с плохим покрытием.</item>
+        <item>Низкая скорость соединения.</item>
+        <item>Проблем с сетью не обнаружено.</item>
+        <item>Высокая скорость соединения. Вы можете смотреть фильмы онлайн!</item>
+        <item>Очень высокая скорость соединения. Исследуйте интернет на головокружительной скорости!</item>
     </string-array>
     <string-array name="user_guide_info_array">
         <item>Загрузка видео и фото из соцсетей</item>
         <item>Сохранение изображений и видео из статусов WhatsApp</item>
-        <item>Управление файлами на устройстве и их конфиденциальностью</item>
+        <item>Управление файлами на устройстве и их скрытие</item>
     </string-array>
     <string-array name="user_guide_title_array">
         <item>Загрузка видео</item>
-        <item>История статусов WhatsApp</item>
+        <item>Статусы WhatsApp</item>
         <item>Приватные файлы</item>
     </string-array>
 </resources>

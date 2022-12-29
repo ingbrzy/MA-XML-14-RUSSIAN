@@ -64,12 +64,12 @@
         <item>Я</item>
     </string-array>
     <string-array name="recommendation_desc_week">
-        <item>Рекомендации воскресенья</item>
-        <item>Рекомендации понедельника</item>
-        <item>Рекомендации вторника</item>
-        <item>Рекомендации среды</item>
-        <item>Рекомендации четверга</item>
-        <item>Рекомендации пятницы</item>
-        <item>Рекомендации субботы</item>
+        <item>Рекомендации на воскресенье</item>
+        <item>Рекомендации на понедельник</item>
+        <item>Рекомендации на вторник</item>
+        <item>Рекомендации на среду</item>
+        <item>Рекомендации на четверг</item>
+        <item>Рекомендации на пятницу</item>
+        <item>Рекомендации на субботу</item>
     </string-array>
 </resources>

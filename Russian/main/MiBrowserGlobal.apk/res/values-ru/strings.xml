@@ -204,13 +204,21 @@
     <string name="app_id">ID приложенияFirebase (нажмите для экспорта)</string>
     <string name="app_installing_text">Установка</string>
     <string name="app_library_category_entertainment">Развлечения</string>
+    <string name="app_library_category_financial_management">Финансы</string>
     <string name="app_library_category_games">Игры</string>
+    <string name="app_library_category_health_and_exercise">Здоровье</string>
+    <string name="app_library_category_individualization">Персонализация</string>
     <string name="app_library_category_information">Мультимедиа</string>
     <string name="app_library_category_lifestyle">Образ жизни</string>
+    <string name="app_library_category_originality">Творчество</string>
     <string name="app_library_category_others">Прочее</string>
     <string name="app_library_category_productivity">Производительность</string>
+    <string name="app_library_category_reading_and_information">Новости</string>
+    <string name="app_library_category_shopping_and_food">Покупки</string>
     <string name="app_library_category_social">Общение</string>
+    <string name="app_library_category_travel">Путешествия</string>
     <string name="app_library_category_utility">Инструменты</string>
+    <string name="app_library_category_work_and_efficiency">Производительность</string>
     <string name="app_library_title">Приложения</string>
     <string name="app_name">ad-sdk-native</string>
     <string name="app_name_bluetooth">Bluetooth</string>
@@ -439,6 +447,7 @@
     <string name="close_all_tab_alert_title">Закрыть все вкладки</string>
     <string name="close_cant_recommand">Вы не будете получать персонализированные контент-услуги, если отключите эту функцию.</string>
     <string name="close_cloud_tab_tip">Закрыть облачные вкладки на %s?</string>
+    <string name="close_desktop">Настольная версия откл.</string>
     <string name="cloud_loading_tips">Потяните вниз для синхронизации</string>
     <string name="cloud_no_new_data_toast">Новых данных нет</string>
     <string name="cloud_sync_closed_toast">Включите синхронизацию для обновления</string>
@@ -1827,6 +1836,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="open_app_confirm_message">Разрешить этой странице открывать %s?</string>
     <string name="open_cloud_sync">Включить синхронизацию с облаком</string>
     <string name="open_cloud_sync_desc">Закладка успешно добавлена. Включите синхронизацию с облаком, чтобы синхронизировать закладки, добавленные на других устройствах. Войти и включить?</string>
+    <string name="open_desktop">Активирована настольная версия</string>
     <string name="open_file_explorer_failed">Не удалось открыть Проводник</string>
     <string name="open_google_gaid">Чтобы воспользоваться этой функцией, убедитесь, что вы не отключали персонализацию рекламы в разделе \"Настройки\" > \"Google\" > \"Реклама\".</string>
     <string name="open_personalized_services">Включите службы персонализации, чтобы получить доступ к этой функции.</string>

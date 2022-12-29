@@ -1851,4 +1851,5 @@ ID: %s
     <string name="you_can_switch_mode_in_settings">Вы можете изменить режим в настройках</string>
     <string name="you_may_like">Вам также может понравиться</string>
     <string name="youtube_play_history">История просмотров</string>
+    <string name="youtube_share_guide_tip">Теперь вы можете делиться с друзьями видео</string>
 </resources>
