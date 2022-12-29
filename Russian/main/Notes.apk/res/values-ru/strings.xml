@@ -520,7 +520,7 @@
     <string name="not_set">Не задано</string>
     <string name="note_description_content">Заметки - отличное средство для записи ваших идей. Приложение содержит встроенные напоминания и может синхронизировать ваши объекты с облаком, чтобы вы могли получить к ним доступ в любом месте и в любое время. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
     <string name="note_description_title">О приложении</string>
-    <string name="note_dual_screen_dialog_content">Похоже, вы сейчас редактируете заметки на компьютере. Чтобы избежать конфликтов при правках, закройте приложение Заметки на компьютере.</string>
+    <string name="note_dual_screen_dialog_content">Похоже, вы сейчас редактируете заметки на ПК. Чтобы избежать конфликтов при правках, закройте приложение Заметки на ПК.</string>
     <string name="note_dual_screen_dialog_title">Использование MIUI+…</string>
     <string name="note_gesture_guide_step1">Для создания голосовой заметки нажмите и удерживайте кнопку \"Создать\" </string>
     <string name="note_gesture_guide_step2">Для создания папки нажмите и удерживайте заметку, затем перетащите её на другую заметку</string>
@@ -581,7 +581,7 @@
     <string name="pc_note_edit_blank_view_tips">Перетащите сюда изображение для создания заметки</string>
     <string name="pc_note_edit_create_time">"Создано: "</string>
     <string name="pc_note_edit_insert_doodle_by_phone">Создайте эскиз</string>
-    <string name="pc_note_edit_insert_picture_from_pc">Выберите изображение на компьютере</string>
+    <string name="pc_note_edit_insert_picture_from_pc">Выберите изображение на ПК</string>
     <string name="pc_note_edit_insert_picture_from_phone">Выберите изображение на устройстве</string>
     <string name="pc_note_edit_last_modified_time">"Изменено: "</string>
     <string name="pc_note_edit_lock_dialog_doodle_by_phone">Создание эскиза…</string>

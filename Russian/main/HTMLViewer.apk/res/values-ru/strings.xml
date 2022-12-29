@@ -165,7 +165,7 @@
     <string name="settings_license_activity_unavailable">Не удалось загрузить лицензии.</string>
     <string name="settings_safetylegal_activity_loading">Подождите…</string>
     <string name="settings_safetylegal_activity_title">Сведения о безопасности</string>
-    <string name="settings_safetylegal_activity_unreachable">Не удалось подключиться к сети. Для просмотра этой информации посетите %s с любого компьютера, подключённого к Интернету.</string>
+    <string name="settings_safetylegal_activity_unreachable">Не удалось подключиться к сети. Для просмотра этой информации посетите %s с любого ПК, подключённого к интернету.</string>
     <string name="settings_safetylegal_title">Сведения о безопасности</string>
     <string name="size_byte">" Б"</string>
     <string name="size_giga_byte">" ГБ"</string>

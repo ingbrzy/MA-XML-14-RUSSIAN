@@ -407,8 +407,8 @@
     <string name="settings_feature_keep_screen_title">Не блокировать экран</string>
     <string name="settings_feature_multi_window_summary">Щелкните правой кнопкой мыши на копии экрана устройства, чтобы создать новую копию.</string>
     <string name="settings_feature_multi_window_title">Несколько окон</string>
-    <string name="settings_feature_pc_edit_files_summary">Щелкните правой кнопкой мыши на файлах в Галерее или Проводнике, чтобы отредактировать их на компьютере.</string>
-    <string name="settings_feature_pc_edit_files_title">Редактирование на компьютере</string>
+    <string name="settings_feature_pc_edit_files_summary">Щелкните правой кнопкой мыши на файлах в Галерее или Проводнике, чтобы отредактировать их на ПК.</string>
+    <string name="settings_feature_pc_edit_files_title">Редактирование на ПК</string>
     <string name="settings_handoff_enable_bluetooth">Включите Bluetooth для поиска устройств поблизости</string>
     <string name="settings_history">История подключений</string>
     <string name="settings_history_clear">Очистить</string>

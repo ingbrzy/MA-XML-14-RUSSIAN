@@ -910,7 +910,7 @@
     <string name="long_press_to_select_tip">Нажмите и удерживайте для выбора диалога, затем добавляйте диалоги нажатием.</string>
     <string name="long_string">длиииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииинное</string>
     <string name="mail">Почта</string>
-    <string name="mail_body_turncated">Это сообщение слишком большое, будет показана только его часть. Чтобы прочесть полное содержание, откройте сообщение с компьютера.</string>
+    <string name="mail_body_turncated">Это сообщение слишком большое, будет показана только его часть. Чтобы прочесть полностью, откройте сообщение на ПК.</string>
     <string name="mail_description_content">Почта - это почтовый клиент, который может сразу с несколькими учётными записями, отправлять и получать сообщения. А также вы можете синхронизировать календарь и контакты. Перед удалением убедитесь, что вы можете обойтись без этих функций. Информация о ваших контактах и календаре также будет удалена.</string>
     <string name="mail_description_title">О приложении</string>
     <string name="mail_header_network_not_available">Интернет недоступен</string>
@@ -1227,7 +1227,7 @@
     <string name="ntes_do_not_sms_uplink">Отправьте SMS с привязанного номера телефона и нажмите \"Сообщение отправлено\".</string>
     <string name="ntes_had_send">Сообщение отправлено</string>
     <string name="ntes_had_send_to_content">Если вы уже отправили SMS с привязанного номера телефона, нажмите \"Сообщение отправлено\".</string>
-    <string name="ntes_login_auth_too_much">Доступно не более 5 кодов подтверждения. Войдите в почтовый ящик на компьютере и удалите коды, которые не используете.</string>
+    <string name="ntes_login_auth_too_much">Доступно не более 5 кодов подтверждения. Войдите в почтовый ящик на ПК и удалите коды, которые не используете.</string>
     <string name="ntes_login_error_message" formatted="false">"Не удалось получить информацию об аккаунте (Ошибка %s). %s."</string>
     <string name="ntes_password_error_hint">Если при вводе пароля возникают ошибки, закройте эту страницу и откройте её снова.</string>
     <string name="ntes_phone_send">Отправить текстовое сообщение с привязанного номера телефона</string>
@@ -1522,7 +1522,7 @@
     <string name="reminder">Напоминание</string>
     <string name="reminder_picker_title">Напоминание</string>
     <string name="remote_search_body_too_large_prompt">"Это письмо слишком длинное.
-Дождитесь полной синхронизации или просмотрите его на компьютере."</string>
+Дождитесь полной синхронизации или просмотрите его на ПК."</string>
     <string name="remove_account">Удалить аккаунт</string>
     <string name="remove_folder">Удалить из папки \"%1$s\"</string>
     <string name="remove_star">Снять отметку</string>

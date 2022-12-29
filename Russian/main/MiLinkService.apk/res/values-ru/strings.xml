@@ -433,7 +433,7 @@
     <string name="material_timepicker_text_input_mode_description">Ввод времени в текстовом режиме</string>
     <string name="menu_new_display_open">Открыть в новом окне</string>
     <string name="menu_pc_open">Открыть на ПК</string>
-    <string name="micloud_downloading_clipboard_message_from_web">Буфер обмена: получено сообщение с компьютера</string>
+    <string name="micloud_downloading_clipboard_message_from_web">Буфер обмена: получено сообщение с ПК</string>
     <string name="micloud_send_message_desc">Отправка Mi Сообщения</string>
     <string name="midnight">Ночь</string>
     <string name="mipaly_server_exit_touping">Сначала остановите текущую трансляцию</string>

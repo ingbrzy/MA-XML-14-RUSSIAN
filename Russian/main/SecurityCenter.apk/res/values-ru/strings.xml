@@ -5008,7 +5008,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="special_perm_intercept_control_screen_title">Чтение содержимого экрана</string>
     <string name="special_perm_intercept_data_msg">Удаление всех данных без подтверждения</string>
     <string name="special_perm_intercept_data_title">Удаление данных</string>
-    <string name="special_perm_intercept_file_msg">Доступ и редактирование файлов на устройстве через компьютер</string>
+    <string name="special_perm_intercept_file_msg">Доступ к файлам на устройстве и редактирование их на ПК</string>
     <string name="special_perm_intercept_file_title">Удаленный доступ</string>
     <string name="special_perm_intercept_install_msg">Установка приложений без подтверждения</string>
     <string name="special_perm_intercept_install_title">Установка приложений</string>
@@ -5955,7 +5955,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="usb_mount_summary" />
     <string name="usbsharenet_exception_summary">Невозможно подключиться к интернету по USB. Проверьте USB соединение и перезапустите Mi PC Suite.</string>
     <string name="usbsharenet_exception_title">Диагностика интернета по USB</string>
-    <string name="usbsharenet_pc_exception_summary">Невозможно подключиться к интернету по USB. Проверьте интернет-подключение вашего компьютера.</string>
+    <string name="usbsharenet_pc_exception_summary">Невозможно подключиться к интернету по USB. Проверьте интернет-подключение на ПК.</string>
     <string name="use_immediately">Включить</string>
     <string name="use_other_ime_warn">Сторонние клавиатуры могут записывать все что вводится, включая пароли и прочую конфиденциальную информацию.</string>
     <string name="user_define_title">Новый профиль</string>

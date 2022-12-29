@@ -557,7 +557,7 @@
     <string name="midrive_guide1_title">Безопасное резервное копирование</string>
     <string name="midrive_guide2_desc">Загрузка файлов с высокой скоростью</string>
     <string name="midrive_guide2_title">Быстрая загрузка</string>
-    <string name="midrive_guide3_desc">Доступ к Mi Drive на мобильных устройствах, компьютерах и через браузеры</string>
+    <string name="midrive_guide3_desc">Доступ к Mi Drive на мобильных устройствах, ПК и через браузеры</string>
     <string name="midrive_guide3_title">Доступность</string>
     <string name="midrive_guide_btn_install">Установить Mi Drive</string>
     <string name="midrive_guide_btn_installed">Открыть Mi Drive</string>

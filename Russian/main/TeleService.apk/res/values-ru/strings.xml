@@ -176,7 +176,7 @@
     <string name="activity_title_fakecell">Защита от поддельных базовых станций</string>
     <string name="adb_device_fingerprint_title_format">Отпечаток устройства: %1$s</string>
     <string name="adb_device_forget">Забыть</string>
-    <string name="adb_keys_warning_message">Запретить доступ к USB-отладке для всех компьютеров, которым он был разрешён?</string>
+    <string name="adb_keys_warning_message">Запретить доступ к USB-отладке для всех ПК, которым он был разрешён?</string>
     <string name="adb_pair_method_code_summary">Сопряжение новых устройств с помощью шестизначного кода</string>
     <string name="adb_pair_method_code_title">Шестизначный код</string>
     <string name="adb_pair_method_qrcode_summary">Сопряжение новых устройств с помощью сканера QR-кодов</string>
@@ -187,7 +187,7 @@
     <string name="adb_pairing_device_dialog_pairing_code_label">Код сопряжения Wi-Fi</string>
     <string name="adb_pairing_device_dialog_title">Сопряжение с устройством</string>
     <string name="adb_qrcode_pairing_device_failed_msg">Ошибка сопряжения. Либо неверный QR-код, либо устройство не подключено к той же сети.</string>
-    <string name="adb_warning_message">Отладка по USB – это режим, который позволяет использовать ваше устройство как внешний накопитель: перемещать файлы (с компьютера и на компьютер), напрямую устанавливать приложения, а также просматривать системные журналы.</string>
+    <string name="adb_warning_message">Отладка по USB – это режим, который позволяет использовать ваше устройство как внешний накопитель: перемещать файлы (с ПК или на ПК), напрямую устанавливать приложения, а также просматривать системные журналы.</string>
     <string name="adb_warning_title">Разрешить отладку по USB?</string>
     <string name="adb_wireless_connection_failed_message">Убедитесь, что %1$s подключен к правильной сети</string>
     <string name="adb_wireless_connection_failed_title">Ошибка подключения</string>
@@ -202,7 +202,7 @@
     <string name="adb_wireless_qrcode_summary">Сопряжение по Wi-Fi с помощью QR-кода</string>
     <string name="adb_wireless_settings">Беспроводная отладка</string>
     <string name="adb_wireless_verifying_qrcode_text">Сопряжение…</string>
-    <string name="adbwifi_warning_message">Беспроводная отладка предназначена только для целей разработки.  Этот режим позволяет перемещать файлы (с компьютера и на компьютер), напрямую устанавливать приложения и просматривать системные журналы</string>
+    <string name="adbwifi_warning_message">Беспроводная отладка предназначена только для целей разработки.  Этот режим позволяет перемещать файлы (с ПК или на ПК), напрямую устанавливать приложения и просматривать системные журналы</string>
     <string name="adbwifi_warning_title">Разрешить беспроводную отладку?</string>
     <string name="add">Добавить</string>
     <string name="add_fdn_contact">Добавление номера</string>
@@ -1085,7 +1085,7 @@
     <string name="empty_networks_list">Сети не найдены</string>
     <string name="enable">Включить</string>
     <string name="enable_adb">Отладка по USB</string>
-    <string name="enable_adb_summary">Включить режим отладки при подключении к компьютеру по USB</string>
+    <string name="enable_adb_summary">Включить режим отладки при подключении к ПК по USB</string>
     <string name="enable_adb_wireless">Беспроводная отладка</string>
     <string name="enable_adb_wireless_summary">Режим отладки при подключении Wi-Fi</string>
     <string name="enable_antispam_strange_summary">Не проигрывать начало мелодии звонка при вызове с неизвестного номера</string>

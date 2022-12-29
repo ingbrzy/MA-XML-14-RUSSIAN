@@ -124,8 +124,7 @@
     <string name="active_input_method_subtypes">Активные способы ввода</string>
     <string name="adb_device_fingerprint_title_format">Отпечаток устройства: %1$s</string>
     <string name="adb_device_forget">Забыть</string>
-    <string name="adb_keys_warning_message">Запретить доступ к USB-отладке для всех компьютеров, которым он был разрешен?</string>
-    <string name="adb_keys_warning_message">Запретить доступ к отладке по USB для всех компьютеров, которым он был разрешен?</string>
+    <string name="adb_keys_warning_message">Запретить доступ к отладке по USB для всех ПК, которым он был разрешён?</string>
     <string name="adb_pair_method_code_summary">Сопряжение новых устройств с помощью шестизначного кода</string>
     <string name="adb_pair_method_code_title">Шестизначный код</string>
     <string name="adb_pair_method_qrcode_summary">Сопряжение новых устройств с помощью сканера QR-кодов</string>
@@ -505,7 +504,7 @@ ID: %s
     <string name="early_morning">Утро</string>
     <string name="edit_frequent_phrases">Редактировать частые фразы</string>
     <string name="enable_adb">Отладка по USB</string>
-    <string name="enable_adb_summary">Включить режим отладки при подключении к компьютеру по USB</string>
+    <string name="enable_adb_summary">Включить режим отладки при подключении к ПК по USB</string>
     <string name="enable_adb_wireless">Беспроводная отладка</string>
     <string name="enable_adb_wireless_summary">Режим отладки при подключении Wi-Fi</string>
     <string name="enable_freeform_support">Разрешить создание окон произвольной формы</string>

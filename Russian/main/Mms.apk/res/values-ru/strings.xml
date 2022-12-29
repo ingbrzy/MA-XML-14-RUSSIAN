@@ -1104,7 +1104,7 @@
     <string name="rcs_group_invite_notification">%1$s пригласил вас в групповой чат \"%2$s\"</string>
     <string name="rcs_group_notification_invitation">Приглашение в групповой чат</string>
     <string name="rcs_group_waiting_process">Ожидание</string>
-    <string name="rcs_hello_from_pc">Войдите в Fetion на компьютере для передачи файлов.</string>
+    <string name="rcs_hello_from_pc">Войдите в Fetion на ПК для передачи файлов</string>
     <string name="rcs_list_bottom_loading">Подождите…</string>
     <string name="rcs_list_bottom_search">Поиск…</string>
     <string name="rcs_locaiton_failed">Не удалось получить геопозицию</string>
@@ -1148,7 +1148,7 @@
     <string name="rcs_pref_video_message_default_quality">Качество видео</string>
     <string name="rcs_recipient_type_contact">Переслать контакту</string>
     <string name="rcs_recipient_type_group">Переслать в групповой чат</string>
-    <string name="rcs_recipient_type_pc">Переслать на компьютер</string>
+    <string name="rcs_recipient_type_pc">Переслать на ПК</string>
     <string name="rcs_remember_my_choice">Запомнить выбор</string>
     <string name="rcs_resend_not_online">5G Сообщения недоступны</string>
     <string name="rcs_resend_sim_card_not_insert">SIM-карта не установлена</string>

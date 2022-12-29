@@ -61,7 +61,7 @@
     <string name="add_to_my_contacts">Добавить в \"Мои контакты\"</string>
     <string name="add_wait">Добавить ожидание</string>
     <string name="add_xiaomi_account_dialog_btn">В Xiaomi аккаунт</string>
-    <string name="add_xiaomi_account_dialog_msg">Рекомендуется сохранять контакты в Xiaomi аккаунт. Он позволяет производить синхронизацию и резервное копирование контактной информации и управление контактами на вашем компьютере.</string>
+    <string name="add_xiaomi_account_dialog_msg">Рекомендуется сохранять контакты в Xiaomi аккаунт. Он позволяет делать синхронизацию и резервное копирование контактов и управлять ими на вашем ПК.</string>
     <string name="add_xiaomi_account_dialog_title">Выберите аккаунт</string>
     <string name="afternoon">После полудня</string>
     <string name="agenda_not_today_empty_hint">Мероприятия отсутствуют. Нажмите, чтобы создать.</string>
