@@ -5231,6 +5231,7 @@ feedsContentId:
     <string name="yandex_ads_internal_tools_rating_text">rating</string>
     <string name="yandex_ads_internal_tools_review_count_text">review count</string>
     <string name="yandex_ads_internal_tools_sponsored_text">sponsored</string>
+    <string name="yandex_mobileads_age_restricted_user">com.yandex.mobile.ads.AGE_RESTRICTED_USER</string>
     <string name="yandex_mobileads_automatic_sdk_initialization">com.yandex.mobile.ads.AUTOMATIC_SDK_INITIALIZATION</string>
     <string name="yiji_app_download_card_lebal">" "</string>
     <string name="yoigo_mcc">214</string>

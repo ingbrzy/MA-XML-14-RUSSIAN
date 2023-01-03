@@ -110,6 +110,10 @@
         <item quantity="other">Уведомления о действиях включены для %1$d приложений</item>
         <item quantity="one">Уведомления о действиях включены для %1$d приложения</item>
     </plurals>
+    <plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">Записи действий приложений хранятся на устройстве %d дней. После отключения функции, новые записи создаваться не будут, а старые будут удалены. Отключить?</item>
+        <item quantity="one">Записи действий приложений хранятся на устройстве %d день. После отключения функции, новые записи создаваться не будут, а старые будут удалены. Отключить?</item>
+    </plurals>
     <plurals name="app_behavior_wakepath_multiple">
         <item quantity="other">%1$1s - запуск %2$d приложений</item>
         <item quantity="one">%1$1s - запуск %2$d приложения</item>

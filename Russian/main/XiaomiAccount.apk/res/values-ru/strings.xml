@@ -204,6 +204,8 @@ ID вашего аккаунта: %s"</string>
     <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
     <string name="completed">Настройка завершена</string>
     <string name="confirm_activate_email">Проверено</string>
+    <string name="confirm_bundled_phone_dialog_confirm">Подтверждаю</string>
+    <string name="confirm_bundled_phone_dialog_confirm_timer">Подтверждаю (%d сек.)</string>
     <string name="confirm_bundled_phone_dialog_title">Подтвердите связанный номер телефона</string>
     <string name="confirm_delete_app_message">После удаления этого приложения вам придется подтвердить свой номер телефона при следующем входе в Xiaomi аккаунт из него.</string>
     <string name="confirm_delete_browser_message">После удаления этого браузера вам придется подтвердить свой номер телефона при следующем входе в Xiaomi аккаунт из него.</string>

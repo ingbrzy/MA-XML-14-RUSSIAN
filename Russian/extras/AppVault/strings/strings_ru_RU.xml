@@ -11,6 +11,7 @@
     <string name="widget_num_warn">Добавлено. Большое количество виджетов на рабочем столе может замедлить работу устройства.</string>
     <!-- Categories -->
     <string name="theme_clock">Часы</string>
+    <string name="theme_pals">Друзья</string>
     <!-- App names -->
     <string name="app_appvault">Лента виджетов</string>
     <string name="app_browser">Браузер</string>
@@ -18,6 +19,7 @@
     <string name="app_calendar">Календарь</string>
     <string name="app_camera">Камера</string>
     <string name="app_clock">Часы</string>
+    <string name="app_files">Файлы</string>
     <string name="app_gallery">Галерея</string>
     <string name="app_health">Здоровье</string>
     <string name="app_mifitness">Mi Фитнес</string>
@@ -84,6 +86,8 @@
     <string name="widget_clock_weather_desc">Время, дата и погода в текущей геопозиции</string>
     <string name="widget_clock_world">Мировые часы</string>
     <string name="widget_clock_world_desc">Время в других городах</string>
+    <string name="widget_files_pin">Частые файлы</string>
+    <string name="widget_files_pin_desc">Быстрый доступ к часто просматриваемым файлам</string>	
     <string name="widget_gallery_custom">Избранные фото</string>
     <string name="widget_gallery_custom_desc">Добавьте виджет и нажмите на него для выбора фотографий</string>
     <string name="widget_gallery_recommend">Моменты</string>
@@ -104,6 +108,10 @@
     <string name="widget_notes_tasks_desc">Просмотр и открытие задач</string>
     <string name="widget_notes_view">Заметки</string>
     <string name="widget_notes_view_desc">Просмотр и открытие заметок</string>
+    <string name="widget_pals_cat">Кот</string>
+    <string name="widget_pals_cat_desc">Мяу ~ не тревожь меня, когда я сплю…</string>
+    <string name="widget_pals_dog">Пёс</string>
+    <string name="widget_pals_dog_desc">Гав ~ поиграй со мной!</string>
     <string name="widget_security_app_behavior">Конфиденциальность</string>
     <string name="widget_security_app_behavior_desc">Cтатистика действий приложений</string>
     <string name="widget_security_app_predict">Рекомендации по приложениям</string>

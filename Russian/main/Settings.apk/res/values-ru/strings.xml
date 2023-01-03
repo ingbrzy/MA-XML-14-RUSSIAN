@@ -4707,8 +4707,8 @@ ID: %s
     <string name="input_method_function_switch_keyboard_type_des">Нажмите для переключения между клавиатурами</string>
     <string name="input_method_function_voice">Голосовой ввод</string>
     <string name="input_method_function_voice_des">Нажмите для использования голосового ввода</string>
-    <string name="input_method_function_xiaoai">Mi AI голосовой ввод</string>
-    <string name="input_method_function_xiaoai_des">Нажмите для использования Mi AI голосового ввода</string>
+    <string name="input_method_function_xiaoai">Голосовой ввод Mi AI</string>
+    <string name="input_method_function_xiaoai_des">Нажмите для использования голосового ввода Mi AI</string>
     <string name="input_method_manage">Управление клавиатурами</string>
     <string name="input_method_middle_function_move_cursor">Перемещение курсора</string>
     <string name="input_method_middle_function_move_cursor_des">Нажмите и удерживайте центральную область для перемещения курсора</string>

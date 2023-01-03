@@ -391,7 +391,7 @@
     <string name="backuping_title_normal">Выгрузка…</string>
     <string name="base_btn_cancel">Отмена</string>
     <string name="base_btn_download">Загрузить</string>
-    <string name="begin_share">Альбом ребенка \"%s\" успешно создан</string>
+    <string name="begin_share">Создан детский альбом \"%s\"</string>
     <string name="begin_share_toast">Создать отдельный альбом для этого ребенка?</string>
     <string name="blackshark">Black Shark</string>
     <string name="blackshark_1">Black Shark</string>

@@ -389,11 +389,18 @@
     <string name="app_behavior_read_clipboard_bg">%1s - чтение из буфера обмена в фоновом режиме</string>
     <string name="app_behavior_recognition">%1s - доступ к данным о здоровье и активности</string>
     <string name="app_behavior_recognition_single">Доступ к данным о здоровье и активности</string>
+    <string name="app_behavior_record_cancel">Отмена</string>
+    <string name="app_behavior_record_close">Отключить</string>
+    <string name="app_behavior_record_close_title">Запись действий</string>
+    <string name="app_behavior_record_hide_system">Скрыть системные приложения</string>
+    <string name="app_behavior_record_open">Включить</string>
+    <string name="app_behavior_record_open_content_text">Отслеживание действий приложений помогает избежать угроз безопасности</string>
     <string name="app_behavior_record_setting_button_title">Показать</string>
     <string name="app_behavior_record_setting_show_system">Действия системных служб</string>
     <string name="app_behavior_record_setting_show_system_desc">Показывать действия основных системных служб. Для обеспечения стабильности системы эти службы используют необходимые разрешения, некоторые из которых нельзя ограничить.</string>
     <string name="app_behavior_record_setting_show_system_title">Действия системных служб</string>
     <string name="app_behavior_record_setting_title">Записи действий</string>
+    <string name="app_behavior_record_show_system">Показать системные приложения</string>
     <string name="app_behavior_search">Поиск</string>
     <string name="app_behavior_sensor">%1s - доступ к данным датчиков о состоянии организма</string>
     <string name="app_behavior_sensor_single">Доступ к данным датчиков о состоянии организма</string>
@@ -2014,7 +2021,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="free_time_traffic_settings">Льготный трафик</string>
     <string name="free_time_traffic_title">Лимит льготного трафика</string>
     <string name="free_traffic_settings">Контроль льготного трафика</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Коснитесь приложения на боковой панели для открытия в плавающем окне.
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Нажмите на приложение на боковой панели для открытия в плавающем окне.
 · Перетащите приложение в центр экрана для открытия в плавающем окне, либо к краю для разделения экрана."</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
@@ -2486,6 +2493,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="get_phone_num_fail">Неизвестный номер</string>
     <string name="get_sys_info">Получение данных…</string>
     <string name="gigabyteShort">" ГБ"</string>
+    <string name="global_dock_guide_desc_with_split_screen">"· Нажмите на приложение на боковой панели для открытия в плавающем окне.
+· Перетащите приложение в центр экрана для открытия в плавающем окне, либо к краю для разделения экрана.
+· Нажмите и удерживайте индикатор, чтобы переместить окно."</string>
+    <string name="global_dock_guide_desc_without_split_screen">"· Нажмите на приложение в боковой панели для открытия в плавающем окне.
+· Нажмите и удерживайте индикатор, чтобы переместить окно."</string>
     <string name="global_satisfaction_notification_button">Оценить</string>
     <string name="global_satisfaction_notification_subhead">Поделитесь с нами своими впечатлениями</string>
     <string name="global_satisfaction_notification_title">Оцените это устройство</string>
@@ -3503,6 +3515,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_hidemode_power_save">Экономия</string>
     <string name="pc_high_temp_protection_noti_bt_text">Понятно</string>
     <string name="pc_high_temp_protection_noti_summary">Точка доступа, мобильный интернет и геолокация недоступны</string>
+    <string name="pc_high_temp_protection_noti_summary2">Точка доступа недоступна для использования</string>
     <string name="pc_high_temp_protection_noti_tile">Устройство перегрелось</string>
     <string name="pc_install_manager">Установка через USB</string>
     <string name="pc_main_activity_back">Назад</string>

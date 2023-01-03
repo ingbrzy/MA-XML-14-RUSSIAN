@@ -86,6 +86,8 @@
     <string name="config_show_default_language" />
     <string name="config_show_home_cell_size" />
     <string name="congratulation_label">Всё готово!</string>
+    <string name="congratulation_pre_label">Подождите…</string>
+    <string name="congratulation_pre_title">Подготовка системы…</string>
     <string name="congratulation_swipe">Проведите вверх для входа в систему</string>
     <string name="congratulation_title">Настройка завершена</string>
     <string name="content_description_complete">Готово</string>
