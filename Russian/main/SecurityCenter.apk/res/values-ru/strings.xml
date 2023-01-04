@@ -1102,7 +1102,7 @@
     <string name="btn_text_goto_setup">Настройки</string>
     <string name="btn_text_network_speed_detail">Подключение</string>
     <string name="btn_text_open_now">Включить</string>
-    <string name="btn_text_optimize_extend_battery_time">Добавить %s к автономности</string>
+    <string name="btn_text_optimize_extend_battery_time">Добавить %s</string>
     <string name="btn_text_optimize_manually">Оптимизировать вручную</string>
     <string name="btn_text_optimize_now">Оптимизировать</string>
     <string name="btn_text_power_cleanup">Глубокая очистка</string>
@@ -1921,7 +1921,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="firewall_temp_rule_reason">Приложение %2$s ограничило подключение для %1$s</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">Когда этот переключатель выключен, установленное приложение не сможет подключаться к интернету по Wi-Fi.</string>
-    <string name="first_aid_activity_title">Решение проблем</string>
+    <string name="first_aid_activity_title">Устранение проблем</string>
     <string name="first_aid_card_airplane_button">Отключить</string>
     <string name="first_aid_card_airplane_summary">Отключите режим полёта, чтобы совершать вызовы и подключаться к сети</string>
     <string name="first_aid_card_airplane_title">Вызовы и подключение к сети недоступны</string>
@@ -3688,8 +3688,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="popular_action_auto_launch_manager_summary">Автозапуск приложений</string>
     <string name="popular_action_auto_launch_manager_title">Автозапуск</string>
     <string name="popular_action_card_title">Трафик</string>
-    <string name="popular_action_first_aid_summary">Поиск и решение проблем на устройстве</string>
-    <string name="popular_action_first_aid_title">Решение проблем</string>
+    <string name="popular_action_first_aid_summary">Поиск и устранение проблем на устройстве</string>
+    <string name="popular_action_first_aid_title">Устранение проблем</string>
     <string name="popular_action_hb_assistant_summary">Ассистент красных конвертов</string>
     <string name="power_5g_popups_content">Сети 5G обеспечивают высокую скорость соединения и минимальную задержку</string>
     <string name="power_5g_popups_title">Использовать сети 5G</string>
@@ -3763,7 +3763,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_optimize_title">Рекомендации</string>
     <string name="power_center_power_save_summary_text">Увеличить автономность до %1$d ч. %2$d мин.</string>
     <string name="power_center_power_save_title_text">Экономия заряда</string>
-    <string name="power_center_problem_title">Решение проблем</string>
+    <string name="power_center_problem_title">Устранение проблем</string>
     <string name="power_center_reduce_dpi_summary">QHD+ сильнее расходует батарею</string>
     <string name="power_center_reduce_resolution">Уменьшить разрешение дисплея</string>
     <string name="power_center_repeat">Повтор</string>
@@ -4908,8 +4908,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="sorted_dialog_title">Тип трафика</string>
-    <string name="sp_abnormal_scan_summary">Обнаружение и решение проблем</string>
-    <string name="sp_abnormal_scan_title">Решение проблем</string>
+    <string name="sp_abnormal_scan_summary">Поиск и устранение проблем</string>
+    <string name="sp_abnormal_scan_title">Устранение проблем</string>
     <string name="sp_antispam_scan_summary">Защита от мошенничества</string>
     <string name="sp_antispam_scan_title">Чёрный список</string>
     <string name="sp_background_risk_dialog_summary">, проверьте и исправьте проблемы с оплатой.</string>
@@ -5730,7 +5730,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_do_not_disturb">Не слышите звонков?</string>
     <string name="title_eye_shield">Цвета на экране выглядят неправильно?</string>
     <string name="title_find_device">Поиск устройства</string>
-    <string name="title_first_aid_kit">"Решение проблем"</string>
+    <string name="title_first_aid_kit">Устранение проблем</string>
     <string name="title_flow_notification">Уведомления о трафике</string>
     <string name="title_flow_purchase">Предоплата трафика</string>
     <string name="title_flow_rank">Потребление трафика</string>

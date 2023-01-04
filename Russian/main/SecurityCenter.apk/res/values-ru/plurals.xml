@@ -683,9 +683,9 @@
         <item quantity="one">+%d</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
-        <item quantity="other">%d приложений расходуют батарею</item>
-        <item quantity="one">%d приложение расходует батарею</item>
-        <item quantity="few">%d приложения расходуют батарею</item>
+        <item quantity="other">%d приложений расходуют заряд</item>
+        <item quantity="one">%d приложение расходует заряд</item>
+        <item quantity="few">%d приложения расходуют заряд</item>
     </plurals>
     <plurals name="pc_battery_history_hour">
         <item quantity="other">" ч."</item>
@@ -780,9 +780,9 @@
         <item quantity="few">раз(а)</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
-        <item quantity="other">%d решений</item>
-        <item quantity="one">%d решение</item>
-        <item quantity="few">%d решения</item>
+        <item quantity="other">%d проблем</item>
+        <item quantity="one">%d проблема</item>
+        <item quantity="few">%d проблемы</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d д. "</item>
@@ -809,14 +809,14 @@
         <item quantity="one">"%d мин. "</item>
     </plurals>
     <plurals name="power_center_battery_problem">
-        <item quantity="other">Можно решить %d проблем с питанием</item>
-        <item quantity="one">Можно решить %d проблему с питанием</item>
-        <item quantity="few">Можно решить %d проблемы с питанием</item>
+        <item quantity="other">Устранить %d проблем с питанием</item>
+        <item quantity="one">Устранить %d проблему с питанием</item>
+        <item quantity="few">Устранить %d проблемы с питанием</item>
     </plurals>
     <plurals name="power_center_battery_problem_result">
-        <item quantity="other">Можно решить %d проблем с питанием</item>
-        <item quantity="one">Можно решить %d проблему с питанием</item>
-        <item quantity="few">Можно решить %d проблемы с питанием</item>
+        <item quantity="other">Устранить %d проблем с питанием</item>
+        <item quantity="one">Устранить %d проблему с питанием</item>
+        <item quantity="few">Устранить %d проблемы с питанием</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
         <item quantity="other">%d рекомендаций</item>
@@ -824,9 +824,9 @@
         <item quantity="few">%d рекомендации</item>
     </plurals>
     <plurals name="power_center_battery_suggest">
-        <item quantity="other">Выполните %d рекомендаций</item>
-        <item quantity="one">Выполните %d рекомендацию</item>
-        <item quantity="few">Выполните %d рекомендации</item>
+        <item quantity="other">Выполнить %d рекомендаций</item>
+        <item quantity="one">Выполнить %d рекомендацию</item>
+        <item quantity="few">Выполнить %d рекомендации</item>
     </plurals>
     <plurals name="power_center_battery_suggest_result">
         <item quantity="other">%d рекомендаций</item>
@@ -994,9 +994,9 @@
         <item quantity="few">Найдено %d проблемы с питанием, решите их</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
-        <item quantity="other">Решено %d проблем с питанием</item>
-        <item quantity="one">Решена %d проблема с питанием</item>
-        <item quantity="few">Решено %d проблемы с питанием</item>
+        <item quantity="other">Устранено %d проблем с питанием</item>
+        <item quantity="one">Устранена %d проблема с питанием</item>
+        <item quantity="few">Устранено %d проблемы с питанием</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">Сброс настроек (%d сек.)</item>
