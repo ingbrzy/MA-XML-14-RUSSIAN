@@ -90,6 +90,7 @@
     <string name="afternoon">После полудня</string>
     <string name="agree">Принимаю</string>
     <string name="agree_and_continue">Принимаю</string>
+    <string name="agree_label">Принимаю</string>
     <string name="ai_animation_music_text">Саундтрек ИИ</string>
     <string name="ai_music_save_cancel">Отмена</string>
     <string name="ai_music_save_dialog_title">Сохранить</string>
@@ -145,6 +146,7 @@
     <string name="btn_playlist_play_all">Воспроизвести</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_choose">Снять выбор</string>
+    <string name="cancel_label">X</string>
     <string name="cancel_subscribe_tips">Отписаться?</string>
     <string name="canceled">Отменено</string>
     <string name="cast_ad_label">Реклама</string>
@@ -319,6 +321,8 @@
     <string name="day">день</string>
     <string name="default_filedownloader_notification_content">Идет загрузка файла</string>
     <string name="default_filedownloader_notification_title">Загрузка файла</string>
+    <string name="default_message_body">Текст сообщения</string>
+    <string name="default_title">Заголовок</string>
     <string name="default_upgrade_hint">"Привет!
 Mi Видео готово к обновлению.
 Обновите приложение прямо сейчас, чтобы оценить новые функции!
@@ -898,6 +902,8 @@ ID: %s
     <string name="local_hide_folder_setting_tip">Скрытыми видео можно управлять в разделе Профиль > Настройки > Управление скрытыми видео</string>
     <string name="local_play_end_camera_title">Другие видео</string>
     <string name="local_play_end_close_tip">Рекомендации сегодня больше не будут показываться</string>
+    <string name="local_play_end_download_drag_up_guide">Нажмите или сделайте свайп для загрузки</string>
+    <string name="local_play_end_download_title">Загрузите любимые видео</string>
     <string name="local_play_end_drag_up_guide">Нажмите или проведите вверх для воспроизведения Shorts</string>
     <string name="local_play_tip">Воспроизведение видео на устройстве</string>
     <string name="local_push_setting_power_tag">Уведомления о локальных видео</string>
@@ -942,6 +948,7 @@ ID: %s
     <string name="long_video_watch_on">Смотреть дальше</string>
     <string name="long_video_you_may_also_like">Также может понравиться</string>
     <string name="look_look_agin">Рекомендации</string>
+    <string name="look_main">Ознакомление</string>
     <string name="lp_base_folder">SD-карта</string>
     <string name="lp_play_mode_list_loop">Повторять все</string>
     <string name="lp_play_mode_pause">Однократно</string>
@@ -1096,6 +1103,9 @@ ID: %s
     <string name="material_timepicker_text_input_mode_description">Ввод времени в текстовом режиме</string>
     <string name="mediation_ad">Реклама</string>
     <string name="mediation_ad_can_not_share">Не удалось поделиться этим видео</string>
+    <string name="member">VIP</string>
+    <string name="message_notify">Уведомление о новом сообщении</string>
+    <string name="mgmi_ad_mid_wait">Сделайте перерыв</string>
     <string name="mi_video">Mi Видео</string>
     <string name="mi_video_pip_mode">Картинка в картинке</string>
     <string name="midnight">Ночь</string>
@@ -1182,6 +1192,7 @@ ID: %s
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
     <string name="more">Ещё</string>
+    <string name="more_goto_manguotv">Перейдите на Mango TV, разблокируйте дополнительный контент</string>
     <string name="morning">Утро</string>
     <string name="mr_button_content_description">Трансляция</string>
     <string name="mr_cast_button_connected">Трансляция. Подключено</string>
@@ -1259,8 +1270,10 @@ ID: %s
     <string name="no_account">Вход не выполнен</string>
     <string name="no_app_found_error">Приложение не найдено</string>
     <string name="no_history">Ничего нет</string>
+    <string name="no_kandan">Список пуст</string>
     <string name="no_longer_prompt">Больше не показывать</string>
     <string name="no_more_content">Больше ничего нет</string>
+    <string name="no_more_data">Больше ничего нет</string>
     <string name="no_network">Не удалось подключиться к сети</string>
     <string name="no_network_tips">Невозможно использовать функцию. Доступ к сети ограничен.</string>
     <string name="no_phone">Нет номера телефона</string>
@@ -1289,6 +1302,7 @@ ID: %s
     <string name="notification_tool">Панель инструментов</string>
     <string name="notification_type_channel_music">Воспроизведение музыки</string>
     <string name="notify_apk_installed">Загрузка завершена</string>
+    <string name="notify_tool">инструмент уведомлений</string>
     <string name="off">[откл.]</string>
     <string name="off_tip_firework_recommend">Вы больше не будете получать персонализированные рекомендации по контенту от Firework.</string>
     <string name="offline_ad_free">Оффлайн-реклама</string>
@@ -1501,6 +1515,7 @@ ID: %s
     <string name="passport_wrong_vcode">Неверный код</string>
     <string name="passport_wrong_voice">Неверный код</string>
     <string name="password_toggle_content_description">Показать пароль</string>
+    <string name="pay_d">Кеширование видео с таким разрешением доступно только VIP</string>
     <string name="permission_continue">Продолжить</string>
     <string name="permission_info">"Mi Видео требуется доступ к IMEI вашего устройства для:
  
@@ -1719,6 +1734,7 @@ ID: %s
     <string name="recommend_slide_to_more">Проведите, чтобы загрузить больше</string>
     <string name="recommend_switch_alert">Перейдите в раздел Настройки в Mi Видео, чтобы удалить эту секцию</string>
     <string name="recommend_to_you">Рекомендуемое</string>
+    <string name="reject_all_label">Отклонить все</string>
     <string name="reload_sub_title">Нажмите, чтобы повторить.</string>
     <string name="reload_title">Ошибка подключения к сети.</string>
     <string name="remaining_space">Доступно: %s</string>
@@ -1807,10 +1823,11 @@ ID: %s
     <string name="share_ugc_content">Обратите внимание на %1$s! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Присоединиться</string>
     <string name="share_ugc_waitting">Создание ссылки…</string>
+    <string name="show_options_label">Показать параметры</string>
     <string name="show_the_location">Тип уведомлений</string>
     <string name="sign_in">Выполняется вход</string>
     <string name="sign_in_google_account">Вход с аккаунтом Google</string>
-    <string name="sign_in_google_account_hint">Войдите в свой аккаунт Google, чтобы увидеть больше видео</string>
+    <string name="sign_in_google_account_hint">Войдите в аккаунт Google, чтобы увидеть больше видео</string>
     <string name="sign_in_mi_account">Вход c Xiaomi аккаунтом</string>
     <string name="sign_in_progress">Выполняется вход…</string>
     <string name="sign_in_title">Войдите в свой Xiaomi аккаунт</string>
@@ -1875,6 +1892,9 @@ ID: %s
     <string name="srl_header_update">"'Обновление' M-d HH:mm"</string>
     <string name="ssp_common_cancel">Отмена</string>
     <string name="ssp_common_confim">Да</string>
+    <string name="ssp_common_continue">Продолжить</string>
+    <string name="ssp_confim_leave">Посмотреть возможности?</string>
+    <string name="ssp_ssl_error">Небезопасный сертификат веб-сайта</string>
     <string name="start_download">Загрузка</string>
     <string name="start_download_tip">Добавлено в очередь. Проверьте прогресс в Профиль &gt; Загрузки.</string>
     <string name="storage_external_sdcard">SD-карта</string>
@@ -2150,6 +2170,7 @@ ID: %s
     <string name="video_resolution_tag_suffix">%dP</string>
     <string name="videos_guide_tip">Откройте для себя тренды Индонезии</string>
     <string name="view">Просмотр</string>
+    <string name="vip_skip">Пропуск рекламы только для VIP</string>
     <string name="vk_video_tab">Для вас</string>
     <string name="vp_VideoView_error_button">ОК</string>
     <string name="vp_VideoView_error_text_unknown">Произошла ошибка</string>

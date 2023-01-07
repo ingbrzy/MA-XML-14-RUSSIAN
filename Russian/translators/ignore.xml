@@ -3641,6 +3641,8 @@
     <string name="pa_font_mi_sans_light">sans-serif-light</string>
     <string name="pa_font_mi_sans_regular">sans-serif-regular</string>
     <string name="pa_font_mi_type_semi_bold">mitype-semibold</string>
+    <string name="package_mobil_qq">com.tencent.mobileqq</string>
+    <string name="package_wechat">com.tencent.mm</string>
     <string name="page_search_result" formatted="false">%d/%d</string>
     <string name="pairing_ui_package">com.android.settings</string>
     <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
@@ -4154,6 +4156,10 @@
     <string name="rtt_settings_no_visible" />
     <string name="rtt_settings_title" />
     <string name="rtt_settings_visible_during_call" />
+    <string name="rule_pkg_facebook">com.facebook.katana</string>
+    <string name="rule_pkg_qq">com.tencent.mobileqq</string>
+    <string name="rule_pkg_wechat">com.tencent.mm</string>
+    <string name="rule_pkg_whatsapp">com.whatsapp</string>
     <string name="sa_channel_key_class_1">sa_channel_key_class_1</string>
     <string name="sa_channel_key_class_2">sa_channel_key_class_2</string>
     <string name="sa_channel_key_class_3">sa_channel_key_class_3</string>

@@ -1413,6 +1413,7 @@
     <string-array name="subtitle_font_title"></string-array>
     <string-array name="subtitle_language_codes"></string-array>
     <string-array name="subtitle_language_names"></string-array>
+    <string-array name="suggest_lock_app"></string-array>
     <string-array name="super_wallpaper_list_complete_packages"></string-array>
     <string-array name="super_wallpaper_list_ids"></string-array>
     <string-array name="super_wallpaper_list_packages"></string-array>

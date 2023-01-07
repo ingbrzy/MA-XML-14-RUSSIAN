@@ -1886,10 +1886,11 @@
     <string name="no_mobile_data">Мобильный интернет недоступен</string>
     <string name="no_mobile_data_roaming">Интернет-роуминг недоступен</string>
     <string name="no_rtt_when_roaming">Примечание: RTT не доступен в роуминге</string>
-    <string name="no_unlock_chance_hint">"Вы исчерпали все попытки.
+    <string name="no_unlock_chance_hint">"Все попытки исчерпаны.
 Свяжитесь с оператором."</string>
     <string name="no_vm_number">Не указан номер голосовой почты</string>
     <string name="no_vm_number_msg">На SIM-карте нет номеров голосовой почты.</string>
+    <string name="no_voice_capability">Оператор недоступен. Повторите позже.</string>
     <string name="no_voip">Вызовы через SIP не поддерживаются</string>
     <string name="no_volte_call_service_notification_content2_for_cbn">Вызовы недоступны. Cлужба HD Voice не зарегистрирована для SIM-карты %d (China Broadnet).</string>
     <string name="no_volte_call_service_notification_content_for_cbn">Вызовы недоступны. Cлужба HD Voice не зарегистрирована для SIM-карт China Broadnet.</string>

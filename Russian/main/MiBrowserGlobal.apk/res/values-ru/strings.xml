@@ -2604,7 +2604,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="sign_message">http://%s требуется ваше имя пользователя и пароль.</string>
     <string name="sign_out">Выйти</string>
     <string name="signin_with_facebook">Войти с помощью Facebook</string>
-    <string name="signin_with_google">Войти с помощью Google</string>
+    <string name="signin_with_google">Войти с помощьют Google</string>
     <string name="simple_page_toast">Вы можете изменить вид главной страницы в разделе \"Настройки\" > \"Настройки главной страницы\"</string>
     <string name="skip">Пропуск</string>
     <string name="skip_current_version">Пропустить эту версию</string>

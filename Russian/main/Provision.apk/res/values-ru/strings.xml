@@ -233,6 +233,8 @@
     <string name="midnight">Ночь</string>
     <string name="mint_keyboard_oobe_checkbox">Я принимаю политику конфиденциальности Mint Keyboard</string>
     <string name="mint_keyboard_oobe_terms">Политика конфиденциальности Mint Keyboard</string>
+    <string name="miui14_global_start_up_slogan" />
+    <string name="miui14_start_up_slogan">На старт. Внимание. Вперёд.</string>
     <string name="miui_privacy_policy_no_network">Нет подключения к интернету. Ознакомьтесь с Политикой конфиденциальности на %s.</string>
     <string name="miui_provision">Первоначальная настройка</string>
     <string name="miui_terms_no_network">Нет подключения к интернету. Ознакомьтесь с Пользовательским соглашением на %s.</string>
