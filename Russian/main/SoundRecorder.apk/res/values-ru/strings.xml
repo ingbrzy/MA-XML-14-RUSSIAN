@@ -651,7 +651,7 @@
     <string name="toast_uninstall_fileexplorer">Проводник не установлен</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
-    <string name="trash_box">Недавно удаленные файлы</string>
+    <string name="trash_box">Корзина</string>
     <string name="trash_box_close_tip">Закрыть</string>
     <string name="trash_box_delete_all">Удалить все файлы из корзины?</string>
     <string name="tuesday">Вторник</string>

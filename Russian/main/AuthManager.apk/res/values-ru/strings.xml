@@ -99,6 +99,8 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Запрос номера телефона у оператора связи для входа в систему</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Если не удалось войти в систему одним нажатием, вернитесь на страницу входа и повторите попытку</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Приложение пытается запросить ваш номер телефона у оператора связи для входа в систему. Разрешить?</string>
+    <string name="HIPS_Perm_operator_shake">Данные акселерометра</string>
+    <string name="HIPS_Perm_operator_shake_Desc">Доступ к данным акселерометра для отслеживания ориентации и движения (например, тряски, наклона и вращения)</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">Использование NFC</string>
     <string name="HIPS_Perm_process_outgoing_calls">Доступ к телефону</string>
@@ -338,6 +340,7 @@
     <string name="permdesc_recognition">Разрешить %1$s доступ к данным о физической активности?</string>
     <string name="permdesc_send_sms">Разрешить %1$s отправлять SMS?</string>
     <string name="permdesc_sensors">Разрешить %1$s доступ к данным нательных датчиков?</string>
+    <string name="permdesc_shake">Разрешить %1$s доступ к данным акселерометра?</string>
     <string name="permdesc_use_sip">Разрешить %1$s использовать SIP-протокол для потокового видео?</string>
     <string name="permdesc_write_calendar">Разрешить %1$s добавлять мероприятия в календарь?</string>
     <string name="permdesc_write_call_log">Разрешить %1$s редактировать журнал вызовов?</string>

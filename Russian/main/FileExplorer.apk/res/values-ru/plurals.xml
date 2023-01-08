@@ -58,9 +58,9 @@
     <item quantity="few">%1$d дня назад</item>
   </plurals>
     <plurals name="delete_cloud_files">
-        <item quantity="other">Удалить %1$d файлов со всех устройств и из облака? Файлы Mi Drive можно восстановить в \"Недавно удаленные файлы\".</item>
-        <item quantity="one">Удалить %1$d файл со всех устройств и из облака? Файлы Mi Drive можно восстановить в \"Недавно удаленные файлы\".</item>
-        <item quantity="few">Удалить %1$d файла со всех устройств и из облака? Файлы Mi Drive можно восстановить в \"Недавно удаленные файлы\".</item>
+        <item quantity="other">Удалить %1$d файлов со всех устройств и из облака? Файлы Mi Drive можно восстановить из Корзины.</item>
+        <item quantity="one">Удалить %1$d файл со всех устройств и из облака? Файлы Mi Drive можно восстановить из Корзины.</item>
+        <item quantity="few">Удалить %1$d файла со всех устройств и из облака? Файлы Mi Drive можно восстановить из Корзины.</item>
     </plurals>
     <plurals name="delete_files">
     <item quantity="other">Удалить %1$d файлов?</item>

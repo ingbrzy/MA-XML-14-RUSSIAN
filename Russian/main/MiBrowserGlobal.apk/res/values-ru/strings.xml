@@ -663,12 +663,12 @@
     <string name="delete_bookmark_warning">Удалить закладку \"%s\"?</string>
     <string name="delete_dialog_button">Удалить</string>
     <string name="delete_download">Удалить</string>
-    <string name="delete_file_dialog_msg">Вы не сможете восстановить удаленные объекты.</string>
+    <string name="delete_file_dialog_msg">Вы не сможете восстановить удалённые объекты.</string>
     <string name="delete_file_dialog_title">Удалить выбранные файлы?</string>
     <string name="delete_file_error">Ошибка удаления файла</string>
     <string name="delete_result_fail">Ошибка удаления</string>
     <string name="delete_result_success">Удалено</string>
-    <string name="delete_task_and_file_dialog_msg">Загрузка будет удалена вместе с файлом. Вы не сможете восстановить удаленные объекты.</string>
+    <string name="delete_task_and_file_dialog_msg">Загрузка будет удалена вместе с файлом. Вы не сможете восстановить удалённые объекты.</string>
     <string name="delete_task_and_file_dialog_title">Удалить выбранную загрузку и файл?</string>
     <string name="delete_task_dialog_msg">Удалить выбранную загрузку?</string>
     <string name="detail_guide_tips">Проведите вверх для поиска похожих объектов</string>
@@ -2016,7 +2016,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="pf_guide_msg_if_has_downloading">Текущие загрузки нельзя добавлять в личную папку</string>
     <string name="pf_move_out">Удалить из личной папки</string>
     <string name="pf_move_out_dialog_btn_confirm">Удалить</string>
-    <string name="pf_move_out_dialog_content">Удаленные объекты будут перемещены в исходную папку.</string>
+    <string name="pf_move_out_dialog_content">Удалённые объекты будут перемещены в исходную папку.</string>
     <string name="pf_move_out_dialog_title">Удаление из личной папки</string>
     <string name="pf_toast_add_success">Перенесено в личную папку</string>
     <string name="phone">Хранилище</string>

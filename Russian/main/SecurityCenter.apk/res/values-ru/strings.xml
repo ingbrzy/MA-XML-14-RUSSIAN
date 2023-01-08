@@ -217,7 +217,7 @@
     <string name="antivirus_main_activity_back">Назад</string>
     <string name="antivirus_monitor_btn_text_clean_risk">Удалить приложения</string>
     <string name="antivirus_monitor_btn_text_clean_virus">Удалить вирусы</string>
-    <string name="antivirus_monitor_clean_tips">Удаленные объекты: %s</string>
+    <string name="antivirus_monitor_clean_tips">Удалённые объекты: %s</string>
     <string name="antivirus_monitor_risk_advice">Это приложение небезопасно, удалите его</string>
     <string name="antivirus_monitor_virus_advice">Это приложение может содержать вирус, удалите его</string>
     <string name="antivirus_monitored_app_empty">Совместимые платежные приложения не найдены</string>
