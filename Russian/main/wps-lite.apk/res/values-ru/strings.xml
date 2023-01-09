@@ -148,6 +148,8 @@
     <string name="go_to_download">Загрузить</string>
     <string name="help_send_editing_file">отправьте документ %s, помогите разработчикам найти источник проблемы.</string>
     <string name="highlight">Выделить</string>
+    <string name="kslite_sign_url" />
+    <string name="kslite_sign_url_test" />
     <string name="online_security_error_code_no_operation_permission">У вас нет разрешения на выполнение этой операции</string>
     <string name="pdf_comment">Комментарий</string>
     <string name="pdf_decrypt_edit_tips">Автор настроил пароль для редактирования документа. Для продолжения введите пароль.</string>
@@ -172,7 +174,7 @@
     <string name="ppt_no_note">Нет комментариев</string>
     <string name="ppt_no_slide_for_play">Файл нельзя отобразить, так как он не содержит слайдов.</string>
     <string name="ppt_note_null">(Пусто)</string>
-    <string name="ppt_sharedplay">Meeting</string>
+    <string name="ppt_sharedplay">Встреча</string>
     <string name="ppt_sharedplay_by_miracast">Miracast</string>
     <string name="ppt_sharedplay_device_searching">Поиск видимых устройств Miracast.</string>
     <string name="ppt_sharedplay_miracast_device_list_title">Список устройств</string>
@@ -207,12 +209,14 @@
     <string name="public_cut">Вырезать</string>
     <string name="public_decryptDocument">Расшифровать</string>
     <string name="public_displayPasswd">Отобразить пароль</string>
+    <string name="public_display_privacy_policy">Политика конфиденциальности</string>
     <string name="public_doc_end_preview_tip">Предварительный просмотр документа доступен на платформе WPS Office</string>
     <string name="public_edit">Правка</string>
     <string name="public_edit_with_wps">Редактировать в WPS Office</string>
     <string name="public_enter_phonemode">Перейти к мобильному виду</string>
     <string name="public_exit_phonemode">Выйти из мобильного вида</string>
     <string name="public_exit_play">Выход</string>
+    <string name="public_feedback">Обратная связь</string>
     <string name="public_fileNotExist">Файл не существует. Файл мог быть переименован, перемещён или удалён.</string>
     <string name="public_file_cant_write_tips">Невозможно сохранить файл в текущий каталог. Сохранить как новый файл в другой каталог?</string>
     <string name="public_file_download">Загрузка файла</string>
@@ -234,6 +238,7 @@
     <string name="public_lite_update_cloud_dialog_message">Обновите WPS Office, получите удовольствие от сервиса %s</string>
     <string name="public_lite_update_right_now">Обновить</string>
     <string name="public_lite_use_right_now">Использовать</string>
+    <string name="public_loadDocumentError">Файл не существует или не может быть открыт</string>
     <string name="public_loadDocumentFormatError">Ошибка формата файла. Не удается открыть файл.</string>
     <string name="public_loadDocumentLackOfStorageError">"Невозможно открыть файл.
 -Недостаточно места на диске."</string>
@@ -272,6 +277,7 @@
     <string name="public_permission_storage_disallow_msg">После неудачной попытки авторизации вы не сможете просматривать и сохранять локальные документы в программе WPS. Попробуйте повторно выполнить авторизацию</string>
     <string name="public_play">Слайды</string>
     <string name="public_ppt_label">Просмотр презентаций</string>
+    <string name="public_privacy_update">&lt;Data>Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочтите и примите нашу новую &lt;a href=\"%s\">Политику конфиденциальности&lt;/a>.&lt;/Data></string>
     <string name="public_re_licensing">Выполнить лицензирование</string>
     <string name="public_readOnlyMode">Только чтение</string>
     <string name="public_recory_edit_not_save_tips">Несохраненное содержимое уже восстановлено.</string>
@@ -280,7 +286,12 @@
     <string name="public_refuse_jurisdiction">Отказ в доступе</string>
     <string name="public_replace">Заменить</string>
     <string name="public_request_senior_password">Введите пароль пользователя с наивысшими правами</string>
+    <string name="public_revoke">Отозвать %s</string>
+    <string name="public_revoke_privacy_content">Если Вы продолжите, согласие с Политикой конфиденциальности Mi Doc Viewer (предоставлено WPS) будет отозвано, а сбор вашей личной информации будет прекращён. Уже собранная и сохраненная личная информация будет удалена в течение определённого срока в соответствии с действующими законами и правилами, если не требуется иное. Отзыв согласия будет рассматриваться как отказ от сервисов, предоставляемых Mi Doc Viewer (предоставлено WPS).</string>
+    <string name="public_revoke_privacy_desc">Отозвать согласие с политикой конфиденциальности Mi Doc Viewer (предоставлено WPS)</string>
+    <string name="public_revoke_privacy_title">Отзыв согласия</string>
     <string name="public_ribbon_font">Шрифт</string>
+    <string name="public_rotate">Поворот</string>
     <string name="public_save">Сохранить</string>
     <string name="public_saveAs">Сохранить как</string>
     <string name="public_saveDocumentError">Ошибка при сохранении документа</string>
