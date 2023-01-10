@@ -3488,6 +3488,8 @@ ID: %s
     <string name="enable_blurs_on_windows_summary">Включает размытие окна на уровне композиции. Требуется перезагрузка устройства.</string>
     <string name="enable_blurs_on_windows_title">Размытие</string>
     <string name="enable_compatibility">Масштабировать приложения</string>
+    <string name="enable_crbt_pref_summary">Не показывать видео профиля для входящих вызовов при тестировании</string>
+    <string name="enable_crbt_pref_title">Видео профиля</string>
     <string name="enable_freeform_support">Окна произвольной формы</string>
     <string name="enable_freeform_support_summary">Включить поддержку экспериментальной функции создания окон произвольной формы</string>
     <string name="enable_gnss_raw_meas_full_tracking">Полные измерения GNSS</string>
@@ -9672,6 +9674,7 @@ UT-интерфейс: %5$s"</string>
     <string name="string_kHz_2">%.1f кГц</string>
     <string name="string_kHz_3">%.1f кГц</string>
     <string name="string_kHz_4">%.1f кГц</string>
+    <string name="string_kHz_5">%.1f кГц</string>
     <string name="string_never">Никогда</string>
     <string name="string_off">Откл.</string>
     <string name="string_offed">Вкл.</string>

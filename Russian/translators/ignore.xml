@@ -847,6 +847,7 @@
     <string name="back_rosemary">4:REDMI NOTE 10S</string>
     <string name="back_secret">4:REDMI NOTE 10S</string>
     <string name="back_secretin">4:REDMI NOTE 10S</string>
+    <string name="back_secretin_india_redmi_note_11_se">4:REDMI NOTE 11 SE</string>
     <string name="back_selene_global_redmi_10">4:REDMI 10</string>
     <string name="back_selene_global_redmi_10_2022">4:REDMI 10 2022</string>
     <string name="back_selene_india_redmi_10_prime">4:REDMI 10 PRIME</string>
@@ -1016,7 +1017,9 @@
     <string name="call_type_and_date">%1$s %2$s</string>
     <string name="camera_new_slow_motion_quality_default">5</string>
     <string name="camera_newcta_permission_camera">android.permission-group.CAMERA</string>
+    <string name="camera_newcta_permission_location">android.permission-group.LOCATION</string>
     <string name="camera_newcta_permission_microphone">android.permission-group.MICROPHONE</string>
+    <string name="camera_newcta_permission_phone">android.permission-group.PHONE</string>
     <string name="camera_newcta_permission_storage">android.permission-group.STORAGE</string>
     <string name="camera_path">/DCIM/Camera</string>
     <string name="cannot_get_download_url">获取不到安全服务下载地址</string>
@@ -2401,6 +2404,7 @@
     <string name="extra_photo_common_transition_menu_view">tag_transition_view_menu</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+    <string name="face_ani_duration">100</string>
     <string name="face_beauty_age_alias_0_7">0-7</string>
     <string name="face_beauty_age_alias_18_30">18-30</string>
     <string name="face_beauty_age_alias_31_44">31-44</string>
@@ -3691,6 +3695,7 @@
     <string name="permission_location">android.permission-group.LOCATION@1</string>
     <string name="permission_microphone">android.permission-group.MICROPHONE@0</string>
     <string name="permission_phone_state">android.permission-group.PHONE@0</string>
+    <string name="permission_read_phone_state">android.permission-group.PHONE@0@%1$s@%2$s</string>
     <string name="permission_storage">android.permission-group.STORAGE@0</string>
     <string name="permission_storage_desc_2">@string/permission_storage_desc</string>
     <string name="person_description">我的</string>

@@ -634,6 +634,7 @@
     <string name="wallpaper_group_dynamic_nebula_title">Динамическая туманность</string>
     <string name="wallpaper_group_geometric_subtitle">Рутгер Паулюсс</string>
     <string name="wallpaper_group_geometric_title">Геометрия</string>
+    <string name="wallpaper_group_glassy_light_title">Многослойное стекло</string>
     <string name="wallpaper_group_light_cycles_title">Неоновые круги</string>
     <string name="wallpaper_group_macaron_title">Галька</string>
     <string name="wallpaper_group_minimalist_scenery_title">Минимализм</string>
@@ -645,6 +646,7 @@
     <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Университет Аризоны</string>
     <string name="wallpaper_group_red_mars_title">Марс</string>
     <string name="wallpaper_group_sgn_mountain_title">Гора Сигунян</string>
+    <string name="wallpaper_group_shadow_geometry_title">Геометрия теней</string>
     <string name="waterdrop_preview">Капли</string>
     <string name="wifi_assistant_wifi_no_internet">Сеть Wi-Fi без доступа в интернет</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Нажмите для просмотра.</string>
