@@ -457,7 +457,7 @@
     <string name="account_autostar_label">Автозапуск</string>
     <string name="account_confirmation_class" />
     <string name="account_confirmation_package" />
-    <string name="account_dashboard_default_summary">Сохраненные пароли, автозаполнение, синхронизируемые аккаунты</string>
+    <string name="account_dashboard_default_summary">Сохранённые пароли, автозаполнение, синхронизируемые аккаунты</string>
     <string name="account_dashboard_title">Пароли и аккаунты</string>
     <string name="account_for_section_header">Аккаунты для пользователя %1$s</string>
     <string name="account_list">Другие аккаунты</string>
@@ -2509,7 +2509,7 @@
     <string name="connected_device_other_device_title">Другие устройства</string>
     <string name="connected_device_previously_connected_screen_title">Ранее подключённые</string>
     <string name="connected_device_previously_connected_title">Ранее подключённые устройства</string>
-    <string name="connected_device_saved_title">Сохраненные устройства</string>
+    <string name="connected_device_saved_title">Сохранённые устройства</string>
     <string name="connected_device_see_all_summary">Будет включён Bluetooth</string>
     <string name="connected_devices_dashboard_android_auto_no_driving_mode_summary">Bluetooth, Android Auto, NFC</string>
     <string name="connected_devices_dashboard_android_auto_no_nfc_no_driving_mode">Bluetooth, Android Auto</string>
@@ -2522,7 +2522,7 @@
     <string name="connected_devices_dashboard_summary">Bluetooth, трансляция, NFC</string>
     <string name="connected_devices_dashboard_title">Подключённые устройства</string>
     <string name="connected_to_metered_access_point">Подключено к сети с тарификацией</string>
-    <string name="connected_tws_device_saved_title">Сохраненные наушники</string>
+    <string name="connected_tws_device_saved_title">Сохранённые наушники</string>
     <string name="connected_via_app">Подключено через %1$s.</string>
     <string name="connected_via_carrier">Подключено через %1$s</string>
     <string name="connected_via_network_scorer">Автоматически подключено через %1$s</string>
@@ -2995,7 +2995,7 @@
     <string name="delete_legacy_fingerprint">Удалить</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Удалить отпечатки?</string>
     <string name="delete_rule">Удаление расписания</string>
-    <string name="delete_saved_network">Удаление сохраненных сетей</string>
+    <string name="delete_saved_network">Удаление сохранённых сетей</string>
     <string name="delete_sound_effect">Звук удаления файлов</string>
     <string name="deleted_apps">Удаленные приложения</string>
     <string name="deletion_helper_automatic_title">Автоматически</string>
@@ -3014,7 +3014,7 @@
     <string name="detailed_wifi_logging_disabled">Подробное ведение журнала Wi-Fi отключено</string>
     <string name="detailed_wifi_logging_enabled">Подробное ведение журнала Wi-Fi включено</string>
     <string name="details_subtitle">Расход батареи</string>
-    <string name="dev_logpersist_clear_warning_message">Прекратив отслеживание постоянного журнала, мы будем обязаны удалить его данные, сохраненные на устройстве.</string>
+    <string name="dev_logpersist_clear_warning_message">Прекратив отслеживание постоянного журнала, мы будем обязаны удалить его данные, сохранённые на устройстве.</string>
     <string name="dev_logpersist_clear_warning_title">Очистить постоянный диск журнала?</string>
     <string name="dev_settings_disabled_warning">Сначала включите параметры для разработчиков.</string>
     <string name="dev_settings_warning_message">Только для разработчиков. Изменение этих настроек может привести к сбоям или неправильной работе устройства и приложений.</string>
@@ -4034,7 +4034,7 @@ ID: %s
 
 Вокруг сновали мужчины, женщины, дети, и все они носили зелёную одежду, и кожа у них была зеленоватого оттенка. Они с удивлением смотрели на Дороти и её странных спутников. Завидев большого Льва, дети прятались за спины родителей, и никто не осмеливался задавать вопросы чужестранцам. В магазинах продавались товары зелёного цвета – зелёные конфеты и зелёная жареная кукуруза, зелёные башмаки и шляпы, зелёные платья и сюртуки всех фасонов и размеров. На одном из лотков продавец торговал зелёным лимонадом, и обступившие его дети расплачивались зелёными монетками.
 
-На улицах Изумрудного Города не было ни лошадей, ни других животных. Мужчины возили поклажу в маленьких тачках на колесиках. У жителей Изумрудного Города был веселый и довольный вид."</string>
+На улицах Изумрудного Города не было ни лошадей, ни других животных. Мужчины возили поклажу в маленьких тачках на колесиках. У жителей Изумрудного Города был весёлый и довольный вид."</string>
     <string name="font_size_preview_text_headline">Пример текста</string>
     <string name="font_size_preview_text_subtitle">Глава 11. Изумрудный город страны Оз</string>
     <string name="font_size_preview_text_title">Удивительный волшебник из страны Оз</string>
@@ -4162,7 +4162,7 @@ ID: %s
     <string name="full_transparent_smarrcover_title">Прозрачная</string>
     <string name="fullbackup_data_summary">"Автоматическое копирование данных устройства (например, паролей Wi-Fi и журнала вызовов) и данных приложений (например, настроек и файлов приложений) на серверы.
 
-После включения резервного копирования данные будут периодически сохраняться на серверах. Обратите внимание, данные приложений могут включать конфиденциальную информацию: контакты, сообщения, фотографии и другие сведения, сохраненные приложением на устройстве согласно настройкам разработчика."</string>
+После включения резервного копирования данные будут периодически сохраняться на серверах. Обратите внимание, данные приложений могут включать конфиденциальную информацию: контакты, сообщения, фотографии и другие сведения, сохранённые приложением на устройстве согласно настройкам разработчика."</string>
     <string name="fullbackup_erase_dialog_message">Резервное копирование данных устройства (пароли Wi-Fi, журнал вызовов и др.) и данных приложений (настройки, файлы приложений и др.) будет отключено. Резервные копии на серверах будут удалены. Продолжить?</string>
     <string name="function_description">О функции</string>
     <string name="gadget_picker_title">Выбор гаджета</string>
@@ -4441,7 +4441,7 @@ ID: %s
     <string name="headset_unsaved_device">Удалить устройство</string>
     <string name="headset_unsaved_devices">Используется на других устройствах</string>
     <string name="hearing_aids_category">Вспомогательные инструменты</string>
-    <string name="heavy_weight_stop_description">Если закрыть это приложение, несохраненные данные могут быть потеряны.</string>
+    <string name="heavy_weight_stop_description">Если закрыть это приложение, несохранённые данные могут быть потеряны.</string>
     <string name="height_light_list_text">Список важных пунктов</string>
     <string name="help_and_feedback_title">Обратная связь</string>
     <string name="help_feedback_label">Обратная связь</string>
@@ -5659,7 +5659,7 @@ ID: %s
     <string name="manage_notification_access_title">Доступ к уведомлениям</string>
     <string name="manage_notification_title">Уведомления приложений</string>
     <string name="manage_password">Управление паролями</string>
-    <string name="manage_password_summary">Автозаполнение сохраненных аккаунтов и паролей</string>
+    <string name="manage_password_summary">Автозаполнение сохранённых аккаунтов и паролей</string>
     <string name="manage_space_text">Управление местом</string>
     <string name="manage_trust_agents">Агенты доверия</string>
     <string name="manage_trust_agents_summary">Нет</string>
@@ -5703,7 +5703,7 @@ ID: %s
 "</string>
     <string name="master_clear_all">Удалить все данные из внутренней памяти устройства? Это необратимое действие!</string>
     <string name="master_clear_apply_step_1">Сброс к заводским настройкам удалит все данные с устройства, включая изображения, музыку, заметки и прочие персональные данные. Убедитесь, что важная информация сохранена на ПК.</string>
-    <string name="master_clear_apply_step_2">Убедитесь, что все важные данные сохранены на ПК. Все данные на этом устройстве будут удалены при сбросе. Вы не сможете восстановить несохраненные данные.</string>
+    <string name="master_clear_apply_step_2">Убедитесь, что все важные данные сохранены на ПК. Все данные на этом устройстве будут удалены при сбросе. Вы не сможете восстановить несохранённые данные.</string>
     <string name="master_clear_apply_title">Внимание</string>
     <string name="master_clear_button_text">Удалить</string>
     <string name="master_clear_confirm_title">Удалить все данные?</string>
@@ -8034,7 +8034,7 @@ UT-интерфейс: %5$s"</string>
     <string name="save_battery_mode">Экономия заряда с QHD+</string>
     <string name="save_battery_mode_summary">Автопереключение разрешения для экономии заряда</string>
     <string name="saved_network">Сохранено %1$s</string>
-    <string name="saved_wifi">Сохраненные сети</string>
+    <string name="saved_wifi">Сохранённые сети</string>
     <string name="saved_wifi_delete">Удалить</string>
     <string name="scan_list_label">Результаты сканирования:</string>
     <string name="scanning_status_text_off">Откл.</string>
@@ -8738,14 +8738,14 @@ UT-интерфейс: %5$s"</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_1">Защита отпечатком менее надежна, чем графический ключ или PIN-код.</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">Функция разблокировки отпечатком создает уникальную модель вашего отпечатка, чтобы идентифицировать вас. Для создания модели необходимо отсканировать палец в разных положениях.</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">Изображения, полученные с помощью функции Pixel Imprint, не сохраняются и используются только для обновления моделей отпечатков. Обработка и хранение моделей отпечатков происходит только на устройстве.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">Вы можете в любой момент удалить модели отпечатков, сохраненных на устройстве, либо отключить функцию разблокировки отпечатком в настройках.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">Вы можете в любой момент удалить модели отпечатков, сохранённых на устройстве, либо отключить функцию разблокировки отпечатком в настройках.</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_5">Устройство может быть разблокировано без вашего желания, например, если кто-то поднесет его к вашему пальцу.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6">Рекомендуем использовать защитное стекло или пленку из серии \"Сделано для Google\". Устройства с другими стеклами или пленками могут не распознавать отпечаток пальца.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6">Рекомендуем использовать защитное стекло или плёнку из серии \"Сделано для Google\". Устройства с другими стеклами или плёнками могут не распознавать отпечаток пальца.</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">Функция разблокировки отпечатком создает уникальную модель отпечатка вашего ребенка, чтобы идентифицировать его. Для создания модели необходимо отсканировать палец в разных положениях.</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">Изображения, полученные с помощью функции Pixel Imprint, не сохраняются и используются только для обновления моделей отпечатков. Обработка и хранение моделей отпечатков происходит только на устройстве.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">Вы и ваш ребенок можете в любой момент удалить модели отпечатков, сохраненных на устройстве, либо отключить функцию разблокировки отпечатком в настройках.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">Вы и ваш ребенок можете в любой момент удалить модели отпечатков, сохранённых на устройстве, либо отключить функцию разблокировки отпечатком в настройках.</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_5">Устройство может быть разблокировано без желания ребенка, например, если кто-то приложит устройство к пальцу ребенка.</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_6">Рекомендуем использовать защитное стекло или пленку из серии \"Сделано для Google\". Устройства с другими стеклами или пленками могут не распознавать отпечаток пальца ребенка.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_6">Рекомендуем использовать защитное стекло или плёнку из серии \"Сделано для Google\". Устройства с другими стеклами или плёнками могут не распознавать отпечаток пальца ребенка.</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_title_1">Важно!</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_title_2">Как это работает</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more" />
@@ -9300,7 +9300,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sos_privacy_policy_no_net_message">Для отзыва согласия требуется подключение к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="sos_privacy_policy_no_net_title">Ошибка подключения</string>
     <string name="sos_privacy_policy_revoke">Отзыв согласия</string>
-    <string name="sos_privacy_policy_revoke_message_reject">"Если вы продолжите, согласие с Политикой конфиденциальности функции \"Экстренная помощь\" будет отозвано. Уже собранная и сохраненная личная информация будет удалена в течение определённого срока, в соответствии с действующими законами и правилами, если не требуется иное.
+    <string name="sos_privacy_policy_revoke_message_reject">"Если вы продолжите, согласие с Политикой конфиденциальности функции \"Экстренная помощь\" будет отозвано. Уже собранная и сохранённая личная информация будет удалена в течение определённого срока, в соответствии с действующими законами и правилами, если не требуется иное.
 
 Поскольку функция \"Экстренная помощь\" предоставляет свои сервисы на основе сбора некоторой личной информации, отзыв согласия будет рассматриваться как отказ от использования сервисов безопасности.
 
@@ -9437,7 +9437,7 @@ UT-интерфейс: %5$s"</string>
     <string name="storage_detail_apps">Приложения</string>
     <string name="storage_detail_audio">Аудио</string>
     <string name="storage_detail_cached">Данные кеша</string>
-    <string name="storage_detail_dialog_other">"В разделе \"Другое\" находятся файлы с общим доступом, сохраненные приложениями, контент, скачанный из Интернета или по Bluetooth, файлы Android и т. д.
+    <string name="storage_detail_dialog_other">"В разделе \"Другое\" находятся файлы с общим доступом, сохранённые приложениями, контент, скачанный из Интернета или по Bluetooth, файлы Android и т. д.
 
 Чтобы узнать, какие данные есть на этом устройстве (^1), нажмите \"Обзор\"."</string>
     <string name="storage_detail_dialog_system">В разделе \"Система\" находятся файлы, используемые Android %s.</string>
@@ -9552,7 +9552,7 @@ UT-интерфейс: %5$s"</string>
 
 Карта \"^1\" будет работать только на этом устройстве.
 
-Все данные, сохраненные на карте \"^1\", будут удалены. Чтобы избежать их потери, создайте их резервную копию."</string>
+Все данные, сохранённые на карте \"^1\", будут удалены. Чтобы избежать их потери, создайте их резервную копию."</string>
     <string name="storage_wizard_format_confirm_next">Очистить и отформатировать</string>
     <string name="storage_wizard_format_confirm_public_body">"Потребуется отформатировать устройство ^1.
 Будут удалены все данные на устройстве ^1. Во избежание потери данных сделайте их резервную копию."</string>
@@ -9631,7 +9631,7 @@ UT-интерфейс: %5$s"</string>
 Используйте более быстрое устройство (^1)."</string>
     <string name="storage_wizard_slow_v2_body">"Вы все ещё можете использовать ^1, но оно может работать медленно. 
 
-Приложения, сохраненные на ^2 могут работать некорректно, перенос контента может занять много времени. 
+Приложения, сохранённые на ^2 могут работать некорректно, перенос контента может занять много времени. 
 
 Используйте более быстрое устройство ^3, или используйте ^4 как портативный накопитель."</string>
     <string name="storage_wizard_slow_v2_continue">Продолжить</string>
@@ -10283,59 +10283,59 @@ UT-интерфейс: %5$s"</string>
     <string name="unlock_disable_frp_warning_content_password">Пароль защитит данные на устройстве в случае его потери или кражи.</string>
     <string name="unlock_disable_frp_warning_content_password_face">"Пароль защитит данные на устройстве в случае его потери или кражи.
 
-Сохраненные данные лица будут удалены. Вы не сможете использовать разблокировку по лицу для аутентификации в приложениях."</string>
+Сохранённые данные лица будут удалены. Вы не сможете использовать разблокировку по лицу для аутентификации в приложениях."</string>
     <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"Пароль защитит данные на устройстве в случае его потери или кражи.
 
-Сохраненные данные лица и отпечатки будут удалены. Вы не сможете использовать разблокировку по лицу или отпечатком для аутентификации в приложениях."</string>
+Сохранённые данные лица и отпечатки будут удалены. Вы не сможете использовать разблокировку по лицу или отпечатком для аутентификации в приложениях."</string>
     <string name="unlock_disable_frp_warning_content_password_fingerprint">"Пароль защитит данные на устройстве в случае его потери или кражи.
 
-Сохраненные отпечатки будут удалены. Вы не сможете использовать разблокировку отпечатком для аутентификации в приложениях."</string>
+Сохранённые отпечатки будут удалены. Вы не сможете использовать разблокировку отпечатком для аутентификации в приложениях."</string>
     <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">"Без пароля защита профиля работать не будет.
 
-Сохраненные отпечатки будут удалены. Вы не сможете использовать разблокировку отпечатком для аутентификации в приложениях."</string>
+Сохранённые отпечатки будут удалены. Вы не сможете использовать разблокировку отпечатком для аутентификации в приложениях."</string>
     <string name="unlock_disable_frp_warning_content_password_profile">Без пароля защита профиля работать не будет.</string>
     <string name="unlock_disable_frp_warning_content_pattern">Графический ключ защитит данные на устройстве в случае его потери или кражи.</string>
     <string name="unlock_disable_frp_warning_content_pattern_face">"Графический ключ защитит данные на устройстве в случае его потери или кражи.
 
-Сохраненные данные лица будут удалены. Вы не сможете использовать разблокировку по лицу для аутентификации в приложениях."</string>
+Сохранённые данные лица будут удалены. Вы не сможете использовать разблокировку по лицу для аутентификации в приложениях."</string>
     <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"Графический ключ защитит данные на устройстве в случае его потери или кражи.
 
-Сохраненные данные лица и отпечатки будут удалены. Вы не сможете использовать разблокировку по лицу или отпечатком для аутентификации в приложениях."</string>
+Сохранённые данные лица и отпечатки будут удалены. Вы не сможете использовать разблокировку по лицу или отпечатком для аутентификации в приложениях."</string>
     <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Графический ключ защитит данные на устройстве в случае его потери или кражи.
 
-Сохраненные отпечатки будут удалены. Вы не сможете использовать разблокировку отпечатком для аутентификации в приложениях."</string>
+Сохранённые отпечатки будут удалены. Вы не сможете использовать разблокировку отпечатком для аутентификации в приложениях."</string>
     <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Графический ключ защитит данные на устройстве в случае его потери или кражи.
 
-Сохраненные отпечатки будут удалены. Вы не сможете использовать разблокировку отпечатком для аутентификации в приложениях."</string>
+Сохранённые отпечатки будут удалены. Вы не сможете использовать разблокировку отпечатком для аутентификации в приложениях."</string>
     <string name="unlock_disable_frp_warning_content_pattern_profile">Без графического ключа не будет работать защита профиля.</string>
     <string name="unlock_disable_frp_warning_content_pin">PIN-код защитит данные на устройстве в случае его потери или кражи.</string>
     <string name="unlock_disable_frp_warning_content_pin_face">"PIN-код защитит данные на устройстве в случае его потери или кражи.
 
-Сохраненные данные лица также будут удалены. Вы не сможете использовать разблокировку по лицу для аутентификации в приложениях."</string>
+Сохранённые данные лица также будут удалены. Вы не сможете использовать разблокировку по лицу для аутентификации в приложениях."</string>
     <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"PIN-код защитит данные на устройстве в случае его потери или кражи.
 
-Сохраненные данные лица и отпечатки будут удалены. Вы не сможете использовать разблокировку по лицу или отпечатком для аутентификации в приложениях."</string>
+Сохранённые данные лица и отпечатки будут удалены. Вы не сможете использовать разблокировку по лицу или отпечатком для аутентификации в приложениях."</string>
     <string name="unlock_disable_frp_warning_content_pin_fingerprint">"PIN-код защитит данные на устройстве в случае его потери или кражи.
 
-Сохраненные отпечатки будут удалены. Вы не сможете использовать разблокировку отпечатком для аутентификации в приложениях."</string>
+Сохранённые отпечатки будут удалены. Вы не сможете использовать разблокировку отпечатком для аутентификации в приложениях."</string>
     <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"Без PIN-кода не будет работать защита профиля.
 
-Сохраненные отпечатки будут удалены. Вы не сможете использовать разблокировку отпечатком для аутентификации в приложениях."</string>
+Сохранённые отпечатки будут удалены. Вы не сможете использовать разблокировку отпечатком для аутентификации в приложениях."</string>
     <string name="unlock_disable_frp_warning_content_pin_profile">Без PIN-кода не будет работать защита профиля.</string>
     <string name="unlock_disable_frp_warning_content_profile">После отключения блокировки экрана функции защиты профиля работать не будут.</string>
     <string name="unlock_disable_frp_warning_content_unknown">Без блокировки экрана не будет работать защита устройства.</string>
     <string name="unlock_disable_frp_warning_content_unknown_face">"Без блокировки экрана не будет работать защита устройства.
 
-Сохраненные данные лица будут удалены. Вы не сможете использовать разблокировку по лицу для аутентификации в приложениях."</string>
+Сохранённые данные лица будут удалены. Вы не сможете использовать разблокировку по лицу для аутентификации в приложениях."</string>
     <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"Без блокировки экрана не будет работать защита устройства.
 
-Сохраненные данные лица и отпечатки будут удалены. Вы не сможете использовать разблокировку по лицу или отпечатком для аутентификации в приложениях."</string>
+Сохранённые данные лица и отпечатки будут удалены. Вы не сможете использовать разблокировку по лицу или отпечатком для аутентификации в приложениях."</string>
     <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Без блокировки экрана не будет работать защита устройства.
 
-Сохраненные отпечатки будут удалены. Вы не сможете использовать разблокировку отпечатком для аутентификации в приложениях."</string>
+Сохранённые отпечатки будут удалены. Вы не сможете использовать разблокировку отпечатком для аутентификации в приложениях."</string>
     <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Без блокировки экрана не будет работать защита профиля.
 	
-Сохраненные отпечатки будут удалены. Вы не сможете использовать разблокировку отпечатком для аутентификации в приложениях."</string>
+Сохранённые отпечатки будут удалены. Вы не сможете использовать разблокировку отпечатком для аутентификации в приложениях."</string>
     <string name="unlock_disable_frp_warning_content_unknown_profile">Без блокировки экрана не будет работать защита профиля.</string>
     <string name="unlock_disable_frp_warning_ok">Отключить</string>
     <string name="unlock_disable_frp_warning_title">Отключить защиту устройства?</string>
@@ -10638,7 +10638,7 @@ UT-интерфейс: %5$s"</string>
     <string name="user_certificate">Пользовательский сертификат VPN и приложения</string>
     <string name="user_choose_copy_apps_to_another_user">Выберите, какие приложения установить</string>
     <string name="user_confirm_remove_message">Все приложения и данные будут удалены.</string>
-    <string name="user_confirm_remove_self_message">Ваши данные, сохраненные на этом устройстве, будут удалены без возможности восстановления.</string>
+    <string name="user_confirm_remove_self_message">Ваши данные, сохранённые на этом устройстве, будут удалены без возможности восстановления.</string>
     <string name="user_confirm_remove_self_title">Удалить ваш профиль?</string>
     <string name="user_confirm_remove_title">Удалить пользователя?</string>
     <string name="user_copy_apps_menu_title">Установка доступных приложений</string>
@@ -10646,7 +10646,7 @@ UT-интерфейс: %5$s"</string>
     <string name="user_credential_removed">Удаленные учётные данные: %s</string>
     <string name="user_credential_title">Учётные данные</string>
     <string name="user_credentials">Учётные данные пользователя</string>
-    <string name="user_credentials_summary">Смотреть/изменить сохраненные учётные данные</string>
+    <string name="user_credentials_summary">Смотреть/изменить сохранённые учётные данные</string>
     <string name="user_delete_button">Удалить</string>
     <string name="user_delete_user_description">Удалить пользователя</string>
     <string name="user_dict_settings_add_dialog_confirm">ОК</string>
@@ -10746,7 +10746,7 @@ UT-интерфейс: %5$s"</string>
     <string name="vibrate_when_ringing_title">Вибрация при вызовах</string>
     <string name="video_calling_settings_title">Настройки видеовызова</string>
     <string name="video_tool_box_title">Инструменты для видео</string>
-    <string name="view_saved_network">Выберите сохраненную сеть для просмотра</string>
+    <string name="view_saved_network">Выберите сохранённую сеть для просмотра</string>
     <string name="vip_list">Входящие вызовы</string>
     <string name="vip_service_settings">Мои сервисы</string>
     <string name="virtual_keyboard_category">Виртуальная клавиатура</string>
@@ -11406,7 +11406,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_p2p_menu_searching">Поиск…</string>
     <string name="wifi_p2p_peer_devices">Обнаруженные устройства</string>
     <string name="wifi_p2p_persist_network">Запомнить это соединение</string>
-    <string name="wifi_p2p_remembered_groups">Сохраненные группы</string>
+    <string name="wifi_p2p_remembered_groups">Сохранённые группы</string>
     <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_wps_setup">Настройка WPS</string>
     <string name="wifi_passpoint_expired">Срок действия истёк</string>
@@ -11438,8 +11438,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_required_info_text">Для завершения настройки необходим доступ к Wi-Fi. После настройки вы сможете переключаться между мобильным интернетом и Wi-Fi.</string>
     <string name="wifi_sap_no_channel_error">Частота 5 ГГц недоступна в этой стране</string>
     <string name="wifi_save">Сохранить</string>
-    <string name="wifi_saved_access_point">Сохраненные сети</string>
-    <string name="wifi_saved_access_points_label">Сохраненные сети</string>
+    <string name="wifi_saved_access_point">Сохранённые сети</string>
+    <string name="wifi_saved_access_points_label">Сохранённые сети</string>
     <string name="wifi_saved_other_networks_tab">Другие сети</string>
     <string name="wifi_scan_always_available">Постоянный поиск сетей</string>
     <string name="wifi_scan_always_available_summary">Разрешить сервису геолокации Google и прочим приложениям искать сети даже при отключённом Wi-Fi</string>
@@ -11646,8 +11646,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_wakeup_location_summary">Включите геолокацию для использования этой функции.</string>
     <string name="wifi_wakeup_negative_button">Отмена</string>
     <string name="wifi_wakeup_positive_button">Включить</string>
-    <string name="wifi_wakeup_scan_summary">Разрешить приложениям и службам поиск сетей Wi-Fi для возможности их автоматического включения. Включение этой функции позволит устройству автоматически подключаться к сохраненным сетям поблизости.</string>
-    <string name="wifi_wakeup_summary">Включать Wi-Fi в зоне действия сохраненных сетей (например, домашней) с хорошим сигналом</string>
+    <string name="wifi_wakeup_scan_summary">Разрешить приложениям и службам поиск сетей Wi-Fi для возможности их автоматического включения. Включение этой функции позволит устройству автоматически подключаться к сохранённым сетям поблизости.</string>
+    <string name="wifi_wakeup_summary">Включать Wi-Fi в зоне действия сохранённых сетей (например, домашней) с хорошим сигналом</string>
     <string name="wifi_wakeup_summary_no_location">Недоступно, поскольку геолокация запрещена. <annotation id="link">Включите её</annotation>.</string>
     <string name="wifi_wakeup_summary_scanning_disabled">Недоступно, так как поиск сетей Wi-Fi отключён</string>
     <string name="wifi_wakeup_summary_scoring_disabled">Выберите источник рейтинга сетей</string>

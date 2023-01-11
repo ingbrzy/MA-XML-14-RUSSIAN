@@ -203,7 +203,7 @@
     <string name="picker_category_screenshots">Скриншоты</string>
     <string name="picker_cloud_sync">Медиаконтент из облака теперь доступен в приложении \"%1$s\".</string>
     <string name="picker_gif">GIF</string>
-    <string name="picker_item_content_desc">%1$s, дата и время съемки: %2$s</string>
+    <string name="picker_item_content_desc">%1$s, дата и время съёмки: %2$s</string>
     <string name="picker_motion_photo">Фото с движением</string>
     <string name="picker_motion_photo_text">Фото с движением</string>
     <string name="picker_mute_video">Отключить звук видео</string>
@@ -221,7 +221,7 @@
     <string name="picker_profile_work_paused_msg">Чтобы открыть рабочие фотографии, включите рабочие приложения и повторите попытку.</string>
     <string name="picker_profile_work_paused_title">Рабочие приложения приостановлены</string>
     <string name="picker_unmute_video">Включить звук видео</string>
-    <string name="picker_video_item_content_desc">Время съемки: %1$s. Длительность: %2$s.</string>
+    <string name="picker_video_item_content_desc">Время съёмки: %1$s. Длительность: %2$s.</string>
     <string name="picker_view_selected">Смотреть выбранное</string>
     <string name="picker_work_profile">Перейти в рабочий профиль</string>
     <string name="recent">Недавние</string>

@@ -85,7 +85,7 @@
     <string name="appcleaner_g_earlier">Более ранние</string>
     <string name="appcleaner_g_image_sum_title_chat_wechat">Отправленные</string>
     <string name="appcleaner_g_image_sum_title_make_wechat">Изображения</string>
-    <string name="appcleaner_g_image_sum_title_save_wechat">Сохраненные</string>
+    <string name="appcleaner_g_image_sum_title_save_wechat">Сохранённые</string>
     <string name="appcleaner_g_image_summary_qq">Безвозвратное удаление изображений QQ</string>
     <string name="appcleaner_g_image_summary_wechat">Безвозвратное удаление изображений WeChat</string>
     <string name="appcleaner_g_image_title_qq">Очистка изображений QQ</string>
@@ -98,7 +98,7 @@
     <string name="appcleaner_g_this_month">Этот месяц</string>
     <string name="appcleaner_g_video_sum_title_chat_wechat">Отправленные</string>
     <string name="appcleaner_g_video_sum_title_make_wechat">Видео</string>
-    <string name="appcleaner_g_video_sum_title_save_wechat">Сохраненные</string>
+    <string name="appcleaner_g_video_sum_title_save_wechat">Сохранённые</string>
     <string name="appcleaner_g_video_summary_qq">Безвозвратное удаление видео QQ</string>
     <string name="appcleaner_g_video_summary_wechat">Безвозвратное удаление видео WeChat</string>
     <string name="appcleaner_g_video_title_qq">Очистка видео QQ</string>
@@ -796,7 +796,7 @@
     <string name="notification_wechat_clean_middle_level_text_b">Мусор WeChat замедляет работу приложения</string>
     <string name="notification_whatsapp_clean_button_text">Очистить</string>
     <string name="notification_whatsapp_clean_size">Кеш WhatsApp: %s</string>
-    <string name="offline_notification_text">Нажмите для просмотра рекламы, сохраненной в автономном режиме</string>
+    <string name="offline_notification_text">Нажмите для просмотра рекламы, сохранённой в автономном режиме</string>
     <string name="offline_notification_title">Просмотр рекламы</string>
     <string name="offline_opt_in_confirm">ОК</string>
     <string name="offline_opt_in_confirmation">Вы получите уведомление со ссылкой, когда сеть снова будет доступна</string>
@@ -1152,7 +1152,7 @@
     <string name="video_clean_garbage_cleared">Кеш видео очищен</string>
     <string name="video_clean_image_clean_summary">Удаление дубликатов для освобождения места</string>
     <string name="video_clean_image_clean_title">Дубликаты</string>
-    <string name="video_clean_notification_summary">Очистка кеша видео, сохраненного приложениями</string>
+    <string name="video_clean_notification_summary">Очистка кеша видео, сохранённого приложениями</string>
     <string name="video_clean_notification_title">Освободите %s</string>
     <string name="video_clean_personal_settings_title">Дополнительно</string>
     <string name="video_clean_qq_clean_summary">Очистка мусора для освобождения места</string>

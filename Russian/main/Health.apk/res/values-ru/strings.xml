@@ -275,7 +275,7 @@
     <string name="data_empty">Нет данных</string>
     <string name="data_safety_tip_details">Данные о состоянии здоровья будут храниться на устройстве после выхода из аккаунта. Можно удалить данные в меню Источники данных.</string>
     <string name="data_safety_tip_details2">"Некоторые данные о состоянии здоровье были загружены в облако. Можно сохранить данные на этом устройстве или удалить их. При выборе \"Удалить\", будут удалены данные только с этого устройства, синхронизированные данные сохранятся в облаке.
-Вы всегда можете позже удалить сохраненные данные в меню Источники данных."</string>
+Вы всегда можете позже удалить сохранённые данные в меню Источники данных."</string>
     <string name="data_safety_tip_title">Удаление данных</string>
     <string name="data_source">Источники данных</string>
     <string name="data_source_cannot_be_synchronized">Не удалось синхронизировать данные</string>
@@ -1049,7 +1049,7 @@ ID:%s
     <string name="not_edit">Не указано</string>
     <string name="not_open_auto_sync">Синхронизация отключена</string>
     <string name="not_save">Отмена</string>
-    <string name="not_save_aid_file_desc">Все несохраненные изменения будут потеряны</string>
+    <string name="not_save_aid_file_desc">Все несохранённые изменения будут потеряны</string>
     <string name="not_set">Не задано</string>
     <string name="not_standing">Не сидите</string>
     <string name="not_support_step">Устройство не поддерживает подсчёт шагов</string>

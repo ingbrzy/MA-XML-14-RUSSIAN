@@ -333,7 +333,7 @@
     <string name="importFailed">Не удалось импортировать</string>
     <string name="import_contact">Импортировать контакт</string>
     <string name="import_picture">Импортировать</string>
-    <string name="impunity_declaration_content">Приложению необходимы разрешения для доступа к камере и съемки, для подключения к интернету. Используя это приложение, вы принимаете нашу &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Политику конфиденциальности&lt;/a&gt;&lt;/font&gt;.</string>
+    <string name="impunity_declaration_content">Приложению необходимы разрешения для доступа к камере и съёмки, для подключения к интернету. Используя это приложение, вы принимаете нашу &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Политику конфиденциальности&lt;/a&gt;&lt;/font&gt;.</string>
     <string name="impunity_declaration_negative_text">Выход</string>
     <string name="impunity_declaration_title">Политика конфиденциальности</string>
     <string name="intelligent_participle">Фразы</string>
@@ -545,7 +545,7 @@
     <string name="picture_audio_empty">Используйте микрофон для звукозаписи</string>
     <string name="picture_audio_error">Неработоспособно</string>
     <string name="picture_camera">Доступ к камере запрещен</string>
-    <string name="picture_camera_roll">Фотопленка</string>
+    <string name="picture_camera_roll">Фотоплёнка</string>
     <string name="picture_camera_roll_num">%1$s (%2$d)</string>
     <string name="picture_cancel">Отмена</string>
     <string name="picture_choose_limit_seconds">Можно выбрать видео только от %1$d до %2$d сек.</string>
@@ -559,7 +559,7 @@
     <string name="picture_done">Готово</string>
     <string name="picture_done_front_num">Готово: %1$d/%2$d</string>
     <string name="picture_editor">Редактор</string>
-    <string name="picture_empty">Используйте камеру для съемки фото или видео</string>
+    <string name="picture_empty">Используйте камеру для съёмки фото или видео</string>
     <string name="picture_empty_audio_title">"Ничего нет
 "</string>
     <string name="picture_empty_title">"Ничего нет
@@ -581,7 +581,7 @@
     <string name="picture_pause_audio">Пауза</string>
     <string name="picture_photo_camera">Фотография, фотография</string>
     <string name="picture_photo_pictures">Сделать фото</string>
-    <string name="picture_photo_recording">Долгое нажатие кнопки съемки</string>
+    <string name="picture_photo_recording">Долгое нажатие кнопки съёмки</string>
     <string name="picture_photograph">Фотография</string>
     <string name="picture_play_audio">Воспроизвести</string>
     <string name="picture_please">Попробуйте позже…</string>
@@ -600,8 +600,8 @@
     <string name="picture_send">Завершено</string>
     <string name="picture_send_num">Завершено (%1$d/%2$d)</string>
     <string name="picture_stop_audio">Стоп</string>
-    <string name="picture_take_picture">Съемка</string>
-    <string name="picture_tape">Пленка</string>
+    <string name="picture_take_picture">Съёмка</string>
+    <string name="picture_tape">Плёнка</string>
     <string name="picture_video_error">Видео повреждено</string>
     <string name="picture_video_toast">Предпросмотр недоступен</string>
     <string name="picture_warning">Нет медиафайлов!</string>

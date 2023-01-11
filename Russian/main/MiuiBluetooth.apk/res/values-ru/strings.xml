@@ -346,7 +346,7 @@
     <string name="debug_view_attributes">Включить проверку атрибутов</string>
     <string name="delete_blob_confirmation_text">Вы уверены, что хотите удалить общие данные?</string>
     <string name="delete_blob_text">Удаление общих данных</string>
-    <string name="dev_logpersist_clear_warning_message">После отмены постоянного журналирования, сохраненные на устройстве данные будут удалены.</string>
+    <string name="dev_logpersist_clear_warning_message">После отмены постоянного журналирования, сохранённые на устройстве данные будут удалены.</string>
     <string name="dev_logpersist_clear_warning_title">Очистить журнал?</string>
     <string name="dev_settings_warning_message">Только для разработчиков. Изменение этих настроек может привести к сбоям или неправильной работе устройства и приложений.</string>
     <string name="dev_settings_warning_title">Изменение настроек</string>

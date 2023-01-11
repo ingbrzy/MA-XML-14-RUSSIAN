@@ -280,14 +280,14 @@
     <string name="public_privacy_update">&lt;Data>Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочтите и примите нашу новую &lt;a href=\"%s\">Политику конфиденциальности&lt;/a>.&lt;/Data></string>
     <string name="public_re_licensing">Выполнить лицензирование</string>
     <string name="public_readOnlyMode">Только чтение</string>
-    <string name="public_recory_edit_not_save_tips">Несохраненное содержимое уже восстановлено.</string>
+    <string name="public_recory_edit_not_save_tips">Несохранённое содержимое уже восстановлено.</string>
     <string name="public_recory_open_file_not_exist_tips">Документ восстановлен. Возможно, он был удалён другими приложениями.</string>
     <string name="public_refuse_give_permission">Ошибка авторизации</string>
     <string name="public_refuse_jurisdiction">Отказ в доступе</string>
     <string name="public_replace">Заменить</string>
     <string name="public_request_senior_password">Введите пароль пользователя с наивысшими правами</string>
     <string name="public_revoke">Отозвать %s</string>
-    <string name="public_revoke_privacy_content">Если Вы продолжите, согласие с Политикой конфиденциальности Mi Doc Viewer (предоставлено WPS) будет отозвано, а сбор вашей личной информации будет прекращён. Уже собранная и сохраненная личная информация будет удалена в течение определённого срока в соответствии с действующими законами и правилами, если не требуется иное. Отзыв согласия будет рассматриваться как отказ от сервисов, предоставляемых Mi Doc Viewer (предоставлено WPS).</string>
+    <string name="public_revoke_privacy_content">Если Вы продолжите, согласие с Политикой конфиденциальности Mi Doc Viewer (предоставлено WPS) будет отозвано, а сбор вашей личной информации будет прекращён. Уже собранная и сохранённая личная информация будет удалена в течение определённого срока в соответствии с действующими законами и правилами, если не требуется иное. Отзыв согласия будет рассматриваться как отказ от сервисов, предоставляемых Mi Doc Viewer (предоставлено WPS).</string>
     <string name="public_revoke_privacy_desc">Отозвать согласие с политикой конфиденциальности Mi Doc Viewer (предоставлено WPS)</string>
     <string name="public_revoke_privacy_title">Отзыв согласия</string>
     <string name="public_ribbon_font">Шрифт</string>

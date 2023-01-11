@@ -235,7 +235,7 @@
     </string-array>
     <string-array name="settings_search_restore_device">
         <item>Восстановление элементов из Xiaomi Cloud</item>
-        <item>Загрузка сохраненных элементов на устройство</item>
+        <item>Загрузка сохранённых элементов на устройство</item>
         <item>Облако;Резервное копирование;Резервирование;Восстановление;Облачные сервисы;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">

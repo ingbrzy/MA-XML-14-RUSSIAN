@@ -443,7 +443,7 @@
     <string name="relaunch_dialog_alwaysUsePrompt">Запомнить выбор</string>
     <string name="relaunch_dialog_button_cancel">Отмена</string>
     <string name="relaunch_dialog_button_confirm">Перезапустить</string>
-    <string name="relaunch_dialog_message">Размер этого приложения можно изменить только после перезапуска. Все несохраненные изменения будут потеряны, если вы сейчас перезапустите приложение. Перезапустить?</string>
+    <string name="relaunch_dialog_message">Размер этого приложения можно изменить только после перезапуска. Все несохранённые изменения будут потеряны, если вы сейчас перезапустите приложение. Перезапустить?</string>
     <string name="relaunch_dialog_title">Перезапустить \"%s\"?</string>
     <string name="relaunch_fold_notification_content">Это приложение может отображаться неправильно. Перезапустите его.</string>
     <string name="relaunch_notification_title">Перезапуск \"%s\"</string>

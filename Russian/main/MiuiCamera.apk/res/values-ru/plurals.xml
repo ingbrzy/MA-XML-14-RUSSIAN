@@ -35,8 +35,8 @@
         <item quantity="few">Сфокусировано. Обнаружено %d лица</item>
     </plurals>
     <plurals name="accessibility_timer_burst_count">
-        <item quantity="other">%d фото в серийной съемке</item>
-        <item quantity="one">%d фото в серийной съемке</item>
+        <item quantity="other">%d фото в серийной съёмке</item>
+        <item quantity="one">%d фото в серийной съёмке</item>
     </plurals>
     <plurals name="accessibility_timer_burst_interval">
         <item quantity="other">Интервал: %d секунд</item>
@@ -116,15 +116,15 @@
         <item quantity="one">Запись %d сек.</item>
     </plurals>
     <plurals name="timefreeze_guide_tip1">
-        <item quantity="other">Используйте не более %d объектов при съемке видео с \"Остановкой времени\"</item>
-        <item quantity="one">Используйте не более %d объекта при съемке видео с \"Остановкой времени\"</item>
+        <item quantity="other">Используйте не более %d объектов при съёмке видео с \"Остановкой времени\"</item>
+        <item quantity="one">Используйте не более %d объекта при съёмке видео с \"Остановкой времени\"</item>
     </plurals>
     <plurals name="timer_burst_setting_total_count">
         <item quantity="other">%1$s фото</item>
         <item quantity="one">%1$s фото</item>
     </plurals>
     <plurals name="toast_burst_snap_finished_summary">
-        <item quantity="other">Серийная съемка завершена, сделано %1$s фото</item>
-        <item quantity="one">Серийная съемка завершена, сделано %1$s фото</item>
+        <item quantity="other">Серийная съёмка завершена, сделано %1$s фото</item>
+        <item quantity="one">Серийная съёмка завершена, сделано %1$s фото</item>
     </plurals>
 </resources>

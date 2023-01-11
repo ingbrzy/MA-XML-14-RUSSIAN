@@ -585,7 +585,7 @@
     <string name="pc_note_edit_insert_picture_from_phone">Выберите изображение на устройстве</string>
     <string name="pc_note_edit_last_modified_time">"Изменено: "</string>
     <string name="pc_note_edit_lock_dialog_doodle_by_phone">Создание эскиза…</string>
-    <string name="pc_note_edit_lock_dialog_take_photo_by_phone">Съемка…</string>
+    <string name="pc_note_edit_lock_dialog_take_photo_by_phone">Съёмка…</string>
     <string name="pc_note_edit_take_photo_by_phone">Сделайте фото</string>
     <string name="pc_note_edit_text_format_body">Текст заметки</string>
     <string name="pc_note_edit_text_format_des">Размер шрифта</string>

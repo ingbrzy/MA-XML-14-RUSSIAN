@@ -20,7 +20,7 @@
     <string name="credential_usage_label">Использование:</string>
     <string name="done_label">ГОТОВО</string>
     <string name="extracting_pkcs12">Загрузка…</string>
-    <string name="install_done">Учётные данные (%1$s) добавлены в базу сохраненных сетей Wi-Fi.</string>
+    <string name="install_done">Учётные данные (%1$s) добавлены в базу сохранённых сетей Wi-Fi.</string>
     <string name="install_done_title">Установка завершена</string>
     <string name="invalid_cert">Сертификат недействителен.</string>
     <string name="invalid_certificate_close_button">Закрыть</string>

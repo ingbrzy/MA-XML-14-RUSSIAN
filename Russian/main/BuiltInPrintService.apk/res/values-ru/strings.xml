@@ -47,7 +47,7 @@
     <string name="recommendation_summary">Служба печати по умолчанию предоставляет только основные возможности. Дополнительные возможности принтера могут быть доступны из другой службы печати.</string>
     <string name="recommendations_heading">Рекомендуемые сервисы</string>
     <string name="reject">Отклонить</string>
-    <string name="saved_printers">Сохраненные принтеры</string>
+    <string name="saved_printers">Сохранённые принтеры</string>
     <string name="searching">Поиск…</string>
     <string name="security">Безопасность</string>
     <string name="title_activity_add_printer">Добавить принтер</string>

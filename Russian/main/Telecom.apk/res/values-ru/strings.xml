@@ -364,7 +364,7 @@
     <string name="delete_blob_confirmation_text">Вы уверены, что хотите удалить общие данные?</string>
     <string name="delete_blob_text">Удаление общих данных</string>
     <string name="delete_icon_description">Разблокировать</string>
-    <string name="dev_logpersist_clear_warning_message">Прекратив отслеживание постоянного журнала, мы будем обязаны удалить его данные, сохраненные на устройстве.</string>
+    <string name="dev_logpersist_clear_warning_message">Прекратив отслеживание постоянного журнала, мы будем обязаны удалить его данные, сохранённые на устройстве.</string>
     <string name="dev_logpersist_clear_warning_title">Очистить постоянный диск журнала?</string>
     <string name="dev_settings_warning_message">Только для разработчиков. Изменение этих настроек может привести к сбоям или неправильной работе устройства и приложений.</string>
     <string name="dev_settings_warning_title">Изменение настроек</string>

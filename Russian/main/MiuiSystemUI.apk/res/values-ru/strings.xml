@@ -992,7 +992,7 @@
     <string name="description_image_icon_sim_card">SIM карта %1$d</string>
     <string name="description_target_search">Поиск</string>
     <string name="dessert_case">Коробка со сладостями</string>
-    <string name="dev_logpersist_clear_warning_message">После отмены постоянного журналирования, сохраненные на устройстве данные будут удалены.</string>
+    <string name="dev_logpersist_clear_warning_message">После отмены постоянного журналирования, сохранённые на устройстве данные будут удалены.</string>
     <string name="dev_logpersist_clear_warning_title">Очистить журнал?</string>
     <string name="dev_settings_warning_message">Только для разработчиков. Изменение этих настроек может привести к сбоям или неправильной работе устройства и приложений.</string>
     <string name="dev_settings_warning_title">Изменение настроек</string>

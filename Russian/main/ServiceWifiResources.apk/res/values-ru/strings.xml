@@ -113,10 +113,10 @@
     <string name="wifi_tofu_invalid_cert_chain_message">Цепочка сертификатов сервера недействительна</string>
     <string name="wifi_tofu_invalid_cert_chain_ok_text">ОК</string>
     <string name="wifi_tofu_invalid_cert_chain_title">Ошибка подключения к %1$s</string>
-    <string name="wifi_wakeup_enabled_content">Доступна сохраненная сеть %1$s.</string>
+    <string name="wifi_wakeup_enabled_content">Доступна сохранённая сеть %1$s.</string>
     <string name="wifi_wakeup_enabled_title">Wi-Fi включён автоматически</string>
     <string name="wifi_wakeup_onboarding_action_disable">Не включать снова</string>
-    <string name="wifi_wakeup_onboarding_subtext">Когда будет доступна сохраненная сеть с хорошим сигналом</string>
+    <string name="wifi_wakeup_onboarding_subtext">Когда будет доступна сохранённая сеть с хорошим сигналом</string>
     <string name="wifi_wakeup_onboarding_title">Wi-Fi включится автоматически</string>
     <string name="wifi_watchdog_network_disabled">Не удалось подключиться к сети Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled_detailed">" – плохое интернет-соединение."</string>

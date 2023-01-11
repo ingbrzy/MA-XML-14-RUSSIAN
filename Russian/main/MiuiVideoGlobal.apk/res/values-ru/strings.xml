@@ -382,7 +382,7 @@ ID: %s
 &lt;br/&gt;Перед использованием Mi Видео прочтите и примите наши &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>."</string>
     <string name="dialog_privacy_revoke_cancel">Отмена</string>
     <string name="dialog_privacy_revoke_count_down">Отзыв согласия (%1$d сек.)</string>
-    <string name="dialog_privacy_revoke_description">Вы собираетесь отозвать свое согласие с политикой конфиденциальности Mi Видео. Сбор вашей личной информации будет прекращён. Собранная и сохраненная личная информация будет удалена в течение определённого периода, как того требует действующее законодательство. Отзыв согласия будет рассматриваться как отказ от онлайн-услуг.</string>
+    <string name="dialog_privacy_revoke_description">Вы собираетесь отозвать свое согласие с политикой конфиденциальности Mi Видео. Сбор вашей личной информации будет прекращён. Собранная и сохранённая личная информация будет удалена в течение определённого периода, как того требует действующее законодательство. Отзыв согласия будет рассматриваться как отказ от онлайн-услуг.</string>
     <string name="dialog_privacy_revoke_fail">Для отзыва согласия требуется подключение к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="dialog_privacy_revoke_ok">Отзыв согласия</string>
     <string name="dialog_privacy_revoke_success">Успешно отозвано</string>
@@ -627,9 +627,9 @@ ID: %s
     <string name="gallery_video_music_format_error">Не удалось добавить саундтрек к выбранному видео</string>
     <string name="gallery_video_music_text">Саундтрек</string>
     <string name="gallery_video_no_music_text">Нет</string>
-    <string name="gallery_video_operate_text">Регулировка замедленной съемки</string>
+    <string name="gallery_video_operate_text">Регулировка замедленной съёмки</string>
     <string name="gallery_video_save_video">Создание видео…</string>
-    <string name="gallery_video_slow_edit">Замедленная съемка</string>
+    <string name="gallery_video_slow_edit">Замедленная съёмка</string>
     <string name="gallery_view_tags">Показать теги</string>
     <string name="galleryplus_already_cloud_member">Используется VIP-подписка для воспроизведения</string>
     <string name="galleryplus_check_network">Настройки</string>
@@ -1306,7 +1306,7 @@ ID: %s
     <string name="off">[откл.]</string>
     <string name="off_tip_firework_recommend">Вы больше не будете получать персонализированные рекомендации по контенту от Firework.</string>
     <string name="offline_ad_free">Оффлайн-реклама</string>
-    <string name="offline_notification_text">Нажмите для просмотра рекламы, сохраненной в автономном режиме</string>
+    <string name="offline_notification_text">Нажмите для просмотра рекламы, сохранённой в автономном режиме</string>
     <string name="offline_notification_title">Просмотр рекламы</string>
     <string name="offline_opt_in_confirm">ОК</string>
     <string name="offline_opt_in_confirmation">Вы получите уведомление со ссылкой, когда сеть снова будет доступна</string>

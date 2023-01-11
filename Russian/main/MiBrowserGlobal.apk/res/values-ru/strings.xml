@@ -1824,7 +1824,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="novel_tab_popup">Смотрите новейшие книги здесь</string>
     <string name="novel_tab_popup_ok">OK</string>
     <string name="occupy" formatted="false">Занято %d%</string>
-    <string name="offline_notification_text">Нажмите для просмотра рекламы, сохраненной в автономном режиме</string>
+    <string name="offline_notification_text">Нажмите для просмотра рекламы, сохранённой в автономном режиме</string>
     <string name="offline_notification_title">Просмотр рекламы</string>
     <string name="offline_opt_in_confirm">ОК</string>
     <string name="offline_opt_in_confirmation">Вы получите уведомление со ссылкой, когда сеть снова будет доступна</string>
@@ -2060,7 +2060,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="pref_check_security_url_title_international">Доступ к адресам сайтов</string>
     <string name="pref_clear_adblock_statistics">Очистить историю</string>
     <string name="pref_clear_adblock_statistics_dlg">Очистить счётчик блокировок?</string>
-    <string name="pref_clear_all_data_dlg">Удалить все сохраненные данные?</string>
+    <string name="pref_clear_all_data_dlg">Удалить все сохранённые данные?</string>
     <string name="pref_clear_all_data_switch_title">Очищать данные просмотра при выходе</string>
     <string name="pref_clear_all_data_title">Очистить все</string>
     <string name="pref_clear_data_title">Очистить данные</string>
@@ -2119,13 +2119,13 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="pref_personalized_customization">Персонализированные рекомендации</string>
     <string name="pref_privacy_clear_cache">Очистить кэш</string>
     <string name="pref_privacy_clear_cache_dlg">Очистить кэш Браузера?</string>
-    <string name="pref_privacy_clear_cache_summary">Удалить локально сохраненный контент и данные</string>
+    <string name="pref_privacy_clear_cache_summary">Удалить локально сохранённый контент и данные</string>
     <string name="pref_privacy_clear_cookies">Очистить cookies</string>
     <string name="pref_privacy_clear_cookies_dlg">Очистить cookies?</string>
     <string name="pref_privacy_clear_cookies_summary">Удалить все cookies браузера</string>
     <string name="pref_privacy_clear_form_data">Очистить данные веб-форм</string>
     <string name="pref_privacy_clear_form_data_dlg">Очистить все данные веб-форм?</string>
-    <string name="pref_privacy_clear_form_data_summary">Удалить все сохраненные данные веб-форм</string>
+    <string name="pref_privacy_clear_form_data_summary">Удалить все сохранённые данные веб-форм</string>
     <string name="pref_privacy_clear_geolocation_access">Очистить геоданные</string>
     <string name="pref_privacy_clear_geolocation_access_dlg">Очистить геоданные?</string>
     <string name="pref_privacy_clear_geolocation_access_summary">Удалить сайты, имеющие доступ к геоданным</string>
@@ -2133,9 +2133,9 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="pref_privacy_clear_history_by_group_dlg">Очистить историю просмотров?</string>
     <string name="pref_privacy_clear_history_dlg">Очистить историю?</string>
     <string name="pref_privacy_clear_history_summary">Удалить историю просмотров</string>
-    <string name="pref_privacy_clear_passwords">Очистить сохраненные пароли</string>
-    <string name="pref_privacy_clear_passwords_dlg">Удалить все сохраненные пароли?</string>
-    <string name="pref_privacy_clear_passwords_summary">Удалить все сохраненные пароли</string>
+    <string name="pref_privacy_clear_passwords">Очистить сохранённые пароли</string>
+    <string name="pref_privacy_clear_passwords_dlg">Удалить все сохранённые пароли?</string>
+    <string name="pref_privacy_clear_passwords_summary">Удалить все сохранённые пароли</string>
     <string name="pref_privacy_clear_site_settings">Настройки сайтов</string>
     <string name="pref_privacy_clear_site_settings_dlg">Очистить все настройки сайтов?</string>
     <string name="pref_privacy_clear_site_settings_summary">Очистить все настройки сайтов. Сайты запросят разрешения при следующем посещении.</string>
@@ -2243,7 +2243,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="privacy_btn_more">Ещё</string>
     <string name="privacy_dialog_next">Далее</string>
     <string name="privacy_dialog_revoke">Отозвать</string>
-    <string name="privacy_dialog_text">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности Wonderfic. Мы перестанем собирать вашу личную информацию. Уже собранная и сохраненная личная информация (включая, помимо прочего, информацию об учётной записи, информацию о платежах и записи о покупках) будет удалена в течение определённого периода времени, как того требует действующее законодательство. <b>После отзыва согласия вы не сможете получить доступ к книгам, которые вы приобрели, а баланс вашего аккаунта будет очищен.</b> Поскольку Wonderfic необходимо собирать личную информацию, необходимую для предоставления вам своих услуг, отзыв согласия с Политикой конфиденциальности будет считаться отказом от использования сервиса.</string>
+    <string name="privacy_dialog_text">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности Wonderfic. Мы перестанем собирать вашу личную информацию. Уже собранная и сохранённая личная информация (включая, помимо прочего, информацию об учётной записи, информацию о платежах и записи о покупках) будет удалена в течение определённого периода времени, как того требует действующее законодательство. <b>После отзыва согласия вы не сможете получить доступ к книгам, которые вы приобрели, а баланс вашего аккаунта будет очищен.</b> Поскольку Wonderfic необходимо собирать личную информацию, необходимую для предоставления вам своих услуг, отзыв согласия с Политикой конфиденциальности будет считаться отказом от использования сервиса.</string>
     <string name="privacy_dialog_text_next">После отзыва согласия вы не сможете получить доступ к приобретенным книгам, а баланс вашего аккаунта будет очищен.</string>
     <string name="privacy_dialog_title">Отзыв согласия</string>
     <string name="privacy_disagree">Выход</string>
@@ -2369,7 +2369,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="remove_bookmark_group">Удалить папку</string>
     <string name="remove_from_bookmarks">Удалить из закладок</string>
     <string name="remove_history_item">Удалить из истории</string>
-    <string name="remove_snapshot">Удалить сохраненную страницу</string>
+    <string name="remove_snapshot">Удалить сохранённую страницу</string>
     <string name="removed_channel">Не добавлено</string>
     <string name="removed_from_bookmarks">Удалено из закладок</string>
     <string name="rename_alert">Если вы измените расширение файла, возможно, вам не удастся открыть его.</string>
@@ -2568,7 +2568,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="short_video_net_dialog_continue">Воспроизвести</string>
     <string name="short_video_net_dialog_title">Вы используете мобильный интернет. Использование мобильного интернета может привести к дополнительным тратам.</string>
     <string name="short_video_network_error">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
-    <string name="short_video_tip">Посмотри! Веселое видео</string>
+    <string name="short_video_tip">Посмотри! Весёлое видео</string>
     <string name="shortcut_function">Ярлыки</string>
     <string name="shortcuts_boost_speed">Ускорение</string>
     <string name="shortcuts_cleanup_cache">Очистка</string>
@@ -2874,7 +2874,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
     <string name="tip_drag">Удерживайте для изменения и перетаскивайте для сортировки</string>
-    <string name="tip_not_support_external_sdcard_modify">Нельзя изменять файлы, сохраненные на SD-карте</string>
+    <string name="tip_not_support_external_sdcard_modify">Нельзя изменять файлы, сохранённые на SD-карте</string>
     <string name="tip_sync_disabled_by_incognito">Нельзя синхронизировать данные в режиме инкогнито.</string>
     <string name="tip_sync_switch_off">Синхронизация отключена. Включить её можно в разделе \"Мой аккаунт\".</string>
     <string name="title_app_tags">Приложения</string>

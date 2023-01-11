@@ -1388,7 +1388,7 @@
     <string name="permdesc_addVoicemail">Приложение сможет добавлять голосовые сообщения в папку \"Входящие\".</string>
     <string name="permdesc_answerPhoneCalls">Приложению разрешено отвечать на входящие вызовы.</string>
     <string name="permdesc_audioWrite">Приложение сможет изменять коллекцию музыки.</string>
-    <string name="permdesc_backgroundCamera">Приложение может использовать камеру для съемки фото и видео в любое время</string>
+    <string name="permdesc_backgroundCamera">Приложение может использовать камеру для съёмки фото и видео в любое время</string>
     <string name="permdesc_bindCarrierMessagingService">Подключение к базовому интерфейсу службы обмена сообщениями, предоставляемой оператором связи. Это разрешение обычно используется только специальными приложениями.</string>
     <string name="permdesc_bindCarrierServices">Приложение сможет подключаться к сервисам оператора связи. Это разрешение не используется обычными приложениями.</string>
     <string name="permdesc_bindCellBroadcastService">Приложение сможет подключаться к модулю широковещательной рассылки для пересылки широковещательных сообщений, которые содержат предупреждения о чрезвычайных ситуациях. Вредоносные приложения могут помешать работе во время экстренней трансляции.</string>
@@ -1458,7 +1458,7 @@
     <string name="permdesc_readMediaAudio">Приложение сможет читать аудиофайлы из общего хранилища.</string>
     <string name="permdesc_readMediaImages">Приложение сможет читать изображения из общего хранилища.</string>
     <string name="permdesc_readMediaVideo">Приложение сможет читать видеофайлы из общего хранилища.</string>
-    <string name="permdesc_readNetworkUsageHistory">Приложение сможет читать сохраненную историю использования определённых сетей и приложений.</string>
+    <string name="permdesc_readNetworkUsageHistory">Приложение сможет читать сохранённую историю использования определённых сетей и приложений.</string>
     <string name="permdesc_readPhoneNumbers">Разрешает приложению доступ к телефонным номерам устройства.</string>
     <string name="permdesc_readPhoneState">Приложение получит доступ к функциям телефона на устройстве. Кроме того, оно сможет определять номера телефонов и серийные номера моделей, состояние активности вызова, а также удаленные номера, с которыми установлено соединение.</string>
     <string name="permdesc_readSms">Приложение может читать SMS-сообщения на устройстве.</string>
@@ -1513,7 +1513,7 @@
     <string name="permdesc_writeCallLog">Приложение сможет вносить изменения в список вызовов и данные о входящих и исходящих звонках. Вредоносные приложения смогут воспользоваться этим для удаления или изменения информации о звонках.</string>
     <string name="permdesc_writeContacts">Приложение сможет изменять сведения о контактах на устройстве, включая то, как часто вы звоните, отправляете письма и другими способами связываетесь с определёнными людьми. С этим разрешением приложения смогут удалять данные о контактах.</string>
     <string name="permdesc_writeGeolocationPermissions">Приложение сможет изменять настройки доступа к геоданным в браузере. Вредоносные программы смогут таким образом отправлять информацию о местоположении на любые веб-сайты.</string>
-    <string name="permdesc_writeHistoryBookmarks">Приложение сможет изменять историю или закладки браузера, сохраненные на устройстве, а также удалять и изменять данные браузера. Обратите внимание: браузеры независимых поставщиков или другие приложения для просмотра веб-страниц могут не применять это разрешение.</string>
+    <string name="permdesc_writeHistoryBookmarks">Приложение сможет изменять историю или закладки браузера, сохранённые на устройстве, а также удалять и изменять данные браузера. Обратите внимание: браузеры независимых поставщиков или другие приложения для просмотра веб-страниц могут не применять это разрешение.</string>
     <string name="permdesc_writeSettings">"Приложение сможет изменять настройки системы. Вредоносные программы смогут повредить конфигурацию системы."</string>
     <string name="permdesc_writeSyncSettings">Приложение сможет изменять настройки синхронизации аккаунта. Например, с помощью этого разрешения можно включить в аккаунте синхронизацию контактов.</string>
     <string name="permgroupbackgroundrequest_location">Разрешить &lt;b&gt;%1$s&lt;/b&gt; использовать геолокацию &lt;b&gt;на постоянной основе&lt;/b&gt;?</string>
@@ -1584,7 +1584,7 @@
     <string name="permlab_addVoicemail">Добавление голосовых сообщений</string>
     <string name="permlab_answerPhoneCalls">Ответ на входящие вызовы</string>
     <string name="permlab_audioWrite">Изменение коллекции музыки</string>
-    <string name="permlab_backgroundCamera">Съемка фото и видео в фоновом режиме</string>
+    <string name="permlab_backgroundCamera">Съёмка фото и видео в фоновом режиме</string>
     <string name="permlab_bindCarrierMessagingService">Подключение к службе обмена сообщениями</string>
     <string name="permlab_bindCarrierServices">Подключение к сервисам оператора связи</string>
     <string name="permlab_bindCellBroadcastService">Пересылка широковещательных сообщений сотовой связи</string>
@@ -1603,7 +1603,7 @@
     <string name="permlab_broadcastSticky">Отправка сообщений с их последующим сохранением</string>
     <string name="permlab_callCompanionApp">Просмотр и контроль вызовов</string>
     <string name="permlab_callPhone">Осуществление телефонных вызовов</string>
-    <string name="permlab_camera">Фото- и видеосъемка</string>
+    <string name="permlab_camera">Фото- и видеосъёмка</string>
     <string name="permlab_cameraOpenCloseListener">Прослушивание событий, связанных с открытием/закрытием камеры устройства</string>
     <string name="permlab_changeNetworkState">Изменение сетевых настроек</string>
     <string name="permlab_changeTetherState">Изменение подключения к ПК</string>
@@ -1692,7 +1692,7 @@
     <string name="permlab_statusBarService">Замена строки состояния</string>
     <string name="permlab_subscribedFeedsRead">Просмотр фидов пользователя</string>
     <string name="permlab_systemAlertWindow">Показ поверх всех окон</string>
-    <string name="permlab_systemCamera">Доступ к камере для съемки фото и видео</string>
+    <string name="permlab_systemCamera">Доступ к камере для съёмки фото и видео</string>
     <string name="permlab_transmitIr">Использование инфракрасного передатчика</string>
     <string name="permlab_uninstall_shortcut">Удаление ярлыков</string>
     <string name="permlab_useBiometric">Использование аппаратных средств биометрической аутентификации</string>
@@ -2251,10 +2251,10 @@
     <string name="wifi_suggestion_action_disallow_app">Нет</string>
     <string name="wifi_suggestion_content">Предложение от %s</string>
     <string name="wifi_suggestion_title">Подключиться к сети Wi-Fi?</string>
-    <string name="wifi_wakeup_enabled_content">Доступна сохраненная сеть %1$s.</string>
+    <string name="wifi_wakeup_enabled_content">Доступна сохранённая сеть %1$s.</string>
     <string name="wifi_wakeup_enabled_title">Wi-Fi включён автоматически</string>
     <string name="wifi_wakeup_onboarding_action_disable">Не включать снова</string>
-    <string name="wifi_wakeup_onboarding_subtext">Когда будет доступна сохраненная сеть с хорошим сигналом</string>
+    <string name="wifi_wakeup_onboarding_subtext">Когда будет доступна сохранённая сеть с хорошим сигналом</string>
     <string name="wifi_wakeup_onboarding_title">Wi-Fi включится автоматически</string>
     <string name="wifi_watchdog_network_disabled">Не удалось подключиться к сети Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled_detailed">" – плохое интернет-соединение."</string>

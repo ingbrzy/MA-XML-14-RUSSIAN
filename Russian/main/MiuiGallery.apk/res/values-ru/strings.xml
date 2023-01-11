@@ -990,7 +990,7 @@ ID: %s
     <string name="filter_bi_warm">Теплый</string>
     <string name="filter_category_black_white">Ч/Б</string>
     <string name="filter_category_classic">Классика</string>
-    <string name="filter_category_film">Пленка</string>
+    <string name="filter_category_film">Плёнка</string>
     <string name="filter_category_food">Еда</string>
     <string name="filter_category_fresh">Свежесть</string>
     <string name="filter_category_general">Общие</string>
@@ -1008,7 +1008,7 @@ ID: %s
     <string name="filter_film_classic">Классика</string>
     <string name="filter_film_dew">Роса</string>
     <string name="filter_film_fade">Блеклый</string>
-    <string name="filter_film_film">Пленка</string>
+    <string name="filter_film_film">Плёнка</string>
     <string name="filter_film_grey">Серый</string>
     <string name="filter_film_quiet">Покой</string>
     <string name="filter_film_style">Поэзия</string>
@@ -1031,7 +1031,7 @@ ID: %s
     <string name="filter_general_greenorange">Лайм</string>
     <string name="filter_general_japanese">Свежесть</string>
     <string name="filter_general_lilt">Ритм</string>
-    <string name="filter_general_movie">Пленка</string>
+    <string name="filter_general_movie">Плёнка</string>
     <string name="filter_general_nature">Натуральный</string>
     <string name="filter_general_past">Прошлое</string>
     <string name="filter_general_pink">Румянец</string>
@@ -1054,7 +1054,7 @@ ID: %s
     <string name="filter_movie_encounter">Схватка</string>
     <string name="filter_movie_fantasy">Фантазия</string>
     <string name="filter_movie_fengyin">Ветер</string>
-    <string name="filter_movie_film">Пленка</string>
+    <string name="filter_movie_film">Плёнка</string>
     <string name="filter_movie_koizora">Манга</string>
     <string name="filter_movie_latin">Танго</string>
     <string name="filter_movie_lost">Потерянный</string>
@@ -1491,7 +1491,7 @@ ID: %s
     <string name="magic_cut_video_no_support_image_edit">Этот формат не поддерживается</string>
     <string name="magic_cut_video_no_support_video_edit">Этот формат не поддерживается</string>
     <string name="magic_edit_cancel">Выход</string>
-    <string name="magic_edit_dsc">Все несохраненные изменения будут потеряны. Выйти?</string>
+    <string name="magic_edit_dsc">Все несохранённые изменения будут потеряны. Выйти?</string>
     <string name="magic_effect">Эффекты</string>
     <string name="magic_effect_text">Арт</string>
     <string name="magic_effect_video_text">Видеоэффекты</string>
@@ -1569,7 +1569,7 @@ ID: %s
     <string name="magic_video_soundtrack_is_turned_on">Оригинальный звук включён</string>
     <string name="magic_width">Ширина</string>
     <string name="magic_zidiyi">Пользовательский</string>
-    <string name="main_discard_confirm_message">У вас есть несохраненные изменения</string>
+    <string name="main_discard_confirm_message">У вас есть несохранённые изменения</string>
     <string name="main_discard_negative_btn">Не сохранять</string>
     <string name="main_discard_positive_btn">Сохранить и выйти</string>
     <string name="main_save_cancel">Отмена</string>
@@ -2356,7 +2356,7 @@ ID: %s
     <string name="picker_title_specify_format">Выберите %d фото</string>
     <string name="picker_title_specify_format_one">Выберите %d фото</string>
     <string name="picker_title_unlimit">Выберите фото</string>
-    <string name="places_album_empty_title">Фото можно отсортировать по месту съемки</string>
+    <string name="places_album_empty_title">Фото можно отсортировать по месту съёмки</string>
     <string name="play_gif_desc">Воспроизвести GIF</string>
     <string name="play_video_desc">Воспроизвести видео</string>
     <string name="please_agree_protocal">Примите Протокол</string>
@@ -2900,20 +2900,20 @@ ID: %s
     <string name="slim_dialog_empty_message">Нет файлов для оптимизации</string>
     <string name="slim_dialog_empty_positive">Понятно</string>
     <string name="slim_dialog_empty_title">Внимание</string>
-    <string name="slim_dialog_message" formatted="false">Оригиналы будут сохранены в облаке и заменены копиями высокого качества через %d дней после съемки. На устройстве освободится около %s.</string>
+    <string name="slim_dialog_message" formatted="false">Оригиналы будут сохранены в облаке и заменены копиями высокого качества через %d дней после съёмки. На устройстве освободится около %s.</string>
     <string name="slim_dialog_positive">Оптимизировать</string>
     <string name="slim_dialog_title">Оптимизация места</string>
     <string name="slim_exit_dialog_positive">Остановить</string>
     <string name="slim_exit_dialog_title">Остановка оптимизации</string>
     <string name="slim_preference_scanning">Анализ фото и видео…</string>
-    <string name="slim_preference_summery">Загрузка оригиналов в облако и сохранение копий меньшего размера высокого качества на устройстве через %d дней после съемки.</string>
+    <string name="slim_preference_summery">Загрузка оригиналов в облако и сохранение копий меньшего размера высокого качества на устройстве через %d дней после съёмки.</string>
     <string name="slim_preference_title">Оптимизация места</string>
     <string name="slim_running">Оптимизация…</string>
     <string name="slim_space">освобождено</string>
     <string name="slim_stop">Остановить</string>
     <string name="slim_stop_v2">Остановить</string>
     <string name="slim_success_tip">Освобождено %s на устройстве</string>
-    <string name="slow_motion_enter">Замедленная съемка</string>
+    <string name="slow_motion_enter">Замедленная съёмка</string>
     <string name="smartisan">Smartisan</string>
     <string name="smartisan_phone">Smartisan</string>
     <string name="sns_access_token_expired_warning">Превышено время авторизации. Войдите в аккаунт заново.</string>
@@ -3060,7 +3060,7 @@ ID: %s
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
-    <string name="super_slow_motion_enter">Сверхзамедленная съемка</string>
+    <string name="super_slow_motion_enter">Сверхзамедленная съёмка</string>
     <string name="support_single_image">Выберите изображение</string>
     <string name="support_single_video">Выберите видео</string>
     <string name="switch_account_continue">Возобновить</string>
@@ -3268,8 +3268,8 @@ ID: %s
     <string name="thursday">Четверг</string>
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>
-    <string name="time_burst_photo_enter">Серийная съемка по таймеру</string>
-    <string name="time_burst_preview_title">Серийная съемка по таймеру</string>
+    <string name="time_burst_photo_enter">Серийная съёмка по таймеру</string>
+    <string name="time_burst_preview_title">Серийная съёмка по таймеру</string>
     <string name="time_burst_save_all">Экспортировать все</string>
     <string name="time_burst_save_dialog_title">Экспорт</string>
     <string name="time_burst_save_select">Экспортировать выбранные</string>
@@ -3279,7 +3279,7 @@ ID: %s
     <string name="time_picker_label_minute">М</string>
     <string name="tip_capture_location">Местоположение:</string>
     <string name="tip_capture_params">Данные EXIF:</string>
-    <string name="tip_capture_time">Дата съемки:</string>
+    <string name="tip_capture_time">Дата съёмки:</string>
     <string name="tip_file_info">Файл:</string>
     <string name="tip_file_path">Расположение:</string>
     <string name="tip_not_download">Нет на устройстве. Будет загружено из Xiaomi Cloud при воспроизведении.</string>
@@ -3334,7 +3334,7 @@ ID: %s
     <string name="transfer_status_banner_msg_unbinding">Удаление аккаунта. Подождите немного и начните перенос снова %1$s</string>
     <string name="trash_bin">Корзина</string>
     <string name="trash_bin_key_word">Удаленные файлы</string>
-    <string name="trash_bin_summary">Просмотр недавно удаленных фото и видео, сохраненных в Xiaomi Cloud</string>
+    <string name="trash_bin_summary">Просмотр недавно удаленных фото и видео, сохранённых в Xiaomi Cloud</string>
     <string name="trash_bin_summary_local">Просмотр недавно удаленных фото и видео</string>
     <string name="trash_empty">Ничего нет</string>
     <string name="trash_high_occupied_tip_banner">Размер корзины %1$s. Выполните очистку, чтобы освободить место.</string>
@@ -3477,7 +3477,7 @@ ID: %s
     <string name="video_editor_filter_cloud">Холод</string>
     <string name="video_editor_filter_gothic">Зелень</string>
     <string name="video_editor_filter_heibai">Ч/Б</string>
-    <string name="video_editor_filter_jiaopian">Пленка</string>
+    <string name="video_editor_filter_jiaopian">Плёнка</string>
     <string name="video_editor_filter_jingmi">Покой</string>
     <string name="video_editor_filter_moon">Луна</string>
     <string name="video_editor_filter_none">Нет</string>
@@ -3649,7 +3649,7 @@ ID: %s
     <string name="vlog_estimated_size_x">≈%d МБ</string>
     <string name="vlog_exit_ddit_message">Если вы выйдете сейчас, все изменения будут потеряны. Выйти?</string>
     <string name="vlog_exit_edit_title">Выход из редактора</string>
-    <string name="vlog_exit_message">Все несохраненные изменения будут потеряны. Отменить?</string>
+    <string name="vlog_exit_message">Все несохранённые изменения будут потеряны. Отменить?</string>
     <string name="vlog_exit_title">Отмена изменений</string>
     <string name="vlog_film_title">Открытие</string>
     <string name="vlog_filter_bbp">BBP</string>
