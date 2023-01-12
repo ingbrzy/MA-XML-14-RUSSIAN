@@ -301,9 +301,9 @@
     <string name="attachment_unknown">Файл: %s</string>
     <string name="attachment_video">Видео</string>
     <string name="attachments_header">Вложения</string>
-    <string name="attachments_security_alert_install_message">Вложение содержит установочный пакет. Убедитесь в надежности источника, прежде чем устанавливать его. Установить?</string>
+    <string name="attachments_security_alert_install_message">Вложение содержит установочный пакет. Убедитесь в надёжности источника, прежде чем устанавливать его. Установить?</string>
     <string name="attachments_security_alert_install_title">Внимание</string>
-    <string name="attachments_security_alert_message">Письмо содержит установочный пакет. Убедитесь в надежности источника, прежде чем открывать его.</string>
+    <string name="attachments_security_alert_message">Письмо содержит установочный пакет. Убедитесь в надёжности источника, прежде чем открывать его.</string>
     <string name="attachments_security_install">Установить</string>
     <string name="attendee_needed">Добавьте хотя бы одного приглашенного</string>
     <string name="auto_advance_help_title">После удаления сообщения…</string>

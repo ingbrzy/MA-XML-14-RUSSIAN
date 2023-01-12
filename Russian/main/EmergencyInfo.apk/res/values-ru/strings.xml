@@ -56,7 +56,7 @@
     <string name="accessibility_wifi_one_bar">Wi-Fi: одно деление</string>
     <string name="accessibility_wifi_security_type_none">Открытая сеть</string>
     <string name="accessibility_wifi_security_type_secured">Защищенная сеть</string>
-    <string name="accessibility_wifi_signal_full">Wi-Fi: надежный сигнал</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi: надёжный сигнал</string>
     <string name="accessibility_wifi_three_bars">Wi-Fi: три деления</string>
     <string name="accessibility_wifi_two_bars">Wi-Fi: два деления</string>
     <string name="accessibility_work_profile_app_description">Рабочий профиль: %s</string>
@@ -448,7 +448,7 @@
     <string name="inactive_app_inactive_summary">Неактивно. Нажмите для включения.</string>
     <string name="inactive_apps_title">Неактивные приложения</string>
     <string name="injection_summary_empty" />
-    <string name="install_other_apps">Ненадежные источники</string>
+    <string name="install_other_apps">Ненадёжные источники</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="keep_screen_on">Не выключать экран</string>
     <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включён</string>

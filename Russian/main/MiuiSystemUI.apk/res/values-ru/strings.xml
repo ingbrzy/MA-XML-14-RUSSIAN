@@ -129,7 +129,7 @@
     <string name="accessibility_data_one_bar">Сигнал передачи данных: одно деление</string>
     <string name="accessibility_data_saver_off">Экономия трафика отключена</string>
     <string name="accessibility_data_saver_on">Экономия трафика включена</string>
-    <string name="accessibility_data_signal_full">Надежный сигнал передачи данных</string>
+    <string name="accessibility_data_signal_full">Надёжный сигнал передачи данных</string>
     <string name="accessibility_data_three_bars">Сигнал передачи данных: три деления</string>
     <string name="accessibility_data_two_bars">Сигнал передачи данных: два деления</string>
     <string name="accessibility_desc_close">Закрыть</string>
@@ -227,7 +227,7 @@
     <string name="accessibility_overflow_action">Показать все уведомления</string>
     <string name="accessibility_phone_button">Телефон</string>
     <string name="accessibility_phone_one_bar">Сигнал телефонной сети: одно деление.</string>
-    <string name="accessibility_phone_signal_full">Надежный телефонный сигнал.</string>
+    <string name="accessibility_phone_signal_full">Надёжный телефонный сигнал.</string>
     <string name="accessibility_phone_three_bars">Сигнал телефонной сети: три деления.</string>
     <string name="accessibility_phone_two_bars">Сигнал телефонной сети: два деления.</string>
     <string name="accessibility_qr_code_scanner_button">Сканер QR-кодов</string>
@@ -344,7 +344,7 @@
     <string name="accessibility_sensors_off_active">Сенсоры неактивны</string>
     <string name="accessibility_settings">Настройки</string>
     <string name="accessibility_settings_button">Настройки системы.</string>
-    <string name="accessibility_signal_full">Надежный сигнал.</string>
+    <string name="accessibility_signal_full">Надёжный сигнал.</string>
     <string name="accessibility_splite_screen_primary">Добавлено в качестве основного приложения на разделенном экране</string>
     <string name="accessibility_splite_screen_secondary">Добавлено в качестве дополнительного приложения на разделенном экране</string>
     <string name="accessibility_status_bar_headphones">Наушники подключены</string>
@@ -375,11 +375,11 @@
     <string name="accessibility_wifi_one_bar">Сигнал Wi-Fi: одно деление.</string>
     <string name="accessibility_wifi_security_type_none">Открытая сеть</string>
     <string name="accessibility_wifi_security_type_secured">Защищённая сеть</string>
-    <string name="accessibility_wifi_signal_full">Надежный сигнал Wi-Fi.</string>
+    <string name="accessibility_wifi_signal_full">Надёжный сигнал Wi-Fi.</string>
     <string name="accessibility_wifi_three_bars">Сигнал Wi-Fi: три деления.</string>
     <string name="accessibility_wifi_two_bars">Сигнал Wi-Fi: два деления.</string>
     <string name="accessibility_wimax_one_bar">Сигнал WiMAX: одно деление.</string>
-    <string name="accessibility_wimax_signal_full">Надежный сигнал WiMAX.</string>
+    <string name="accessibility_wimax_signal_full">Надёжный сигнал WiMAX.</string>
     <string name="accessibility_wimax_three_bars">Сигнал WiMAX: три деления.</string>
     <string name="accessibility_wimax_two_bars">Сигнал WiMAX: два деления.</string>
     <string name="accessibility_work_mode">Рабочий режим</string>
@@ -1450,7 +1450,7 @@
     <string name="input_pin_hint_text_v11">Введите PIN-код</string>
     <string name="input_puk_code">Введите PUK-код</string>
     <string name="input_second_pattern_after_restart_msg">Чтобы продолжить, подтвердите пароль второго пространства</string>
-    <string name="install_other_apps">Ненадежные источники</string>
+    <string name="install_other_apps">Ненадёжные источники</string>
     <string name="installer_cd_button_title">Установить Android File Transfer для Mac</string>
     <string name="instant_apps">Приложения с мгновенным запуском</string>
     <string name="instant_apps_help_url" />
@@ -1976,7 +1976,7 @@ mm"</string>
     <string name="monitoring_description_app_work">"Ваш рабочий профиль управляется %1$s. Приложение %2$s может отслеживать ваши действия в корпоративной сети, включая работу с электронной почтой, приложениями и сайтами.
 
 Для получения подробной информации обращайтесь к администратору."</string>
-    <string name="monitoring_description_ca_cert_settings">Открыть надежные сертификаты</string>
+    <string name="monitoring_description_ca_cert_settings">Открыть надёжные сертификаты</string>
     <string name="monitoring_description_ca_certificate">На устройстве установлен сертификат ЦС. Ваш защищенный сетевой трафик могут отслеживать и изменять.</string>
     <string name="monitoring_description_do_body">Администратор контролирует настройки, приложения, доступ к ресурсам компании, связанные с устройством данные и передачу геоданных.</string>
     <string name="monitoring_description_do_body_vpn">Запущено приложение %1$s, которое может отслеживать ваши действия в сети, включая работу с электронной почтой, приложениями и сайтами.</string>

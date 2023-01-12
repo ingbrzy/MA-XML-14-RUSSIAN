@@ -426,12 +426,12 @@
         <item quantity="few">Отключено %d категории</item>
     </plurals>
     <plurals name="notifications_sent_daily">
-        <item quantity="other">~%,d уведомлений в день</item>
+        <item quantity="other">~%d уведомлений в день</item>
         <item quantity="one">~%d уведомление в день</item>
         <item quantity="few">~%,d уведомления в день</item>
     </plurals>
     <plurals name="notifications_sent_weekly">
-        <item quantity="other">~%,d уведомлений в неделю</item>
+        <item quantity="other">~%d уведомлений в неделю</item>
         <item quantity="one">~%d уведомление в неделю</item>
         <item quantity="few">~%,d уведомления в неделю</item>
     </plurals>

@@ -163,7 +163,7 @@
     <string name="accessibility_wifi_one_bar">Wi-Fi: одно деление</string>
     <string name="accessibility_wifi_security_type_none">Открытая сеть</string>
     <string name="accessibility_wifi_security_type_secured">Защищенная сеть</string>
-    <string name="accessibility_wifi_signal_full">Wi-Fi: надежный сигнал</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi: надёжный сигнал</string>
     <string name="accessibility_wifi_three_bars">Wi-Fi: три деления</string>
     <string name="accessibility_wifi_two_bars">Wi-Fi: два деления</string>
     <string name="accessibility_work_profile_app_description">Рабочий профиль: %s</string>
@@ -3018,7 +3018,7 @@ UT-интерфейс: %5$s"</string>
     <string name="vm_change_pin_error_system_error">Не удалось изменить PIN</string>
     <string name="vm_change_pin_error_too_long">Новый PIN слишком длинный.</string>
     <string name="vm_change_pin_error_too_short">Новый PIN слишком короткий.</string>
-    <string name="vm_change_pin_error_too_weak">Новый PIN слишком простой. Надежный пароль не должен содержать непрерывную последовательность чисел.</string>
+    <string name="vm_change_pin_error_too_weak">Новый PIN слишком простой. Надёжный пароль не должен содержать непрерывную последовательность чисел.</string>
     <string name="vm_change_pin_new_pin">Новый PIN</string>
     <string name="vm_change_pin_old_pin">Текущий PIN</string>
     <string name="vm_change_pin_progress_message">Подождите…</string>

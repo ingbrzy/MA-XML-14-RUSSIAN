@@ -367,7 +367,7 @@
     <string name="accessibility_timeout_30secs">30 секунд</string>
     <string name="accessibility_timeout_default">По умолчанию</string>
     <string name="accessibility_toggle_audio_description_preference_title">Аудиодескрипция</string>
-    <string name="accessibility_toggle_high_text_contrast_preference_summary">Изменить цвет текста на черный или белый, чтобы сделать его максимально заметным</string>
+    <string name="accessibility_toggle_high_text_contrast_preference_summary">Изменить цвет текста на чёрный или белый, чтобы сделать его максимально заметным</string>
     <string name="accessibility_toggle_high_text_contrast_preference_title">Высококонтрастный текст</string>
     <string name="accessibility_toggle_large_pointer_icon_summary">Сделать указатель мыши более заметным</string>
     <string name="accessibility_toggle_large_pointer_icon_title">Крупный указатель мыши</string>
@@ -444,7 +444,7 @@
     <string name="accessibility_wifi_one_bar">Сигнал Wi-Fi: одно деление.</string>
     <string name="accessibility_wifi_security_type_none">Открытая сеть</string>
     <string name="accessibility_wifi_security_type_secured">Защищенная сеть</string>
-    <string name="accessibility_wifi_signal_full">Надежный сигнал Wi-Fi.</string>
+    <string name="accessibility_wifi_signal_full">Надёжный сигнал Wi-Fi.</string>
     <string name="accessibility_wifi_three_bars">Сигнал Wi-Fi: три деления.</string>
     <string name="accessibility_wifi_two_bars">Сигнал Wi-Fi: два деления.</string>
     <string name="accessibility_work_account_title">Рабочий аккаунт – %s</string>
@@ -3513,7 +3513,7 @@ ID: %s
     <string name="enable_receiving_mms_notification_title">Входящее MMS-сообщение</string>
     <string name="enable_screen_projection_summary">Вывод на внешний монитор</string>
     <string name="enable_sending_mms_notification_title">Не удалось отправить MMS-сообщение</string>
-    <string name="enable_service_encryption_warning">Если включить сервис \"%1$s\", блокировка экрана будет отключена и надежность защиты зашифрованных данных снизится.</string>
+    <string name="enable_service_encryption_warning">Если включить сервис \"%1$s\", блокировка экрана будет отключена и надёжность защиты зашифрованных данных снизится.</string>
     <string name="enable_service_password_reason">Включение сервиса %1$s затронет шифрование данных, поэтому необходимо ввести пароль.</string>
     <string name="enable_service_pattern_reason">Включение сервиса %1$s затронет шифрование данных, поэтому необходимо ввести графический ключ.</string>
     <string name="enable_service_pin_reason">Включение сервиса %1$s затронет шифрование данных, поэтому необходимо ввести PIN-код.</string>
@@ -3604,10 +3604,10 @@ ID: %s
     <string name="enterprise_privacy_always_on_vpn_work">Постоянная VPN включена в вашем рабочем профиле</string>
     <string name="enterprise_privacy_apps_count_estimation_info">Количество приложений являются ориентировочным. Оно может не включать установки из неизвестных источников.</string>
     <string name="enterprise_privacy_bug_reports">Последний отчёт об ошибках</string>
-    <string name="enterprise_privacy_ca_certs">Надежные сертификаты</string>
-    <string name="enterprise_privacy_ca_certs_device">Надежные сертификаты</string>
-    <string name="enterprise_privacy_ca_certs_personal">Надежные сертификаты в личном профиле</string>
-    <string name="enterprise_privacy_ca_certs_work">Надежные сертификаты в рабочем профиле</string>
+    <string name="enterprise_privacy_ca_certs">Надёжные сертификаты</string>
+    <string name="enterprise_privacy_ca_certs_device">Надёжные сертификаты</string>
+    <string name="enterprise_privacy_ca_certs_personal">Надёжные сертификаты в личном профиле</string>
+    <string name="enterprise_privacy_ca_certs_work">Надёжные сертификаты в рабочем профиле</string>
     <string name="enterprise_privacy_camera_access">Доступ к камере</string>
     <string name="enterprise_privacy_device_access_category">Ваш доступ к устройству</string>
     <string name="enterprise_privacy_enterprise_data">Данные, связанные с вашим рабочим аккаунтом, например почта и мероприятия в календаре</string>
@@ -4748,7 +4748,7 @@ ID: %s
     <string name="install_applications_title">Разрешить из всех источников</string>
     <string name="install_no_market_app_summary">Разрешить установку приложений из неизвестных источников</string>
     <string name="install_no_market_app_title">Неизвестные источники</string>
-    <string name="install_other_apps">Ненадежные источники</string>
+    <string name="install_other_apps">Ненадёжные источники</string>
     <string name="install_preinstall_app">Изменение региона…</string>
     <string name="install_text">Установить</string>
     <string name="install_type_instant">Приложение с мгновенным запуском</string>
@@ -8465,7 +8465,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_title_font_settings">размер шрифта;толщина шрифта;стиль шрифта</string>
     <string name="search_touch_assistant">Сенсорный помощник;Помощник нажатий</string>
     <string name="search_touch_sensitive_title">Режим В перчатках;перчатки;перчатка</string>
-    <string name="search_trusted_credentials">Надежные сертификаты;Подпись приложения;Подписи приложений;Сертификаты;Подпись</string>
+    <string name="search_trusted_credentials">Надёжные сертификаты;Подпись приложения;Подписи приложений;Сертификаты;Подпись</string>
     <string name="search_tts_settings_title">Озвучивание текста;Синтез речи</string>
     <string name="search_turn_on_security_lock">Способ защиты;Блокировка экрана;Включить защиту;блокировка экрана</string>
     <string name="search_unlogin_account_title">Xiaomi аккаунт; Xiaomi аккаунт ID;Аккаунт;Аккаунт ID</string>
@@ -8507,7 +8507,7 @@ UT-интерфейс: %5$s"</string>
     <string name="secspace_fod_finger_title">Подтвердите отпечаток</string>
     <string name="secspace_fod_use_password">Введите пароль</string>
     <string name="secure_keyguard_business_title">Защита устройства</string>
-    <string name="secure_lock_encryption_warning">Поскольку включена служба специальных возможностей, блокировка экрана будет отключена и надежность защиты зашифрованных данных может быть снижена.</string>
+    <string name="secure_lock_encryption_warning">Поскольку включена служба специальных возможностей, блокировка экрана будет отключена и надёжность защиты зашифрованных данных может быть снижена.</string>
     <string name="security_advanced_settings">Дополнительные настройки безопасности</string>
     <string name="security_advanced_settings_keywords">безопасность, дополнительные настройки безопасности, дополнительные настройки, расширенные настройки безопасности</string>
     <string name="security_advanced_settings_no_work_profile_settings_summary">Шифрование, учетные данные и прочее</string>
@@ -8699,17 +8699,17 @@ UT-интерфейс: %5$s"</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue">Продолжить</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Добавить отпечаток</string>
     <string name="security_settings_fingerprint_enroll_introduction_footer_message_1">Данные отпечатков защищены и хранятся только на вашем устройстве. Их всегда можно удалить в настройках.</string>
-    <string name="security_settings_fingerprint_enroll_introduction_footer_message_2">Защита отпечатком менее надежна, чем графический ключ или PIN-код.</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_message_2">Защита отпечатком менее надёжна, чем графический ключ или PIN-код.</string>
     <string name="security_settings_fingerprint_enroll_introduction_footer_message_3">Периодически будут запрашиваться новые отпечатки для улучшения моделей отпечатков.</string>
     <string name="security_settings_fingerprint_enroll_introduction_footer_title_1">Вы сами управляете данными</string>
     <string name="security_settings_fingerprint_enroll_introduction_footer_title_2">Важно!</string>
     <string name="security_settings_fingerprint_enroll_introduction_footer_title_consent_1">Теперь доступ есть у вас и вашего ребенка</string>
     <string name="security_settings_fingerprint_enroll_introduction_message">"Чтобы разблокировать устройство, подтвердить платеж или войти в приложение, приложите палец к сканеру отпечатков. Можно сохранить на устройстве отпечатки доверенных лиц, чтобы они тоже могли это делать.
 
-Учтите, что разблокировка отпечатком менее надежна, чем графический ключ или PIN-код."</string>
+Учтите, что разблокировка отпечатком менее надёжна, чем графический ключ или PIN-код."</string>
     <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Чтобы разблокировать устройство, подтвердить платеж или войти в приложение, приложите палец к сканеру отпечатков. Можно сохранить на устройстве отпечатки доверенных лиц, чтобы они тоже могли это делать.
 
-Учтите, что разблокировка отпечатком менее надежна, чем графический ключ или PIN-код."</string>
+Учтите, что разблокировка отпечатком менее надёжна, чем графический ключ или PIN-код."</string>
     <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Чтобы подтвердить платеж или войти в приложение, приложите палец к сканеру. Можно сохранить на устройстве отпечатки доверенных лиц, чтобы они тоже могли это делать.
 
 Помните, что сканер нельзя использовать для разблокировки этого устройства. За подробной информацией обратитесь к системному администратору."</string>
@@ -8735,7 +8735,7 @@ UT-интерфейс: %5$s"</string>
     <string name="security_settings_fingerprint_v2_enroll_acquire_too_fast">Уберите палец после вибрации.</string>
     <string name="security_settings_fingerprint_v2_enroll_acquire_try_adjusting">Каждый раз немного меняйте положение пальца</string>
     <string name="security_settings_fingerprint_v2_enroll_error_max_attempts">Достигнуто максимальное количество попыток</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_1">Защита отпечатком менее надежна, чем графический ключ или PIN-код.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_1">Защита отпечатком менее надёжна, чем графический ключ или PIN-код.</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">Функция разблокировки отпечатком создает уникальную модель вашего отпечатка, чтобы идентифицировать вас. Для создания модели необходимо отсканировать палец в разных положениях.</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">Изображения, полученные с помощью функции Pixel Imprint, не сохраняются и используются только для обновления моделей отпечатков. Обработка и хранение моделей отпечатков происходит только на устройстве.</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">Вы можете в любой момент удалить модели отпечатков, сохранённых на устройстве, либо отключить функцию разблокировки отпечатком в настройках.</string>
@@ -9370,7 +9370,7 @@ UT-интерфейс: %5$s"</string>
     <string name="ssl_ca_cert_warning">Сеть может отслеживаться</string>
     <string name="ssl_ca_cert_warning_message">"Третья сторона может отслеживать ваши действия в сети. (например, просматривать ваши письма, приложения и список посещенных сайтов).
 
-Это возможно благодаря надежному сертификату, установленному на устройстве."</string>
+Это возможно благодаря надёжному сертификату, установленному на устройстве."</string>
     <string name="stable_build">Стабильная</string>
     <string name="standard">Без звука</string>
     <string name="standard_info">Вызовы и уведомления будут без звука</string>
@@ -10174,14 +10174,14 @@ UT-интерфейс: %5$s"</string>
     <string name="trust_agents_extend_unlock_title">Отложенная блокировка</string>
     <string name="trust_lost_locks_screen_summary">Блокировать экран при утрате доверия последним доверенным агентом</string>
     <string name="trust_lost_locks_screen_title">Блокировка при утрате доверия</string>
-    <string name="trusted_credentials">Надежные сертификаты</string>
+    <string name="trusted_credentials">Надёжные сертификаты</string>
     <string name="trusted_credentials_disable_confirmation">Отключить сертификат ЦС системы?</string>
     <string name="trusted_credentials_disable_label">Отключить</string>
     <string name="trusted_credentials_enable_confirmation">Включить сертификат ЦС системы?</string>
     <string name="trusted_credentials_enable_label">Включить</string>
     <string name="trusted_credentials_remove_confirmation">Полностью удалить сертификат ЦС пользователя?</string>
     <string name="trusted_credentials_remove_label">Удалить</string>
-    <string name="trusted_credentials_summary">Смотреть надежные сертификаты ЦС</string>
+    <string name="trusted_credentials_summary">Смотреть надёжные сертификаты ЦС</string>
     <string name="trusted_credentials_system_tab">Система</string>
     <string name="trusted_credentials_trust_label">Доверять</string>
     <string name="trusted_credentials_user_tab">Пользователь</string>
@@ -10343,7 +10343,7 @@ UT-интерфейс: %5$s"</string>
     <string name="unlock_disable_lock_pin_summary">Отключить PIN-код</string>
     <string name="unlock_disable_lock_title">Отключить блокировку экрана</string>
     <string name="unlock_failed">Внутренняя ошибка</string>
-    <string name="unlock_footer_high_complexity_requested">Для %1$s рекомендуется установить более надежный PIN-код или пароль</string>
+    <string name="unlock_footer_high_complexity_requested">Для %1$s рекомендуется установить более надёжный PIN-код или пароль</string>
     <string name="unlock_footer_low_complexity_requested">Для %1$s рекомендуется установить новый графический ключ, PIN-код или пароль</string>
     <string name="unlock_footer_medium_complexity_requested">Для %1$s рекомендуется установить новый PIN-код или пароль</string>
     <string name="unlock_footer_none_complexity_requested">Для %1$s рекомендуется установить новый способ блокировки</string>
@@ -10752,7 +10752,7 @@ UT-интерфейс: %5$s"</string>
     <string name="virtual_keyboard_category">Виртуальная клавиатура</string>
     <string name="virtual_keyboards_for_work_title">Виртуальная клавиатура</string>
     <string name="virtual_sim_category_title">Mi Роуминг</string>
-    <string name="virtual_sim_description">Надежный поставщик услуг роуминга</string>
+    <string name="virtual_sim_description">Надёжный поставщик услуг роуминга</string>
     <string name="virtual_sim_global_category_title">Mi SIM</string>
     <string name="virtual_sim_global_description">Для подключения к сети передачи данных не требуется SIM-карта</string>
     <string name="virtual_sim_global_title">Сервис передачи данных</string>
@@ -10788,7 +10788,7 @@ UT-интерфейс: %5$s"</string>
     <string name="virus_scanner_select_OK">OK</string>
     <string name="virus_scanner_select_lib">Выберите сигнатуры</string>
     <string name="virus_scanner_select_multi">Использование нескольких комплектов сигнатур замедлит скорость проверки и установки приложений</string>
-    <string name="virus_scanner_select_single">Используйте только сигнатуры из надежного источника.</string>
+    <string name="virus_scanner_select_single">Используйте только сигнатуры из надёжного источника.</string>
     <string name="virus_scanner_select_trust_lib">Выберите сигнатуры</string>
     <string name="virus_scanner_title">Антивирус</string>
     <string name="virus_scanner_update_lib">Обновление базы</string>

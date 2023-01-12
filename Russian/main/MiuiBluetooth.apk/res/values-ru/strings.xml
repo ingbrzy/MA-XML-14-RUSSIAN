@@ -522,7 +522,7 @@
     <string name="inactive_apps_title">Неактивные приложения</string>
     <string name="install_all_deferred">Установить все отложенные модули</string>
     <string name="install_all_features_now">Установить все функции</string>
-    <string name="install_other_apps">Ненадежные источники</string>
+    <string name="install_other_apps">Ненадёжные источники</string>
     <string name="install_package">Установите %1$s для доп. функций</string>
     <string name="installer_downloaded">Загружено</string>
     <string name="installer_downloading">Загрузка…</string>

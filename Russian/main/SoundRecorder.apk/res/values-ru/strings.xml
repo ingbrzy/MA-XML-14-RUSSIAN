@@ -406,9 +406,9 @@
     <string name="recognition_error_cancel">Отменено</string>
     <string name="recognition_error_code">Код ошибки: %d</string>
     <string name="recognition_error_download_cancel">Позже</string>
-    <string name="recognition_error_download_data_msg">Загрузите модуль транскрибирования для обеспечения доступности сервиса. Потребуется около 20 МБ мобильных данных.</string>
+    <string name="recognition_error_download_data_msg">Загрузите модуль транскрибирования для работы сервиса. Потребуется около 20 МБ мобильных данных.</string>
     <string name="recognition_error_download_fail">Ошибка загрузки. Проверьте настройки сети и повторите попытку.</string>
-    <string name="recognition_error_download_msg">Загрузите модуль транскрибирования для обеспечения доступности сервиса.</string>
+    <string name="recognition_error_download_msg">Загрузите модуль транскрибирования для работы сервиса.</string>
     <string name="recognition_error_download_ok">Загрузить</string>
     <string name="recognition_error_download_title">Требуется модуль транскрибирования</string>
     <string name="recognition_error_downloading">Загрузка</string>

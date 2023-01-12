@@ -64,7 +64,7 @@ FQDN: %2$s
     <string name="wifi_dismiss_label">Закрыть</string>
     <string name="wifi_install_label">Установить</string>
     <string name="wifi_installer_detail">Чтобы подключаться к сетям Wi-Fi, доступным через %1$s, установите сертификат.</string>
-    <string name="wifi_installer_download_error">Невозможно установить сертификат. Убедитесь, что вы скачали его из надежного источника.</string>
+    <string name="wifi_installer_download_error">Невозможно установить сертификат. Убедитесь, что вы скачали его из надёжного источника.</string>
     <string name="wifi_installer_fail">Не удалось установить сертификат доступа к Wi-Fi. Попробуйте скачать файл ещё раз.</string>
     <string name="wifi_installer_fail_no_wifi">Включите Wi-Fi и повторите попытку.</string>
     <string name="wifi_installer_fail_no_wifi_title">Установка отменена</string>

@@ -635,7 +635,7 @@ ID:%s
     <string name="passport_adding_account">Добавление аккаунта…</string>
     <string name="passport_area_code_hot">ЧАСТО ИСПОЛЬЗУЕМЫЕ</string>
     <string name="passport_area_code_title">Код страны</string>
-    <string name="passport_auto_generate_pwd">Создать надежный пароль</string>
+    <string name="passport_auto_generate_pwd">Создать надёжный пароль</string>
     <string name="passport_back">Назад</string>
     <string name="passport_bad_authentication">Неверное имя пользователя или пароль</string>
     <string name="passport_barcode_add_account_prompt">Чтобы добавить аккаунт, отсканируйте QR-код повторно после авторизации.</string>
