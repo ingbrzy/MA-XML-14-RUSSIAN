@@ -665,7 +665,6 @@
     <string name="noti_quota_button_text">Обновить</string>
     <string name="noti_quota_full_sum">Обновите тарифный план для продолжения синхронизации</string>
     <string name="noti_quota_full_sum_without_button">Получить больше места для продолжения синхронизации</string>
-    <string name="noti_quota_full_title">Недостаточно места</string>
     <string name="noti_quota_full_title">Облачное хранилище &lt;font color=#F22424>заполнено&lt;/font></string>
     <string name="noti_quota_full_title_without_button">Облачное хранилище заполнено</string>
     <string name="noti_quota_low_sum">Обновите тарифный план для продолжения синхронизации</string>
