@@ -34,6 +34,10 @@
         <item quantity="one">Не удалось синхронизировать %s объект</item>
         <item quantity="few">Не удалось синхронизировать %s объекта</item>
     </plurals>
+    <plurals name="cloud_storage_full_upgrade_text">
+        <item quantity="other">Недостаточно места. Не синхронизировано %d фото.</item>
+        <item quantity="one">Недостаточно места. Не синхронизировано %d фото.</item>
+    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d записей черного списка</item>
         <item quantity="one">%d запись черного списка</item>
@@ -130,10 +134,15 @@
         <item quantity="other">Попробуйте снова через %d сек.</item>
         <item quantity="one">Попробуйте снова через %d сек.</item>
     </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_red_title">
+        <item quantity="other">Не удалось синхронизировать &lt;font color=#F22424>%s файлов&lt;/font></item>
+        <item quantity="one">Не удалось синхронизировать &lt;font color=#F22424>%s файл&lt;/font></item>
+        <item quantity="few">Не удалось синхронизировать &lt;font color=#F22424>%s файла&lt;/font></item>
+    </plurals>
     <plurals name="gallery_auto_sync_fail_noti_title">
-        <item quantity="other">Не удалось синхронизировать %s объектов</item>
-        <item quantity="one">Не удалось синхронизировать %s объект</item>
-        <item quantity="few">Не удалось синхронизировать %s объекта</item>
+        <item quantity="other">Не удалось синхронизировать %s файлов</item>
+        <item quantity="one">Не удалось синхронизировать %s файл</item>
+        <item quantity="few">Не удалось синхронизировать %s файла</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Полчаса назад</item>
@@ -188,6 +197,11 @@
         <item quantity="other">Выбрано %d объектов</item>
         <item quantity="one">Выбран %d объект</item>
         <item quantity="few">Выбрано %d объекта</item>
+    </plurals>
+    <plurals name="noti_quota_full_title_with_icon_text">
+        <item quantity="other">Хранилище заполнено. Не синхронизировано &lt;font color=#F22424>%d приложений&lt;/font>.</item>
+        <item quantity="one">Хранилище заполнено. Не синхронизировано &lt;font color=#F22424>%d приложение&lt;/font>.</item>
+        <item quantity="few">Хранилище заполнено. Не синхронизировано &lt;font color=#F22424>%d приложения&lt;/font>.</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d минут назад</item>

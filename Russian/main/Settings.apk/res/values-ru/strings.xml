@@ -3447,6 +3447,7 @@ ID: %s
     <string name="effect_preview">Предпросмотр</string>
     <string name="eighthours">8 часов</string>
     <string name="elastic_text">Подсказки и выпадающие меню в виде эластичного всплывающего окна помогают акцентировать внимание на них</string>
+    <string name="embedded_window_guide_text">В альбомном режиме приложения будут отображаться параллельно. Когда эта функция отключена, приложения будут отображаться по центру.</string>
     <string name="emergency_address_summary">Адрес, по которому будут направлены экстренные службы в случае вызова по номеру 112 через сеть Wi-Fi</string>
     <string name="emergency_address_title">Адрес для экстренных случаев</string>
     <string name="emergency_dashboard_summary">Экстренные вызовы, медицинские данные, оповещения</string>
@@ -5606,7 +5607,7 @@ ID: %s
     <string name="magic_list_empty_text">Нет приложений, совместимых с этой функцией</string>
     <string name="magic_list_empty_text_pad">Нет приложений, совместимых с этой функцией</string>
     <string name="magic_window_name">Разделение экрана</string>
-    <string name="magic_window_name_pad">Оптимизация альбомном режима</string>
+    <string name="magic_window_name_pad">Разделение экрана</string>
     <string name="mah">%d мА·ч</string>
     <string name="main_clear_accounts">"
 

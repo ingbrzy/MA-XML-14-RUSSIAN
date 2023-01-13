@@ -741,6 +741,7 @@
     <string-array name="etws_test_alerts_range_strings"></string-array>
     <string-array name="eu_regions"></string-array>
     <string-array name="exercise_alert_range_strings"></string-array>
+    <string-array name="exo_controls_playback_speeds"></string-array>
     <string-array name="exo_playback_speeds"></string-array>
     <integer-array name="exo_speed_multiplied_by_100"></integer-array>
     <array name="fab_expand_down_ids"></array>

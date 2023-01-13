@@ -371,6 +371,7 @@
     <string name="fold_pair_installed_shortcut_launcher">Ярлык уже существует</string>
     <string name="folder_name">Папка</string>
     <string name="folder_not_edit_icon_tip">Чтобы изменить иконку, переместите приложение из папки</string>
+    <string name="folder_picker_big_2x2_9_text">XXL</string>
     <string name="folder_picker_big_text">Увеличенный</string>
     <string name="folder_picker_default_text">Нормальный</string>
     <string name="folder_picker_options_tab_text">Размер</string>

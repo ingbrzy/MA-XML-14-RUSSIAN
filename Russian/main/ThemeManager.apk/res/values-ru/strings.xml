@@ -467,6 +467,7 @@
     <string name="hide_pull_down_negative">Отмена</string>
     <string name="hide_pull_down_positive">Скрыть</string>
     <string name="hide_retract_button">Скрыть</string>
+    <string name="historical_wallpaper">Ранее установленные</string>
     <string name="home_apply_failured">Не удалось установить обои на рабочий стол</string>
     <string name="home_apply_success">Обои рабочего стола установлены</string>
     <string name="home_daily">Яркие моменты</string>

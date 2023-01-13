@@ -34,7 +34,7 @@
     <string name="account_crop_user_avatar">Обрезать фото</string>
     <string name="account_empty_user_name">Введите имя пользователя Mi Аккаунта</string>
     <string name="account_error_all_space_user_name">Имя не может состоять из одних пробелов</string>
-    <string name="account_error_invalid_user_name">В имени не может быть символов &lt;, &gt;, /</string>
+    <string name="account_error_invalid_user_name">В имени не могут быть символы &lt;, &gt;, /</string>
     <string name="account_error_longer_user_name">Имя не может содержать более 20 символов</string>
     <string name="account_error_shorter_user_name">Имя должно содержать не менее 2 символов</string>
     <string name="account_error_user_birthday">Неверная дата рождения</string>
@@ -420,7 +420,7 @@ ID: %s
     <string name="login_other">Другой Mi Аккаунт</string>
     <string name="login_register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="login_to_install">Авторизуйтесь для установки</string>
-    <string name="login_to_install_des">Войдите в Mi аккаунт, чтобы продолжить установку. Настройки установки можно изменить в Настройки > Небезопасные приложения</string>
+    <string name="login_to_install_des">Войдите в Mi аккаунт, чтобы продолжить установку. Настройки можно изменить в Настройки > Небезопасные приложения</string>
     <string name="login_with_sns">Другие варианты входа</string>
     <string name="login_xiaomi_account">Вход</string>
     <string name="low_risk_perms">Потенциально безопасные приложения</string>
@@ -978,7 +978,7 @@ ID: %s
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="screen_overlay_button">Перейти</string>
-    <string name="screen_overlay_message">Необходимо отключить разрешение \"Поверх других приложений\" для приложения в Настройки &gt; Пароли и защита &gt; Конфиденциальность &gt;  Специальный доступ &gt;  Поверх других приложений</string>
+    <string name="screen_overlay_message">Необходимо отключить разрешение \"Поверх других приложений\" для приложения в Настройки &gt; Пароли и защита &gt; Конфиденциальность &gt; Специальный доступ &gt; Поверх других приложений</string>
     <string name="screen_overlay_title">Обнаружено наложение</string>
     <string name="search_menu_title">Поиск</string>
     <string name="second_recomment_ad_title">Вместе с &lt;font color=#0BAE73>%1$s&lt;/font> часто устанавливают</string>
