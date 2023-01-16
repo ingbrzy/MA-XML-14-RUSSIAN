@@ -134,7 +134,7 @@
     <string name="bundle_app_on_self_desc_text">Выбранное приложение уже загружено. Если хотите дополнительно загрузить \"%1$s\", нажмите здесь.</string>
     <string name="bundle_app_on_self_desc_text_click">Нажмите здесь.</string>
     <string name="bundle_app_on_self_tips">Это приложение есть в GetApps и безопасно для загрузки</string>
-    <string name="bundle_app_on_self_tips_no_store">Вы собираетесь загрузить \"% 1$s\"</string>
+    <string name="bundle_app_on_self_tips_no_store">Вы собираетесь загрузить \"%1$s\"</string>
     <string name="bundle_app_on_self_title_text">\"%1$s\" является частью пакета загрузки</string>
     <string name="bundle_no_store_app_on_self_desc_text">\"%1$s\" является частью пакета загрузки. Если хотите продолжить загрузку \"%2$s\", нажмите здесь.</string>
     <string name="button_text_back">Назад</string>
