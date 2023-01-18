@@ -3295,7 +3295,7 @@ ID: %s
     <string name="to_enable_sync_dialog_positive_button_text">Настройки</string>
     <string name="to_enable_sync_dialog_title">Синхронизация</string>
     <string name="toast_download_with_metered_network_btn_continue">Загрузить</string>
-    <string name="toast_download_with_metered_network_msg">Устройство не подключено к Wi-Fi. Использовать мобильный интернет?</string>
+    <string name="toast_download_with_metered_network_msg">Устройство не подключено к Wi-Fi. Загрузить с использованием мобильного интернета?</string>
     <string name="toast_download_with_metered_network_title">Мобильный интернет</string>
     <string name="toast_invalid_char">Имя файла не может содержать \"%s\"</string>
     <string name="toast_invalid_prefix">Имя файла не может начинаться с \".\" или \"_\"</string>

@@ -460,7 +460,7 @@
     <string name="time_picker_label_minute">М</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="toast_download_with_metered_network_btn_continue">Загрузить</string>
-    <string name="toast_download_with_metered_network_msg">Устройство не подключено к Wi-Fi. Использовать мобильный интернет для загрузки?</string>
+    <string name="toast_download_with_metered_network_msg">Устройство не подключено к Wi-Fi. Загрузить с использованием мобильного интернета?</string>
     <string name="toast_download_with_metered_network_title">Мобильный интернет</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>

@@ -152,7 +152,7 @@
     <string name="download_list">Загрузки</string>
     <string name="download_list_empty">Ничего нет</string>
     <string name="download_metered_network_dialog_cancel">Отмена</string>
-    <string name="download_metered_network_dialog_desc">Устройство не подключено к Wi-Fi. Использовать мобильный интернет для загрузки?</string>
+    <string name="download_metered_network_dialog_desc">Устройство не подключено к Wi-Fi. Загрузить с использованием мобильного интернета?</string>
     <string name="download_metered_network_dialog_ok">Загрузить</string>
     <string name="download_metered_network_dialog_title">Мобильный интернет</string>
     <string name="download_to">"Сохранить в "</string>
@@ -244,7 +244,7 @@
     <string name="load_label_up_refresh">Обновление…</string>
     <string name="load_label_up_refresh_fail">Ошибка обновления</string>
     <string name="load_metered_network_dialog_cancel">Отмена</string>
-    <string name="load_metered_network_dialog_desc">Устройство не подключено к Wi-Fi. Использовать мобильный интернет для загрузки?</string>
+    <string name="load_metered_network_dialog_desc">Устройство не подключено к Wi-Fi. Загрузить с использованием мобильного интернета?</string>
     <string name="load_metered_network_dialog_ok">Загрузить</string>
     <string name="load_metered_network_dialog_title">Мобильный интернет</string>
     <string name="loading">Подождите…</string>
@@ -617,7 +617,7 @@
     <string name="upload_list">Загрузки</string>
     <string name="upload_list_empty">Ничего нет</string>
     <string name="upload_metered_network_dialog_cancel">Отмена</string>
-    <string name="upload_metered_network_dialog_desc">Устройство не подключено к Wi-Fi. Использовать мобильный интернет для загрузки?</string>
+    <string name="upload_metered_network_dialog_desc">Устройство не подключено к Wi-Fi. Загрузить с использованием мобильного интернета?</string>
     <string name="upload_metered_network_dialog_ok">Загрузить</string>
     <string name="upload_metered_network_dialog_title">Мобильный интернет</string>
     <string name="uploading">Загрузка</string>
