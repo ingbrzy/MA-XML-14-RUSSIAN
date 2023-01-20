@@ -10116,8 +10116,8 @@ UT-интерфейс: %5$s"</string>
     <string name="title_font_settings">Настройки шрифта</string>
     <string name="title_font_size">Размер шрифта</string>
     <string name="title_hdmi_color_calibration">Коррекция цвета</string>
-    <string name="title_layout_current">Размер текста</string>
-    <string name="title_layout_current2">Размер и толщина шрифта</string>
+    <string name="title_layout_current">Настройки шрифта</string>
+    <string name="title_layout_current2">Настройки шрифта</string>
     <string name="title_layout_current2_weight">Размер и толщина шрифта</string>
     <string name="title_layout_v2">Размер текста и масштаб</string>
     <string name="title_miui_music_mute_by_user">Режим \"Без звука\"</string>
