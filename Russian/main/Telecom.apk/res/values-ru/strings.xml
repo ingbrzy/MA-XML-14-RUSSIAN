@@ -149,11 +149,11 @@
     <string name="blocked_numbers_number_unblocked_message">Номер %1$s разблокирован</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Подключено к мультимедийному аудиоустройству</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Использовать для мультимедийного аудиоустройства</string>
-    <string name="bluetooth_active_battery_level">Активно. Уровень заряда: %1$s</string>
-    <string name="bluetooth_active_battery_level_untethered">Активно. Уровень заряда L: %1$s, R: %2$s</string>
+    <string name="bluetooth_active_battery_level">Активно. Заряд: %1$s</string>
+    <string name="bluetooth_active_battery_level_untethered">Активно. Заряд Л: %1$s, П: %2$s</string>
     <string name="bluetooth_active_no_battery_level">Активно</string>
     <string name="bluetooth_battery_level">Уровень заряда: %1$s</string>
-    <string name="bluetooth_battery_level_untethered">Уровень заряда L: %1$s, R: %2$s</string>
+    <string name="bluetooth_battery_level_untethered">Уровень заряда Л: %1$s, П: %2$s</string>
     <string name="bluetooth_bc_profile_summary_connected">Подключено к серверу BA</string>
     <string name="bluetooth_bc_profile_summary_use_for">Использовать для BA</string>
     <string name="bluetooth_connected">Подключено</string>

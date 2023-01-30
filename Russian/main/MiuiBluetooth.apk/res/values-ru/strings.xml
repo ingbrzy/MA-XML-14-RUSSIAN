@@ -110,7 +110,7 @@
     <string name="available_via_app">Доступно через %1$s</string>
     <string name="available_via_carrier">Доступно через %1$s</string>
     <string name="available_via_passpoint">Доступно через %1$s</string>
-    <string name="band_24G">" (2,4 ГГц)"</string>
+    <string name="band_24G">" (2.4 ГГц)"</string>
     <string name="band_5G">" (5 ГГц)"</string>
     <string name="battery_info_status_charging">Заряжается</string>
     <string name="battery_info_status_charging_fast">Быстрая зарядка</string>
@@ -131,11 +131,11 @@
     <string name="blob_id_text">ID общих данных: %d</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Подключено к мультимедийному аудиоустройству</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Использовать для мультимедийного аудиоустройства</string>
-    <string name="bluetooth_active_battery_level">Активно. Уровень заряда: %1$s</string>
-    <string name="bluetooth_active_battery_level_untethered">Активно. Уровень заряда L: %1$s, R: %2$s</string>
+    <string name="bluetooth_active_battery_level">Активно. Заряд: %1$s</string>
+    <string name="bluetooth_active_battery_level_untethered">Активно. Заряд Л: %1$s, П: %2$s</string>
     <string name="bluetooth_active_no_battery_level">Активно</string>
-    <string name="bluetooth_battery_level">Уровень заряда: %1$s</string>
-    <string name="bluetooth_battery_level_untethered">Уровень заряда L: %1$s, R: %2$s</string>
+    <string name="bluetooth_battery_level">Заряд: %1$s</string>
+    <string name="bluetooth_battery_level_untethered">Заряд Л: %1$s, П: %2$s</string>
     <string name="bluetooth_bc_profile_summary_connected">Подключено к серверу BA</string>
     <string name="bluetooth_bc_profile_summary_use_for">Использовать для BA</string>
     <string name="bluetooth_connected">Подключено</string>

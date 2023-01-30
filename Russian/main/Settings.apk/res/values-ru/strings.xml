@@ -1369,7 +1369,7 @@
     <string name="battery_total_usage_less_minute_with_period">Всего меньше минуты в период ^1</string>
     <string name="battery_total_usage_with_period">Всего ^1 в период ^2</string>
     <string name="battery_usage_background_less_than_one_minute">В фоновом режиме: меньше минуты</string>
-    <string name="battery_usage_chart">Диаграмма расхода заряда батареи</string>
+    <string name="battery_usage_chart">График расхода батареи</string>
     <string name="battery_usage_chart_graph_hint">Уровень заряда батареи за последние 24 часа</string>
     <string name="battery_usage_for_background_time">В фоновом режиме: %s</string>
     <string name="battery_usage_for_total_time">Всего: %s</string>
@@ -1398,7 +1398,7 @@
     <string name="beauty_camera_summary">Использовать эффекты для видеовызовов WeChat</string>
     <string name="beauty_camera_switch">Эффекты</string>
     <string name="beauty_fc_assistant">Помощник фронтальной камеры</string>
-    <string name="billing_cycle">Платежный цикл</string>
+    <string name="billing_cycle">Предупреждения о трафике и ограничения</string>
     <string name="billing_cycle_fragment_summary">Ежемесячно с %1$s-го числа</string>
     <string name="billing_cycle_less_than_one_day_left">Осталось меньше 1 дня</string>
     <string name="billing_cycle_none_left">Время истекло</string>
@@ -1408,7 +1408,7 @@
     <string name="bind_xiaomi_account_success">Xiaomi Аккаунт привязан</string>
     <string name="biometric_settings_category_ways_to_unlock">Способы разблокировки</string>
     <string name="biometric_settings_category_ways_to_use">Использовать распознавание лица и отпечаток</string>
-    <string name="biometric_settings_hand_back_to_guardian">Верни устройство родителю</string>
+    <string name="biometric_settings_hand_back_to_guardian">Верни устройство родителям</string>
     <string name="biometric_settings_hand_back_to_guardian_ok">ОК</string>
     <string name="biometric_settings_intro">Если вы настроили разблокировку по лицу и отпечатку, устройство будет предлагать использовать отпечаток, когда вы в маске или темно</string>
     <string name="biometric_settings_use_biometric_for_apps">Аутентификация в приложениях</string>
@@ -1450,8 +1450,8 @@
     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_4">Лучшее возможное (адаптивный битрейт)</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Подключено к мультимедийному аудиоустройству</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Использовать для мультимедийного аудиоустройства</string>
-    <string name="bluetooth_active_battery_level">Активно. Уровень заряда: %1$s</string>
-    <string name="bluetooth_active_battery_level_untethered">Активно. Уровень заряда L: %1$s, R: %2$s</string>
+    <string name="bluetooth_active_battery_level">Активно. Заряд: %1$s</string>
+    <string name="bluetooth_active_battery_level_untethered">Активно. Заряд Л: %1$s, П: %2$s</string>
     <string name="bluetooth_active_no_battery_level">Активно</string>
     <string name="bluetooth_advanced_titlebar">Расш. настройки Bluetooth</string>
     <string name="bluetooth_ask_disablement">Приложению \"%1$s\" требуется отключить Bluetooth</string>
@@ -1471,8 +1471,8 @@
     <string name="bluetooth_ask_lasting_discovery_no_name">Приложению требуется сделать устройство доступным для поиска через Bluetooth на других устройствах. Позже эти настройки можно будет изменить.</string>
     <string name="bluetooth_audio_share_feature_notice_summary">Передать аудио на другие подключённые устройства?</string>
     <string name="bluetooth_audio_share_feature_notice_title">Передача аудио</string>
-    <string name="bluetooth_battery_level">Уровень заряда: %1$s</string>
-    <string name="bluetooth_battery_level_untethered">Уровень заряда L: %1$s, R: %2$s</string>
+    <string name="bluetooth_battery_level">Заряд: %1$s</string>
+    <string name="bluetooth_battery_level_untethered">Заряд Л: %1$s, П: %2$s</string>
     <string name="bluetooth_bc_profile_summary_connected">Подключено к серверу BA</string>
     <string name="bluetooth_bc_profile_summary_use_for">Использовать для BA</string>
     <string name="bluetooth_bcast_rcvr_device_name">Приёмник трансляции</string>
@@ -1511,14 +1511,14 @@
     <string name="bluetooth_connect_settings">Соединение</string>
     <string name="bluetooth_connect_specific_profiles_title">Подключить к…</string>
     <string name="bluetooth_connected">Подключено</string>
-    <string name="bluetooth_connected_battery_level">Подключено | Батарея %1$s%2$s</string>
+    <string name="bluetooth_connected_battery_level">Подключено | Заряд %1$s%2$s</string>
     <string name="bluetooth_connected_multiple_devices_summary">Подключено к нескольким устройствам</string>
     <string name="bluetooth_connected_no_a2dp">Подключено (кроме аудио)</string>
-    <string name="bluetooth_connected_no_a2dp_battery_level">Подключено (кроме аудио) | Батарея %1$s%2$s</string>
+    <string name="bluetooth_connected_no_a2dp_battery_level">Подключено (кроме аудио) | Заряд %1$s%2$s</string>
     <string name="bluetooth_connected_no_headset">Подключено (кроме вызовов)</string>
-    <string name="bluetooth_connected_no_headset_battery_level">Подключено (кроме вызовов) | Батарея %1$s%2$s</string>
+    <string name="bluetooth_connected_no_headset_battery_level">Подключено (кроме вызовов) | Заряд %1$s%2$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">Подключено (кроме вызовов и аудио)</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Подключено (кроме вызовов и аудио) | Батарея %1$s%2$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Подключено (кроме вызовов и аудио) | Заряд %1$s%2$s</string>
     <string name="bluetooth_connected_no_map">Подключено (кроме сообщений)</string>
     <string name="bluetooth_connected_summary">Подключено к %1$s</string>
     <string name="bluetooth_connecting">Подключение…</string>
@@ -2580,8 +2580,8 @@
 Это пробная версия функции. Возможны ошибки.
 Нажмите \"Очистить и перейти…\""</string>
     <string name="convert_to_file_encryption">Переход к шифрованию файлов</string>
-    <string name="convert_to_file_encryption_done">Шифрование файлов уже включено</string>
-    <string name="convert_to_file_encryption_enabled">Перейти…</string>
+    <string name="convert_to_file_encryption_done">Шифрование уже включено</string>
+    <string name="convert_to_file_encryption_enabled">Преобразование…</string>
     <string name="convo_not_supported_summary">%1$s не поддерживает расширенные функции диалогов. Изменение приоритета диалога и всплывающие уведомления не поддерживаются.</string>
     <string name="cool_color">Холодная</string>
     <string name="copy">Копировать</string>
@@ -11051,12 +11051,12 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_advanced_toggle_description_expanded">Раскрывающееся меню дополнительных настроек. Нажмите дважды, чтобы свернуть.</string>
     <string name="wifi_aggressive_handover">Агрессивное переключение сетей</string>
     <string name="wifi_aggressive_handover_summary">Принудительно переключаться на мобильную сеть при слабом сигнале Wi-Fi</string>
-    <string name="wifi_ap_2G">2,4 ГГц</string>
+    <string name="wifi_ap_2G">2.4 ГГц</string>
     <string name="wifi_ap_5G">5,0 ГГц</string>
     <string name="wifi_ap_band_config">Диапазон частот Wi-Fi</string>
     <string name="wifi_ap_band_select_one">Выберите хотя бы один диапазон частот для точки доступа Wi-Fi.</string>
     <string name="wifi_ap_choose">%1$s ГГц</string>
-    <string name="wifi_ap_choose_2G">2,4 ГГц</string>
+    <string name="wifi_ap_choose_2G">2.4 ГГц</string>
     <string name="wifi_ap_choose_5G">5 ГГц</string>
     <string name="wifi_ap_choose_6G">6.0 ГГц</string>
     <string name="wifi_ap_choose_auto">Авто</string>
@@ -11106,7 +11106,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_auto_sel_wapi_cert">Автовыбор</string>
     <string name="wifi_available_title">Подключение к Wi-Fi</string>
     <string name="wifi_avoid_poor_network_detection_summary">Использовать только сети с сильным сигналом</string>
-    <string name="wifi_band_24ghz">2,4 ГГц</string>
+    <string name="wifi_band_24ghz">2.4 ГГц</string>
     <string name="wifi_band_5ghz">5 ГГц</string>
     <string name="wifi_band_60ghz">60 ГГц</string>
     <string name="wifi_band_6ghz">6 ГГц</string>
