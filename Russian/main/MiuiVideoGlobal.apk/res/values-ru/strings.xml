@@ -905,6 +905,8 @@ ID: %s
     <string name="local_play_end_download_drag_up_guide">Нажмите или сделайте свайп для загрузки</string>
     <string name="local_play_end_download_title">Загрузите любимые видео</string>
     <string name="local_play_end_drag_up_guide">Нажмите или проведите вверх для воспроизведения Shorts</string>
+    <string name="local_play_recommend_guide_card_bottom">Другие видео</string>
+    <string name="local_play_recommend_guide_card_title">Рекомендуемые</string>
     <string name="local_play_tip">Воспроизведение видео на устройстве</string>
     <string name="local_push_setting_power_tag">Уведомления о локальных видео</string>
     <string name="local_push_title">Популярное сегодня</string>
@@ -1823,6 +1825,7 @@ ID: %s
     <string name="share_ugc_content">Обратите внимание на %1$s! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Присоединиться</string>
     <string name="share_ugc_waitting">Создание ссылки…</string>
+    <string name="shorts_assemble_ad_recommend">Рекомендуемое</string>
     <string name="show_options_label">Показать параметры</string>
     <string name="show_the_location">Тип уведомлений</string>
     <string name="sign_in">Выполняется вход</string>
@@ -1973,6 +1976,8 @@ ID: %s
     <string name="talkback_voice_search">Голосовой поиск</string>
     <string name="target_sdk_version_30_upgrade_tips">Некоторые видео могут быть недоступны для просмотра из-за ограничений Android 11. Нажмите \"Файлы\", чтобы найти другие видео</string>
     <string name="temporary_not_available">Эта функция пока недоступна</string>
+    <string name="text_default_ad_description">Реклама</string>
+    <string name="text_default_ad_title">Возможно вам понравится</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>

@@ -603,6 +603,7 @@
     <string name="contextmenu_webpage_translation_tips">Новая функция перевода в панели инструментов</string>
     <string name="continue_reading">Продолжить просмотр</string>
     <string name="copy">Копировать</string>
+    <string name="copy_toast_msg">Ссылка скопирована в буфер обмена.</string>
     <string name="copy_url">Копировать URL</string>
     <string name="core_functions_of_browser">Быстрый доступ к основным функциям</string>
     <string name="could_not_load_data">Не удалось загрузить данные, обновите и повторите попытку</string>
@@ -932,6 +933,9 @@ ID:%s
     <string name="exo_download_downloading">Загрузка…</string>
     <string name="exo_download_failed">Ошибка загрузки</string>
     <string name="exo_download_notification_channel_name">Загрузки</string>
+    <string name="exo_download_paused">Скачивание приостановлено</string>
+    <string name="exo_download_paused_for_network">Ожидание подключения к сети</string>
+    <string name="exo_download_paused_for_wifi">Ожидание подключения к Wi-Fi</string>
     <string name="exo_download_removing">Удаление загрузок…</string>
     <string name="exo_track_mono">Моно</string>
     <string name="exo_track_role_alternate">Чередование</string>
@@ -954,6 +958,9 @@ ID:%s
     <string name="exported">Экспортировать</string>
     <string name="external_app_restricted_access_error">Браузер не может получить доступ к этому объекту.</string>
     <string name="failed_dup_secure_phone_number">Этот номер телефона используется другим Xiaomi аккаунтом</string>
+    <string name="fallback_menu_item_copy_link">Копировать ссылку</string>
+    <string name="fallback_menu_item_open_in_browser">Открыть в браузере</string>
+    <string name="fallback_menu_item_share_link">Отправить ссылку</string>
     <string name="fast_app_card_bottom_text" formatted="false">%s  %s</string>
     <string name="fast_search_title">Быстрый поиск</string>
     <string name="fast_than">Вы обошли %1$s%% пользователей</string>
@@ -2912,6 +2919,11 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="translation_result_copy">Скопировано в буфер обмена</string>
     <string name="translation_result_empty">Ошибка перевода. Повторите попытку.</string>
     <string name="translation_to">Перевести на</string>
+    <string name="trash_cleaner_unit_b">Б</string>
+    <string name="trash_cleaner_unit_gb">ГБ</string>
+    <string name="trash_cleaner_unit_kb">КБ</string>
+    <string name="trash_cleaner_unit_mb">МБ</string>
+    <string name="trash_cleaner_unit_tb">ТБ</string>
     <string name="trending_apps_more">Ещё</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>

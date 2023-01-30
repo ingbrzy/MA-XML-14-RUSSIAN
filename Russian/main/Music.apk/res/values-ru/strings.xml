@@ -184,6 +184,7 @@
     <string name="back_confirm">Нажмите ещё раз для выхода</string>
     <string name="banner_op">Mi Музыка</string>
     <string name="best_experience">Лучшие впечатления</string>
+    <string name="billion_char">%s млрд.</string>
     <string name="bind_sign_in_title">Добавьте Mi аккаунт</string>
     <string name="bluetooth_device">Bluetooth устройство</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
@@ -287,6 +288,7 @@
     <string name="content_failed_to_load">Не удалось загрузить содержимое</string>
     <string name="copy">Копировать</string>
     <string name="copy_success">Скопировано</string>
+    <string name="copy_toast_msg">Ссылка скопирована в буфер обмена.</string>
     <string name="count_format_float">%2$1.1fK</string>
     <string name="count_million_format_float">%2$1.1fM</string>
     <string name="create_playlist">Создать плейлист</string>
@@ -588,6 +590,9 @@ ID: %s
     <string name="failed_obtain_permissions">Не удалось получить разрешения</string>
     <string name="failed_to_connect_hint">Проверьте настройки сети и повторите попытку</string>
     <string name="failed_to_connect_text">Не удалось подключиться к сети</string>
+    <string name="fallback_menu_item_copy_link">Копировать ссылку</string>
+    <string name="fallback_menu_item_open_in_browser">Открыть в браузере</string>
+    <string name="fallback_menu_item_share_link">Отправить ссылку</string>
     <string name="fans">Подписчики</string>
     <string name="fav_login_msg">Войдите в Xiaomi аккаунт для загрузки треков</string>
     <string name="favorite_canceled">Удалено из избранных</string>
@@ -890,6 +895,7 @@ ID: %s
     <string name="middle_sound_quality">Среднее</string>
     <string name="midnight">AM</string>
     <string name="milink_unavaliable_please_update">Mi Link недоступен. Обновите MIUI.</string>
+    <string name="million_char">%s млн.</string>
     <string name="millions_songs">Миллионы композиций</string>
     <string name="mine_data">Данные</string>
     <string name="mishop_login_other">Другой аккаунт</string>
@@ -1339,6 +1345,7 @@ ID: %s
     <string name="please_select_song">Сначала выберите трек</string>
     <string name="pm">PM</string>
     <string name="power_save_mode_dialog_msg">Включена экономия заряда. Начать загрузку?</string>
+    <string name="pre_watched">Просмотрено</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="preset_music_playlist">Mi плейлист</string>
     <string name="priority_storage">Использовать накопитель</string>
@@ -1456,6 +1463,7 @@ ID: %s
     <string name="search_instant_online_music">Онлайн</string>
     <string name="search_menu_title">Поиск</string>
     <string name="search_more">Ещё</string>
+    <string name="search_recommend">Рекомендуемое</string>
     <string name="search_result_local_songs">Локальные</string>
     <string name="search_result_online_songs">Онлайн</string>
     <string name="search_songs">Поиск треков</string>
@@ -1673,6 +1681,7 @@ ID: %s
     <string name="the_united_nations_day">День Организации Объединенных Наций</string>
     <string name="the_valentines_day">День святого Валентина</string>
     <string name="the_water_lantern_festival">Фестиваль водных фонарей</string>
+    <string name="thousand_char">%s тыс.</string>
     <string name="thursday">Четверг</string>
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>
@@ -1850,6 +1859,16 @@ ID: %s
     <string name="you">Вы</string>
     <string name="you_can_switch_mode_in_settings">Вы можете изменить режим в настройках</string>
     <string name="you_may_like">Вам также может понравиться</string>
+    <string name="youtube_download_canl">Отмена</string>
+    <string name="youtube_download_fail_net">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>
+    <string name="youtube_download_fail_source">Произошла ошибка. Подождите немного и повторите попытку.</string>
+    <string name="youtube_download_fail_space">Ошибка загрузки. Недостаточно места.</string>
+    <string name="youtube_download_fail_unknown">Произошла ошибка. Подождите немного и повторите попытку.</string>
+    <string name="youtube_download_hint">Звуковая дорожка из этого видео будет сохранена на устройстве в формате MP3 с заголовком видео в качестве имени файла. Скачать?</string>
+    <string name="youtube_download_ing">Подождите…</string>
+    <string name="youtube_download_start">Скачать</string>
+    <string name="youtube_download_suc">Загрузка завершена</string>
     <string name="youtube_play_history">История просмотров</string>
     <string name="youtube_share_guide_tip">Теперь вы можете делиться с друзьями видео</string>
+    <string name="youtube_tab_explore">Обзор</string>
 </resources>
