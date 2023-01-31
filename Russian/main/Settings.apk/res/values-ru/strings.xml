@@ -3450,14 +3450,14 @@ ID: %s
     <string name="embedded_window_guide_text">В альбомном режиме приложения будут отображаться параллельно. Когда эта функция отключена, приложения будут отображаться по центру.</string>
     <string name="emergency_address_summary">Адрес, по которому будут направлены экстренные службы в случае вызова по номеру 112 через сеть Wi-Fi</string>
     <string name="emergency_address_title">Адрес для экстренных случаев</string>
-    <string name="emergency_dashboard_summary">Экстренные вызовы, медицинские данные, оповещения</string>
+    <string name="emergency_dashboard_summary">Экстренные вызовы, медицинская информация, оповещения</string>
     <string name="emergency_gesture_call_for_help_dialog_title">Номер для чрезвычайных ситуаций</string>
     <string name="emergency_gesture_call_for_help_summary">%1$s. Нажмите, чтобы изменить.</string>
     <string name="emergency_gesture_call_for_help_title">Вызов экстренной службы</string>
     <string name="emergency_gesture_category_call_for_help_title">Запросы о помощи</string>
     <string name="emergency_gesture_entrypoint_summary">Под управлением приложения \"%1$s\"</string>
     <string name="emergency_gesture_number_override_notes">"Если вместо номера экстренной службы вы укажете другой номер:
- • Чтобы совершить экстренный вызов, нужно будет разблокировать устройство
+ • Для экстреннего вызова понадобится разблокировать устройство
  • Ваш вызов может остаться без ответа"</string>
     <string name="emergency_gesture_screen_summary">Для активации функции \"Экстренная помощь\" быстро нажмите кнопку питания не менее пяти раз, это запустит перечисленные ниже действия: Звуковой сигнал (если включено), Вызов экстренней службы</string>
     <string name="emergency_gesture_screen_title">Экстренная помощь</string>
@@ -3662,7 +3662,7 @@ ID: %s
 Перезагрузите устройство и повторите попытку."</string>
     <string name="erase_sim_fail_title">Не удалось стереть данные SIM-карты</string>
     <string name="erase_sure">Принудительная очистка</string>
-    <string name="erasing_sim">Удаление данных SIM-карты…</string>
+    <string name="erasing_sim">Очистка SIM-карты…</string>
     <string name="error_adding_apn_type">Оператор запретил добавление точки доступа этого типа (%s).</string>
     <string name="error_apn_empty">Необходимо указать APN</string>
     <string name="error_apn_not_allowed">Недопустимый APN. Укажите другой.</string>
