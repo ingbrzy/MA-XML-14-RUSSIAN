@@ -921,11 +921,11 @@
     <string name="assist_footer">Приложения-помощники могут использовать информацию на экране. Для большего удобства некоторые из них поддерживают запуск других приложений и голосовой ввод.</string>
     <string name="assist_gesture_title">Жест для вызова помощника</string>
     <string name="assistance_category_title">Спец. возможности</string>
-    <string name="assistant_corner_gesture_summary">Свайп вверх из нижнего угла для вызова цифрового помощника</string>
+    <string name="assistant_corner_gesture_summary">Свайп вверх из нижнего угла для вызова Цифрового помощника</string>
     <string name="assistant_corner_gesture_title">Жест вызова помощника</string>
     <string name="assistant_gesture_category_title">Цифровой помощник</string>
-    <string name="assistant_long_press_home_gesture_summary">Чтобы вызвать цифрового помощника, нажмите и удерживайте кнопку главного экрана.</string>
-    <string name="assistant_long_press_home_gesture_title">Чтобы вызвать Ассистента, удерживайте кнопку главного экрана</string>
+    <string name="assistant_long_press_home_gesture_summary">Для вызова Цифрового помощника нажмите и удерживайте кнопку \"Домой\"</string>
+    <string name="assistant_long_press_home_gesture_title">Вызов Ассистента</string>
     <string name="assistant_security_warning">Ассистент сможет получать данные о программах в вашей системе, в том числе сведения с экрана и из приложений.</string>
     <string name="assistant_security_warning_agree">Разрешить</string>
     <string name="assistant_security_warning_disagree">Запретить</string>
