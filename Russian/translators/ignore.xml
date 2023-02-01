@@ -5102,6 +5102,20 @@
     <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
     <string name="video_hybrid_tip">hybrid</string>
     <string name="video_post_module_failed">@string/error_install_connect_fail</string>
+    <string name="video_quality_fps_120">120</string>
+    <string name="video_quality_fps_1920">1920</string>
+    <string name="video_quality_fps_24">24</string>
+    <string name="video_quality_fps_240">240</string>
+    <string name="video_quality_fps_30">30</string>
+    <string name="video_quality_fps_3840">3840</string>
+    <string name="video_quality_fps_480">480</string>
+    <string name="video_quality_fps_60">60</string>
+    <string name="video_quality_fps_960">960</string>
+    <string name="video_quality_resolution_1080p">1080</string>
+    <string name="video_quality_resolution_2160p">2160</string>
+    <string name="video_quality_resolution_4k">4K</string>
+    <string name="video_quality_resolution_720p">720</string>
+    <string name="video_quality_resolution_8k">8K</string>
     <string name="vo_debug_info_flow_agg_dialog" formatted="false">"imageMode
 %s
 images:

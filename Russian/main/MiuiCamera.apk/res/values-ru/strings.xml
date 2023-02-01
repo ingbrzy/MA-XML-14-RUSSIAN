@@ -36,7 +36,10 @@
     <string name="accessibility_ai_scene_on">AI камера включена</string>
     <string name="accessibility_ai_watermark_panel_on">AI панель водяных знаков</string>
     <string name="accessibility_ambilight_panel_on">Открыть панель длительной выдержки</string>
+    <string name="accessibility_aperture_panel_on">Открыть панель диафрагмы</string>
     <string name="accessibility_audio_shutter_bg">Аудио фон затвора</string>
+    <string name="accessibility_auto_night_tip_off">Автоматический ночной режим отключён</string>
+    <string name="accessibility_auto_night_tip_on">Автоматический ночной режим включён</string>
     <string name="accessibility_back_preview_status">Предпросмотр основной камеры</string>
     <string name="accessibility_beauty_compare">Просмотр изображения с улучшением и без него</string>
     <string name="accessibility_beauty_function_button">Улучшить</string>
@@ -49,6 +52,7 @@
     <string name="accessibility_bokeh_level">Апертура F%1$s</string>
     <string name="accessibility_bokeh_normal">Размытие фона фронтальной камеры отключено</string>
     <string name="accessibility_bokeh_on">Размытие фона фронтальной камеры включено</string>
+    <string name="accessibility_bokeh_panel_on">Открыть панель размытия фона</string>
     <string name="accessibility_camera_lighting_close_panel">Закрытое меню световых эффектов</string>
     <string name="accessibility_camera_lighting_open_panel">Открытое меню световых эффектов</string>
     <string name="accessibility_camera_liveshot_off">Динамические снимки отключены</string>
@@ -80,6 +84,11 @@
     <string name="accessibility_description_dolly_zoom_button">Волшебный зум</string>
     <string name="accessibility_deselect_all">Отменить выделение</string>
     <string name="accessibility_deselect_all_end">Выделение отменено</string>
+    <string name="accessibility_doc4_content_page_all_text_report_format">Распознанный текст: %s</string>
+    <string name="accessibility_doc4_content_page_close_btn">Закрыть страницу распознавания текста</string>
+    <string name="accessibility_doc4_content_page_selected_text_format">Выбранный текст: %s</string>
+    <string name="accessibility_doc4_content_page_unselected_report">Нажмите, чтобы выделить текст</string>
+    <string name="accessibility_doc4_entrance_tip">Распознавание текста</string>
     <string name="accessibility_document_blackwhite_button">Сканирование документов. Черное и белое.</string>
     <string name="accessibility_document_origin_button">Сканирование документов. Оригинал.</string>
     <string name="accessibility_document_strengthen_button">Сканирование документов. Улучшенное.</string>
@@ -142,6 +151,7 @@
     <string name="accessibility_mimoji_gif_off">Режим GIF отключён</string>
     <string name="accessibility_mimoji_gif_on">Режим GIF включён</string>
     <string name="accessibility_mimoji_image_panel_on">Панель аватаров</string>
+    <string name="accessibility_mimoji_split_screen">Разделение экрана</string>
     <string name="accessibility_mimoji_timbre_panel_on">Панель озвучивания</string>
     <string name="accessibility_mimovie_off">Кадрирование отключено</string>
     <string name="accessibility_mimovie_on">Кадрирование включено</string>
@@ -150,6 +160,8 @@
     <string name="accessibility_module_picker_finish">Переключение на %s</string>
     <string name="accessibility_more">Ещё</string>
     <string name="accessibility_multi_cam_reselect_button">Выберите камеры снова</string>
+    <string name="accessibility_near_range_tip_off">Крупный план отключён</string>
+    <string name="accessibility_near_range_tip_on">Крупный план включён</string>
     <string name="accessibility_open">Включено</string>
     <string name="accessibility_pano_moving_left">Переместите устройство влево</string>
     <string name="accessibility_pano_moving_right">Переместите устройство вправо</string>
@@ -544,6 +556,8 @@
     <string name="color_effect_entry_kg_200">KG200</string>
     <string name="color_effect_entry_koizora">Любовь</string>
     <string name="color_effect_entry_kp_160">KP160</string>
+    <string name="color_effect_entry_l_blue">LEICA BLUE</string>
+    <string name="color_effect_entry_l_brown">LEICA SEPIA</string>
     <string name="color_effect_entry_latte">Латте</string>
     <string name="color_effect_entry_new_1">Тайна</string>
     <string name="color_effect_entry_new_1_describe">Цветовая схема добавляет зелёный цвет к более тёмным областям. Фильтр хорошо подходит для высококонтрастных сцен, таких как сумерки в городе.</string>
@@ -577,17 +591,30 @@
     <string name="color_effect_live_solar">Голубое небо</string>
     <string name="color_effect_live_years">Сепия</string>
     <string name="color_enhance_mode">Улучшенные цвета</string>
+    <string name="config_name_HDR">HDR</string>
+    <string name="config_name_audio_map">Аудиограмма</string>
+    <string name="config_name_delay_capture">Обратный отсчёт</string>
+    <string name="config_name_flash">Вспышка</string>
     <string name="config_name_group">Групповое фото</string>
     <string name="config_name_hht">Ночной режим</string>
     <string name="config_name_magic">Магия</string>
     <string name="config_name_mimovie">Режим кино</string>
+    <string name="config_name_photo_histogram">Гистограмма</string>
+    <string name="config_name_photography_style">Стиль</string>
+    <string name="config_name_portrait_repair">Портрет Ультра HD</string>
+    <string name="config_name_privacy_watermark">Водяной знак</string>
+    <string name="config_name_quality">Разрешение</string>
+    <string name="config_name_ratio">Рамка</string>
     <string name="config_name_scene">Сюжет</string>
     <string name="config_name_setting">Настройки</string>
     <string name="config_name_sound">Звук</string>
     <string name="config_name_straighten">Горизонт</string>
+    <string name="config_name_super_eis">EIS</string>
     <string name="config_name_super_resolution">Суперразрешение</string>
     <string name="config_name_tilt">Tilt-shift</string>
     <string name="config_name_timer">Таймер</string>
+    <string name="config_name_ultra_pixel">Ультра HD</string>
+    <string name="config_name_video_quality">Частота кадров</string>
     <string name="confirm">ОК</string>
     <string name="confirm_fastmotion_reset_manually_parameter_message">Сбросить настройки?</string>
     <string name="confirm_install_scanner_message">Приложение позволяет сканировать QR-коды, штрихкоды и т.д. Для его установки не требуется подключение к интернету.</string>
@@ -645,7 +672,10 @@
     <string name="cv_lens_50mm">%d мм.</string>
     <string name="cv_lens_90mm">%d мм.</string>
     <string name="cv_lens_black_white">Ч/Б</string>
+    <string name="cv_lens_humanities">Документальный</string>
     <string name="cv_lens_msg">Делайте потрясающие фотографии с Pro-объективами</string>
+    <string name="cv_lens_none">По умолчанию</string>
+    <string name="cv_lens_portrait">Портрет</string>
     <string name="cv_lens_rotary_focus">Закрученное боке</string>
     <string name="cv_lens_soft_focus">Мягкий фокус</string>
     <string name="cv_lens_title">Pro-объективы</string>
@@ -860,6 +890,7 @@
 если развернуть устройство"</string>
     <string name="front_camera_hint_text_rotate">Разверните устройство</string>
     <string name="guide_pop_window_msg_cv_lens">Нажмите, чтобы попробовать Pro-объективы</string>
+    <string name="guide_pop_window_msg_mimoji">Нажмите, чтобы использовать аватары</string>
     <string name="hand_gesture_open_tip">Для активации таймера съёмки поднимите руку</string>
     <string name="hand_gesture_tip">Жест съёмки</string>
     <string name="hdr_tip">HDR</string>
@@ -1004,6 +1035,8 @@
     <string name="lunch_storge_permission_not_ask_again">Разрешите приложению доступ к хранилищу</string>
     <string name="lying_direct_hint">Текущая ориентация</string>
     <string name="macro_mode">Макро</string>
+    <string name="macro_mode_auto">Авто</string>
+    <string name="macro_mode_off">Откл.</string>
     <string name="macro_mode_tip">Расстояние между объективом и объектом не должно превышать 10 см.</string>
     <string name="macro_mode_use_hint_text_body">Используйте режим Макро, чтобы маленькие объекты
 на фото были большими</string>
@@ -1018,17 +1051,28 @@
     <string name="manual_picture_style">Стиль</string>
     <string name="manually_raw_hint">RAW</string>
     <string name="manually_raw_tip">Масштабирование в формате RAW не поддерживается</string>
+    <string name="manually_ultra_raw_tip">Масштабирование в формате Ультра RAW не поддерживается</string>
     <string name="masterfilter_description_title">Фильтры</string>
     <string name="message_snap_double_confirm">Долгое нажатие кнопки громкости запускает NFC. Заменить эту функцию?</string>
     <string name="midnight">Ночь</string>
     <string name="mimoji_app_name">Весёлая камера</string>
     <string name="mimoji_back">Назад</string>
+    <string name="mimoji_bg_center">Перекрёсток</string>
+    <string name="mimoji_bg_classroom">Класс</string>
+    <string name="mimoji_bg_diagonal">Склон</string>
+    <string name="mimoji_bg_forest">Лес</string>
+    <string name="mimoji_bg_garden">Сад</string>
+    <string name="mimoji_bg_indoor">Студия</string>
     <string name="mimoji_bg_light_blue">Светло-синий</string>
     <string name="mimoji_bg_light_pink">Светло-розовый</string>
     <string name="mimoji_bg_radiate_light">Лучи</string>
     <string name="mimoji_bg_rotating_circle">Вихрь</string>
+    <string name="mimoji_bg_station">Вокзал</string>
+    <string name="mimoji_bg_wall">Дворец</string>
     <string name="mimoji_bg_warm_white">Теплый белый</string>
     <string name="mimoji_bg_water_wave">Волны</string>
+    <string name="mimoji_body_emoticon">Аватар</string>
+    <string name="mimoji_body_horizontal_screen_tips">Аватары во весь рост в ландшафтном режиме не поддерживаются</string>
     <string name="mimoji_cancle">Отмена</string>
     <string name="mimoji_cartoon_angry">Сердитая птица</string>
     <string name="mimoji_cartoon_bear">Медведь</string>
@@ -1051,8 +1095,13 @@
     <string name="mimoji_check_face_too_far">Придвиньте камеру ближе к лицу</string>
     <string name="mimoji_check_low_light">Слишком темно</string>
     <string name="mimoji_check_multi_face">Должен быть только один человек в кадре!</string>
+    <string name="mimoji_check_no_body">Не обнаружено ни одного человека</string>
     <string name="mimoji_check_no_face">Не удалось определить лицо</string>
     <string name="mimoji_check_normal">Нажмите кнопку съёмки</string>
+    <string name="mimoji_cloth_shoes">Обувь</string>
+    <string name="mimoji_cloth_suit">Костюм</string>
+    <string name="mimoji_cloth_trousers">Низ</string>
+    <string name="mimoji_cloth_upper">Верх</string>
     <string name="mimoji_confirm">ОК</string>
     <string name="mimoji_create_emoticon">Создать стикеры</string>
     <string name="mimoji_create_emoticon_error">Ошибка создания стикеров</string>
@@ -1104,6 +1153,7 @@
     <string name="mimoji_gif_record_time_short">Видео слишком короткое</string>
     <string name="mimoji_gif_reverse">Обратное воспроизведение</string>
     <string name="mimoji_hairstyle">Волосы</string>
+    <string name="mimoji_head_emoticon">Голова</string>
     <string name="mimoji_headwear">Головные уборы</string>
     <string name="mimoji_human_astronaut">Астронавт</string>
     <string name="mimoji_human_blue_haired_girls">Синие волосы</string>
@@ -1130,6 +1180,7 @@
     <string name="mimoji_save_success">Успешно сохранено</string>
     <string name="mimoji_select_number_error">Выберите хотя бы %d элемент</string>
     <string name="mimoji_selected">Выбор</string>
+    <string name="mimoji_show_full_body_tips">Убедитесь, что все тело в кадре</string>
     <string name="mimoji_start_create">Создание аватара…</string>
     <string name="mimoji_tab_cartoon">Персонаж</string>
     <string name="mimoji_tab_human">Человек</string>
@@ -1182,6 +1233,7 @@
     <string name="module_name_fun">Видеоклип</string>
     <string name="module_name_fun_ar">Стикеры аватаров</string>
     <string name="module_name_manual">Ручной</string>
+    <string name="module_name_microfilm">Короткометражка</string>
     <string name="module_name_more">Ещё</string>
     <string name="module_name_multi_camera">Фронтальная и основная</string>
     <string name="module_name_new_slow_motion">Замедление</string>
@@ -1251,6 +1303,9 @@
     <string name="more_mode_style_popup">Панель \"Ещё\"</string>
     <string name="more_mode_style_tab">Вкладка \"Ещё\"</string>
     <string name="morning">Утро</string>
+    <string name="msg_bubble_doc4_first_use">Нажмите для распознавания текста</string>
+    <string name="msg_toast_doc4_recognition_failed">Произошла ошибка. Попробуйте еще раз.</string>
+    <string name="msg_toast_doc4_text_not_found">Текст не найден</string>
     <string name="multi_window_mode_not_supported">Камера не может работать в многооконном режиме</string>
     <string name="music_hint_tt">Поставщик услуг</string>
     <string name="network_access_user_notice_agree">Принимаю</string>
@@ -1288,6 +1343,7 @@
     <string name="pano_how_to_use_prompt_start">Нажмите на стрелку для смены направления и плавно перемещайте устройство</string>
     <string name="pano_how_to_use_prompt_to_move">Перемещайте устройство плавно</string>
     <string name="parameter_ambilight_title">Длинная выдержка</string>
+    <string name="parameter_aperture_title">Ирисовая диафрагма</string>
     <string name="parameter_description_pro_capture_title">Функции ручного режима</string>
     <string name="parameter_description_pro_video_title">Функции ручного режима</string>
     <string name="parameter_description_sub_title">Больше творческого контроля над фото и видео</string>
@@ -1363,6 +1419,7 @@
 для размытия фона на ваших фото"</string>
     <string name="portrait_bokeh_text">Режим \"Портрет\"</string>
     <string name="portrait_bokeh_tips">Разместите объект в пределах 1.5 метров</string>
+    <string name="portrait_deblur_tips">HD-портрет</string>
     <string name="portrait_india_effect_entry_memory">Память</string>
     <string name="portrait_india_effect_entry_mono">Моно</string>
     <string name="portrait_india_effect_entry_pink">Румянец</string>
@@ -1382,6 +1439,7 @@
 и увеличивает резкость переднего плана"</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Попробуйте режим \"Портрет\".
 Держите объект в фокусе, размывая фон."</string>
+    <string name="portrait_repair_tips">Умный HD-портрет</string>
     <string name="pre_volume_gain_adjust">Регулировка усиления</string>
     <string name="pref_960_watermark_title">Водяной знак 960FPS</string>
     <string name="pref_a_c_f">Сонограф</string>
@@ -1414,6 +1472,8 @@
     <string name="pref_camera_antibanding_entry_2">60 Гц</string>
     <string name="pref_camera_antibanding_entry_3">Авто</string>
     <string name="pref_camera_antibanding_title">Устранение мерцания</string>
+    <string name="pref_camera_aperture_entry_auto_abbr">АВТО</string>
+    <string name="pref_camera_aperture_title_abbr">А</string>
     <string name="pref_camera_asd_night_title">Улучшение съёмки в темноте</string>
     <string name="pref_camera_asd_popup_title">Уведомлять о необходимости вспышки</string>
     <string name="pref_camera_audio_capture_title">Голос</string>
@@ -1688,7 +1748,12 @@
     <string name="pref_camera_peak_title">Выделение области фокусировки</string>
     <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
     <string name="pref_camera_picture_format_entry_raw">Raw</string>
+    <string name="pref_camera_picture_format_jpeg">JPEG</string>
+    <string name="pref_camera_picture_format_raw">RAW</string>
+    <string name="pref_camera_picture_format_title">Формат</string>
+    <string name="pref_camera_picture_format_ultra_raw">Ультра RAW</string>
     <string name="pref_camera_picturesize_entry_fullscreen">Полный</string>
+    <string name="pref_camera_picturesize_entry_moive">Фильм</string>
     <string name="pref_camera_picturesize_entry_standard">Стандартный 4:3</string>
     <string name="pref_camera_picturesize_title_simple_mode">Формат кадра</string>
     <string name="pref_camera_portrait_mode_entry_off">Режим \"Портрет\" отключён</string>
@@ -1784,7 +1849,9 @@
     <string name="pref_camera_video_duration_entry_120">Без ограничений</string>
     <string name="pref_camera_video_duration_entry_30">30 минут</string>
     <string name="pref_camera_video_duration_entry_mms">30 секунд (MMS)</string>
+    <string name="pref_camera_video_fps_title_abbr">Частота кадров</string>
     <string name="pref_camera_video_log_tips">ЛОГ</string>
+    <string name="pref_camera_video_quality_title_abbr">Разрешение</string>
     <string name="pref_camera_video_sat_enable_title">Плавное масштабирование видео</string>
     <string name="pref_camera_video_show_faceview_title">Показывать рамку лица при съёмке видео</string>
     <string name="pref_camera_video_tag">Добавление тегов</string>
@@ -1983,13 +2050,21 @@
     <string name="pref_video_quality_entry_wvga">WVGA</string>
     <string name="pref_video_quality_hfr_title">Частота кадров и качество изображения</string>
     <string name="pref_video_quality_sub_1080p">FHD 1080p</string>
+    <string name="pref_video_quality_sub_1080p_new">1080P</string>
     <string name="pref_video_quality_sub_120fps">120 кадр/сек</string>
+    <string name="pref_video_quality_sub_120fps_new">120 кадр/сек</string>
     <string name="pref_video_quality_sub_24fps">24 кадр/сек</string>
+    <string name="pref_video_quality_sub_24fps_new">24 кадр/сек</string>
     <string name="pref_video_quality_sub_30fps">30 кадр/сек</string>
+    <string name="pref_video_quality_sub_30fps_new">30 кадр/сек</string>
     <string name="pref_video_quality_sub_4k">UHD 4K</string>
+    <string name="pref_video_quality_sub_4k_new">4K</string>
     <string name="pref_video_quality_sub_60fps">60 кадр/сек</string>
+    <string name="pref_video_quality_sub_60fps_new">60 кадр/сек</string>
     <string name="pref_video_quality_sub_720p">HD 720p</string>
+    <string name="pref_video_quality_sub_720p_new">720P</string>
     <string name="pref_video_quality_sub_8k">UHD 8K</string>
+    <string name="pref_video_quality_sub_8k_new">8K</string>
     <string name="pref_video_quality_title">Качество видео</string>
     <string name="pref_video_speed_entry_fast">Быстрая</string>
     <string name="pref_video_speed_entry_normal">Нормальная</string>
@@ -2068,9 +2143,12 @@
     <string name="search_menu_title">Поиск</string>
     <string name="search_settings">Настройки камеры;Качество;Качество фото;Место съёмки фото;Место съёмки изображения;Распознавание лиц;Звук камеры;Фото;Камера;Фотография;Видео;Съёмка</string>
     <string name="see_qrcode_detals">Подробнее о QR-коде</string>
+    <string name="selfie_setting_title">Настройки селфи</string>
     <string name="send">Отправить</string>
     <string name="settings_camera_detect_card_description">Отображать ярлык всякий раз, когда AI камера обнаруживает удостоверение личности</string>
     <string name="settings_camera_detect_description_doc">Отображать ярлык всякий раз, когда AI камера обнаруживает документ или слайд презентации</string>
+    <string name="settings_camera_lens_auto_switch_description">Автоматически переключаться между основным и телеобъективом в зависимости от расстояния и яркости</string>
+    <string name="settings_camera_lens_auto_switch_title">Автовыбор объектива</string>
     <string name="settings_camera_near_range_description">Устранение размытия при съёмке плоских объектов на близком расстоянии</string>
     <string name="settings_camera_near_range_title">Крупный план</string>
     <string name="share">Отправить</string>
@@ -2144,6 +2222,7 @@
     <string name="sticker_tab2">Забавный</string>
     <string name="stop_save_low_battery">Сохранить (%d сек.)</string>
     <string name="subtitle_network_exception_tips">Не удалось транскрибировать. Сеть недоступна.</string>
+    <string name="summary_pref_camera_doc4">Наведите камеру на китайский или английский текст для распознавания</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
@@ -2247,6 +2326,9 @@
     <string name="timer_burst_param_total_count_infinity">не ограничена</string>
     <string name="timer_burst_setting_total_count_infinity">"Серия "</string>
     <string name="timerburst_pressed_hint">Нажмите ещё раз для остановки</string>
+    <string name="title_doc4_recognize_page_hint">Перетащите или коснитесь для выбора области текста</string>
+    <string name="title_item_context_menu_doc4_copy_done">Скопировано</string>
+    <string name="title_pref_camera_doc4">Распознавание текста</string>
     <string name="title_snap_double_confirm">Повторное подтверждение</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Серийная съёмка недоступна при включенном звуковом управлении</string>
     <string name="toast_saving">Сохранение фотографий…</string>
