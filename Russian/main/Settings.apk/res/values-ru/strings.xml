@@ -2071,7 +2071,7 @@
     <string name="button_disconnect_network">Отключиться от сети</string>
     <string name="button_height_text">Кнопка подтверждения (например, \"ОК\", \"Готово\")</string>
     <string name="button_light_timeout">Длительность подсветки</string>
-    <string name="button_navigation_settings_activity_title">Навигация с помощью кнопок</string>
+    <string name="button_navigation_settings_activity_title">Навигация кнопками</string>
     <string name="button_normal_text">Стандартная кнопка</string>
     <string name="button_text_accept">Принять</string>
     <string name="button_text_accept_timer">Принять (%d)</string>
