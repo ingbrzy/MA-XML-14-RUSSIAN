@@ -6922,7 +6922,7 @@ ID: %s
     <string name="notification_screen_summary">История уведомлений, \"пузыри\", недавно отправленные</string>
     <string name="notification_settings">Уведомления</string>
     <string name="notification_settings_work_profile">Доступ к уведомлениям недоступен приложениям в рабочем профиле.</string>
-    <string name="notification_shade_shortcut_title">Ярлык настроек</string>
+    <string name="notification_shade_shortcut_title">Ярлык шторки уведомлений</string>
     <string name="notification_show_lights_title">Световая индикация</string>
     <string name="notification_silence_title">Без звука</string>
     <string name="notification_sound_default">Звук уведомления по умолчанию</string>
