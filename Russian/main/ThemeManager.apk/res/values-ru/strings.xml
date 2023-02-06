@@ -519,7 +519,7 @@
     <string name="large_icon_no_network">Не удалось подключиться к сети</string>
     <string name="large_icon_not_support">Не удалось установить иконки для %s</string>
     <string name="large_icon_not_support_current_type">%s не поддерживается для этой иконки</string>
-    <string name="large_icon_official">Официальные</string>
+    <string name="large_icon_official">Исходная</string>
     <string name="large_icon_picker_haven">Доступные иконки</string>
     <string name="large_icon_picker_more">Ещё</string>
     <string name="large_icon_picker_size">Размер иконки</string>
