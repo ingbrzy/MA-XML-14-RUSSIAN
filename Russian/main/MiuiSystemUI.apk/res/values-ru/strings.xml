@@ -849,7 +849,7 @@
     <string name="controls_dialog_message">%s предлагает добавить этот элемент управления в избранное</string>
     <string name="controls_dialog_ok">Добавить</string>
     <string name="controls_dialog_title">Добавление управления</string>
-    <string name="controls_error_failed">Ошибка. Повторите попытку.</string>
+    <string name="controls_error_failed">Произошла ошибка. Повторите попытку.</string>
     <string name="controls_error_generic">Не удалось получить статус</string>
     <string name="controls_error_removed">Не найдено</string>
     <string name="controls_error_removed_message">Не удалось получить доступ к %1$s. Проверьте настройки приложения %2$s, и что элемент управления все ещё доступен.</string>

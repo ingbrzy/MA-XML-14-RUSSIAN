@@ -101,7 +101,7 @@
     <string name="controls_edit_panel_save_button">Готово</string>
     <string name="controls_edit_panel_subtitle">Перетащите для изменения порядка</string>
     <string name="controls_edit_panel_title">Добавленные устройства</string>
-    <string name="controls_error_failed">Ошибка. Повторите попытку.</string>
+    <string name="controls_error_failed">Произошла ошибка. Повторите попытку.</string>
     <string name="controls_error_generic">Не удалось получить статус</string>
     <string name="controls_error_removed">Устройство удалено</string>
     <string name="controls_favorite_default_title">Элементы управления</string>
