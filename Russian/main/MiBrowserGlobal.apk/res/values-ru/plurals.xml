@@ -237,6 +237,18 @@
         <item quantity="one">1 минуту назад</item>
         <item quantity="few">%d минуты назад</item>
     </plurals>
+    <plurals name="opr_activity_news_task">
+        <item quantity="other">Просмотрите %d новостей</item>
+        <item quantity="one">Просмотрите %d новость</item>
+        <item quantity="few">Просмотрите %d новости</item>
+        <item quantity="many">Просмотрите %d новостей</item>
+    </plurals>
+    <plurals name="opr_activity_svideo_task">
+        <item quantity="other">Посмотрите %d коротких видео</item>
+        <item quantity="one">Посмотрите %d короткое видео</item>
+        <item quantity="few">Посмотрите %d коротких видео</item>
+        <item quantity="many">Посмотрите %d коротких видео</item>
+    </plurals>
     <plurals name="person_menu_protect_count">
         <item quantity="other">Защищено %s раз</item>
         <item quantity="one">Защищено %s раз</item>
