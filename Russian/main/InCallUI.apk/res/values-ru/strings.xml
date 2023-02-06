@@ -245,6 +245,8 @@
     <string name="incoming_video_crs_call">Воспроизведение видео профиля…</string>
     <string name="manageConferenceLabel">Управление конференц-связью</string>
     <string name="manager_conference_done">Готово</string>
+    <string name="menu_new_display_open">Открыть в новом окне</string>
+    <string name="menu_pc_open">Открыть на ПК</string>
     <string name="midnight">Ночь</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
@@ -338,6 +340,7 @@
     <string name="onscreen_audio_mode_conference">Конференция</string>
     <string name="onscreen_audio_mode_handset">Динамик</string>
     <string name="onscreen_audio_mode_headset">Гарнитура</string>
+    <string name="onscreen_audio_mode_mirror">Планшет</string>
     <string name="onscreen_audio_mode_speaker">Громкая связь</string>
     <string name="onscreen_call_record">Запись</string>
     <string name="onscreen_change_to_video">Видеовызов</string>

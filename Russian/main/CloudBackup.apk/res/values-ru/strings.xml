@@ -44,6 +44,7 @@
     <string name="backup_action_buy_cloud_space">Получить больше места</string>
     <string name="backup_action_check_network">Проверьте настройки сети</string>
     <string name="backup_action_clean_disk_space">Освободить место</string>
+    <string name="backup_action_long_time_not_auto_backup_title">Резервное копирование</string>
     <string name="backup_action_long_time_not_backup_action">Начать</string>
     <string name="backup_action_long_time_not_backup_title">Резервное копирование</string>
     <string name="backup_action_no_space_with_wechat_off_content">Недостаточно места в облачном хранилище для резервного копирования файлов с этого устройства. Нажмите для вариантов.</string>
@@ -140,7 +141,7 @@
     <string name="cloud_back_up_subscribe_vip_discription">Получите больше места для хранения ежедневных резервных копий и многого другого.</string>
     <string name="cloud_back_up_subscribe_vip_title">Обновить Xiaomi аккаунт</string>
     <string name="cloud_back_up_task">Резервное копирование…</string>
-    <string name="cloud_backup">Облачное резервное копирование</string>
+    <string name="cloud_backup">Облачный бэкап</string>
     <string name="cloud_backup_derail_size_summary">Размер: %s</string>
     <string name="cloud_backup_detail_app_data">Все данные WeChat</string>
     <string name="cloud_backup_detail_app_data_summary">Включая историю чатов и файлы</string>
@@ -157,6 +158,8 @@
     <string name="cloud_backup_detail_state_summary_china">Устройство должно быть подключено к Wi-Fi, заряжено и заблокировано</string>
     <string name="cloud_backup_detail_time">Последняя копия: %1$s</string>
     <string name="cloud_backup_detail_title">Резервное копирование</string>
+    <string name="cloud_backup_get_installed_apps_summary">Для резервного копирования и восстановления приложений на устройстве</string>
+    <string name="cloud_backup_get_installed_apps_title">Доступ к списку приложений</string>
     <string name="cloud_backup_have_data">Найдена резервная копия в Xiaomi Cloud</string>
     <string name="cloud_backup_in_cancel">Отмена</string>
     <string name="cloud_backup_in_process">Резервное копирование…</string>
@@ -180,6 +183,9 @@
     <string name="confirm_restore_summary">Рабочий стол будет перезапущен. Приложения из бэкапа будут добавлены автоматически.</string>
     <string name="confirm_restore_title">Восстановление</string>
     <string name="copy">Копировать</string>
+    <string name="cta_dialog_all_purpose">Добро пожаловать в Облачный бэкап! Приложение можно использовать для резервного копирования рабочего стола, приложений, системных настроек и данных WeChat в облако. Чтобы были доступны все возможности, используйте последнюю версию приложения.</string>
+    <string name="cta_dialog_permission_description_get_installed_apps">Для резервного копирования и восстановления установленных приложений</string>
+    <string name="cta_dialog_permission_description_storage">Для резервного копирования и восстановления данных</string>
     <string name="customization"><u>Настроить</u></string>
     <string name="date_format">HH:mm:ss dd.MM.yyyy</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
@@ -198,6 +204,10 @@ ID: %s
     <string name="dialog_app_usage_consent_message">Функции требуется доступ к истории использования приложения, чтобы оценить размер резервных копий WeChat</string>
     <string name="dialog_app_usage_consent_title">Доступ к истории использования</string>
     <string name="dialog_app_usage_denied">Предоставьте приложению разрешение \"Доступ к истории использования\" в настройках для возможности резервного копирования</string>
+    <string name="dialog_auto_backup_condition_normal_content">Для регулярного автоматического резервного копирования всех важных данных, убедитесь, что в облачном хранилище достаточно места, что устройство заблокировано, имеет заряд батареи более %s и подключено к Wi-Fi в ночное время. Резервное копирование также можно сделать в любой момент вручную.</string>
+    <string name="dialog_auto_backup_condition_normal_content_china">Для регулярного автоматического резервного копирования всех важных данных, убедитесь, что в облачном хранилище достаточно места, что устройство заблокировано, имеет заряд батареи более %s и подключено к Wi-Fi в ночное время. Резервное копирование также можно сделать в любой момент вручную.</string>
+    <string name="dialog_auto_backup_condition_normal_positive">Понятно</string>
+    <string name="dialog_auto_backup_condition_normal_title">Резервное копирование</string>
     <string name="dialog_backup_failed">Не удалось создать резервную копию</string>
     <string name="dialog_btn_cancel_backup">Отмена</string>
     <string name="dialog_btn_confirm2">Понятно</string>
@@ -223,6 +233,11 @@ ID: %s
     <string name="dialog_negative_btn_cancel_restore">Отменить</string>
     <string name="dialog_positive_btn_cancel_backup">Продолжить</string>
     <string name="dialog_positive_btn_cancel_restore">Продолжить</string>
+    <string name="dialog_recommend_wechat_backup_content">Доступно резервное копирование чатов WeChat и других данных в облако Xiaomi. Убедитесь, что в облачном хранилище достаточно места, что устройство заблокировано, имеет заряд батареи более %s и подключено к Wi-Fi в ночное время. Резервное копирование также можно сделать в любой момент вручную.</string>
+    <string name="dialog_recommend_wechat_backup_content_china">Доступно резервное копирование чатов WeChat и других данных в облако Xiaomi. Убедитесь, что в облачном хранилище достаточно места, что устройство заблокировано, имеет заряд батареи более %s и подключено к Wi-Fi в ночное время. Резервное копирование также можно сделать в любой момент вручную.</string>
+    <string name="dialog_recommend_wechat_backup_negative">Понятно</string>
+    <string name="dialog_recommend_wechat_backup_positive">Подробнее</string>
+    <string name="dialog_recommend_wechat_backup_title">Резервное копирование данных WeChat</string>
     <string name="dialog_title_cancel_backup">Резервное копирование</string>
     <string name="dialog_title_cancel_restore">Восстановление</string>
     <string name="dialog_title_require_wlan">Подключитесь к Wi-Fi</string>
@@ -230,7 +245,7 @@ ID: %s
     <string name="dialog_wechat_data_close_agree">Оставить</string>
     <string name="dialog_wechat_data_close_disagree">Отключить</string>
     <string name="dialog_wechat_data_close_message">Отключить создание облачных резервных копий WeChat?</string>
-    <string name="dialog_wechat_data_close_title">Резервные копии WeChat</string>
+    <string name="dialog_wechat_data_close_title">Бэкап WeChat</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="doing_calc_backup_data_size">Вычисление размера…</string>
     <string name="doing_restore_home">Восстановление рабочего стола и настроек…</string>
@@ -405,6 +420,8 @@ ID: %s
     <string name="remove_task_in_process">Удаление…</string>
     <string name="remove_task_unfinished">Удаление не завершено</string>
     <string name="remove_unfinished">Идет удаление, повторите попытку позже</string>
+    <string name="repeat_recommend_wechat_backup_notification_content">Доступно резервное копирование данных WeChat. Нажмите для подробностей.</string>
+    <string name="repeat_recommend_wechat_backup_notification_title">Резервное копирование данных WeChat</string>
     <string name="restore_app_order_finish">Готово</string>
     <string name="restore_app_order_loading">Подождите…</string>
     <string name="restore_app_order_retry">Повторите попытку</string>
@@ -537,6 +554,8 @@ ID: %s
     <string name="storage_unit_gb">%s ГБ</string>
     <string name="storage_unit_mb">%s МБ</string>
     <string name="success_open_cloudbackup">Резервное копирование приложений рабочего стола включено</string>
+    <string name="successful_auto_backup_recommend_wechat_backup_notification_content">Автоматическое резервное копирование данных WeChat завершено. Нажмите для подробностей.</string>
+    <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Бэкап WeChat</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>

@@ -334,6 +334,7 @@
     <string name="pc_cooperate_guide_screenshot">Скриншот</string>
     <string name="pc_cooperate_guide_task">Задачи</string>
     <string name="pc_cooperate_guide_undo">Отмена (Ctrl+Z)</string>
+    <string name="pc_settings_current_device_tip">Автоподключение к ПК с запущенным MIUI+ и входом в используемый аккаунт Xiaomi</string>
     <string name="pcmode_not_support_multi_window">Режим ПК не поддерживает отображение нескольких окон</string>
     <string name="permission_access_nearby_device">Доступ к устройствам поблизости</string>
     <string name="phone_pad_app_introduction_summary">Продолжайте работу в том же приложении на другом устройстве</string>
@@ -428,6 +429,7 @@
     <string name="settings_pad">Планшет</string>
     <string name="settings_pad_handoff_title">Автоподключение</string>
     <string name="settings_pc">ПК</string>
+    <string name="settings_pc_handoff_title">Подключение к ПК</string>
     <string name="settings_pc_history_title">История подключений</string>
     <string name="settings_pc_trusted_title">Автоподключение</string>
     <string name="settings_pc_use_tile">О функции</string>

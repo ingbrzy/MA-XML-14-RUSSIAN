@@ -322,6 +322,7 @@
     <string name="permdesc_camera">Разрешить %1$s снимать фото и видео?</string>
     <string name="permdesc_get_account">Разрешить %1$s доступ ко всем аккаунтам на этом устройстве?</string>
     <string name="permdesc_in_calls">Отслеживать входящие вызовы</string>
+    <string name="permdesc_isolate_storage">Разрешить %1$s доступ к фото, видео и аудиофайлам на устройстве?</string>
     <string name="permdesc_location">Разрешить %1$s использовать геолокацию?</string>
     <string name="permdesc_location_background">Разрешить %1$s использовать геолокацию в фоновом режиме?</string>
     <string name="permdesc_microphone">Разрешить %1$s использовать микрофон для записи аудио?</string>
@@ -353,6 +354,8 @@
     <string name="permgroupdesc_location">Разрешить %1$s использовать геолокацию?</string>
     <string name="permgroupdesc_microphone">Разрешить %1$s доступ к микрофону?</string>
     <string name="permgroupdesc_phone">Разрешить %1$s вызовы и доступ к состоянию устройства?</string>
+    <string name="permgroupdesc_read_media_aural">Разрешить %1$s доступ к аудиофайлам на устройстве?</string>
+    <string name="permgroupdesc_read_media_visual">Разрешить %1$s доступ к фото, видео на устройстве?</string>
     <string name="permgroupdesc_recognition">Разрешить %1$s доступ к данным о здоровье и физической активности?</string>
     <string name="permgroupdesc_sensors">Разрешить %1$s доступ к данным нательных датчиков?</string>
     <string name="permgroupdesc_sms">Разрешить %1$s просматривать или отправлять SMS?</string>
