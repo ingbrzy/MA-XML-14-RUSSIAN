@@ -2229,13 +2229,16 @@ ID: %s
     <string name="yandex_ads_internal_go">Перейти</string>
     <string name="yandex_ads_internal_install">Установить</string>
     <string name="yandex_ads_internal_install_from_google_play">Установить из Google Play</string>
+    <string name="yandex_ads_internal_instream_ad_position">%1$d из %2$d</string>
     <string name="yandex_ads_internal_instream_advertiser_social">Социальная реклама</string>
     <string name="yandex_ads_internal_instream_advertiser_yandex">Реклама</string>
+    <string name="yandex_ads_internal_instream_skip">Пропустить</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_close">Закрыть</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">Досмотреть</string>
     <string name="yandex_ads_internal_rewarded_close_verification_text">Если закрыть рекламу до окончания таймера, награда за просмотр не будет начислена</string>
     <string name="yandex_ads_internal_rewarded_close_verification_title">Закрыть рекламу?</string>
     <string name="yandex_ads_internal_text_divider">·</string>
+    <string name="yandex_ads_internal_text_divider_with_space">·</string>
     <string name="yandex_ads_internal_tools_age_text">3+</string>
     <string name="yandex_ads_internal_tools_app_install_call_to_action_text">Установить</string>
     <string name="yandex_ads_internal_tools_app_install_call_to_action_text_large">Установить из Google Play</string>

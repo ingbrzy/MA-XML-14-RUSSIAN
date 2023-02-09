@@ -131,6 +131,7 @@
     <string name="bh_card_order_price">Цена</string>
     <string name="bh_card_order_time">Заказ создан</string>
     <string name="bh_card_title">SIM-карта</string>
+    <string name="bh_cbn">China Broadnet</string>
     <string name="bh_charge_confirm">Добавить %2$s CNY на %1$s?</string>
     <string name="bh_charge_continue">Пополнить</string>
     <string name="bh_charge_number">Пополнить %1$s</string>
@@ -181,6 +182,7 @@
     <string name="bh_goto_granted">Предоставлено</string>
     <string name="bh_goto_open">Не предоставлено</string>
     <string name="bh_goto_set">Изменить</string>
+    <string name="bh_greeting_user">%1$s</string>
     <string name="bh_hi">Здравствуйте, %1$s!</string>
     <string name="bh_hi1">Здравствуйте, %1$s (%2$s)!</string>
     <string name="bh_hi2">Здравствуйте %1$s!</string>
@@ -373,6 +375,8 @@
     <string name="call_home">Домашний телефон</string>
     <string name="call_isdn">Номер ISDN</string>
     <string name="call_left">Баланс</string>
+    <string name="call_limit">Ограничение вызовов</string>
+    <string name="call_limit_content">Вызов \"%s\" недоступен. Можно звонить только на номера из списка разрешенных контактов.</string>
     <string name="call_log_empty_gecode">-</string>
     <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
     <string name="call_log_new_header">Новые</string>
@@ -1013,6 +1017,7 @@
     <string name="item_offical">Официальный</string>
     <string name="keep_local">Сохранить локально</string>
     <string name="keep_local_btn">Во внутреннюю память</string>
+    <string name="know">Понятно</string>
     <string name="label_custom_type">Особый</string>
     <string name="label_no_duplicate_contacts">Дубликаты контактов не найдены</string>
     <string name="label_notes">Примечания</string>
