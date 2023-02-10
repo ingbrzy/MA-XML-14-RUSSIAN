@@ -32,6 +32,7 @@
     <string name="allow">Разрешить</string>
     <string name="allowed">Предоставлено</string>
     <string name="altitude">%.1f</string>
+    <string name="altitude_format">%.1f м</string>
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="altitude_title">Высота</string>
     <string name="altitude_uncalibrate_cancel">Отмена</string>
@@ -214,6 +215,7 @@
     <string name="preference_privacy_setting">Конфиденциальность</string>
     <string name="preference_privacy_title">Политика конфиденциальности</string>
     <string name="pressure">%.1f</string>
+    <string name="pressure_format">%.1f гПа</string>
     <string name="pressure_title">Давление</string>
     <string name="pressure_unit">гПа</string>
     <string name="remove_icon_description_content">Приложение \"Компас\" является системным, удалить его нельзя. После удаления ярлыка с рабочего стола, вы не сможете использовать его для определения направления, координат, атмосферного давления и текущей высоты.</string>

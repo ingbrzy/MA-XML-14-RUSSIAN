@@ -2336,7 +2336,7 @@ SIM-карта будет заблокирована при неудачной �
     <string name="radio_info_data_network_type_label">Тип сети для передачи данных:</string>
     <string name="radio_info_dcnr_restricted">Ограничение DCNR:</string>
     <string name="radio_info_dds">SubId SIM-карты по умолчанию для мобильного интернета:</string>
-    <string name="radio_info_dl_kbps">Пропускная способность канала DL (кбит/c):</string>
+    <string name="radio_info_dl_kbps">Пропускная способность DL-канала (кбит/c):</string>
     <string name="radio_info_dsda_state_label">Состояние DSDA:</string>
     <string name="radio_info_endc_available">Доступность EN-DC:</string>
     <string name="radio_info_gprs_service_label">Сервис для передачи данных:</string>

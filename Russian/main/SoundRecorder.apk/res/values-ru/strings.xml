@@ -156,6 +156,7 @@
     <string name="head_set_tip_dialog_msg">Отключите гарнитуру для возможности записи звука с заданными установками (например, Музыка или Голос)</string>
     <string name="head_set_tip_dialog_ok">Понятно</string>
     <string name="head_set_tip_dialog_title">Используйте встроенный микрофон</string>
+    <string name="high_bit_rate">MP3, ~%1$d кбит/с, ~%2$d МБ/ч</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="invalid_argument">Недопустимый аргумент</string>
     <string name="invisible_mode_error_tip">Микрофон недоступен. Отключите режим инкогнито в настройках.</string>
@@ -176,6 +177,7 @@
     <string name="low_battery_error_confirm">OK</string>
     <string name="low_battery_error_for_pad">Заряд менее %s. Остановите и сохраните запись, чтобы не потерять её.</string>
     <string name="low_battery_error_title">Батарея разряжена</string>
+    <string name="low_bit_rate">MP3, ~%1$d кбит/с, ~%2$d МБ/ч</string>
     <string name="lyric_item_point_count">От %1$d до %2$d</string>
     <string name="manage_external_storage">Доступ к файлам</string>
     <string name="mark_point_list_title">Метки</string>
@@ -199,6 +201,7 @@
     <string name="mi_account_msg">Войдите в Xiaomi аккаунт для транскрибирования записей в облаке и бесплатных 60 минут.</string>
     <string name="mi_account_ok">Войти</string>
     <string name="mi_account_title">Войти с Xiaomi аккаунтом</string>
+    <string name="middle_bit_rate">MP3, ~%1$d кбит/с, ~%2$d МБ/ч</string>
     <string name="midnight">Ночь</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
@@ -368,6 +371,9 @@
     <string name="permission_desc">Сведения о разрешениях</string>
     <string name="permission_dialog_cancel">Отмена</string>
     <string name="permission_dialog_ok">Настройки</string>
+    <string name="permission_notification_description">Для уведомлений о записи, воспроизведении или загрузке контента</string>
+    <string name="permission_notification_dialog_description">Для уведомлений о текущем статусе приложения</string>
+    <string name="permission_notification_title">Предоставьте разрешения</string>
     <string name="permission_read_phone_state">Информация об устройстве</string>
     <string name="permission_read_phone_state_description">Для доступа к состоянию вызова (для автоматического прерывания записи при приёме вызова)</string>
     <string name="permission_record">Микрофон</string>
@@ -472,6 +478,14 @@
     <string name="record_permission_dialog_title">Требуется разрешение использовать микрофон</string>
     <string name="record_quliaty_preference_title">Качество записи</string>
     <string name="record_resotre">Восстановить записи</string>
+    <string name="record_scenes_summaries_HD">Технология расширенного динамического диапазона позволяет микрофону улавливать более детальный звук</string>
+    <string name="record_scenes_summaries_interview">Расположите телефон между %d собеседниками для четкой записи разговора</string>
+    <string name="record_scenes_summaries_music">Запись музыки с лучшим качеством</string>
+    <string name="record_scenes_summaries_stereo_HD">Технология расширенного динамического диапазона позволяет микрофону улавливать более детальный звук</string>
+    <string name="record_scenes_summaries_stereo_interview">Расположите телефон между %d собеседниками для четкой записи разговора</string>
+    <string name="record_scenes_summaries_stereo_music">Запись по %d каналам, воспроизведение стерео в наушниках</string>
+    <string name="record_scenes_summaries_stereo_voice">Расположите микрофон ближе к источнику звука для лучшего качества записи</string>
+    <string name="record_scenes_summaries_voice">Расположите микрофон ближе к источнику звука для лучшего качества записи</string>
     <string name="recorder_record">Аудио</string>
     <string name="recording">Запись</string>
     <string name="recording_quality_high">Высокое качество</string>

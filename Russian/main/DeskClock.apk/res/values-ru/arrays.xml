@@ -10,6 +10,15 @@
         <item>Зазвонит через %2$s %3$s</item>
         <item>Зазвонит через %1$s %2$s %3$s</item>
     </string-array>
+    <string-array name="alarm_in_furture_new_array">
+        <item>Сработает через %1$s</item>
+        <item>Сработает через %2$s</item>
+        <item>Сработает через %1$s %2$s</item>
+        <item>Сработает через %3$s</item>
+        <item>Сработает через %1$s %3$s</item>
+        <item>Сработает через %2$s %3$s</item>
+        <item>Сработает через %1$s %2$s %3$s</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Однократно</item>
         <item>Ежедневно</item>
@@ -33,6 +42,15 @@
         <item>Будильник зазвонит через %1$s %3$s</item>
         <item>Будильник зазвонит через %2$s %3$s</item>
         <item>Будильник зазвонит через %1$s, %2$s %3$s</item>
+    </string-array>
+    <string-array name="alarm_set_new_array">
+        <item>Будильник сработает через %1$s</item>
+        <item>Будильник сработает через %2$s</item>
+        <item>Будильник сработает через %1$s %2$s</item>
+        <item>Будильник сработает через %3$s</item>
+        <item>Будильник сработает через %1$s %3$s</item>
+        <item>Будильник сработает через %2$s %3$s</item>
+        <item>Будильник сработает через %1$s %2$s %3$s.</item>
     </string-array>
     <string-array name="alphabet_sub_table_with_starred">
         <item>А</item>

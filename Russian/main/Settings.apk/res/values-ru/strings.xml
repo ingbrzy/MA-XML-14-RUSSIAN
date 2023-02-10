@@ -7769,7 +7769,7 @@ UT-интерфейс: %5$s"</string>
     <string name="radio_info_smsc_update_label">Обновить</string>
     <string name="radio_info_subid">Текущий SubId:</string>
     <string name="radio_info_toggle_dns_check_label">Включить/отключить проверку DNS</string>
-    <string name="radio_info_ul_kbps">Пропускная способность UL-канала (Кбит/сек.):</string>
+    <string name="radio_info_ul_kbps">Пропускная способность UL-канала (кбит/с):</string>
     <string name="radio_info_voice_network_type_label">Тип сети для голосовой связи:</string>
     <string name="raise_bottom_height_of_keyboard">Увеличенная высота</string>
     <string name="raise_bottom_height_of_keyboard_sub_title">Под клавиатурой появится панель с настраиваемыми ярлыками</string>
