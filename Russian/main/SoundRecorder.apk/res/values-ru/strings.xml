@@ -173,7 +173,7 @@
     <string name="loading_more">Подождите…</string>
     <string name="loading_order_list">Подождите…</string>
     <string name="loading_order_list_empty">Заказов нет</string>
-    <string name="low_battery_error">Заряд менее 5%. Остановите и сохраните запись, чтобы не потерять её.</string>
+    <string name="low_battery_error">Заряд менее %s. Остановите и сохраните запись, чтобы не потерять её.</string>
     <string name="low_battery_error_confirm">OK</string>
     <string name="low_battery_error_for_pad">Заряд менее %s. Остановите и сохраните запись, чтобы не потерять её.</string>
     <string name="low_battery_error_title">Батарея разряжена</string>
