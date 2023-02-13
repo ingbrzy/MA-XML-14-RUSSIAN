@@ -37,8 +37,8 @@
     <string name="download_md5">MD5: %1$s</string>
     <string name="downloading">Загрузка:</string>
     <string name="downloading_desc">Идет загрузка, проверьте статус в области уведомлений.</string>
-    <string name="fastboot_mode">Режим Fastboot. Прошивку можно установить только с помощью терминала на ПК!</string>
-    <string name="fastboot_update_warning">Это обновление только для установки через fastboot!</string>
+    <string name="fastboot_mode">Обновление через Fastboot. Прошивку можно установить только с использованием Терминала на ПК!</string>
+    <string name="fastboot_update_warning">Это обновление только для установки через Fastboot!</string>
     <string name="fetch_notification_default_channel_name">Загрузки</string>
     <string name="fetch_notification_download_cancel">Отмена</string>
     <string name="fetch_notification_download_complete">Готово</string>
@@ -57,10 +57,10 @@
 Все данные будут сохранены."</string>
     <string name="install_title">Вы уверены, что хотите продолжить?</string>
     <string name="menu_title_current_version_log">Что нового?</string>
-    <string name="menu_title_fastboot_mode">Режим Fastboot</string>
+    <string name="menu_title_fastboot_mode">Обновление через Fastboot</string>
     <string name="menu_title_pick_rom_file">Выбрать пакет обновления</string>
     <string name="menu_title_recovery">Перезагрузка в Recovery</string>
-    <string name="menu_title_recovery_mode">Режим Recovery</string>
+    <string name="menu_title_recovery_mode">Обновление через Recovery</string>
     <string name="menu_title_show_notifications">Показывать уведомления</string>
     <string name="message_checkbox">Не показывать сообщения от Xiaomi.eu</string>
     <string name="message_checkbox_device">Больше не показывать</string>
@@ -87,7 +87,7 @@
     <string name="pick_not_found">Не найден подходящий файловый менеджер.</string>
     <string name="pick_title">Использовать:</string>
     <string name="recovery_desc">Устройство будет перезагружено в Recovery. Продолжить?</string>
-    <string name="recovery_mode">Режим Recovery. Прошивку можно установить с помощью приложения Обновление!</string>
+    <string name="recovery_mode">Обновление через Recovery. Прошивку можно установить в приложении Обновление!</string>
     <string name="server_error">Сервер не доступен, приложение может работать некорректно!</string>
     <string name="share_desc">Ваша версия MIUI была обновлена до %1$s, информация о последних изменениях:  %2$s</string>
     <string name="share_title">Поделиться с</string>
