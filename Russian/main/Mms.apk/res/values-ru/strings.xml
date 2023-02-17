@@ -775,7 +775,7 @@
     <string name="notification_channel_sim1_name">Сообщения SIM 1</string>
     <string name="notification_channel_sim2_description">Уведомления о сообщениях SIM 2</string>
     <string name="notification_channel_sim2_name">Сообщения SIM 2</string>
-    <string name="notification_copy">Скопировать OTP</string>
+    <string name="notification_copy">Скопировать КОД</string>
     <string name="notification_delete">Удалить</string>
     <string name="notification_failed_multiple">Не отправлено сообщений: %s</string>
     <string name="notification_failed_multiple_title">Сообщения не отправлены</string>
