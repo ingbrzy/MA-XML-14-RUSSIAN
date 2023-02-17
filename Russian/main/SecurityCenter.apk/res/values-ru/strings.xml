@@ -2350,8 +2350,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_shoulder_key">Навесные триггеры</string>
     <string name="gb_shoulder_key_add_show_btn">Показывать виртуальные кнопки во время игр</string>
     <string name="gb_shoulder_key_add_tips">Переместите кнопки [Л] и [П] в любое функциональное положение для использования с навесными триггерами</string>
-    <string name="gb_shoulder_key_btn_cancel">Сохранить</string>
-    <string name="gb_shoulder_key_btn_save_exit">Отмена</string>
+    <string name="gb_shoulder_key_btn_cancel">Отмена</string>
+    <string name="gb_shoulder_key_btn_save_exit">Сохранить</string>
     <string name="gb_shoulder_key_circle_left">Л</string>
     <string name="gb_shoulder_key_circle_left_sub1">Л1</string>
     <string name="gb_shoulder_key_circle_left_sub2">Л2</string>
