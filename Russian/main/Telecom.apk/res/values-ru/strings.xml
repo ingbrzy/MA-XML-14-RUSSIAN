@@ -125,7 +125,7 @@
     <string name="available_via_app">Доступно через %1$s</string>
     <string name="available_via_carrier">Доступно через %1$s</string>
     <string name="available_via_passpoint">Доступно через %1$s</string>
-    <string name="battery_info_status_charging">Идет зарядка</string>
+    <string name="battery_info_status_charging">Идёт зарядка</string>
     <string name="battery_info_status_charging_fast">Быстрая зарядка</string>
     <string name="battery_info_status_charging_lower">заряжается</string>
     <string name="battery_info_status_charging_slow">Медленная зарядка</string>

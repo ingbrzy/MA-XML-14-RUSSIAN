@@ -58,7 +58,7 @@
     <string name="ad_download_pause">Пауза</string>
     <string name="ad_download_pending">Ожидание</string>
     <string name="ad_download_resume">Продолжить</string>
-    <string name="ad_downloading_tip">Идет загрузка. Вы можете посмотреть прогресс в шторке уведомлений.</string>
+    <string name="ad_downloading_tip">Идёт загрузка. Вы можете посмотреть прогресс в шторке уведомлений.</string>
     <string name="ad_experience_now">Открыть</string>
     <string name="ad_tag_text_1">Популярное</string>
     <string name="ad_tag_text_2">Тренд</string>

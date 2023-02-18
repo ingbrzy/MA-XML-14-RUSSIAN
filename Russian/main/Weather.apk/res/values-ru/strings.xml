@@ -152,7 +152,7 @@
     <string name="common_google_play_services_update_text">Приложение %1$s не будет работать без обновления сервисов Google Play</string>
     <string name="common_google_play_services_update_title">Обновление сервисов Google Play</string>
     <string name="common_google_play_services_updating_text">Приложение %1$s не будет работать без сервисов Google Play, которые сейчас обновляются.</string>
-    <string name="common_google_play_services_wear_update_text">Требуется новая версия сервисов Google Play. Идет обновление.</string>
+    <string name="common_google_play_services_wear_update_text">Требуется новая версия сервисов Google Play. Идёт обновление.</string>
     <string name="common_loading_text">Подождите…</string>
     <string name="common_open_on_phone">Открыть на устройстве</string>
     <string name="common_signin_button_text">Войти</string>

@@ -488,7 +488,7 @@
     <string name="cancel">Отмена</string>
     <string name="cannot_connect_camera_once">Не удалось подключиться к камере</string>
     <string name="cannot_connect_camera_twice">Не удалось подключиться к камере. Попробуйте перезагрузить устройство.</string>
-    <string name="cannot_connect_camera_volte_call">Идет видеовызов, повторите попытку позже.</string>
+    <string name="cannot_connect_camera_volte_call">Идёт видеовызов, повторите попытку позже.</string>
     <string name="cannot_move_warning_message">Не двигайте устройство при съёмке</string>
     <string name="capture_back_pressed_hint">Нажмите ещё раз для выхода</string>
     <string name="capture_shortcut_long">Селфи</string>
@@ -2103,8 +2103,8 @@
     <string name="preparing_sd">Подготовка SD-карты…</string>
     <string name="preview_back_pressed_hint">Нажмите ещё раз, чтобы вернуться к предпросмотру</string>
     <string name="pro_color_mode">Продвинутый цветовой режим</string>
-    <string name="process_tips_1">Не складывайте устройство, пока идет сохранение видео</string>
-    <string name="process_tips_2">Не разворачивайте устройство, пока идет сохранение видео</string>
+    <string name="process_tips_1">Не складывайте устройство, пока идёт сохранение видео</string>
+    <string name="process_tips_2">Не разворачивайте устройство, пока идёт сохранение видео</string>
     <string name="professional_shortcut_short">Ручной</string>
     <string name="prompt_desc">Для использования этой функции требуется %s MБ мобильного трафика. Продолжить?</string>
     <string name="qvga_shelter_tip_text">Не загораживайте объектив</string>

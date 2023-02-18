@@ -117,7 +117,7 @@
     <string name="bedtime_wake_up_time_remind">Будильник сработает в это время</string>
     <string name="bedtime_wake_up_time_setting">Время пробуждения</string>
     <string name="bedtime_welcome">Управление режимом сна</string>
-    <string name="bedtime_welcome_desc">Регулярный и правильный режима сна идет на пользу здоровью. Установите напоминания, которые помогут каждый день вовремя ложиться спать и вставать.</string>
+    <string name="bedtime_welcome_desc">Регулярный и правильный режима сна идёт на пользу здоровью. Установите напоминания, которые помогут каждый день вовремя ложиться спать и вставать.</string>
     <string name="birthday_alarm">Песня ко дню рождения</string>
     <string name="birthday_alarm_summary">Воспроизводить \"Happy Birthday\" вместо стандартной мелодии будильника в ваш день рождения</string>
     <string name="cancel">Отмена</string>

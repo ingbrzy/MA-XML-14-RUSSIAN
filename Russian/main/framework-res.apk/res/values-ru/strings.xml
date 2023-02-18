@@ -2000,7 +2000,7 @@
     <string name="ssl_certificate">Сертификат безопасности</string>
     <string name="ssl_certificate_is_valid">Этот сертификат действителен.</string>
     <string name="status_communication_speaker_summary">Включена громкая связь. Звук будет воспроизводиться через динамик при подключении наушников.</string>
-    <string name="status_communication_summary">Идет вызов. Вы можете отрегулировать громкость звонка.</string>
+    <string name="status_communication_summary">Идёт вызов. Вы можете отрегулировать громкость звонка.</string>
     <string name="stk_cc_ss_to_dial">SS-запрос преобразован в DIAL-запрос.</string>
     <string name="stk_cc_ss_to_dial_video">SS-запрос преобразован в запрос Video DIAL</string>
     <string name="stk_cc_ss_to_ss">SS-запрос преобразован в новый SS-запрос.</string>

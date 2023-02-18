@@ -330,7 +330,7 @@
     <string name="band_mode_set">Установить</string>
     <string name="band_mode_succeeded">Успешно</string>
     <string name="band_mode_title">Установка режима радиодиапазона</string>
-    <string name="battery_info_status_charging">Идет зарядка</string>
+    <string name="battery_info_status_charging">Идёт зарядка</string>
     <string name="battery_info_status_charging_fast">Быстрая зарядка</string>
     <string name="battery_info_status_charging_lower">заряжается</string>
     <string name="battery_info_status_charging_slow">Медленная зарядка</string>
@@ -2296,7 +2296,7 @@
     <string name="puk_lock_warning">"
 SIM-карта будет заблокирована при неудачной попытке ввода."</string>
     <string name="puk_requested">Неверный пароль, PIN заблокирован. Введите код PUK.</string>
-    <string name="puk_unlocked">SIM-карта разблокирована. Идет разблокировка устройства…</string>
+    <string name="puk_unlocked">SIM-карта разблокирована. Идёт разблокировка устройства…</string>
     <string name="quick_dial_setting_title">Быстрый набор</string>
     <string name="radioInfo_cid">CID</string>
     <string name="radioInfo_data_connected">Подключено</string>

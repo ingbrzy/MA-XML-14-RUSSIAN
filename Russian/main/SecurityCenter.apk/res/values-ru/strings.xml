@@ -1286,7 +1286,7 @@
     <string name="convenient_mode">Групповая разблокировка</string>
     <string name="convenient_summary">Введенный пароль разблокирует все защищенные приложения</string>
     <string name="copy">Копировать</string>
-    <string name="correction_attention_dialog_message">Идет корректировка настроек. Дождитесь завершения и повторите попытку.</string>
+    <string name="correction_attention_dialog_message">Идёт корректировка настроек. Дождитесь завершения и повторите попытку.</string>
     <string name="cpu_usage_android_system">Система Android</string>
     <string name="cpu_usage_process_run_time_little_time">Менее 1 мин.</string>
     <string name="cpu_usage_process_run_time_little_time_new">Менее %d мин.</string>
@@ -1394,7 +1394,7 @@
     <string name="device_manager_apply_step_2">"Активация администратора устройства для этого приложения может привести к раскрытию ваших личных данных.
 Все данные на вашем устройстве могут быть удалены, а пароль блокировки экрана сброшен."</string>
     <string name="device_manager_apply_step_3">Прежде чем продолжить, убедитесь, что вы осознаете все возможные риски. Активировать администратора устройства?</string>
-    <string name="diagnostic_attention_dialog_message">Идет диагностика %1$s. Дождитесь завершения и повторите попытку.</string>
+    <string name="diagnostic_attention_dialog_message">Идёт диагностика %1$s. Дождитесь завершения и повторите попытку.</string>
     <string name="dialog_app_roaming_message">%1$s не может использовать мобильный интернет в роуминге. Только приложения из списка исключений могут использовать мобильный интернет.</string>
     <string name="dialog_app_roaming_title">%1$s без доступа в интернет</string>
     <string name="dialog_btn_delete_icon">Удалить</string>
@@ -2516,7 +2516,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="google_base_app_network_anomaly">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="google_base_app_timeout">Время сессии истекло. Повторите попытку позже.</string>
     <string name="google_base_app_title">Установка сервисов Google</string>
-    <string name="google_base_app_toast">Идет установка Google Services Framework в фоновом режиме. Повторите попытку позже.</string>
+    <string name="google_base_app_toast">Идёт установка Google Services Framework в фоновом режиме. Повторите попытку позже.</string>
     <string name="gs_advanced_setting_summary">Настройки для отдельных игр</string>
     <string name="gs_advanced_setting_title">Дополнительные настройки</string>
     <string name="gs_anto_clean_memory_whitelist">Исключения</string>
@@ -3444,7 +3444,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="other">Прочие настройки</string>
     <string name="other_exception_summary">Отсутствует подключение к интернету</string>
     <string name="other_exception_title">Проверка наличия других проблем</string>
-    <string name="other_milink_connect">Невозможно начать трансляцию. Идет другая трансляция.</string>
+    <string name="other_milink_connect">Невозможно начать трансляцию. Идёт другая трансляция.</string>
     <string name="other_operator_name_virtual_operator">Другие виртуальные операторы</string>
     <string name="over_package_reminder_type">При исчерпании лимита трафика</string>
     <string name="package_change_notification_summary">Нажмите для просмотра.</string>
@@ -6098,7 +6098,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="vtb_func_vpp_desc4">Функция не будет работать, если разрешение видео выше 4K.</string>
     <string name="vtb_func_vpp_title">Улучшенные контуры</string>
     <string name="vtb_function_video_translation">Трансляция в реальном времени</string>
-    <string name="vtb_other_milink_connect">Не удалось начать трансляцию. Идет другая трансляция…</string>
+    <string name="vtb_other_milink_connect">Не удалось начать трансляцию. Идёт другая трансляция…</string>
     <string name="vtb_stop_milink_connect">Остановка трансляции</string>
     <string name="wakepath_confirm_start_activity">Разрешить %1$s запуск %2$s?</string>
     <string name="warningcenter_action_check">Посмотреть</string>
@@ -6204,17 +6204,17 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="warningcenter_policeassist_charge_tips">*Может взиматься плата за исходящие текстовые сообщения. Свяжитесь с вашим оператором, чтобы узнать о тарифах.</string>
     <string name="warningcenter_policeassist_close_btn">Отключить</string>
     <string name="warningcenter_policeassist_flow_locating">Получение информации…</string>
-    <string name="warningcenter_policeassist_flow_locfailed">Не удалось поделиться местоположением</string>
+    <string name="warningcenter_policeassist_flow_locfailed">Не удалось отправить геопозицию</string>
     <string name="warningcenter_policeassist_flow_privacy">Политика конфиденциальности</string>
-    <string name="warningcenter_policeassist_flow_send">Поделиться местоположением с полицией</string>
-    <string name="warningcenter_policeassist_flow_tips">Отправить местоположение</string>
-    <string name="warningcenter_policeassist_noti_content">Автоматическая отправка текстового сообщения с местоположением</string>
+    <string name="warningcenter_policeassist_flow_send">Отправка геопозиции в полицию</string>
+    <string name="warningcenter_policeassist_flow_tips">Отправить геопозицию</string>
+    <string name="warningcenter_policeassist_noti_content">Автоматическая отправка SMS с геопозицией</string>
     <string name="warningcenter_policeassist_noti_privacy">Нажмите, чтобы проверить Политику конфиденциальности</string>
-    <string name="warningcenter_policeassist_noti_send">Поделиться местоположением с полицией</string>
-    <string name="warningcenter_policeassist_noti_title">Поделиться местоположением во время экстренных вызовов</string>
+    <string name="warningcenter_policeassist_noti_send">Отправка геопозиции в полицию</string>
+    <string name="warningcenter_policeassist_noti_title">Отправка геопозиции во время экстренных вызовов</string>
     <string name="warningcenter_policeassist_open_btn">Включить</string>
-    <string name="warningcenter_policeassist_open_content">Автоматически отправлять информацию о своем местоположении в полицию с помощью SMS или через интернет время звонка на номер 110, 120, 119 или 122."</string>
-    <string name="warningcenter_policeassist_open_title">Поделиться местоположением с полицией во время экстренных вызовов</string>
+    <string name="warningcenter_policeassist_open_content">Автоматически отправлять в полицию геопозицию через интернет или в SMS при наборе 110, 120, 119 или 122."</string>
+    <string name="warningcenter_policeassist_open_title">Отправка геопозиции в полицию во время экстренных вызовов</string>
     <string name="warningcenter_policeassist_privacy"><Data>Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>.</Data></string>
     <string name="warningcenter_policeassist_title">Геолокация при экстренной ситуации</string>
     <string name="warningcenter_smarthome">Mi Home</string>

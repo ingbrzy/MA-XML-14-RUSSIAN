@@ -551,8 +551,8 @@
         <item quantity="one">Получение %2$d файла от %1$s…</item>
     </plurals>
     <plurals name="send_processing_files_error">
-        <item quantity="other">Не удалось отправить. Идет обработка %d фото…</item>
-        <item quantity="one">Не удалось отправить. Идет обработка %d фото…</item>
+        <item quantity="other">Не удалось отправить. Идёт обработка %d фото…</item>
+        <item quantity="one">Не удалось отправить. Идёт обработка %d фото…</item>
     </plurals>
     <plurals name="send_video_dialog_desc">
         <item quantity="other">%2$d видео от %1$s</item>

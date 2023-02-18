@@ -118,7 +118,7 @@
     <string name="back_navigation_animation">Анимация предиктивного отклика</string>
     <string name="back_navigation_animation_dialog">Этот параметр включает системную анимацию для предиктивной анимации жестов. Для каждого приложения в файле манифеста необходимо установить значение enableOnBackInvokedCallback в true.</string>
     <string name="back_navigation_animation_summary">Включение системной анимации для предиктивного отклика</string>
-    <string name="battery_info_status_charging">Идет зарядка</string>
+    <string name="battery_info_status_charging">Идёт зарядка</string>
     <string name="battery_info_status_charging_fast">Быстрая зарядка</string>
     <string name="battery_info_status_charging_lower">заряжается</string>
     <string name="battery_info_status_charging_slow">Медленная зарядка</string>

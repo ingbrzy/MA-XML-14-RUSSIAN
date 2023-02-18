@@ -333,6 +333,10 @@
     <string name="other_settings_ad_disable_summary">Включить персонализированную рекламу</string>
     <string name="other_settings_ad_enable">Персонализированная реклама</string>
     <string name="other_settings_ad_enable_summary">Персонализированная реклама на основе ваших предпочтений</string>
+    <string name="other_settings_alarm_assistance">Геолокация при экстренной ситуации</string>
+    <string name="other_settings_alarm_assistance_privacy">Политика конфиденциальности</string>
+    <string name="other_settings_alarm_assistance_summary">"Автоматически отправлять в полицию геопозицию через интернет или в SMS при наборе 110, 120, 119 или 122. Перед использованием этой функции примите &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>."</string>
+    <string name="other_settings_alarm_assistance_user">Пользовательское соглашение</string>
     <string name="other_settings_auto_update">Автоматические обновления системы</string>
     <string name="other_settings_auto_update_summary">MIUI выберет лучшее время для загрузки и установки обновлений. Устройство будет автоматически перезагружено для применения изменений.</string>
     <string name="other_settings_auto_update_summary_v1">MIUI выберет лучшее время для загрузки и установки обновлений. Устройство будет автоматически перезагружено для применения изменений.</string>

@@ -756,7 +756,7 @@
     <string name="camera_key_action_shortcut_wake">Блокировка</string>
     <string name="camera_key_action_toggle_title">Переключатель</string>
     <string name="camera_label">Открыть камеру</string>
-    <string name="camera_recording_announcement">Камера: идет запись</string>
+    <string name="camera_recording_announcement">Камера: идёт запись</string>
     <string name="camera_stopped_recording_announcement">Камера: запись остановлена</string>
     <string name="cancel">Отмена</string>
     <string name="car_lockscreen_disclaimer_text">Будьте в курсе дорожной обстановки и соблюдайте действующие правила. Указания могут быть неточными, неполными, опасными, неподходящими, запрещенными или связанными с пересечением административных зон. Бизнес-информация также может быть неточной или неполной. Данные не поставляются в режиме реального времени, и точность местоположения не может быть гарантирована. Не используйте во время вождения мобильное устройство, а также приложения, несовместимые с Android Auto.</string>
@@ -1853,9 +1853,9 @@ d MMMM"</string>
     <string name="memory_leak">Утечка памяти</string>
     <string name="menu_ime">Переключение раскладки</string>
     <string name="mic_active">Микрофон активен</string>
-    <string name="mic_and_camera_recording_announcement">Камера и микрофон: идет запись</string>
+    <string name="mic_and_camera_recording_announcement">Камера и микрофон: идёт запись</string>
     <string name="mic_camera_stopped_recording_announcement">Камера и микрофон: запись остановлена</string>
-    <string name="mic_recording_announcement">Микрофон: идет запись</string>
+    <string name="mic_recording_announcement">Микрофон: идёт запись</string>
     <string name="mic_stopped_recording_announcement">Микрофон: запись остановлена</string>
     <string name="midnight">Ночь</string>
     <string name="missed_call">Пропущенный вызов</string>
@@ -2784,7 +2784,7 @@ mm"</string>
     <string name="screen_zoom_summary_small">Мелкий</string>
     <string name="screen_zoom_summary_very_large">Очень крупный</string>
     <string name="screenrecord_audio_label">Запись звука</string>
-    <string name="screenrecord_background_processing_label">Идет запись экрана</string>
+    <string name="screenrecord_background_processing_label">Идёт запись экрана</string>
     <string name="screenrecord_cancel_label">Отмена</string>
     <string name="screenrecord_cancel_success">Запись экрана отменена</string>
     <string name="screenrecord_channel_description">Постоянное уведомление о записи экрана</string>

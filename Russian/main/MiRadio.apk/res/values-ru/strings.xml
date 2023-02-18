@@ -377,7 +377,7 @@ ID:%s
     <string name="downloading_apk_black_shark">Загрузка… Прогресс можно посмотреть в Проводнике.</string>
     <string name="downloading_empty">Ничего нет</string>
     <string name="downloading_pause_apk">Приостановлено. Возобновить загрузку можно в шторке уведомлений.</string>
-    <string name="downloads_operating">Идет загрузка…</string>
+    <string name="downloads_operating">Идёт загрузка…</string>
     <string name="drm_check_permission_error">Connect to the network to check whether this song is available to you.</string>
     <string name="drm_login_message">Due to copyright restrictions, you must sign in to check whether this song is available to you.</string>
     <string name="early_morning">Утро</string>
@@ -1307,7 +1307,7 @@ ID:%s
     <string name="toast_download_error_by_count_limit">Вы израсходовали квоту на загрузку за этот месяц.</string>
     <string name="toast_download_error_by_not_login">Войдите в Xiaomi аккаунт и повторите попытку.</string>
     <string name="toast_download_error_by_vip_required">Для загрузки этого трека необходим Премиальный пакет.</string>
-    <string name="toast_download_in_process">Идет загрузка</string>
+    <string name="toast_download_in_process">Идёт загрузка</string>
     <string name="toast_fm_error_startfailed">Ошибка записи. Возможно, запись запущена в другом приложении.</string>
     <string name="toast_fm_recorder_access_error">Невозможно записывать радио в режиме \"Гость\"</string>
     <string name="toast_fm_recorder_internal_error">Ошибка записи радио</string>

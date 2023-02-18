@@ -452,7 +452,7 @@
     <string name="parent_center_default_home_msg">Выберите стиль рабочего стола детского пространства</string>
     <string name="parent_center_default_home_progress">Загружено %1$s%%</string>
     <string name="parent_center_default_home_title">Настройки рабочего стола по умолчанию</string>
-    <string name="parent_center_download_success">Загрузка завершена, идет установка</string>
+    <string name="parent_center_download_success">Загрузка завершена, идёт установка</string>
     <string name="parent_center_net_set_title">Управляйте использованием ребенком интернета в детском пространстве</string>
     <string name="parent_center_safe_set_title">Запрет выхода из детского пространства и ответов на вызовы</string>
     <string name="parent_center_time_select_title">Установка времени</string>

@@ -394,7 +394,7 @@
     <string name="preference_online_orders">Онлайн заказы</string>
     <string name="preference_recog_faqs">FAQ по онлайн транскрибированию</string>
     <string name="preference_recog_terms">Условия обслуживания</string>
-    <string name="preference_record_desktop_indicator_summary">Показывать синий индикатор на рабочем столе, когда идет запись в фоновом режиме</string>
+    <string name="preference_record_desktop_indicator_summary">Показывать синий индикатор на рабочем столе, когда идёт запись в фоновом режиме</string>
     <string name="preference_record_desktop_indicator_title">Индикатор на рабочем столе</string>
     <string name="preference_record_scenes_dialog_title">Выбор режима записи</string>
     <string name="preference_scenes">Режим записи</string>
@@ -424,12 +424,12 @@
     <string name="recognition_error_internal">Внутренняя ошибка</string>
     <string name="recognition_error_stopped">Транскрибирование остановлено</string>
     <string name="recognition_error_unknown">Неизвестная ошибка. Отправьте отчёт и повторите попытку.</string>
-    <string name="recognition_interrupt_current_dialog_body">Транскрибирование может занять некоторое время. Вы получите уведомление, когда задание будет выполнено. Идет транскрибирование \"%s\". Добавить в очередь заданий?</string>
+    <string name="recognition_interrupt_current_dialog_body">Транскрибирование может занять некоторое время. Вы получите уведомление, когда задание будет выполнено. Идёт транскрибирование \"%s\". Добавить в очередь заданий?</string>
     <string name="recognition_notification_channel">Транскрибирование</string>
     <string name="recognition_notification_complete_success">Транскрибирование \"%s\" завершено. Нажмите для просмотра.</string>
     <string name="recognition_notification_error">Не удалось транскрибировать \"%s\"</string>
     <string name="recognition_notification_running">Транскрибирование \"%s\"…</string>
-    <string name="recognition_process_dialog_body">Идет транскрибирование (%s). Остановить текущие задания и начать новое?</string>
+    <string name="recognition_process_dialog_body">Идёт транскрибирование (%s). Остановить текущие задания и начать новое?</string>
     <string name="recognition_process_dialog_cancel">Очередь</string>
     <string name="recognition_process_dialog_confirm">Начать</string>
     <string name="recognition_process_dialog_title">Текущие задания</string>

@@ -345,7 +345,7 @@
     <string name="accessibility_sync_disabled">Синхронизация отключена</string>
     <string name="accessibility_sync_enabled">Синхронизация включена</string>
     <string name="accessibility_sync_error">Ошибка синхронизации</string>
-    <string name="accessibility_sync_in_progress">Идет синхронизация</string>
+    <string name="accessibility_sync_in_progress">Идёт синхронизация</string>
     <string name="accessibility_system_controls_title">Управление системой</string>
     <string name="accessibility_tap_assistance_title">Настройка времени задержки</string>
     <string name="accessibility_text_and_display_title">Текст и отображение</string>
@@ -3586,7 +3586,7 @@ ID: %s
 Это поможет защитить данные в случае потери или кражи устройства. Запрашивать PIN-код при включении?"</string>
     <string name="encryption_interstitial_no">Нет</string>
     <string name="encryption_interstitial_yes">Да</string>
-    <string name="encryption_progress_summary">Идет шифрование, не перезагружайте устройство.</string>
+    <string name="encryption_progress_summary">Идёт шифрование, не перезагружайте устройство.</string>
     <string name="encryption_settings_title">Шифрование</string>
     <string name="enhanced_4g_lte_mode_summary">Использование LTE для улучшения голосовой и прочей связи (рекомендуется)</string>
     <string name="enhanced_4g_lte_mode_summary_4g_calling">Использование 4G для улучшения голосовой и прочей связи (рекомендуется)</string>
@@ -5819,7 +5819,7 @@ ID: %s
     <string name="memory_available_read_only">Доступно (только для чтения)</string>
     <string name="memory_avg_desc">В среднем %1$s</string>
     <string name="memory_avg_use">В среднем</string>
-    <string name="memory_calculating_size">Идет подсчёт…</string>
+    <string name="memory_calculating_size">Идёт подсчёт…</string>
     <string name="memory_clear_cache_message">Будут удалены кешированные данные всех приложений.</string>
     <string name="memory_clear_cache_title">Очистить кеш?</string>
     <string name="memory_dcim_usage">Изображения и видео</string>

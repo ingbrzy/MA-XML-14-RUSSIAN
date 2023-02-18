@@ -381,7 +381,7 @@
     <string name="fixtures">Приспособление</string>
     <string name="flight_check_in">Регистрация</string>
     <string name="flight_check_in_done">Регистрация закончена</string>
-    <string name="flight_check_in_now">Идет регистрация</string>
+    <string name="flight_check_in_now">Идёт регистрация</string>
     <string name="flight_detail_tips">Дополнительные услуги: %1$s</string>
     <string name="flight_detail_tips_url">VariFlight</string>
     <string name="flight_detail_title">Маршрут</string>
@@ -914,6 +914,7 @@
     <string name="path_calendar_settings">Системные приложения/Календарь/Настройки</string>
     <string name="permission_accounts">Для входа в систему, управления системной учётной записью и связывания с ней элементов</string>
     <string name="permission_contacts">Для синхронизации дней рождения контактов и отправки напоминаний</string>
+    <string name="permission_denial">Предоставьте разрешение, чтобы использовать эту функцию</string>
     <string name="permission_description">Сведения о разрешениях</string>
     <string name="permission_main_purpose">Просмотр и управление событиями календаря, планирование, получение напоминаний</string>
     <string name="permission_storage">Для сохранения напоминаний и рингтонов</string>
@@ -970,6 +971,7 @@
     <string name="premission_description_calendar">Для добавления и отображения мероприятий</string>
     <string name="premission_description_contact">Для отображения дней рождения ваших контактов</string>
     <string name="premission_description_log">Для сохранения журналов</string>
+    <string name="premission_description_notice">Для отправки уведомлений о мероприятиях и праздниках</string>
     <string name="premission_description_phone_state">Для идентификации устройства на основе ID устройства</string>
     <string name="premission_description_ringtone">Для установки рингтонов</string>
     <string name="premission_description_title">Просмотр и управление мероприятиями</string>

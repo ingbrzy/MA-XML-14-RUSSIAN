@@ -3243,7 +3243,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_translation_after_tips">Восстановить исходную страницу</string>
     <string name="web_translation_before_button_text">Перевести</string>
     <string name="web_translation_before_tips">Перевести страницу?</string>
-    <string name="web_translation_doing_tips">Идет перевод…</string>
+    <string name="web_translation_doing_tips">Идёт перевод…</string>
     <string name="web_translation_failed_toast">Ошибка перевода, повторите попытку</string>
     <string name="web_translation_non_en_toast">Английский текст отсутствует</string>
     <string name="web_translation_pop_text">Функция перевода доступна в панели инструментов</string>

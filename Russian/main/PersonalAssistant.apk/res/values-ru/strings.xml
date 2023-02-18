@@ -1135,7 +1135,7 @@ ID:%s
     <string name="flybird_fp_tips">Пожалуйста, проверьте Touch ID</string>
     <string name="flybird_fp_unavailable">Touch Pay временно недоступен, повторите попытку позже</string>
     <string name="flybird_fp_val_failed">Данные Touch ID не подтверждены, попробуйте ещё раз</string>
-    <string name="flybird_fp_val_ok">Данные Touch ID подтверждены, идет передача…</string>
+    <string name="flybird_fp_val_ok">Данные Touch ID подтверждены, идёт передача…</string>
     <string name="flybird_fp_validate_too_often">Проверка Touch ID</string>
     <string name="flybird_fp_validating">Проверка Touch ID…</string>
     <string name="flybird_mobilegwerror_tips">Система перегружена, выйдите и повторите снова</string>
@@ -1395,7 +1395,7 @@ ID:%s
     <string name="mini_debug_app_error">Ошибка программы! Кликните для подтверждения выхода</string>
     <string name="mini_download">Загрузить</string>
     <string name="mini_error_title_default">Примечание</string>
-    <string name="mini_expiry_date_content">Срок действия - это набор цифр на лицевой стороне карты ниже её номера, по стандарту сначала идет месяц, затем - год</string>
+    <string name="mini_expiry_date_content">Срок действия - это набор цифр на лицевой стороне карты ниже её номера, по стандарту сначала идёт месяц, затем - год</string>
     <string name="mini_expiry_date_title">Описание срока действия</string>
     <string name="mini_format_error">Ошибка формата</string>
     <string name="mini_fp_no_open_pay">Информация об отпечатках пальцев изменена, заново активируйте пароль к отпечаткам пальцев</string>

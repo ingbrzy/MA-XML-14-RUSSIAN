@@ -33,7 +33,7 @@
     <string name="app_name">Трансляция</string>
     <string name="appcirculate_alert_busy_negative">Отмена</string>
     <string name="appcirculate_alert_busy_positive">Прервать</string>
-    <string name="appcirculate_alert_busy_text">Идет передача файлов с другого устройства. Прервать передачу?</string>
+    <string name="appcirculate_alert_busy_text">Идёт передача файлов с другого устройства. Прервать передачу?</string>
     <string name="appcirculate_alert_busy_title">Прерывание передачи</string>
     <string name="appcirculate_fragment_circulate_app_content_description">Предпросмотр: %1$s</string>
     <string name="appcirculate_fragment_circulate_device_card_button">Включить</string>
@@ -53,7 +53,7 @@
     <string name="appcirculate_fragment_circulate_device_list_button_confirm">Повторить поиск</string>
     <string name="appcirculate_fragment_circulate_device_list_text_none"><u>Не удалось найти устройства?</u></string>
     <string name="appcirculate_fragment_circulate_device_list_text_searching">Поиск устройств поблизости…</string>
-    <string name="appcirculate_toast_busy">На другом устройстве идет передача файлов. Дождитесь завершения и повторите попытку.</string>
+    <string name="appcirculate_toast_busy">На другом устройстве идёт передача файлов. Дождитесь завершения и повторите попытку.</string>
     <string name="appcirculate_toast_cancel">Отменено</string>
     <string name="appcirculate_toast_fail">Не удалось переключиться на другое устройство</string>
     <string name="appcirculate_toast_loading">Переключение на другое устройство…</string>

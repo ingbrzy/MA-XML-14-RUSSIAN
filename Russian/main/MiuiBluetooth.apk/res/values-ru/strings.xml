@@ -484,7 +484,7 @@
     <string name="headset_download_failed">Сбой</string>
     <string name="headset_download_fw">Загрузить</string>
     <string name="headset_downloading">Загрузка…</string>
-    <string name="headset_downloading_indicate">Подождите. Идет загрузка…</string>
+    <string name="headset_downloading_indicate">Подождите. Идёт загрузка…</string>
     <string name="headset_find_new_version">Новая версия</string>
     <string name="headset_finish_fw">ОК</string>
     <string name="headset_finish_fw_failed">Сбой</string>

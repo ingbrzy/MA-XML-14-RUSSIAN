@@ -421,7 +421,7 @@
     <string name="gadget_weather_download_message">Необходимо загрузить данные: %1$s (%2$s). Перезапустите приложение по окончании загрузки.</string>
     <string name="gadget_weather_download_start">Загрузить</string>
     <string name="gadget_weather_download_title">Загрузить</string>
-    <string name="gadget_weather_downloading">Идет загрузка приложения. Перезапустите его по окончании загрузки.</string>
+    <string name="gadget_weather_downloading">Идёт загрузка приложения. Перезапустите его по окончании загрузки.</string>
     <string name="gadget_weather_loading">Данных нет</string>
     <string name="gadget_weather_low_temp">Мин.</string>
     <string name="gadget_weather_theme_type">Тип виджета</string>

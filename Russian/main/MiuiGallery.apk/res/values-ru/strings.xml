@@ -960,7 +960,7 @@ ID: %s
     <string name="face_recommend">Рекомендации</string>
     <string name="facebook_login_btn_content_description">Вход через Facebook</string>
     <string name="fail_hint">Не удалось завершить операцию</string>
-    <string name="fail_reason_migrate">Идет обработка… Повторите позже.</string>
+    <string name="fail_reason_migrate">Идёт обработка… Повторите позже.</string>
     <string name="fail_to_pick_email">Неверный адрес email</string>
     <string name="fail_to_sync_album">Ошибка синхронизации альбома. Проверьте подключение и повторите попытку.</string>
     <string name="family_member_invitation_text">Другой член семьи</string>
@@ -1918,7 +1918,7 @@ ID: %s
     <string name="oneplus_phone">OnePlus</string>
     <string name="online_video_error_unknown">Ошибка онлайн-воспроизведения. Загрузите файл.</string>
     <string name="online_video_error_unsupported_type">Онлайн-плеер не поддерживает этот формат. Загрузите файл.</string>
-    <string name="online_video_normal_transcoding">Идет перекодирование видео. Повторите попытку позже.</string>
+    <string name="online_video_normal_transcoding">Идёт перекодирование видео. Повторите попытку позже.</string>
     <string name="online_video_vip_tip">Приобретите VIP для потоковой передачи видео без предварительной загрузки</string>
     <string name="online_video_vip_transcoding">"Потоковая передача для VIP…
 При первом использовании этой функции перекодирование может занять некоторое время."</string>

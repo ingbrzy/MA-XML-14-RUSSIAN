@@ -157,7 +157,7 @@
     <string name="cast_disconnect">Отключить</string>
     <string name="cast_dynamic_group_name_format">%1$s + %2$d</string>
     <string name="cast_expanded_controller_ad_image_description">Изображение, во время показа рекламы</string>
-    <string name="cast_expanded_controller_ad_in_progress">Идет реклама…</string>
+    <string name="cast_expanded_controller_ad_in_progress">Идёт реклама…</string>
     <string name="cast_expanded_controller_background_image">Обложка</string>
     <string name="cast_expanded_controller_live_head_description">Текущая позиция установлена на начало трансляции</string>
     <string name="cast_expanded_controller_live_stream_indicator">Прямой эфир</string>
@@ -319,7 +319,7 @@
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="day">день</string>
-    <string name="default_filedownloader_notification_content">Идет загрузка файла</string>
+    <string name="default_filedownloader_notification_content">Идёт загрузка файла</string>
     <string name="default_filedownloader_notification_title">Загрузка файла</string>
     <string name="default_message_body">Текст сообщения</string>
     <string name="default_title">Заголовок</string>
@@ -1883,11 +1883,11 @@ ID: %s
     <string name="srl_footer_loading">Загрузка…</string>
     <string name="srl_footer_nothing">Больше нет данных</string>
     <string name="srl_footer_pulling">Потяните вниз, чтобы загрузить ещё</string>
-    <string name="srl_footer_refreshing">Идет обновление…</string>
+    <string name="srl_footer_refreshing">Идёт обновление…</string>
     <string name="srl_footer_release">Отпустите, чтобы загрузить ещё</string>
     <string name="srl_header_failed">Ошибка обновления</string>
     <string name="srl_header_finish">Успешное обновление</string>
-    <string name="srl_header_loading">Идет загрузка…</string>
+    <string name="srl_header_loading">Идёт загрузка…</string>
     <string name="srl_header_pulling">Потяните вниз для обновления</string>
     <string name="srl_header_refreshing">Обновление…</string>
     <string name="srl_header_release">Отпустите для обновления</string>

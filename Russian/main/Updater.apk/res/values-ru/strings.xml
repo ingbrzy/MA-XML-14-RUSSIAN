@@ -19,7 +19,7 @@
     <string name="channel_service">Фоновая служба обновления</string>
     <string name="channel_update">Доступна новая версия</string>
     <string name="check_new_version">Проверить</string>
-    <string name="default_filedownloader_notification_content">Идет загрузка файла.</string>
+    <string name="default_filedownloader_notification_content">Идёт загрузка файла.</string>
     <string name="default_filedownloader_notification_title">Загрузчик файлов</string>
     <string name="dialog_3g_desc">Помните, что использование мобильных данных для загрузки прошивки может привести к повышенному расходу вашего траффика.</string>
     <string name="dialog_3g_title">Внимание!</string>
@@ -36,7 +36,7 @@
     <string name="download_fail_desc">Контрольная сумма MD5 не совпадает…</string>
     <string name="download_md5">MD5: %1$s</string>
     <string name="downloading">Загрузка:</string>
-    <string name="downloading_desc">Идет загрузка, проверьте статус в области уведомлений.</string>
+    <string name="downloading_desc">Идёт загрузка, проверьте статус в области уведомлений.</string>
     <string name="fastboot_mode">Обновление через Fastboot. Прошивку можно установить только с использованием Терминала на ПК!</string>
     <string name="fastboot_update_warning">Это обновление только для установки через Fastboot!</string>
     <string name="fetch_notification_default_channel_name">Загрузки</string>

@@ -757,6 +757,7 @@ mm"</string>
     <string name="passport_vcode_notification_title">Проверка авторизации не завершена</string>
     <string name="passport_vcode_prompt_long">Введите код подтверждения</string>
     <string name="passport_vcode_sms_send_prompt">Отправить код подтверждения на %s</string>
+    <string name="passport_vcode_what_app_send_prompt">Код подтверждения WhatsApp будет отправлен на резервное устройство &lt;font color=#1F93FF>%s&lt;/font></string>
     <string name="passport_verification_failed">Не удалось проверить аккаунт</string>
     <string name="passport_verify">Проверить</string>
     <string name="passport_wechat_not_install">WeChat не установлен</string>

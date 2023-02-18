@@ -343,7 +343,7 @@
     <string name="miui_screen_ratio_hint_go_to_settings">Настройки</string>
     <string name="miui_screen_ratio_hint_message">Этому приложению разрешено работать в полноэкранном режиме, что может привести к его неправильной работе. Для изменения перейдите в Настройки &gt; Экран &gt; Полноэкранный режим</string>
     <string name="miui_screen_ratio_hint_ok">OK</string>
-    <string name="miui_upgrading_notification_title">Идет загрузка, некоторые функции могут быть недоступны.</string>
+    <string name="miui_upgrading_notification_title">Идёт загрузка, некоторые функции могут быть недоступны.</string>
     <string name="miui_warning_button_cancel">Отмена</string>
     <string name="miui_warning_button_ok">OK</string>
     <string name="miui_warning_tip_info">В приложении %1$s произошла ошибка. Закрыть его?</string>

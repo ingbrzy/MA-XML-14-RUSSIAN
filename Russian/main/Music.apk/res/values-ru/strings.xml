@@ -310,7 +310,7 @@
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="day">День</string>
-    <string name="default_filedownloader_notification_content">Идет загрузка файлов…</string>
+    <string name="default_filedownloader_notification_content">Идёт загрузка файлов…</string>
     <string name="default_filedownloader_notification_title">Загрузка файлов</string>
     <string name="delete">Удалить</string>
     <string name="delete_count">Удалить пользователя (%1$d)</string>

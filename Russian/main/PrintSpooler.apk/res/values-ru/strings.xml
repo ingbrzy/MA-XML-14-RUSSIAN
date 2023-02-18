@@ -225,7 +225,7 @@
     <string name="printer_unavailable">Принтер недоступен</string>
     <string name="printing">Печать…</string>
     <string name="printing_app_crashed">Сбой приложения печати</string>
-    <string name="printing_in_progress">Идет печать…</string>
+    <string name="printing_in_progress">Идёт печать…</string>
     <string name="printing_notification_title_template">Печать задания \"%1$s\"…</string>
     <string name="printing_successful">Печать успешно завершена</string>
     <string name="reason_unknown">неизвестно</string>
