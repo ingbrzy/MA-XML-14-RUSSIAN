@@ -209,7 +209,7 @@
     <string name="add_sip_account">Добавить аккаунт</string>
     <string name="add_user_failed">Ошибка создания нового пользователя</string>
     <string name="add_vm_number_str">Добавить номер</string>
-    <string name="adding_fdn_contact">Добавление разрешенного номера…</string>
+    <string name="adding_fdn_contact">Добавление разрешённого номера…</string>
     <string name="additional_cdma_call_settings">Дополнительные настройки (CDMA)</string>
     <string name="additional_gsm_call_settings">Дополнительные настройки</string>
     <string name="additional_gsm_call_settings_with_label">Дополнительные настройки (%s)</string>
@@ -812,7 +812,7 @@
     <string name="cloud_sim_enabled_dual_4g_summary">Нельзя отключить Dual 4G при использовании Mi Роуминга</string>
     <string name="cloud_sim_enabled_preferred_network_summary">Нельзя менять режим сети при использовании Mi Роуминга</string>
     <string name="cmcc_ut_data_enable_prompt">Этому сервису требуется мобильный интернет. Включите его для продолжения.</string>
-    <string name="command_error_fdn_failure">Сначала отключите разрешенные номера</string>
+    <string name="command_error_fdn_failure">Сначала отключите разрешённые номера</string>
     <string name="config_default_data_sim">Настройки</string>
     <string name="config_dialing_emergency_number_suffix"/>
     <string name="config_gba_package" />
@@ -941,7 +941,7 @@
     <string name="delete_blob_confirmation_text">Вы уверены, что хотите удалить общие данные?</string>
     <string name="delete_blob_text">Удаление общих данных</string>
     <string name="delete_fdn_contact">Удаление номера</string>
-    <string name="deleting_fdn_contact">Удаление разрешенного номера…</string>
+    <string name="deleting_fdn_contact">Удаление разрешённого номера…</string>
     <string name="description_delete_button">назад</string>
     <string name="description_dial_button">вызов</string>
     <string name="description_dialpad_back">Вернуться</string>
@@ -1030,8 +1030,8 @@
     <string name="disable_esim_dialog_title">Деактивация eSIM</string>
     <string name="disable_esim_error_toast_message">Не удалось деактивировать eSIM</string>
     <string name="disable_esim_progress_activating_message">Деактивация eSIM…</string>
-    <string name="disable_fdn">Отключить разрешенные номера</string>
-    <string name="disable_fdn_ok">Включить разрешенные номера</string>
+    <string name="disable_fdn">Отключить разрешённые номера</string>
+    <string name="disable_fdn_ok">Включить разрешённые номера</string>
     <string name="disable_overlays">Откл. аппарат. наложения</string>
     <string name="disable_overlays_summary">Всегда использовать GPU при компоновке экрана</string>
     <string name="disable_pin_ok">Запрос PIN SIM-карты отключён</string>
@@ -1123,8 +1123,8 @@
     <string name="enable_esim_error_toast_message">Не удалось активировать eSIM</string>
     <string name="enable_esim_progress_activating_message">Активация eSIM…</string>
     <string name="enable_esim_title">Использование eSIM</string>
-    <string name="enable_fdn">Включить разрешенные номера</string>
-    <string name="enable_fdn_ok">Отключить разрешенные номера</string>
+    <string name="enable_fdn">Включить разрешённые номера</string>
+    <string name="enable_fdn_ok">Отключить разрешённые номера</string>
     <string name="enable_freeform_support">Разрешить создание окон произвольной формы</string>
     <string name="enable_freeform_support_summary">Включить экспериментальную функцию создания окон произвольной формы</string>
     <string name="enable_gpu_debug_layers">Включить отладочные слои GPU</string>
@@ -1188,22 +1188,22 @@
     <string name="fake_phone_activity_infoText_text">Входящий телефонный номер</string>
     <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
     <string name="fake_phone_activity_placeCall_text">Поддельный входящий вызов</string>
-    <string name="fdn">Разрешенные номера</string>
-    <string name="fdnListLabel">Разрешенные номера</string>
+    <string name="fdn">Разрешённые номера</string>
+    <string name="fdnListLabel">Разрешённые номера</string>
     <string name="fdn_activation">Активация разрешённых номеров</string>
     <string name="fdn_check_failure">Включена функция набора разрешённых номеров. Некоторые функции вызовов недоступны.</string>
-    <string name="fdn_contact_added">Разрешенный номер добавлен</string>
-    <string name="fdn_contact_deleted">Разрешенный номер удалён</string>
-    <string name="fdn_contact_updated">Разрешенный номер обновлён</string>
-    <string name="fdn_disabled">Разрешенные номера не используются</string>
+    <string name="fdn_contact_added">Разрешённый номер добавлен</string>
+    <string name="fdn_contact_deleted">Разрешённый номер удалён</string>
+    <string name="fdn_contact_updated">Разрешённый номер обновлён</string>
+    <string name="fdn_disabled">Разрешённые номера не используются</string>
     <string name="fdn_enable_puk2_requested">Неверный пароль, PIN2 заблокирован. Измените PIN2 и повторите попытку.</string>
-    <string name="fdn_enabled">Разрешенные номера используются</string>
+    <string name="fdn_enabled">Разрешённые номера используются</string>
     <string name="fdn_failed">Сбой операции FDN</string>
-    <string name="fdn_full">Разрешенный номер не обновлён. Список заполнен.</string>
-    <string name="fdn_invalid_number">Разрешенный номер не обновлён. Он пуст или содержит более %d цифр.</string>
-    <string name="fdn_list_with_label">Разрешенные номера (%s)</string>
+    <string name="fdn_full">Разрешённый номер не обновлён. Список заполнен.</string>
+    <string name="fdn_invalid_number">Разрешённый номер не обновлён. Он пуст или содержит более %d цифр.</string>
+    <string name="fdn_list_with_label">Разрешённые номера (%s)</string>
     <string name="fdn_summary">Настройки ограничения исходящих вызовов списком разрешённых номеров или определёнными префиксами</string>
-    <string name="fdn_with_label">Разрешенные номера (%s)</string>
+    <string name="fdn_with_label">Разрешённые номера (%s)</string>
     <string name="fire_type_description">Активность</string>
     <string name="fiveg_available_status1">Доступность NR :</string>
     <string name="fiveg_bearer_status1">Статус носителя 5G :</string>
@@ -1263,7 +1263,7 @@
     <string name="fold_answer_pref_title">Сверните для приёма вызова</string>
     <string name="forbidden_fakecell">Защита от поддельных базовых станций</string>
     <string name="forbidden_fakecell_summary">Предотвращать подключение устройства к поддельным базовым станциям</string>
-    <string name="forbidden_network">(доступ запрещен)</string>
+    <string name="forbidden_network">(доступ запрещён)</string>
     <string name="force_allow_on_external">Разрешить сохранение на внешние накопители</string>
     <string name="force_allow_on_external_summary">Разрешить сохранение приложений на внешних накопителях (независимо от значений в манифесте)</string>
     <string name="force_hw_ui">GPU-ускорение</string>
@@ -1535,7 +1535,7 @@
     <string name="maintenance_enable">Поддержка включена</string>
     <string name="make_and_receive_calls">Входящие и исходящие вызовы</string>
     <string name="manageConferenceLabel">Управление конференц-связью</string>
-    <string name="manage_fdn_list">Разрешенные номера</string>
+    <string name="manage_fdn_list">Разрешённые номера</string>
     <string name="managed_user_title">Корпоративные приложения</string>
     <string name="manual_mode_disallowed_summary">Недоступно при подключении к %1$s</string>
     <string name="material_clock_display_divider">:</string>
@@ -2024,7 +2024,7 @@
     <string name="path_dtmf_tones_title">Системные приложения/Телефон/Расширенные настройки/DTMF-сигналы</string>
     <string name="path_enable_antispam_strange_title">Системные приложения/Телефон/Входящие вызовы/Приглушать начало звонка</string>
     <string name="path_enable_proximity_title">Системные приложения/Телефон/Входящие вызовы/Датчик приближения</string>
-    <string name="path_fdn">Системные приложения/Телефон/Расширенные настройки/Разрешенные номера</string>
+    <string name="path_fdn">Системные приложения/Телефон/Расширенные настройки/Разрешённые номера</string>
     <string name="path_flash_when_ring_title">Системные приложения/Телефон/Входящие вызовы/Вспышка при вызове</string>
     <string name="path_handon_ringer_title">Системные приложения/Телефон/Входящие вызовы/Приглушать звонок при взятии в руки</string>
     <string name="path_missed_call_notify_times_title">Системные приложения/Телефон/Расширенные настройки/Напоминания о пропущенных вызовах</string>
@@ -2080,11 +2080,11 @@
 Осталось попыток: %d"</string>
     <string name="pin2_changed">PIN2 успешно изменён</string>
     <string name="pin2_error_exception">Ошибка сети или SIM-карты</string>
-    <string name="pin2_invalid">Разрешенный номер не обновлён. Введен неверный PIN2.</string>
+    <string name="pin2_invalid">Разрешённый номер не обновлён. Введен неверный PIN2.</string>
     <string name="pin2_invalid_or_name_is_too_long">Вы ввели неверный PIN2 или слишком длинное имя</string>
     <string name="pin2_lock_warning">"
 Функционал PIN2 будет заблокирован при неудачной попытке ввода."</string>
-    <string name="pin2_or_fdn_invalid">Разрешенный номер не обновлён. Введен неверный PIN2 или номер телефона.</string>
+    <string name="pin2_or_fdn_invalid">Разрешённый номер не обновлён. Введен неверный PIN2 или номер телефона.</string>
     <string name="pin2_unblocked">PIN2 разблокирован</string>
     <string name="pin_changed">PIN SIM-карты успешно изменён</string>
     <string name="pin_failed">Введен неверный PIN</string>
@@ -2720,7 +2720,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sum_cw_disabled">Уведомление о входящих вызовах во время разговора</string>
     <string name="sum_cw_enabled">Уведомление о входящих вызовах во время разговора</string>
     <string name="sum_default_caller_id">Использовать настройки оператора связи</string>
-    <string name="sum_fdn">Управление разрешенными номерами</string>
+    <string name="sum_fdn">Управление разрешёнными номерами</string>
     <string name="sum_fdn_change_pin">Изменение кода доступа к списку разрешённых номеров</string>
     <string name="sum_fdn_manage_list">Управление списком разрешённых номеров</string>
     <string name="sum_gsm_call_settings">Дополнительные настройки (только GSM)</string>
@@ -2746,11 +2746,11 @@ UT-интерфейс: %5$s"</string>
     <string name="supp_service_deflected_call">Вызов отклонен.</string>
     <string name="supp_service_forwarded_call">Переадресация вызова.</string>
     <string name="supp_service_held_call_released">Вызов снят с удержания.</string>
-    <string name="supp_service_incoming_calls_barred">Входящий вызов запрещен.</string>
+    <string name="supp_service_incoming_calls_barred">Входящий вызов запрещён.</string>
     <string name="supp_service_notification_call_deflected">Вызов отклонен.</string>
     <string name="supp_service_notification_call_forwarded">Переадресация вызова.</string>
     <string name="supp_service_notification_call_waiting">Ожидание вызова.</string>
-    <string name="supp_service_outgoing_calls_barred">Исходящий вызов запрещен.</string>
+    <string name="supp_service_outgoing_calls_barred">Исходящий вызов запрещён.</string>
     <string name="supp_service_over_ut_precautions">Чтобы использовать %s, убедитесь, что мобильный интернет включён. Вы можете изменить это в настройках мобильной сети.</string>
     <string name="supp_service_over_ut_precautions_dialog_dismiss">Отмена</string>
     <string name="supp_service_over_ut_precautions_dual_sim">Чтобы использовать %1$s, убедитесь, что мобильный интернет включён для SIM-карты %2$d. Вы можете изменить это в настройках мобильной сети.</string>
@@ -2952,7 +2952,7 @@ UT-интерфейс: %5$s"</string>
     <string name="unlock_chances_left">"Осталось попыток: "</string>
     <string name="unlock_failed">Запрос на разблокировку сети не выполнен</string>
     <string name="unlock_success">Сеть успешно разблокирована</string>
-    <string name="updating_fdn_contact">Обновление разрешенного номера…</string>
+    <string name="updating_fdn_contact">Обновление разрешённого номера…</string>
     <string name="updating_settings">Обновление настроек…</string>
     <string name="updating_title">Настройка вызовов</string>
     <string name="uplmn_list_setting_add_plmn">Новая ССОП</string>
@@ -3002,7 +3002,7 @@ UT-интерфейс: %5$s"</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="verify_apps_over_usb_summary">Выполнять проверку безопасности приложений при установке через ADB/ADT</string>
     <string name="verify_apps_over_usb_title">Проверять приложения при установке</string>
-    <string name="vibrating_for_outgoing_call_accepted_summary">Включить вибрацию для разрешенного исходящего вызова</string>
+    <string name="vibrating_for_outgoing_call_accepted_summary">Включить вибрацию для разрешённого исходящего вызова</string>
     <string name="vibrating_for_outgoing_call_accepted_title">Вибрация для исходящего вызова</string>
     <string name="vice_card_data_in_use_alert">Возможны дополнительные затраты</string>
     <string name="vice_slot_volte_data_dialog_message"><Data>Текущее сетевое соединение нестабильно. Вы можете использовать автопереключение между SIM-картами с мобильным интернетом. &lt;font color=#ff0000>&lt;b>Использование этой функции может привести к дополнительным тратам&lt;/b>&lt;/font>.</Data></string>

@@ -36,7 +36,7 @@
     </plurals>
     <plurals name="favor_delete_succeed">
         <item quantity="other">Удалено %d элементов</item>
-        <item quantity="one">Удален %d элемент</item>
+        <item quantity="one">Удалён %d элемент</item>
         <item quantity="few">Удалено %d элемента</item>
     </plurals>
     <plurals name="favor_select_num">

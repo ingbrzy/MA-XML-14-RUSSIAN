@@ -497,7 +497,7 @@ ID:%s
     <string name="other_devices_title">Другие устройства</string>
     <string name="page_load_failed">Не удалось открыть страницу</string>
     <string name="passport_Resend">Повторить</string>
-    <string name="passport_access_denied">Доступ запрещен</string>
+    <string name="passport_access_denied">Доступ запрещён</string>
     <string name="passport_account_hint_text">Email/Телефон/ID Xiaomi аккаунта</string>
     <string name="passport_account_identity_title">Подтвердите вашу личность</string>
     <string name="passport_account_label">Xiaomi аккаунт</string>

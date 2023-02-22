@@ -5726,7 +5726,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_dev_model_off">Режим разработчика отключён</string>
     <string name="title_dev_no">Режим разработчика включён</string>
     <string name="title_dev_yes">Режим разработчика отключён</string>
-    <string name="title_device_not_root">ROOT-доступ запрещен</string>
+    <string name="title_device_not_root">ROOT-доступ запрещён</string>
     <string name="title_do_not_disturb">Не слышите звонков?</string>
     <string name="title_eye_shield">Цвета на экране выглядят неправильно?</string>
     <string name="title_find_device">Поиск устройства</string>
@@ -5820,7 +5820,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="toast_reject_sms_read_permission_success">Настройка завершена</string>
     <string name="toast_removed_from_virus_white_list">Удалено из исключений. Объект будет проверен в следующий раз.</string>
     <string name="toast_root_apply_accept">Приложению \"%s\" предоставлен ROOT-доступ</string>
-    <string name="toast_root_apply_reject">Приложению \"%s\" запрещен ROOT-доступ</string>
+    <string name="toast_root_apply_reject">Приложению \"%s\" запрещён ROOT-доступ</string>
     <string name="toast_set_success">Настройка завершена</string>
     <string name="toast_show_notification">Виджет в шторке уведомлений включён</string>
     <string name="toast_update_fail">Ошибка обновления</string>

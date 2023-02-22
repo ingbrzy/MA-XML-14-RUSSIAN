@@ -31,7 +31,7 @@
     <string name="accept_all_permission_title">Предоставьте разрешения</string>
     <string name="accept_all_positive">Выбрать</string>
     <string name="accept_use_permissions">Предоставить</string>
-    <string name="access_denied">Доступ запрещен</string>
+    <string name="access_denied">Доступ запрещён</string>
     <string name="account_related">Устройство связано с существующим Xiaomi аккаунтом (%s). Подключитесь к сети для проверки устройства.</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="activate_find_device_success">Поиск устройства активирован</string>

@@ -488,7 +488,7 @@
     <string name="screenshot_gesture_detect_alert_msg">Вы провели вниз тремя пальцами. Использовать этот жест для скриншотов?</string>
     <string name="screenshot_gesture_detect_alert_title">Скриншот тремя пальцами</string>
     <string name="secretgarden">Тайный сад</string>
-    <string name="security_permission_denied_text">Доступ запрещен</string>
+    <string name="security_permission_denied_text">Доступ запрещён</string>
     <string name="security_permission_failed_text">Произошла ошибка, повторите попытку позже</string>
     <string name="security_permission_network_failed_text">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>
     <string name="security_permission_open_wifi_settings">Настройки Wi-Fi</string>

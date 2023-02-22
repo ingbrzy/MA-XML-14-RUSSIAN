@@ -619,7 +619,7 @@ ID:%s
     <string name="noon">Полдень</string>
     <string name="ok">ОК</string>
     <string name="open_settings">Настройки</string>
-    <string name="passport_access_denied">Доступ запрещен</string>
+    <string name="passport_access_denied">Доступ запрещён</string>
     <string name="passport_account_hint_text">Электронная почта, номер телефона или ID Xiaomi аккаунта</string>
     <string name="passport_account_identity_title">Подтвердить подлинность аккаунта</string>
     <string name="passport_account_label">Xiaomi аккаунт</string>

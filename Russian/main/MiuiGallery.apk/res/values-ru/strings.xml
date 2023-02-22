@@ -1481,7 +1481,7 @@ ID: %s
     <string name="macarons_select_video">Нельзя использовать видео для создания волшебной виньетки</string>
     <string name="magic_add_full">Можно добавить не более %1$d человек</string>
     <string name="magic_background">Фон</string>
-    <string name="magic_bitmap_damaged">Файл изображения поврежден</string>
+    <string name="magic_bitmap_damaged">Файл изображения повреждён</string>
     <string name="magic_brush">Кисть</string>
     <string name="magic_camera">Камера</string>
     <string name="magic_cancel">Отмена</string>
@@ -2003,7 +2003,7 @@ ID: %s
     <string name="other_settings">Дополнительные настройки</string>
     <string name="owner_album_subtitle">Пользователей: %1$s</string>
     <string name="pad_device_model_name">Планшет Xiaomi</string>
-    <string name="passport_access_denied">Доступ запрещен</string>
+    <string name="passport_access_denied">Доступ запрещён</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
     <string name="passport_area_code_title">Код страны</string>
     <string name="passport_bad_authentication">Неверное имя пользователя или пароль</string>
@@ -2325,7 +2325,7 @@ ID: %s
     <string name="photomovie_template_sport">Энергия</string>
     <string name="pic_to_pdf_a4_format">Формат A4</string>
     <string name="pic_to_pdf_all_not_support">Выбранные изображения не могут быть сохранены как PDF</string>
-    <string name="pic_to_pdf_exit_notice">PDF-файл не будет сохранен, если вы выйдете сейчас. Выйти?</string>
+    <string name="pic_to_pdf_exit_notice">PDF-файл не будет сохранён, если вы выйдете сейчас. Выйти?</string>
     <string name="pic_to_pdf_not_support_video">Видео не может быть сохранено как PDF</string>
     <string name="pic_to_pdf_preview_loading">Загрузка…</string>
     <string name="pic_to_pdf_save_in">Сохранить PDF в %s</string>

@@ -235,7 +235,7 @@
     <string name="oppo_phone">OPPO</string>
     <string name="pad_device_model_name">Xiaomi Pad</string>
     <string name="partial_screenshot_edit">Изменить </string>
-    <string name="partial_screenshot_failed_to_capture_title">Скриншот запрещен</string>
+    <string name="partial_screenshot_failed_to_capture_title">Скриншот запрещён</string>
     <string name="partial_screenshot_failed_to_save_title">Недостаточно места для нового скриншота</string>
     <string name="partial_screenshot_insert_failed">Не удалось сохранить скриншот</string>
     <string name="partial_screenshot_repaint">Повторить</string>
@@ -339,7 +339,7 @@
     <string name="screen_talkback_text">Текст</string>
     <string name="screenshot_edit">Изменить</string>
     <string name="screenshot_failed_in_landscape_mode">Скриншоты с прокруткой в альбомном режиме не поддерживаются</string>
-    <string name="screenshot_failed_to_capture_title">Скриншот запрещен</string>
+    <string name="screenshot_failed_to_capture_title">Скриншот запрещён</string>
     <string name="screenshot_failed_to_save_title">Недостаточно места для нового скриншота</string>
     <string name="screenshot_feedback_txt">Отчёт</string>
     <string name="screenshot_insert_failed">Не удалось загрузить скриншот. Сделайте новый или просмотрите изображение в Галерее.</string>

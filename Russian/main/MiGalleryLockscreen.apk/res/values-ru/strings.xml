@@ -406,7 +406,7 @@ ID:%s
     <string name="llks_pop_top_title_backup">Новые изображения</string>
     <string name="llks_setting_view_title">Дополнительный экран</string>
     <string name="llks_simple_mode">Облегченный режим</string>
-    <string name="llks_simple_mode_desc">Упрощенная компоновка и дополнительные ярлыки</string>
+    <string name="llks_simple_mode_desc">Упрощённая компоновка и дополнительные ярлыки</string>
     <string name="llks_standard_mode">По умолчанию</string>
     <string name="llks_standard_mode_desc">Обои, истории и ежедневные рекомендации</string>
     <string name="llks_subscribe">Подписаться</string>
@@ -623,7 +623,7 @@ mm"</string>
     <string name="open_unable">"Карусель обоев работает только со стандартным экраном блокировки MIUI."</string>
     <string name="opened">Включено</string>
     <string name="pager_load_hd">Посмотреть исходное изображение</string>
-    <string name="passport_access_denied">Доступ запрещен</string>
+    <string name="passport_access_denied">Доступ запрещён</string>
     <string name="passport_account_label">Xiaomi аккаунт</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
     <string name="passport_activate_token_expired">Код устарел. Повторите попытку.</string>

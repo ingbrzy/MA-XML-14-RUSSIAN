@@ -774,7 +774,7 @@
     <string name="plugin_download_network_timeout">Таймаут подключения</string>
     <string name="plugin_download_no_storage">Недостаточно места на устройстве</string>
     <string name="plugin_download_rejected">Достигнут лимит трафика</string>
-    <string name="plugin_download_unexpected_files">Загруженный файл поврежден</string>
+    <string name="plugin_download_unexpected_files">Загруженный файл повреждён</string>
     <string name="plugin_download_unknown_error">Неизвестная ошибка</string>
     <string name="plugin_install_failed">Не удалось обновить некоторые плагины</string>
     <string name="plugin_install_timeout">Таймаут установки плагина</string>

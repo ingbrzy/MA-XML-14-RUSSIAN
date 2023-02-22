@@ -736,8 +736,8 @@ mm"</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Ручной ввод</string>
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
     <string name="mtrl_timepicker_confirm">OK</string>
-    <string name="multi_sim_mms_ringtone_settings_dialog_message">Этот рингтон будет применен для обеих SIM-карт.</string>
-    <string name="multi_sim_ringtone_settings_dialog_message">Рингтон применен для обеих SIM-карт.</string>
+    <string name="multi_sim_mms_ringtone_settings_dialog_message">Этот рингтон будет применён для обеих SIM-карт.</string>
+    <string name="multi_sim_ringtone_settings_dialog_message">Рингтон применён для обеих SIM-карт.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Понятно</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">Больше не показывать</string>
     <string name="multi_sim_ringtone_settings_dialog_title">Проблемы совместимости</string>

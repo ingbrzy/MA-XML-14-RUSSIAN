@@ -84,7 +84,7 @@
      </plurals>
     <plurals name="contacts_trash_delete_dialog_respond">
         <item quantity="other">Удалено %d контактов</item>
-        <item quantity="one">Удален %d контакт</item>
+        <item quantity="one">Удалён %d контакт</item>
         <item quantity="few">Удалено %d контакта</item>
     </plurals>
     <plurals name="contacts_trash_restore_respond">

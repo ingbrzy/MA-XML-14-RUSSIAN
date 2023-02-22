@@ -650,7 +650,7 @@ ID: %s
     <string name="font_family">miui</string>
     <string name="for_diagnosis_usage_only">Использовать только для диагностики.</string>
     <string name="format_not_support">Тип файла не поддерживается</string>
-    <string name="format_unsupported_or_corrupted">Тип файла не поддерживается или файл поврежден</string>
+    <string name="format_unsupported_or_corrupted">Тип файла не поддерживается или файл повреждён</string>
     <string name="fragment_title_artist_album">Альбомы</string>
     <string name="free">Бесплатно</string>
     <string name="free_tag">Бесплатно</string>
@@ -1151,7 +1151,7 @@ ID: %s
     <string name="operation_done_close">Закрыть</string>
     <string name="other_song_in_album">Другие треки из этого альбома</string>
     <string name="party">Вечеринка</string>
-    <string name="passport_access_denied">Доступ запрещен</string>
+    <string name="passport_access_denied">Доступ запрещён</string>
     <string name="passport_account_label">Xiaomi аккаунт</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
     <string name="passport_activate_token_expired">Код устарел. Повторите попытку.</string>

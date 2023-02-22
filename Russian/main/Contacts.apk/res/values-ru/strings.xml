@@ -376,7 +376,7 @@
     <string name="call_isdn">Номер ISDN</string>
     <string name="call_left">Баланс</string>
     <string name="call_limit">Ограничение вызовов</string>
-    <string name="call_limit_content">Вызов \"%s\" недоступен. Можно звонить только на номера из списка разрешенных контактов.</string>
+    <string name="call_limit_content">Вызов \"%s\" недоступен. Можно звонить только на номера из списка разрешённых контактов.</string>
     <string name="call_log_empty_gecode">-</string>
     <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
     <string name="call_log_new_header">Новые</string>
@@ -564,7 +564,7 @@
     <string name="contactMultiPickerActivityTitle">Выберите контакты</string>
     <string name="contactPickerActivityTitle">Выберите контакт</string>
     <string name="contactSavedErrorToast">Не удалось сохранить изменения</string>
-    <string name="contactSavedToast">Контакт сохранен</string>
+    <string name="contactSavedToast">Контакт сохранён</string>
     <string name="contact_clear_search_history">Очистить историю</string>
     <string name="contact_delete_toast">Контакт удалён</string>
     <string name="contact_detail_action_item_calllog">Журнал вызовов</string>
@@ -1603,7 +1603,7 @@
     <string name="privacy_settings_yellowpage">Желтые страницы</string>
     <string name="private_num">Скрытый номер</string>
     <string name="profileSavedErrorToast">Не удалось сохранить изменения</string>
-    <string name="profileSavedToast">Профиль сохранен</string>
+    <string name="profileSavedToast">Профиль сохранён</string>
     <string name="profile_binded_numbers">%s</string>
     <string name="profile_delete_toast">Профиль удалён</string>
     <string name="profile_display_name">Визитная карточка</string>

@@ -3458,7 +3458,7 @@ ID:%s
     <string name="ok">ОК</string>
     <string name="open_settings">Настройки</string>
     <string name="otp_info_reverify">Карта проверена</string>
-    <string name="passport_access_denied">Доступ запрещен</string>
+    <string name="passport_access_denied">Доступ запрещён</string>
     <string name="passport_account_label">Xiaomi аккаунт</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
     <string name="passport_activate_token_expired">Код устарел. Повторите попытку.</string>

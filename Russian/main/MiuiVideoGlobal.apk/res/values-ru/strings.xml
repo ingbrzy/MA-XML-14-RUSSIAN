@@ -714,7 +714,7 @@ ID: %s
     <string name="galleryplus_save_fail">Не удалось сохранить</string>
     <string name="galleryplus_save_success">Успешно сохранено</string>
     <string name="galleryplus_screenshot_8k">Скриншот 8K</string>
-    <string name="galleryplus_screenshot_8k_save_toast">Скриншот 8K сохранен в %s</string>
+    <string name="galleryplus_screenshot_8k_save_toast">Скриншот 8K сохранён в %s</string>
     <string name="galleryplus_screenshot_8k_saving">Сохранение скриншота 8K…</string>
     <string name="galleryplus_screenshot_8k_share">Отправить</string>
     <string name="galleryplus_subtitle_edit_display">Показать субтитры</string>
@@ -1024,7 +1024,7 @@ ID: %s
     <string name="lv_ready_to_install">Mi Видео готово к установке</string>
     <string name="lv_screen_shot_failure">Не удалось сделать скриншот, повторите попытку.</string>
     <string name="lv_screen_shot_failure_tips">Обновите Mi Видео для сохранения скриншотов</string>
-    <string name="lv_screen_shot_success">Скриншот сохранен</string>
+    <string name="lv_screen_shot_success">Скриншот сохранён</string>
     <string name="lv_screenrecord_failure">Ошибка записи, повторите попытку.</string>
     <string name="lv_screenrecord_share_gif">Отправить GIF</string>
     <string name="lv_screenrecord_share_video">Отправить видео</string>
@@ -1033,12 +1033,12 @@ ID: %s
     <string name="lv_send_title">Отправить</string>
     <string name="lv_set_password">Задайте пароль для просмотра скрытых видео</string>
     <string name="lv_setting">Настройки</string>
-    <string name="lv_share_tips">Скриншот сохранен. Можно поделиться им.</string>
+    <string name="lv_share_tips">Скриншот сохранён. Можно поделиться им.</string>
     <string name="lv_skip_update">Не сейчас</string>
     <string name="lv_storage_external_sdcard">Внешний накопитель</string>
     <string name="lv_storage_internal_sdcard">Хранилище</string>
     <string name="lv_storage_root_dir">Вы уже находитесь в корневой папке</string>
-    <string name="lv_subtitle_add_subtitle_failed">Не удалось добавить субтитры. Убедитесь, что файл не поврежден.</string>
+    <string name="lv_subtitle_add_subtitle_failed">Не удалось добавить субтитры. Убедитесь, что файл не повреждён.</string>
     <string name="lv_subtitle_changed">Новые субтитры</string>
     <string name="lv_subtitle_current_dir">Текущая папка</string>
     <string name="lv_subtitle_folder_up">Предыдущая папка</string>
@@ -1425,7 +1425,7 @@ ID: %s
     <string name="ovp_video_plugin_installation_two">Подождите…</string>
     <string name="page_empty">Ничего нет</string>
     <string name="page_title_language">Языковые предпочтения</string>
-    <string name="passport_access_denied">Доступ запрещен</string>
+    <string name="passport_access_denied">Доступ запрещён</string>
     <string name="passport_account_label">Xiaomi аккаунт</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
     <string name="passport_activate_token_expired">Код устарел. Повторите попытку.</string>
@@ -1627,7 +1627,7 @@ ID: %s
     <string name="plus_player_subtitle">Субтитры</string>
     <string name="plus_player_subtitle_dir_back">Наверх</string>
     <string name="plus_player_subtitle_local">Локальные субтитры</string>
-    <string name="plus_player_subtitle_local_add_fail">Не удалось добавить субтитры. Убедитесь, что файл не поврежден.</string>
+    <string name="plus_player_subtitle_local_add_fail">Не удалось добавить субтитры. Убедитесь, что файл не повреждён.</string>
     <string name="plus_player_subtitle_local_add_success">Субтитры успешно добавлены</string>
     <string name="plus_player_subtitle_no_file">Нет субтитров.</string>
     <string name="plus_player_subtitle_online">Онлайн субтитры</string>
@@ -1787,7 +1787,7 @@ ID: %s
     <string name="screenrecord_cancel">Проблемы совместимости</string>
     <string name="screenrecord_nosupport_record">Запись экрана пока не поддерживается на этом устройстве.</string>
     <string name="screenshot_8k">8K скриншоты</string>
-    <string name="screenshot_8k_save_toast">8K скриншот сохранен в %s</string>
+    <string name="screenshot_8k_save_toast">8K скриншот сохранён в %s</string>
     <string name="screenshot_8k_saving">Сохранение 8K скриншота…</string>
     <string name="screenshot_8k_share">Отправить</string>
     <string name="search">Поиск</string>
@@ -1920,7 +1920,7 @@ ID: %s
     <string name="subscribe_login_for_video">Войдите в свой аккаунт Google, чтобы просмотреть все подписки</string>
     <string name="subscribed">ПОДПИСАНЫ</string>
     <string name="subscriptions">Подписки</string>
-    <string name="subtitle_add_subtitle_failed">Не удалось добавить субтитры. Убедитесь, что файл не поврежден.</string>
+    <string name="subtitle_add_subtitle_failed">Не удалось добавить субтитры. Убедитесь, что файл не повреждён.</string>
     <string name="subtitle_manual_add_sub">Субтитры успешно добавлены</string>
     <string name="subtitle_none">Нет субтитров</string>
     <string name="subtitle_offset_normal">Не смещать субтитры</string>

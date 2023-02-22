@@ -79,7 +79,7 @@
     <string name="camera_permissions_text">Для использования этой функции, разрешите Сканеру доступ к камере</string>
     <string name="camera_stealth_mode_message">Камера недоступна. Отключите режим инкогнито.</string>
     <string name="camera_stealth_mode_title">Режим инкогнито</string>
-    <string name="can_only_be_English_Chinese">Языком онлайн-перевода может быть только английский или упрощенный китайский.</string>
+    <string name="can_only_be_English_Chinese">Языком онлайн-перевода может быть только английский или упрощённый китайский.</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_pdf_save">Отмена</string>
     <string name="carsHome_title">Автомобиль</string>
@@ -208,7 +208,7 @@
     <string name="document_rename">Переименовать</string>
     <string name="document_rename_error">Ошибка переименования</string>
     <string name="document_rnext_step">Далее</string>
-    <string name="document_save_succeed_tip">Документ сохранен в %1$s</string>
+    <string name="document_save_succeed_tip">Документ сохранён в %1$s</string>
     <string name="document_save_text">Сохранить</string>
     <string name="document_spin">Поворот</string>
     <string name="document_take_a_single">Одна страница</string>
@@ -288,7 +288,7 @@
     <string name="food_module_tip">Поместите объект в рамку</string>
     <string name="food_module_title_food">Калории</string>
     <string name="form_demo_dialog_negative">Нажмите, чтобы отсканировать таблицу и экспортировать в файл Excel</string>
-    <string name="form_excel_save_sucess">Файл сохранен</string>
+    <string name="form_excel_save_sucess">Файл сохранён</string>
     <string name="form_preview_title">Предпросмотр таблицы Excel</string>
     <string name="form_recognition_crop_hint">Убедитесь, что углы таблицы находятся внутри выбранной области</string>
     <string name="format_error">Неверный пароль</string>
@@ -350,7 +350,7 @@
     <string name="label_flash_light">Вспышка</string>
     <string name="label_flash_light_off">Фонарик отключён</string>
     <string name="label_flash_light_on">Фонарик включён</string>
-    <string name="language_entry_chinese_cn">Китайский (упрощенный)</string>
+    <string name="language_entry_chinese_cn">Китайский (упрощённый)</string>
     <string name="language_entry_english">Английский</string>
     <string name="language_entry_french">Французский</string>
     <string name="language_entry_german">Немецкий</string>
@@ -532,7 +532,7 @@
     <string name="payment_text">Открыть с помощью %s</string>
     <string name="pdf_is_being_saved">Сохранение PDF…</string>
     <string name="pdf_name">Имя файла</string>
-    <string name="pdf_save_sucess">Файл сохранен</string>
+    <string name="pdf_save_sucess">Файл сохранён</string>
     <string name="permission_management">Разрешения</string>
     <string name="personalassistant_not_install">Эта функция пока не поддерживается!</string>
     <string name="phone">"Телефон: "</string>
@@ -541,10 +541,10 @@
     <string name="phone_storage">Хранилище</string>
     <string name="picture">Галерея</string>
     <string name="picture_all_audio">Все аудио</string>
-    <string name="picture_audio">Доступ к микрофону запрещен</string>
+    <string name="picture_audio">Доступ к микрофону запрещён</string>
     <string name="picture_audio_empty">Используйте микрофон для звукозаписи</string>
     <string name="picture_audio_error">Неработоспособно</string>
-    <string name="picture_camera">Доступ к камере запрещен</string>
+    <string name="picture_camera">Доступ к камере запрещён</string>
     <string name="picture_camera_roll">Фотоплёнка</string>
     <string name="picture_camera_roll_num">%1$s (%2$d)</string>
     <string name="picture_cancel">Отмена</string>
@@ -568,7 +568,7 @@
     <string name="picture_gif_tag">gif</string>
     <string name="picture_go_setting">Настройки</string>
     <string name="picture_is_being_saved">Изображение сохранено</string>
-    <string name="picture_jurisdiction">Доступ к карте памяти запрещен</string>
+    <string name="picture_jurisdiction">Доступ к карте памяти запрещён</string>
     <string name="picture_know">ОК</string>
     <string name="picture_long_chart">Длина</string>
     <string name="picture_message_audio_max_num">Выберите до %1$s аудио</string>
@@ -926,7 +926,7 @@
     <string name="wifi_ssid">"SSID: "</string>
     <string name="will_be_sent_tothe_background_review">" (Ваша заявка будет отправлена на рассмотрение в ближайшее время)"</string>
     <string name="word_is_being_saved">Сохранение документа Word…</string>
-    <string name="word_save_sucess">Документ сохранен</string>
+    <string name="word_save_sucess">Документ сохранён</string>
     <string name="word_to_be_recognized_is_aligned_with_cross">Укажите слово для распознавания</string>
     <string name="word_translation">Перевод</string>
     <string name="wx_not_installed_toast">Для работы функции необходим WeChat, установите сначала WeChat</string>

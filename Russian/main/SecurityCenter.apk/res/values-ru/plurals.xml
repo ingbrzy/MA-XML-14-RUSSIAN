@@ -1024,7 +1024,7 @@
     </plurals>
     <plurals name="section_security_defend_item_right_tips">
         <item quantity="other">Удалено %d вирусов</item>
-        <item quantity="one">Удален %d вирус</item>
+        <item quantity="one">Удалён %d вирус</item>
         <item quantity="few">Удалено %d вируса</item>
     </plurals>
     <plurals name="sim_lock_puk_dialog_message">
@@ -1116,7 +1116,7 @@
     </plurals>
     <plurals name="title_virus_clean">
         <item quantity="other">Удалено %d вирусов</item>
-        <item quantity="one">Удален %d вирус</item>
+        <item quantity="one">Удалён %d вирус</item>
         <item quantity="few">Удалено %d вируса</item>
     </plurals>
     <plurals name="traffic_setting_app_count">

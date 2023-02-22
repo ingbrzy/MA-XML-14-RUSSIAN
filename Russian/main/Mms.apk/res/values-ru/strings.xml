@@ -540,7 +540,7 @@
     <string name="message_received">Доставлено</string>
     <string name="message_rejected">Отклонено</string>
     <string name="message_report">Отчёт</string>
-    <string name="message_saved_as_draft">Черновик сообщения сохранен</string>
+    <string name="message_saved_as_draft">Черновик сообщения сохранён</string>
     <string name="message_send_failed">Не удалось отправить сообщение</string>
     <string name="message_send_failed_title">Сообщение не отправлено</string>
     <string name="message_send_read_report">Будет отправлен отчёт.</string>

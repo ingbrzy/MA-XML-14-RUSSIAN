@@ -462,7 +462,7 @@ ID:%s
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="font_family">miui</string>
     <string name="for_diagnosis_usage_only">Использовать только для диагностики.</string>
-    <string name="format_unsupported_or_corrupted">Этот формат не поддерживается или файл поврежден</string>
+    <string name="format_unsupported_or_corrupted">Этот формат не поддерживается или файл повреждён</string>
     <string name="fragment_title_artist_album">Альбомы</string>
     <string name="fragment_title_bill">Плейлисты</string>
     <string name="fragment_title_songgroup_individuation">Рекомендация плейлистов</string>
@@ -817,7 +817,7 @@ ID:%s
     <string name="other_filter">Другие</string>
     <string name="other_song_in_album">Другие песни из этого альбома</string>
     <string name="package_filter">Пакеты</string>
-    <string name="passport_access_denied">Доступ запрещен</string>
+    <string name="passport_access_denied">Доступ запрещён</string>
     <string name="passport_account_label">Xiaomi аккаунт</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
     <string name="passport_activate_token_expired">Код устарел. Повторите попытку.</string>

@@ -11,7 +11,7 @@
     <string name="ClirMmi">Идентификация звонящего абонента</string>
     <string name="CndMmi">Доставка номера вызывающего абонента</string>
     <string name="CnipMmi">Вызывающий номер присутствует</string>
-    <string name="CnirMmi">Вызывающий номер запрещен</string>
+    <string name="CnirMmi">Вызывающий номер запрещён</string>
     <string name="ColpMmi">Идентификатор подключённой линии</string>
     <string name="ColrMmi">Ограничение идентификатора подключённой линии</string>
     <string name="CwMmi">Параллельный вызов</string>

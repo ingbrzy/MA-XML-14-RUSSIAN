@@ -994,7 +994,7 @@ ID:%s
     <string name="express_send_history">история доставки &gt;</string>
     <string name="express_send_mms">Отправить</string>
     <string name="express_send_mms_format">Посылка доставлена %1$s | Номер отслеживания: %2$s</string>
-    <string name="express_send_notice">Запрещенные предметы</string>
+    <string name="express_send_notice">Запрещённые предметы</string>
     <string name="express_sender_info">Информация отправителя</string>
     <string name="express_sender_name">Имя отправителя</string>
     <string name="express_setting_add_new_number">Новый номер телефона</string>

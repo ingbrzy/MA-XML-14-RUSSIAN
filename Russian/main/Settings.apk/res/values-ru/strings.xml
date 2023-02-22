@@ -2619,7 +2619,7 @@
     <string name="credentials_wrong_password">Неправильный пароль.</string>
     <string name="crisp_text">Высокие частоты добавляют четкость деталям выполняемых действий</string>
     <string name="critical_feedback">Детализация</string>
-    <string name="cross_profile_calendar_restricted_summary">В вашей организации запрещен доступ к рабочему календарю для личных приложений.</string>
+    <string name="cross_profile_calendar_restricted_summary">В вашей организации запрещён доступ к рабочему календарю для личных приложений.</string>
     <string name="cross_profile_calendar_summary">Показывать рабочие мероприятия в личном календаре.</string>
     <string name="cross_profile_calendar_title">Синхронизация календарей</string>
     <string name="crypt_keeper_button_text">Зашифровать данные</string>
@@ -3795,7 +3795,7 @@ ID: %s
     <string name="failed_attempts_now_wiping_device">Слишком много неверных попыток. Данные на этом устройстве будут удалены.</string>
     <string name="failed_attempts_now_wiping_dialog_dismiss">Закрыть</string>
     <string name="failed_attempts_now_wiping_profile">Слишком много неверных попыток. Рабочий профиль и его данные будут удалены.</string>
-    <string name="failed_attempts_now_wiping_user">Слишком много неверных попыток. Пользователь будет удален.</string>
+    <string name="failed_attempts_now_wiping_user">Слишком много неверных попыток. Пользователь будет удалён.</string>
     <string name="failed_to_check_find_device_status_content">Не удалось проверить статус Поиска устройства. Подождите немного и повторите попытку.</string>
     <string name="failed_to_check_find_device_status_title">Не удалось проверить статус</string>
     <string name="failed_to_erase_text">Отключите пароль блокировки экрана перед вводом кода \"1217\".</string>
@@ -3837,7 +3837,7 @@ ID: %s
     <string name="filter_work_apps">Рабочие</string>
     <string name="filter_write_settings_apps">Могут изменять системные настройки</string>
     <string name="financed_privacy_IMEI">Получать доступ к IMEI-коду устройства</string>
-    <string name="financed_privacy_allowlisted_apps">Использовать приложения, разрешенные кредитной организацией</string>
+    <string name="financed_privacy_allowlisted_apps">Использовать приложения, разрешённые кредитной организацией</string>
     <string name="financed_privacy_config_date_time">Изменять время, дату и часовой пояс на устройстве</string>
     <string name="financed_privacy_credit_provider_capabilities_category">Ваша кредитная организация может:</string>
     <string name="financed_privacy_data">Данные из вашего аккаунта, например письма и мероприятия календаря</string>
@@ -3894,7 +3894,7 @@ ID: %s
     <string name="fingerprint_first_open_screen_password_tittle">Биометрия (настройте защиту устройства)</string>
     <string name="fingerprint_for_keyguard_disabled">Использование отпечатков отключено из соображений безопасности.</string>
     <string name="fingerprint_gesture_screen_title">Сканер отпечатков</string>
-    <string name="fingerprint_gxzw_add_fingerprint_finish">Сохранен как \"%s\"</string>
+    <string name="fingerprint_gxzw_add_fingerprint_finish">Сохранён как \"%s\"</string>
     <string name="fingerprint_identify_input_password_msg">Введите пароль</string>
     <string name="fingerprint_identify_msg">Чтение отпечатка…</string>
     <string name="fingerprint_identify_try_again_msg">Отпечаток не распознан, повторите попытку</string>
@@ -4048,7 +4048,7 @@ ID: %s
     <string name="font_size_summary2">Простой режим.</string>
     <string name="footer_learn_more_content_description">Подробнее о сервисе \"%1$s\"</string>
     <string name="for_diagnosis_usage_only">Использовать только для диагностики.</string>
-    <string name="forbidden_network">(доступ запрещен)</string>
+    <string name="forbidden_network">(доступ запрещён)</string>
     <string name="forbidden_set_unlock_password_msg">Пароль не может быть установлен или изменён при активном режиме обслуживания</string>
     <string name="forbidden_switch_apn_string">Выбранные настройки точки доступа не соответствуют текущему типу сети</string>
     <string name="force_allow_on_external">Внешний накопитель</string>
@@ -5772,7 +5772,7 @@ ID: %s
     <string name="mechanical_ime_hint">Поддерживается только клавиатура Xiaomi</string>
     <string name="media_button">Кнопка мультимедиа</string>
     <string name="media_category">Мультимедиа</string>
-    <string name="media_controls_apps_title">Разрешенные приложения</string>
+    <string name="media_controls_apps_title">Разрешённые приложения</string>
     <string name="media_controls_hide_player">Скрывать проигрыватель</string>
     <string name="media_controls_no_players">Нет доступных медиапроигрывателей</string>
     <string name="media_controls_recommendations_description">С учетом ваших действий</string>
@@ -6875,7 +6875,7 @@ ID: %s
 
 Приложение сможет включать и отключать режим \"Не беспокоить\", менять его настройки."</string>
     <string name="notification_listener_security_warning_title">Открыть приложению %1$s доступ к уведомлениям?</string>
-    <string name="notification_listener_type_title">Разрешенные типы уведомлений</string>
+    <string name="notification_listener_type_title">Разрешённые типы уведомлений</string>
     <string name="notification_log_channel">канал</string>
     <string name="notification_log_details_actions">действия</string>
     <string name="notification_log_details_alerted">уведомление отправлено</string>
@@ -8352,7 +8352,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_dndm_auto_time_setting">Настройки времени;DND</string>
     <string name="search_dndm_open">Не беспокоить; DND; Включить DND</string>
     <string name="search_dndm_repeated_call_setting_title">Повтор вызовов;Повторные вызовы</string>
-    <string name="search_dndm_vip_call_setting_title">VIP;Исключения;Белый список;разрешенные номера</string>
+    <string name="search_dndm_vip_call_setting_title">VIP;Исключения;Белый список;разрешённые номера</string>
     <string name="search_dndm_wristband">Активировать с помощью Mi Band;Mi Band</string>
     <string name="search_do_not_disturb_mode">Не беспокоить</string>
     <string name="search_doze_always_on_title">Всегда включено</string>
@@ -8566,7 +8566,7 @@ UT-интерфейс: %5$s"</string>
     <string name="security_settings_face_enroll_consent_introduction_title">Разрешите разблокировку по лицу</string>
     <string name="security_settings_face_enroll_dialog_ok">ОК</string>
     <string name="security_settings_face_enroll_done">Готово</string>
-    <string name="security_settings_face_enroll_education_accessibility_dialog_message">Если упрощенная настройка разблокировки по лицу отключена, некоторые действия при работе с TalkBack могут выполняться некорректно.</string>
+    <string name="security_settings_face_enroll_education_accessibility_dialog_message">Если упрощённая настройка разблокировки по лицу отключена, некоторые действия при работе с TalkBack могут выполняться некорректно.</string>
     <string name="security_settings_face_enroll_education_accessibility_dialog_negative">Назад</string>
     <string name="security_settings_face_enroll_education_accessibility_dialog_positive">Продолжить настройку</string>
     <string name="security_settings_face_enroll_education_message" />
@@ -9985,7 +9985,7 @@ UT-интерфейс: %5$s"</string>
     <string name="tether_auto_disable_title">Автоотключение точки доступа</string>
     <string name="tether_custom_dialog_title">Лимит трафика</string>
     <string name="tether_data_usage_limit">Однократный лимит трафика</string>
-    <string name="tether_data_usage_limit_summary">Лимит трафика будет применен при следующем включении точки доступа</string>
+    <string name="tether_data_usage_limit_summary">Лимит трафика будет применён при следующем включении точки доступа</string>
     <string name="tether_devices_management_title">Управление устройствами</string>
     <string name="tether_devices_max_number">Лимит устройств</string>
     <string name="tether_limit_dialog_title">Лимит трафика</string>

@@ -215,8 +215,8 @@
     <string name="picker_play_video">Воспроизвести видео</string>
     <string name="picker_preview">Предварительный просмотр</string>
     <string name="picker_privacy_message">У этого приложения есть доступ только к тем фото, которые вы выбрали.</string>
-    <string name="picker_profile_admin_msg_from_personal">Доступ к рабочим данным из личного приложения запрещен.</string>
-    <string name="picker_profile_admin_msg_from_work">Доступ к персональным данным из рабочего приложения запрещен.</string>
+    <string name="picker_profile_admin_msg_from_personal">Доступ к рабочим данным из личного приложения запрещён.</string>
+    <string name="picker_profile_admin_msg_from_work">Доступ к персональным данным из рабочего приложения запрещён.</string>
     <string name="picker_profile_admin_title">Заблокировано администратором</string>
     <string name="picker_profile_work_paused_msg">Чтобы открыть рабочие фотографии, включите рабочие приложения и повторите попытку.</string>
     <string name="picker_profile_work_paused_title">Рабочие приложения приостановлены</string>

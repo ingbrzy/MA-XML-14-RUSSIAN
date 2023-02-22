@@ -54,7 +54,7 @@
     <string name="button_touch">Поместите палец на сенсор</string>
     <string name="can_not_delete_when_calling">Удаление пространства во время вызова запрещено</string>
     <string name="can_not_switch_when_calling">Переключение пространства во время вызова недоступно</string>
-    <string name="can_not_switch_when_green_kid_active">Переход во второе пространство запрещен родительским контролем</string>
+    <string name="can_not_switch_when_green_kid_active">Переход во второе пространство запрещён родительским контролем</string>
     <string name="can_not_switch_when_green_kid_active_new">Переход во второе пространство недоступен, когда включён Семейный защитник</string>
     <string name="can_not_switch_when_super_power_active">Переключение пространства при максимальной экономии заряда недоступно</string>
     <string name="cancelClosePassword">Не отключать</string>
@@ -153,7 +153,7 @@
     <string name="ent_agree_privacy_policy">Я принимаю Политику конфиденциальности</string>
     <string name="ent_app_verified">На вашем устройстве обнаружены корпоративные приложения. Активировать режим предприятия?</string>
     <string name="ent_confirm_dialog_content">После активации режима предприятия вы не сможете вернуться к текущему состоянию вашей системы. Однако все ваши данные будут по-прежнему храниться на устройстве. Вам придется перезагрузить устройство для активации режима предприятия. Активировать его?</string>
-    <string name="ent_disallow_running">Запуск приложения запрещен</string>
+    <string name="ent_disallow_running">Запуск приложения запрещён</string>
     <string name="ent_download_install_dialog_content">Для активации режима предприятия необходимо установить корпоративные приложения. Установить сейчас?</string>
     <string name="ent_download_install_dialog_title">Загрузите корпоративные приложения</string>
     <string name="ent_downloading_message">Загрузка: %d%%</string>
@@ -283,7 +283,7 @@
     <string name="master_clear_apply_step_1">Для отмены авторизации требуется выполнить сброс устройства к заводским настройкам. При этом будут навсегда удалены все файлы и данные, включая аккаунты, контакты, фото и приложения. До отмены авторизации создайте резервную копию всех важных данных на ПК.</string>
     <string name="master_clear_apply_step_2">Убедитесь, что все важные объекты сохранены на ПК. После нажатия \"OK\" будет выполнен сброс устройства к заводским настройкам с удалением всех файлов и данных, включая аккаунты, контакты, фото и приложения.</string>
     <string name="master_clear_apply_title">Внимание</string>
-    <string name="master_clear_not_available">Сброс к заводским настройкам запрещен вашей компанией.</string>
+    <string name="master_clear_not_available">Сброс к заводским настройкам запрещён вашей компанией.</string>
     <string name="master_clear_not_available_ep">Вы не можете выполнить сброс к заводским настройкам или отменить авторизацию. Свяжитесь с руководителем.</string>
     <string name="menu_item_about_privacy_title">Политика конфиденциальности</string>
     <string name="messageData">Сообщения</string>

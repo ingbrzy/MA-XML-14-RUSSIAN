@@ -661,7 +661,7 @@
     <string name="custom_tint_color_select">Цветовая тема</string>
     <string name="custom_tint_color_sky_blue">Синий</string>
     <string name="custom_tint_color_sky_cyan">Голубой</string>
-    <string name="custom_watermark_contains_senstive_words">"Водяные знаки не могут использовать запрещенные термины (%1$s)"</string>
+    <string name="custom_watermark_contains_senstive_words">"Водяные знаки не могут использовать запрещённые термины (%1$s)"</string>
     <string name="custom_watermark_tips">Текст будет отображаться как вторая строка водяного знака. Он может содержать до 18 букв или 14 китайских символов.</string>
     <string name="custom_watermark_tips_gen2">До %1$d китайских символов или %2$d букв.</string>
     <string name="custom_watermark_too_many_words">Введенный текст слишком длинный</string>

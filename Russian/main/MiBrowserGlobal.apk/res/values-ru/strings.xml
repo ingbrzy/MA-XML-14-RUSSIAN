@@ -1164,7 +1164,7 @@ ID:%s
     <string name="home_list_item_click">Нажмите на элемент главного списка</string>
     <string name="home_nf">Лента</string>
     <string name="home_nf_recommend_on">Рекомендуемые</string>
-    <string name="home_page_simple">Упрощенный вид</string>
+    <string name="home_page_simple">Упрощённый вид</string>
     <string name="homepage_default">По умолчанию</string>
     <string name="homepage_delete_card_menu">Удалить</string>
     <string name="homepage_get_location">Получить местоположение</string>
@@ -1625,7 +1625,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="mw_miuichromium_error_page_network_hijack">Текущая сеть небезопасна</string>
     <string name="mw_miuichromium_error_page_network_off">Включите Wi-Fi или мобильный интернет</string>
     <string name="mw_miuichromium_error_page_no_network">Не удается подключиться к сети</string>
-    <string name="mw_miuichromium_error_page_problem_access_denied">Доступ к %s0 запрещен.</string>
+    <string name="mw_miuichromium_error_page_problem_access_denied">Доступ к %s0 запрещён.</string>
     <string name="mw_miuichromium_error_page_problem_cache_miss">Кэшированная версия этой страницы не может быть загружена.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page">Страница не может быть открыта.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_blocked_by_response">Страница не может быть открыта. Доступ заблокирован %s0.</string>
@@ -1866,7 +1866,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="page_info_address">Адрес:</string>
     <string name="page_info_view">Посмотреть</string>
     <string name="partner_privacy">Политики конфиденциальности третьих сторон</string>
-    <string name="passport_access_denied">Доступ запрещен</string>
+    <string name="passport_access_denied">Доступ запрещён</string>
     <string name="passport_account_label">Xiaomi аккаунт</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
     <string name="passport_activate_token_expired">Код устарел. Повторите попытку.</string>
@@ -2082,7 +2082,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="pref_content_night_read_mode">Ночной режим</string>
     <string name="pref_content_search_engine">Поисковая система</string>
     <string name="pref_content_search_engine_summary">Выберите поисковую систему</string>
-    <string name="pref_content_simple_homepage">Упрощенная стартовая страница</string>
+    <string name="pref_content_simple_homepage">Упрощённая стартовая страница</string>
     <string name="pref_debug_mode">Режим отладки</string>
     <string name="pref_default_browser_str">Браузер по умолчанию</string>
     <string name="pref_desc_dns_prefetch">Разрешить браузеру предварительно загружать объекты (например файлы или ссылки) до фактического обращения к ним.</string>
@@ -2443,7 +2443,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="save_image_failed">Ошибка сохранения изображения</string>
     <string name="save_image_success">Изображение сохранено</string>
     <string name="save_page_capture_tip">Откройте шторку уведомлений для просмотра скриншота</string>
-    <string name="save_page_capture_to_camera">Скриншот сохранен</string>
+    <string name="save_page_capture_to_camera">Скриншот сохранён</string>
     <string name="save_to_bookmark">Добавить в закладки</string>
     <string name="save_to_camera">Сохранить в Галерее</string>
     <string name="save_to_camera_failed">Не удается сохранить изображение</string>
@@ -3188,7 +3188,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_empty_item_desc">Вы ещё не добавляли пользовательские настройки.</string>
     <string name="web_permission_intercept_guide_page_ad_desc">Слишком много рекламы? Заблокируйте ее, чтобы очистить веб-страницы от всего лишнего.</string>
     <string name="web_permission_intercept_guide_page_download_desc">Запретить автоматические загрузки.</string>
-    <string name="web_permission_intercept_guide_page_permission_desc">Узнайте, какие действия веб-сайты выполняют втайне от вас, и контролируйте разрешенные действия.</string>
+    <string name="web_permission_intercept_guide_page_permission_desc">Узнайте, какие действия веб-сайты выполняют втайне от вас, и контролируйте разрешённые действия.</string>
     <string name="web_permission_intercept_guide_page_title">Защитите свою конфиденциальность</string>
     <string name="web_permission_intercept_manage_page_title">Защита</string>
     <string name="web_permission_item_permission_title">Разрешения по умолчанию</string>

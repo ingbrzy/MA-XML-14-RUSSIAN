@@ -65,7 +65,7 @@
     <string name="find_device_capture_notification_content">Запрос из вашего аккаунта на удаленную съёмку с помощью этого устройства</string>
     <string name="find_device_capture_notification_title">Съёмка через Поиск устройства</string>
     <string name="find_device_crash">Поиск устройства неожиданно закрыт</string>
-    <string name="find_device_error_access_denied">Доступ запрещен.</string>
+    <string name="find_device_error_access_denied">Доступ запрещён.</string>
     <string name="find_device_error_account_sys_timeout">"Не удалось подключиться к Xiaomi аккаунту. "</string>
     <string name="find_device_error_account_unknown_error">Ошибка Xiaomi аккаунта (%s).</string>
     <string name="find_device_error_network">Ошибка сети.</string>
@@ -285,7 +285,7 @@
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
     <string name="unlock">Активировать</string>
-    <string name="unlock_access_denied">Доступ запрещен</string>
+    <string name="unlock_access_denied">Доступ запрещён</string>
     <string name="unlock_bad_authentication">Неверное имя пользователя или пароль</string>
     <string name="unlock_error_abort">Отменено пользователем</string>
     <string name="unlock_error_device_id">Не удалось получить ID устройства</string>

@@ -561,7 +561,7 @@
     </plurals>
     <plurals name="show_number_hearingaid_count">
         <item quantity="other"> Сохранено %1$d слуховых аппаратов</item>
-        <item quantity="one">Сохранен %1$d слуховой аппарат</item>
+        <item quantity="one">Сохранён %1$d слуховой аппарат</item>
         <item quantity="few"> Сохранено %1$d слуховых аппарата</item>
     </plurals>
     <plurals name="show_pho_countdown">

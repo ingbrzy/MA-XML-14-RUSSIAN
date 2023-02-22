@@ -907,7 +907,7 @@
     <string name="transfer_quit_alert_message">"Mi Mover сейчас работает. Всё равно выйти?
 
 "</string>
-    <string name="transfer_quit_alert_message_extra">Ход выполнения будет сохранен. Вы сможете возобновить передачу с того места, на котором остановились, при следующем подключении двух устройств.</string>
+    <string name="transfer_quit_alert_message_extra">Ход выполнения будет сохранён. Вы сможете возобновить передачу с того места, на котором остановились, при следующем подключении двух устройств.</string>
     <string name="transfer_quit_alert_title">Внимание</string>
     <string name="transfer_snap_error">Не удалось перенести</string>
     <string name="transfer_snap_new_receiving">Получение…</string>

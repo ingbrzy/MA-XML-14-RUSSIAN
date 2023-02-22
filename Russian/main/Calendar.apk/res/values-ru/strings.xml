@@ -126,7 +126,7 @@
     <string name="birthday_notification_title_days_later">%2$s у %1$s</string>
     <string name="birthday_notification_title_today">%3$s у %1$s</string>
     <string name="birthday_notification_type_term_lunar" />
-    <string name="birthday_saved">День рождения сохранен</string>
+    <string name="birthday_saved">День рождения сохранён</string>
     <string name="birthday_term">День рождения</string>
     <string name="birthday_term_chinese_calendar">"День рождения %1$s (традиционный китайский календарь)"</string>
     <string name="book_card_free">Бесплатно</string>
@@ -1128,7 +1128,7 @@
     <string name="setting_title_weather_card_desc">Отображать информацию о погоде справа от лунного календаря</string>
     <string name="setting_title_weather_card_display">Показывать информацию о погоде</string>
     <string name="setting_title_yiji_display">Показывать альманах</string>
-    <string name="setting_toast_dump_mylog_done">Журнал сохранен в /MIUI/debug_log/com.android.calendar/dump</string>
+    <string name="setting_toast_dump_mylog_done">Журнал сохранён в /MIUI/debug_log/com.android.calendar/dump</string>
     <string name="setting_user_experience">Отправлять отчёты</string>
     <string name="settings_global_search">Поиск</string>
     <string name="settings_show_long_holiday">Длинные праздники</string>
@@ -1372,7 +1372,7 @@
     <string name="train_detail_title">Маршрут движения</string>
     <string name="train_event_add_arrive_station">Добавить пункт назначения</string>
     <string name="train_event_arrive">Прибытие в %1$s</string>
-    <string name="train_event_arrive_station_saved">Пункт назначения сохранен</string>
+    <string name="train_event_arrive_station_saved">Пункт назначения сохранён</string>
     <string name="train_event_choose_arrive_station">Выберите пункт назначения</string>
     <string name="train_event_delete_successfully">Маршрут движения удалён</string>
     <string name="train_event_depart">Отправление в %1$s</string>

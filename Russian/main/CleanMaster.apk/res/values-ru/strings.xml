@@ -322,7 +322,7 @@
     <string name="dialog_msg_check_all">"Приложение: %1$s 
 Файлов: %2$d"</string>
     <string name="dialog_msg_esc_cleanmaster">Остановить проверку и выйти?</string>
-    <string name="dialog_msg_load_cleanup_engine_error">Модуль очистки был поврежден.</string>
+    <string name="dialog_msg_load_cleanup_engine_error">Модуль очистки был повреждён.</string>
     <string name="dialog_msg_stop_scan">Остановить проверку?</string>
     <string name="dialog_msg_uninstall_apps">Удалить эти приложения?</string>
     <string name="dialog_msg_uninstall_apps_xspace">Удалить эти приложения, включая их клоны?</string>
@@ -1182,7 +1182,7 @@
     <string name="wechat_clean_finish_summary">Выбранные файлы удалены</string>
     <string name="wechat_clean_stop_confirm">Остановить проверку?</string>
     <string name="wechat_clean_stop_confirm_msg">Остановить проверку?</string>
-    <string name="wechat_content_bad_pic_file">Файл поврежден</string>
+    <string name="wechat_content_bad_pic_file">Файл повреждён</string>
     <string name="wechat_content_empty">Нет файлов для экспорта</string>
     <string name="wechat_copy_to_gallery">Экспорт в Галерею</string>
     <string name="wechat_copy_video_failed_dialog_title">Ошибка экспорта</string>

@@ -121,8 +121,8 @@
     <string name="controls_no_device_subtitle">Сначала добавьте устройство в %s.</string>
     <string name="controls_no_device_title">Не удалось найти устройство</string>
     <string name="controls_no_favorites_title">Выберите приложение для управления умным домом</string>
-    <string name="controls_not_found_device_toast">Элемент уже удален в приложении</string>
-    <string name="controls_not_found_device_toast_mihome">Элемент уже удален в приложении</string>
+    <string name="controls_not_found_device_toast">Элемент уже удалён в приложении</string>
+    <string name="controls_not_found_device_toast_mihome">Элемент уже удалён в приложении</string>
     <string name="controls_offline_device_toast">Устройство не в сети. Нажмите и удерживайте, чтобы открыть приложение.</string>
     <string name="controls_pin_instructions">Введите PIN-код</string>
     <string name="controls_pin_instructions_retry">Попробуйте другой PIN-код</string>

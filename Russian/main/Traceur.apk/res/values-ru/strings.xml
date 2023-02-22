@@ -395,7 +395,7 @@
     <string name="failed_attempts_now_wiping_device">Слишком много неверных попыток. Данные на этом устройстве будут удалены.</string>
     <string name="failed_attempts_now_wiping_dialog_dismiss">Закрыть</string>
     <string name="failed_attempts_now_wiping_profile">Слишком много неверных попыток. Рабочий профиль и его данные будут удалены.</string>
-    <string name="failed_attempts_now_wiping_user">Слишком много неверных попыток. Пользователь будет удален.</string>
+    <string name="failed_attempts_now_wiping_user">Слишком много неверных попыток. Пользователь будет удалён.</string>
     <string name="failed_to_open_app_settings_toast">Не удалось открыть настройки для %1$s</string>
     <string name="five_gb">5 ГБ</string>
     <string name="force_allow_on_external">Сохранение на внешних накопителях</string>

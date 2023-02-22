@@ -759,7 +759,7 @@
     <string name="camera_recording_announcement">Камера: идёт запись</string>
     <string name="camera_stopped_recording_announcement">Камера: запись остановлена</string>
     <string name="cancel">Отмена</string>
-    <string name="car_lockscreen_disclaimer_text">Будьте в курсе дорожной обстановки и соблюдайте действующие правила. Указания могут быть неточными, неполными, опасными, неподходящими, запрещенными или связанными с пересечением административных зон. Бизнес-информация также может быть неточной или неполной. Данные не поставляются в режиме реального времени, и точность местоположения не может быть гарантирована. Не используйте во время вождения мобильное устройство, а также приложения, несовместимые с Android Auto.</string>
+    <string name="car_lockscreen_disclaimer_text">Будьте в курсе дорожной обстановки и соблюдайте действующие правила. Указания могут быть неточными, неполными, опасными, неподходящими, запрещёнными или связанными с пересечением административных зон. Бизнес-информация также может быть неточной или неполной. Данные не поставляются в режиме реального времени, и точность местоположения не может быть гарантирована. Не используйте во время вождения мобильное устройство, а также приложения, несовместимые с Android Auto.</string>
     <string name="car_lockscreen_disclaimer_title">Водите аккуратно</string>
     <string name="carrier_network_change_mode">Смена сети</string>
     <string name="category_personal">Личный профиль</string>
@@ -1120,7 +1120,7 @@
     <string name="ext_media_safe_unmount_notification_message">Теперь можно извлечь SD карту.</string>
     <string name="ext_media_safe_unmount_notification_title">SD-карта отключена</string>
     <string name="ext_media_unmountable_notification_message">SD-карта повреждена. Требуется форматирование.</string>
-    <string name="ext_media_unmountable_notification_title">Накопитель поврежден</string>
+    <string name="ext_media_unmountable_notification_title">Накопитель повреждён</string>
     <string name="external_source_trusted">Разрешено</string>
     <string name="external_source_untrusted">Запрещено</string>
     <string name="face_data_apply_for_category_title">Разблокировка по лицу</string>
@@ -1205,7 +1205,7 @@
     <string name="failed_attempts_now_wiping_device">Слишком много неверных попыток. Данные на этом устройстве будут удалены.</string>
     <string name="failed_attempts_now_wiping_dialog_dismiss">Закрыть</string>
     <string name="failed_attempts_now_wiping_profile">Слишком много неверных попыток. Рабочий профиль и его данные будут удалены.</string>
-    <string name="failed_attempts_now_wiping_user">Слишком много неверных попыток. Пользователь будет удален.</string>
+    <string name="failed_attempts_now_wiping_user">Слишком много неверных попыток. Пользователь будет удалён.</string>
     <string name="failed_to_open_app_settings_toast">Не удалось открыть настройки %1$s</string>
     <string name="feedback_alerted">Уровень важности этого уведомления был автоматически &lt;b>повышен до \"По умолчанию\"&lt;/b>.</string>
     <string name="feedback_demoted">Уровень важности этого уведомления на панели был автоматически &lt;b>понижен&lt;/b>.</string>
@@ -1434,7 +1434,7 @@
     <string name="input_lockscreen_pin_hint_text">Введите PIN-код</string>
     <string name="input_password_after_boot_msg">После перезагрузки требуется ввод пароля</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Переключение пространства во время вызова недоступно</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Переход во второе пространство запрещен родительским контролем</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Переход во второе пространство запрещён родительским контролем</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Переключение пространства при ультраэкономии заряда недоступно</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">После перезагрузки необходимо войти в первое пространство</string>
     <string name="input_password_hint_text">Введите пароль</string>
@@ -2827,10 +2827,10 @@ mm"</string>
     <string name="screenshot_failed_in_landscape_mode">Скриншот с прокруткой в альбомном режиме не поддерживается</string>
     <string name="screenshot_failed_title">Не удалось сделать скриншот</string>
     <string name="screenshot_failed_to_capture_text">Скриншоты запрещены в приложении или вашей организацией</string>
-    <string name="screenshot_failed_to_capture_title">Скриншот запрещен</string>
+    <string name="screenshot_failed_to_capture_title">Скриншот запрещён</string>
     <string name="screenshot_failed_to_save_text">Недостаточно места для сохранения скриншота.</string>
     <string name="screenshot_failed_to_save_title">Недостаточно места для нового скриншота</string>
-    <string name="screenshot_failed_to_save_unknown_text">Ошибка при сохранении скриншота. Возможно, скриншот запрещен в приложении.</string>
+    <string name="screenshot_failed_to_save_unknown_text">Ошибка при сохранении скриншота. Возможно, скриншот запрещён в приложении.</string>
     <string name="screenshot_failed_to_save_user_locked_text">Разблокируйте устройство для сохранения скриншота</string>
     <string name="screenshot_feedback_txt">Отчёт</string>
     <string name="screenshot_insert_failed">Не удалось загрузить скриншот. Сделайте новый или выберите в Галерее.</string>
@@ -2839,7 +2839,7 @@ mm"</string>
     <string name="screenshot_preview_description">Предпросмотр скриншота</string>
     <string name="screenshot_right_boundary_pct">Правая граница %1$d%%</string>
     <string name="screenshot_saved_text">Нажмите для просмотра скриншота.</string>
-    <string name="screenshot_saved_title">Скриншот сохранен.</string>
+    <string name="screenshot_saved_title">Скриншот сохранён.</string>
     <string name="screenshot_saving_text">Сохранение скриншота…</string>
     <string name="screenshot_saving_ticker">Сохранение скриншота…</string>
     <string name="screenshot_saving_title">Сохранение скриншота…</string>

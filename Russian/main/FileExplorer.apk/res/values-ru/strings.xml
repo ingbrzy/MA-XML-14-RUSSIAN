@@ -204,7 +204,7 @@
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="decompress_cancel">Отмена</string>
     <string name="decompress_confirm">Извлечь</string>
-    <string name="decompress_corrupt">Не удалось извлечь файлы. Архив поврежден.</string>
+    <string name="decompress_corrupt">Не удалось извлечь файлы. Архив повреждён.</string>
     <string name="decompress_destination_error">Не удается извлечь файлы в указанную папку.</string>
     <string name="decompress_encrypted_rar_not_supported">Зашифрованные файлы RAR не поддерживаются</string>
     <string name="decompress_fail">Ошибка извлечения.</string>
@@ -361,7 +361,7 @@
     <string name="function_file_operation">Для отображения и редактирования файлов</string>
     <string name="function_set_private">Для просмотра и шифрования файлов</string>
     <string name="function_use_imei">Для доступа к IMEI и шифрования файлов</string>
-    <string name="gbk_summary">Упрощенная китайская кодировка Windows по умолчанию</string>
+    <string name="gbk_summary">Упрощённая китайская кодировка Windows по умолчанию</string>
     <string name="gbk_title">GBK</string>
     <string name="gigabyteShort">" ГБ"</string>
     <string name="go_ahead">Открыть</string>
