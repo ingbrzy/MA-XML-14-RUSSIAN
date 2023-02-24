@@ -43,6 +43,7 @@
     <string name="afternoon">После полудня</string>
     <string name="agree">Принимаю</string>
     <string name="alarm_alert_alert_silenced">Будильник звонил %1$s</string>
+    <string name="alarm_alert_close_entrance">Отключить</string>
     <string name="alarm_alert_disabled">Откл.</string>
     <string name="alarm_alert_now">Будильник %s</string>
     <string name="alarm_alert_snooze_button">Отложить</string>
@@ -57,6 +58,7 @@
     <string name="alarm_list_title">Будильник</string>
     <string name="alarm_notify_snooze_label">%s (отложено)</string>
     <string name="alarm_notify_text">Отложите или отключите будильник.</string>
+    <string name="alarm_permanent_alert">Сигнал</string>
     <string name="alarm_repeat">Повтор</string>
     <string name="alarm_ringtone">Мелодии будильников</string>
     <string name="alarm_ringtone_picker">Будильник</string>
@@ -444,8 +446,10 @@ mm"</string>
     <string name="notification_adv_time_entries3">За <xliff id="MINUTES" refersto="30">%d</xliff> мин.</string>
     <string name="notification_adv_time_entries4">За <xliff id="HOUR" refersto="1">%d</xliff> ч.</string>
     <string name="notification_adv_time_entries5">Не уведомлять</string>
+    <string name="notification_permission_desc">Вы не сможете отключать будильники в уведомлениях, если не предоставите необходимое разрешение. Предоставить разрешение?</string>
     <string name="oneshot_alarm">Удалить после срабатывания</string>
     <string name="open_keep_screen">Экран будет включён постоянно</string>
+    <string name="open_notification_permission_remind">Разрешите отключение будильников в уведомлениях</string>
     <string name="open_sleep_record">Включить</string>
     <string name="other_category_title">Другое</string>
     <string name="other_settings">Другое</string>
@@ -500,8 +504,8 @@ mm"</string>
     <string name="set_alarm_other">Другие</string>
     <string name="set_now">Установить</string>
     <string name="setting_alarm_arriving_subtitle">Показывать уведомления перед отключением будильников</string>
-    <string name="setting_alarm_arriving_summary">Оповещать уведомлением перед звонком будильника</string>
-    <string name="setting_alarm_arriving_title">Уведомление перед звонком</string>
+    <string name="setting_alarm_arriving_summary">Показывать уведомления перед срабатыванием будильника</string>
+    <string name="setting_alarm_arriving_title">Уведомлять перед срабатыванием</string>
     <string name="setting_complete">Готово</string>
     <string name="settings">Настройки</string>
     <string name="shortcut_new_alarm">Будильник</string>
@@ -511,11 +515,11 @@ mm"</string>
     <string name="show_life_post_lable">Показывать утренний отчёт</string>
     <string name="shut_down_alarm_no_news">После отключения будильника утренние новости будут недоступны.</string>
     <string name="shut_down_keep_screen">Экран не будет включён постоянно</string>
-    <string name="shutdown_alarm_alert_enable_summary">Сигналы отключения сработают как минимум через 10 минут после выключения устройства</string>
-    <string name="shutdown_alarm_alert_enable_summary_new">Включите, чтобы установленные будильники срабатывали при выключении устройства. Будут срабатывать только будильники, установленные не менее чем на %d минут после выключения устройства.</string>
+    <string name="shutdown_alarm_alert_enable_summary">Будильники сработают не раньше чем через 10 минут после выключения устройства</string>
+    <string name="shutdown_alarm_alert_enable_summary_new">Включите для срабатывания будильников после выключении устройства. Сработают будильники, у которых установленное время не менее чем на %d минут позднее времени выключения устройства.</string>
     <string name="shutdown_alarm_alert_title">Сигналы отключения</string>
-    <string name="shutdown_alarm_disable_summary">Будильник не будет звонить после выключения устройства</string>
-    <string name="shutdown_alarm_enable_summary">Будильник зазвонит, если время звонка не менее чем на 10 минут позже момента выключения устройства</string>
+    <string name="shutdown_alarm_disable_summary">Будильник не будет срабатывать после выключения устройства</string>
+    <string name="shutdown_alarm_enable_summary">Будильник сработает, если установленное время не менее чем на 10 минут позднее времени выключения устройства</string>
     <string name="shutdown_alarm_title">Срабатывание при выключенном устройстве</string>
     <string name="silent_alarm_summary">Без звука</string>
     <string name="skip_alarm_once_hint">Отключить один раз %s</string>

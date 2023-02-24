@@ -1033,6 +1033,7 @@
     <string name="message_decode_error">Не удалось расшифровать сообщение</string>
     <string name="message_details_title">Детали сообщения</string>
     <string name="message_discarded">Черновик удалён</string>
+    <string name="message_forward_has_signature_pdf">Вы пересылаете подписанные вложения в формате PDF?</string>
     <string name="message_invite_accept">Да</string>
     <string name="message_invite_calendar_download_prompt">Загрузите Календарь, чтобы использовать эту функцию</string>
     <string name="message_invite_calendar_view">Показать в календаре</string>

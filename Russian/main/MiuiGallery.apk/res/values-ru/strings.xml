@@ -573,6 +573,7 @@
     <string name="cloud_bacup_disable_processing">Обработка…</string>
     <string name="cloud_camera_display_name">Камера</string>
     <string name="cloud_cancel_authorizing_to_device">Отмена авторизации…</string>
+    <string name="cloud_data_size">Фото и видео в облаке: %1$s</string>
     <string name="cloud_full_space_tip_message">Обновите тарифный план облачного хранилища для возможности синхронизации фото и видео</string>
     <string name="cloud_full_space_tip_negative">Не сейчас</string>
     <string name="cloud_full_space_tip_positive">Обновить</string>
@@ -1355,6 +1356,7 @@ ID: %s
     <string name="id_photo_module_finish">Плагин \"Фото на документы\" успешно загружен</string>
     <string name="id_photo_module_loading">Загрузка плагина \"Фото на документы\"…</string>
     <string name="ignore_album">Не показывать</string>
+    <string name="ignore_alert_dialog_title">Игнорировать этого человека?</string>
     <string name="ignore_alert_title">Не показывать этот альбом? Нажмите в правом верхнем углу для просмотра пропущенных фото.</string>
     <string name="ignore_face">Пропустить</string>
     <string name="ignore_faces_title">Пропущенные фото</string>

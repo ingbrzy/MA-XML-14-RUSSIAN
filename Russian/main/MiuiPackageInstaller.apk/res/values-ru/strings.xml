@@ -1234,6 +1234,7 @@ ID: %s
     <string name="verify_account_default_title">Подтвердите вашу личность</string>
     <string name="verify_account_title">Подтвердите вашу личность</string>
     <string name="verify_and_install">Установить</string>
+    <string name="verify_failed">ошибка проверки</string>
     <string name="verify_to_sure_close">Отключить</string>
     <string name="virus_install_confirm_cancel">Отмена</string>
     <string name="virus_install_confirm_install">Установить</string>
