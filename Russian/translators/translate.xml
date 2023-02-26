@@ -1000,7 +1000,7 @@ mm"</string>
     <string name="passport_page_load_failed">Не удалось открыть страницу</string>
     <string name="passport_password_login_btn">Войти</string>
     <string name="passport_password_not_show">Не показывать пароль</string>
-    <string name="passport_password_req_notice">Пароль должен содержать 8~16 символов, цифры и буквы с учетом регистра.</string>
+    <string name="passport_password_req_notice">Пароль должен содержать 8~16 символов, цифры и буквы с учётом регистра.</string>
     <string name="passport_password_show">Показать пароль</string>
     <string name="passport_querying_phone_info">Запрос данных аккаунта…</string>
     <string name="passport_quick_login_dialog_step2_title">Двухэтапная авторизация</string>
@@ -1514,7 +1514,7 @@ mm"</string>
     <string name="wifi_limited_connection">Ограниченное подключение</string>
     <string name="wifi_metered_label">Трафик</string>
     <string name="wifi_new_network_auto_connection">SSID Bridging - автоподключение</string>
-    <string name="wifi_new_network_auto_connection_summary">Использовать автоподключение к новому SSID WPA/WPA2‑PSK 5 ГГц с учетными данными SSID WPA/WPA2‑PSK 2 ГГц при частичном совпадении SSID и BSSID</string>
+    <string name="wifi_new_network_auto_connection_summary">Использовать автоподключение к новому SSID WPA/WPA2‑PSK 5 ГГц с учётными данными SSID WPA/WPA2‑PSK 2 ГГц при частичном совпадении SSID и BSSID</string>
     <string name="wifi_no_internet">Без доступа в интернет</string>
     <string name="wifi_no_internet_detailed">Нажмите, чтобы показать варианты.</string>
     <string name="wifi_no_internet_no_reconnect">Без доступа в интернет и переподключения</string>
@@ -1590,7 +1590,7 @@ mm"</string>
     <string name="wifi_tether_connected_summary">{count, plural, =0 {подключено устройств: 0} =1 {подключено устройств: 1} other {подключено устройств: #} }</string>
     <string name="wifi_unmetered_label">Не измерен</string>
     <string name="wifi_unsaved_network_linking">SSID Bridging - автоподключение</string>
-    <string name="wifi_unsaved_network_linking_summary">Разрешить автоподключение к новому WPA/WPA2-PSK 5ГГц SSID с учетными данными текущего подключения WPA/WPA2-PSK 2ГГц SSID при частичном совпадении SSID и BSSID</string>
+    <string name="wifi_unsaved_network_linking_summary">Разрешить автоподключение к новому WPA/WPA2-PSK 5ГГц SSID с учётными данными текущего подключения WPA/WPA2-PSK 2ГГц SSID при частичном совпадении SSID и BSSID</string>
     <string name="wifi_verbose_logging">Подробный журнал Wi‑Fi</string>
     <string name="wifi_verbose_logging_summary">При выборе Wi‑Fi указывать в журнале RSSI для каждого SSID</string>
     <string name="wifi_wakeup_enabled_content">Доступна сохраненная сеть %1$s.</string>
@@ -1602,7 +1602,7 @@ mm"</string>
     <string name="wifi_wapi_cert_mode_hand_text">Выбрать вручную</string>
     <string name="wifi_wapi_certification_dont_exist">Введенный вами сетевой пароль неверен.</string>
     <string name="wifi_wapi_fail_to_auth">Не удалось завершить аутентификацию WAPI. Убедитесь, что сертификаты действительны.</string>
-    <string name="wifi_wapi_fail_to_init">Не получается открыть сертификаты WAPI.  Похоже, хранилище учетных данных не включено.</string>
+    <string name="wifi_wapi_fail_to_init">Не получается открыть сертификаты WAPI. Похоже, хранилище учётных данных не включено.</string>
     <string name="wifi_wapi_psk_type">Тип пароля</string>
     <string name="wifi_wapi_user_certificate">Пользовательский сертификат</string>
     <string name="wifi_watchdog_network_disabled">Не удалось подключиться к сети Wi-Fi</string>
