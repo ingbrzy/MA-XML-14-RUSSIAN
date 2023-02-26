@@ -992,7 +992,7 @@
     <string name="beauty_portrait_center">Автоцентрирование лиц</string>
     <string name="beauty_portrait_center_desc">Автоматическое определение и центрирование лиц во время видеозвонков. Функция поддерживается не для всех приложений.</string>
     <string name="beauty_settings">Настройки</string>
-    <string name="begin_date">Дата начала учета</string>
+    <string name="begin_date">Дата начала учёта</string>
     <string name="behavior_widget_get_installed_apps">Доступ к приложениям</string>
     <string name="behavior_widget_get_location">Использование геолокации</string>
     <string name="behavior_widget_read_clipboard">Доступ к буферу обмена</string>
@@ -4186,7 +4186,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pref_operator_not_set">Оператор не задан</string>
     <string name="pref_over_traffic_limit">При превышении</string>
     <string name="pref_package_traffic_settings">Тарифный план</string>
-    <string name="pref_pkg_begin_date">Дата начала учета</string>
+    <string name="pref_pkg_begin_date">Дата начала учёта</string>
     <string name="pref_roaming_daily_limit_setting">Суточный лимит в роуминге</string>
     <string name="pref_roaming_daily_limit_setting_cat_title">Суточный лимит</string>
     <string name="pref_roaming_setting_gategory">Настройки</string>
