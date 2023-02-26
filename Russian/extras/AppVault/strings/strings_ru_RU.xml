@@ -25,6 +25,7 @@
     <string name="app_mifitness">Mi Фитнес</string>
     <string name="app_mihome">Умный дом</string>
     <string name="app_mipay">Кошелёк</string>
+    <string name="app_mivideo">Mi Видео</string>
     <string name="app_notes">Заметки</string>
     <string name="app_recorder">Диктофон</string>
     <string name="app_scanner">Сканер</string>
@@ -98,6 +99,8 @@
     <string name="widget_health_stats_desc">Статистика вашей активности</string>
     <string name="widget_health_steps">Шаги</string>
     <string name="widget_health_steps_desc">Количество шагов и прогресс</string>
+    <string name="widget_mivideo_local">Локальные видео</string>
+    <string name="widget_mivideo_local_desc">Быстрый доступ к локальным аудио- и видеофайлам</string>
     <string name="widget_notes_quick">Ярлыки</string>
     <string name="widget_notes_quick_desc">Быстрое создание заметок и задач</string>
     <string name="widget_notes_quick_note">Заметки</string>
