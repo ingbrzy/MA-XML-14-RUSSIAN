@@ -727,7 +727,7 @@ ID:%s
     <string name="passport_no">Нет</string>
     <string name="passport_notification_title">Ошибка авторизации %1$s</string>
     <string name="passport_password_phone_login">Войти через Xiaomi аккаунт</string>
-    <string name="passport_password_req_notice">Пароль должен содержать 8~16 символов, цифры и буквы с учетом регистра.</string>
+    <string name="passport_password_req_notice">Пароль должен содержать 8~16 символов, цифры и буквы с учётом регистра.</string>
     <string name="passport_phone_num_hint_text">Номер телефона</string>
     <string name="passport_phone_ticket_login">Войти с помощью SMS</string>
     <string name="passport_prev">Назад</string>
