@@ -526,7 +526,7 @@ ID: %s
     <string name="module_more">Ещё</string>
     <string name="module_network">Сеть</string>
     <string name="module_search">Поиск</string>
-    <string name="module_security">Безопасность и Mi Cloud</string>
+    <string name="module_security">Безопасность и Xiaomi Cloud</string>
     <string name="module_system">Система</string>
     <string name="module_tools">Системные инструменты</string>
     <string name="modules">Выберите категорию</string>

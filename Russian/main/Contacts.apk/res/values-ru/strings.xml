@@ -610,7 +610,7 @@
     <string name="contact_edit_title_readonly">Контакт только для чтения</string>
     <string name="contact_editor_prompt_multiple_accounts">Сохранить контакт в</string>
     <string name="contact_editor_prompt_one_account">Новые контакты будут синхронизированы с %1$s.</string>
-    <string name="contact_editor_prompt_zero_accounts">Резервная копия нового контакта не будет сохранена. Добавить аккаунт для сохранения контактов в Mi Cloud?</string>
+    <string name="contact_editor_prompt_zero_accounts">Сохранить на устройстве или в новом онлайн-аккаунте</string>
     <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
     <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
     <string name="contact_import_methods_dialog_title">Выберите способ импорта</string>

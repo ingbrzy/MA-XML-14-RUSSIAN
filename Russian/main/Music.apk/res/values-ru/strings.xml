@@ -185,7 +185,7 @@
     <string name="banner_op">Mi Музыка</string>
     <string name="best_experience">Лучшие впечатления</string>
     <string name="billion_char">%s млрд.</string>
-    <string name="bind_sign_in_title">Добавьте Mi аккаунт</string>
+    <string name="bind_sign_in_title">Добавьте Xiaomi аккаунт</string>
     <string name="bluetooth_device">Bluetooth устройство</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="btn_text_edit">Редактировать</string>
@@ -279,7 +279,7 @@
     <string name="confirm_bundled_phone_dialog_title">Подтвердите связанный номер телефона</string>
     <string name="confirm_exit">Сохранить изменения?</string>
     <string name="confirm_new_pwd">Подтвердите пароль</string>
-    <string name="confirm_unbundled_phone_dialog_message">Этот номер телефона был связан с Mi аккаунтом %2$s %1$s. Если вы продолжите, он больше не будет связан с Mi аккаунтом %3$s. Продолжить?</string>
+    <string name="confirm_unbundled_phone_dialog_message">Этот номер телефона связан с Xiaomi аккаунтом %2$s %1$s. Если вы продолжите, он больше не будет связан с Xiaomi аккаунтом %3$s. Продолжить?</string>
     <string name="connect_now">Подключиться</string>
     <string name="connecting_apk">Подключение…</string>
     <string name="connection_error">"Что-то не так с сетью…
@@ -513,7 +513,7 @@ ID: %s
     <string name="equalizer">Эквалайзер</string>
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
-    <string name="error_dup_binded_email">Этот адрес эл. почты уже связан с другим Mi аккаунтом.</string>
+    <string name="error_dup_binded_email">Этот адрес эл. почты уже связан с другим Xiaomi аккаунтом.</string>
     <string name="error_hint_noavatar">Выберите или загрузите фото профиля</string>
     <string name="error_hint_nodata">Нет данных</string>
     <string name="error_hint_typesupport_emoji">Смайлы и специальные символы не поддерживаются</string>
@@ -523,7 +523,7 @@ ID: %s
     <string name="error_message_something_went_wrong">Что-то пошло не так, повторите попытку</string>
     <string name="error_not_support">Не поддерживается</string>
     <string name="evening">PM</string>
-    <string name="exceed_binded_phone_times_notice">Этот номер телефона связан с другим Mi аккаунтом.</string>
+    <string name="exceed_binded_phone_times_notice">Этот номер телефона связан с другим Xiaomi аккаунтом.</string>
     <string name="exo_controls_cc_disabled_description">Включить субтитры</string>
     <string name="exo_controls_cc_enabled_description">Отключить субтитры</string>
     <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
@@ -585,7 +585,7 @@ ID: %s
     <string name="facebook_not_installed">Сначала установите Facebook.</string>
     <string name="fail_to_fetch_payment_page_url">Не удалось получить данные платежа</string>
     <string name="fail_to_play">Не удалось воспроизвести трек</string>
-    <string name="failed_dup_secure_phone_number">Этот номер телефона используется другим Mi аккаунтом</string>
+    <string name="failed_dup_secure_phone_number">Этот номер телефона используется другим Xiaomi аккаунтом</string>
     <string name="failed_not_access_sd_card">необходимо сначала разрешить доступ к SD-карте</string>
     <string name="failed_obtain_permissions">Не удалось получить разрешения</string>
     <string name="failed_to_connect_hint">Проверьте настройки сети и повторите попытку</string>
@@ -664,7 +664,7 @@ ID: %s
     <string name="get_one_day_vip">Вы получили %d-дневный VIP!</string>
     <string name="get_one_hour_vip">Вы получили %d-часовой VIP!</string>
     <string name="get_ph_ticket">Получить код</string>
-    <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 Mi аккаунтов. Вы не можете добавить новый аккаунт.</string>
+    <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 Xiaomi аккаунтов. Вы не можете добавить новый аккаунт.</string>
     <string name="get_phone_verifycode_exceed_limit">На этот номер отправлено слишком много кодов подтверждения. Повторите попытку через 24 часа.</string>
     <string name="get_vip">Получить VIP</string>
     <string name="getverifycode_seconde">сек.</string>
@@ -758,7 +758,7 @@ ID: %s
     <string name="is_scanning">Проверка накопителя…</string>
     <string name="is_scanning_support_online">"Проверка накопителя…
 (Пока можно слушать музыку онлайн)"</string>
-    <string name="isornot_your_mi_account">Это ваш Mi аккаунт?</string>
+    <string name="isornot_your_mi_account">Это ваш Xiaomi аккаунт?</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="joox_account_bind_mi_account">Добавить Xiaomi аккаунт</string>
     <string name="joox_account_cancel_login">Отмена</string>
@@ -1506,13 +1506,13 @@ ID: %s
     <string name="settings_search_title_notification">Уведомления Музыки</string>
     <string name="share_append_text">От @MIUI</string>
     <string name="share_chooser_title">Отправить с помощью</string>
-    <string name="share_description">Mi Music</string>
-    <string name="share_end_note">Mi Music</string>
+    <string name="share_description">Mi Музыка</string>
+    <string name="share_end_note">Mi Музыка</string>
     <string name="share_failed">Не удалось отправить</string>
     <string name="share_image_error">Не удалось отправить изображение из-за ошибки загрузки</string>
     <string name="share_song">Отправить</string>
-    <string name="share_text_list">"Плейлист Mi Music: "</string>
-    <string name="share_text_song">"Трек Mi Music: "</string>
+    <string name="share_text_list">"Плейлист Mi Музыка: "</string>
+    <string name="share_text_song">"Трек Mi Музыка: "</string>
     <string name="show_float_first_hint">Свернуть</string>
     <string name="show_more">Показать ещё %s</string>
     <string name="shuffle_music">В случайном порядке</string>
@@ -1521,7 +1521,7 @@ ID: %s
     <string name="shuffle_play_toast_text">Перемешивание треков…</string>
     <string name="sign_in">Выполняется вход</string>
     <string name="sign_in_progress">Выполняется вход…</string>
-    <string name="sign_in_title">Войдите в свой Mi аккаунт</string>
+    <string name="sign_in_title">Войдите в свой Xiaomi аккаунт</string>
     <string name="signout_popup_title_nopassword">Внимание</string>
     <string name="similar_albums">Похожие альбомы</string>
     <string name="similar_playlists">Похожие плейлисты</string>
@@ -1788,7 +1788,7 @@ ID: %s
     <string name="user_avatar_update_title">Изменить фото профиля</string>
     <string name="user_avatar_uploading">Подождите…</string>
     <string name="user_experience_program_open">В связи с ограничениями авторских прав, необходимо зарегистрироваться в Программе улучшения качества, чтобы иметь возможность воспроизводить загруженные песни. Это можно сделать в разделе Настройки > Пароли и защита > Конфиденциальность > Программа улучшения качества.</string>
-    <string name="user_id_hint">Эл. почта/Номер телефона/ID Mi аккаунта</string>
+    <string name="user_id_hint">Эл. почта/Номер телефона/ID Xiaomi аккаунта</string>
     <string name="user_name_phone_number">Номер телефона</string>
     <string name="user_playlist_plaza">Плейлисты</string>
     <string name="user_privacy_dialog_negative_text">Отмена</string>

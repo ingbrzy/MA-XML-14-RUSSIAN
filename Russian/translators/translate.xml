@@ -85,7 +85,7 @@
     <string name="account_bind_secure_email_title">Добавить адрес электронной почты</string>
     <string name="account_bind_secure_phone_title">Добавить номер телефона</string>
     <string name="account_crop_user_avatar">Обрезать фото</string>
-    <string name="account_empty_user_name">Введите имя пользователя Mi Аккаунта</string>
+    <string name="account_empty_user_name">Введите имя пользователя Xiaomi аккаунта</string>
     <string name="account_error_all_space_user_name">Имя не может состоять из одних пробелов</string>
     <string name="account_error_invalid_user_name">В имени не может быть символов &lt;, &gt;, /</string>
     <string name="account_error_longer_user_name">Имя не может содержать более 20 символов</string>
@@ -107,7 +107,7 @@
     <string name="account_user_details">Личная информация</string>
     <string name="account_user_email">Электронная почта</string>
     <string name="account_user_gender">Пол</string>
-    <string name="account_user_id">ID Mi Аккаунта</string>
+    <string name="account_user_id">ID Xiaomi аккаунта</string>
     <string name="account_user_name">Имя пользователя</string>
     <string name="account_user_name_dialog_title">Введите имя пользователя</string>
     <string name="account_user_other_info">Другие сведения</string>
@@ -687,7 +687,7 @@ ID: %s
     <string name="local_backup_password_toast_validation_failure">Не удалось задать пароль для резервных копий</string>
     <string name="login_by_local_phone_long_text">Войдите в аккаунт</string>
     <string name="login_by_local_phone_short_text">Вход</string>
-    <string name="login_other">Другой Mi Аккаунт</string>
+    <string name="login_other">Другой Xiaomi аккаунт</string>
     <string name="login_register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="login_system_failed">Ошибка авторизации, повторите попытку</string>
     <string name="login_with_sns">Другие варианты входа</string>
@@ -915,7 +915,7 @@ mm"</string>
     <string name="osu_sign_up_failed">Не удалось завершить регистрацию. Нажмите для повтора.</string>
     <string name="overlay_display_devices_title">Эмуляция вторичных экранов</string>
     <string name="passport_access_denied">Доступ запрещен</string>
-    <string name="passport_account_label">Mi Аккаунт</string>
+    <string name="passport_account_label">Xiaomi аккаунт</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
     <string name="passport_activate_token_expired">Код устарел. Повторите попытку.</string>
     <string name="passport_area_code_title">Код страны</string>
@@ -995,7 +995,7 @@ mm"</string>
     <string name="passport_network_error_hint">Проверьте URL-адрес и повторите попытку, или скопируйте его и откройте в браузере</string>
     <string name="passport_next">Далее</string>
     <string name="passport_next_step">ДАЛЕЕ</string>
-    <string name="passport_oauth_actionbar_title">Mi Аккаунт</string>
+    <string name="passport_oauth_actionbar_title">Xiaomi аккаунт</string>
     <string name="passport_oauth_sucess_tip">Вход выполнен</string>
     <string name="passport_page_load_failed">Не удалось открыть страницу</string>
     <string name="passport_password_login_btn">Войти</string>
@@ -1391,18 +1391,18 @@ mm"</string>
 Любой пользователь может обновлять приложения для всех остальных пользователей."</string>
     <string name="user_add_user_title">Добавить нового пользователя?</string>
     <string name="user_add_user_type_title">Добавить</string>
-    <string name="user_agreement_hint_3rd_app"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%5$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_default"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
+    <string name="user_agreement_hint_3rd_app"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта."</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%5$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта."</Data></string>
     <string name="user_agreement_hint_default_1"><Data>Прочтите и примите &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности.&lt;/a></Data></string>
     <string name="user_agreement_hint_default_extra"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности.&lt;/a> При первом входе в систему будет автоматически создан аккаунт Xiaomi."</Data></string>
     <string name="user_agreement_hint_first_login">Аккаунт будет создан автоматически, если этот номер телефона используется впервые</string>
-    <string name="user_agreement_hint_with_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
-    <string name="user_agreement_protocal_dialog_hint_default"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
+    <string name="user_agreement_hint_with_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%3$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_protocal_dialog_hint_default"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта."</Data></string>
     <string name="user_guest">Гость</string>
     <string name="user_image_choose_photo">Выбрать изображение</string>
     <string name="user_image_photo_selector">Выбрать фото</string>

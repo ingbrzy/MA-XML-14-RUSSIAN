@@ -315,7 +315,7 @@
     <string name="delete_confirm_msg">Удалить выбранные файлы навсегда?</string>
     <string name="delete_slected_data">Сбросить</string>
     <string name="desc_image">Фото</string>
-    <string name="dialog_content_checkbox_delete_cloud_image">Также удалить фото из Mi Cloud</string>
+    <string name="dialog_content_checkbox_delete_cloud_image">Также удалить фото из Xiaomi Cloud</string>
     <string name="dialog_content_select_all_confirm">Оставить копию этого фото?</string>
     <string name="dialog_msg_add_white_list_error">Не удалось добавить файл в исключения</string>
     <string name="dialog_msg_backup_and_uninstall_apps">Зарезервировать и удалить выбранные приложения?</string>

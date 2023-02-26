@@ -706,7 +706,7 @@ mm"</string>
     <string name="passport_network_error_hint">Проверьте URL-адрес и повторите попытку, или скопируйте его и откройте в браузере</string>
     <string name="passport_next">Далее</string>
     <string name="passport_next_step">ДАЛЕЕ</string>
-    <string name="passport_oauth_actionbar_title">Mi Аккаунт</string>
+    <string name="passport_oauth_actionbar_title">Xiaomi аккаунт</string>
     <string name="passport_oauth_sucess_tip">Вход выполнен</string>
     <string name="passport_page_load_failed">Не удалось открыть страницу</string>
     <string name="passport_password_login_btn">Войти</string>

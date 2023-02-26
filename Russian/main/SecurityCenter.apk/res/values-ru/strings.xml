@@ -1302,7 +1302,7 @@
     <string name="cta_dialog_negative">Выйти</string>
     <string name="cta_dialog_positive">Принять</string>
     <string name="cta_dialog_title">Доступ в интернет</string>
-    <string name="cta_main_purpose">Добро пожаловать в Безопасность! Приложение и его модули (включая компоненты безопасности MIUI и системные службы) можно использовать для освобождения места на устройстве, поиска и нейтрализации вирусов, оптимизации производительности и экономии заряда, управления приложениями и многого другого. Во время установки приложений или совершения платежей, компоненты безопасности MIUI будут осуществлять проверку безопасности, используя подключение к интернету.</string>
+    <string name="cta_main_purpose">Добро пожаловать в Безопасность! Приложение и его модули (включая компоненты безопасности MIUI, системные службы и Joyose) можно использовать для освобождения места на устройстве, поиска и нейтрализации вирусов, оптимизации производительности и экономии заряда, управления приложениями и многого другого. Во время установки приложений или совершения платежей, компоненты безопасности MIUI будут осуществлять проверку безопасности, используя подключение к интернету.</string>
     <string name="cta_settings">Разрешить доступ в интернет и геолокацию</string>
     <string name="current_network_state_not_need_diagnose">Интернет-соединение работает нормально.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Для использования черного списка и вызова экстренных контактов для предупреждения о землетрясении</string>
@@ -5240,7 +5240,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="storage_clear_more_tools">Доп. инструменты</string>
     <string name="storage_clear_video">Очистить кеш видео</string>
     <string name="storage_compact_warning">Настройка нескольких разрешений</string>
-    <string name="storage_compact_warning_desc">Это приложение не поддерживает настройку разрешений по отдельности для доступа к фото и видео, аудиофайлам, документам и файлам</string>
+    <string name="storage_compact_warning_desc">Разрешения для доступа к фото, видео- и аудиофайлам для этого приложения должны быть изменены одновременно. Изменение одного из этих разрешений приведет к изменению всех разрешений.</string>
     <string name="storage_deepclean_entry">Глубокая очистка</string>
     <string name="storage_dialog_unmountable">"^1 не работает. 
 
@@ -5694,7 +5694,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_cloud_account">Xiaomi аккаунт</string>
     <string name="title_cloud_service">Xiaomi Cloud</string>
     <string name="title_cloud_space_almost_full">Облачное хранилище заполнено, синхронизация приостановлена</string>
-    <string name="title_cloud_space_full">Память в Mi Cloud заполнена</string>
+    <string name="title_cloud_space_full">Облако заполнено</string>
     <string name="title_cmcc_app_check">Проверка не завершена</string>
     <string name="title_condition_absorbed">Режим медитации</string>
     <string name="title_condition_alarm">Будильник</string>
