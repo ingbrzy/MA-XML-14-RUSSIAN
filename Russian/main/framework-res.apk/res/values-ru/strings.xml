@@ -1636,7 +1636,7 @@
     <string name="permlab_manageProfileAndDeviceOwners">Управление профилями и владельцами</string>
     <string name="permlab_mediaLocation">Чтение местоположений из ваших носителей</string>
     <string name="permlab_modifyAudioSettings">Изменение настроек аудио</string>
-    <string name="permlab_modifyNetworkAccounting">Изменение учета использования сети</string>
+    <string name="permlab_modifyNetworkAccounting">Изменение учёта использования сети</string>
     <string name="permlab_nearby_wifi_devices">Взаимодействие с устройствами Wi-Fi поблизости</string>
     <string name="permlab_nfc">Управление NFC-модулем</string>
     <string name="permlab_persistentActivity">Поддержание приложения в рабочем режиме</string>
