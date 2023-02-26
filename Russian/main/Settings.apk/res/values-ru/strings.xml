@@ -964,7 +964,7 @@
     <string name="auto_anc_ten_recover">%d сек.</string>
     <string name="auto_brightness_default_title">По умолчанию</string>
     <string name="auto_brightness_description">Яркость экрана будет автоматически подстраиваться под окружающее освещение и использование. Можно перемещать ползунок вручную, чтобы адаптивная яркость запомнила ваши предпочтения.</string>
-    <string name="auto_brightness_disclaimer">Яркость регулируется с учетом уровня освещенности. При необходимости её можно временно изменить.</string>
+    <string name="auto_brightness_disclaimer">Яркость регулируется с учётом уровня освещенности. При необходимости её можно временно изменить.</string>
     <string name="auto_brightness_high_title">Высокий</string>
     <string name="auto_brightness_low_title">Низкий</string>
     <string name="auto_brightness_off_summary">Не учитывать уровень освещенности</string>
@@ -1276,7 +1276,7 @@
     <string name="battery_saver_off_scheduled_summary">Автовключение при уровне заряда %1$s</string>
     <string name="battery_saver_off_summary">Откл.</string>
     <string name="battery_saver_on_summary">Вкл.</string>
-    <string name="battery_saver_pref_auto_routine_summary">Включать с учетом истории подзарядок</string>
+    <string name="battery_saver_pref_auto_routine_summary">Включать с учётом истории подзарядок</string>
     <string name="battery_saver_schedule_settings_title">Задать расписание</string>
     <string name="battery_saver_seekbar_title">%1$s</string>
     <string name="battery_saver_seekbar_title_placeholder">Включить</string>
@@ -2861,11 +2861,11 @@
     <string name="data_usage_metered_auto">Автоматически</string>
     <string name="data_usage_metered_body">Выбор сетей Wi-Fi, которые являются мобильными точками доступа. Приложениям может быть запрещено их использование в фоновом режиме, а также может появиться предупреждение при загрузке больших файлов.</string>
     <string name="data_usage_metered_mobile">Мобильные сети</string>
-    <string name="data_usage_metered_no">Без учета трафика</string>
+    <string name="data_usage_metered_no">Без учёта трафика</string>
     <string name="data_usage_metered_title">Ограничения трафика</string>
     <string name="data_usage_metered_wifi">Сети Wi-Fi</string>
     <string name="data_usage_metered_wifi_disabled">Для выбора точек доступа включите Wi-Fi</string>
-    <string name="data_usage_metered_yes">С учетом трафика</string>
+    <string name="data_usage_metered_yes">С учётом трафика</string>
     <string name="data_usage_ota">Обновления системы</string>
     <string name="data_usage_other_apps">Другие приложения</string>
     <string name="data_usage_pick_cycle_day">День месяца, когда сбрасывается цикл использования данных:</string>
@@ -5682,7 +5682,7 @@ ID: %s
     <string name="manager_battery_usage_footer_limited">Для этого приложения должен быть выбран вариант \"%1$s\".</string>
     <string name="manager_battery_usage_link_a11y">Подробнее об управлении расходом заряда батареи…</string>
     <string name="manager_battery_usage_optimized_only">С оптимизацией</string>
-    <string name="manager_battery_usage_optimized_summary">Оптимизировать расход заряда батареи с учетом интенсивности использования. Рекомендуется для большинства приложений.</string>
+    <string name="manager_battery_usage_optimized_summary">Оптимизировать расход заряда батареи с учётом интенсивности использования. Рекомендуется для большинства приложений.</string>
     <string name="manager_battery_usage_optimized_title">С оптимизацией</string>
     <string name="manager_battery_usage_restricted_summary">Ограничить расход батареи, когда приложение работает в фоновом режиме. Это может повлиять на работу приложения и задерживать показ уведомлений.</string>
     <string name="manager_battery_usage_restricted_title">С ограничением</string>
@@ -5775,7 +5775,7 @@ ID: %s
     <string name="media_controls_apps_title">Разрешённые приложения</string>
     <string name="media_controls_hide_player">Скрывать проигрыватель</string>
     <string name="media_controls_no_players">Нет доступных медиапроигрывателей</string>
-    <string name="media_controls_recommendations_description">С учетом ваших действий</string>
+    <string name="media_controls_recommendations_description">С учётом ваших действий</string>
     <string name="media_controls_recommendations_title">Показывать рекомендации медиаконтента</string>
     <string name="media_controls_resume_description">Медиапроигрыватель остается открытым в Быстрых настройках, чтобы вы могли легко продолжить воспроизведение</string>
     <string name="media_controls_resume_title">Закрепить медиапроигрыватель</string>
@@ -6753,7 +6753,7 @@ ID: %s
     <string name="no_vr_listeners">Установленные приложения не запрашивали доступ для работы в качестве вспомогательного VR-сервиса</string>
     <string name="noise_suppression">Подавление внешних шумов</string>
     <string name="non_carrier_data_usage">Передача данных не по мобильной сети</string>
-    <string name="non_carrier_data_usage_warning">Без учета трафика, переданного через сети оператора связи</string>
+    <string name="non_carrier_data_usage_warning">Без учёта трафика, переданного через сети оператора связи</string>
     <string name="non_carrier_network_unavailable">Нет других доступных сетей</string>
     <string name="none">Нет</string>
     <string name="noon">Полдень</string>
@@ -6952,7 +6952,7 @@ ID: %s
     <string name="notifications_hidden">Без уведомлений на забл. экране</string>
     <string name="notifications_label">Уведомления приложения</string>
     <string name="notifications_partly_blocked">Отключено категорий: %1$d из %2$d</string>
-    <string name="notifications_priority">Без учета режима \"Не беспокоить\"</string>
+    <string name="notifications_priority">Без учёта режима \"Не беспокоить\"</string>
     <string name="notifications_redacted">Без конфиденциальных данных на заблокированном экране</string>
     <string name="notifications_sent_never">Никогда</string>
     <string name="notifications_silenced">Уведомления отключены</string>
@@ -8511,7 +8511,7 @@ UT-интерфейс: %5$s"</string>
     <string name="secure_lock_encryption_warning">Поскольку включена служба специальных возможностей, блокировка экрана будет отключена и надёжность защиты зашифрованных данных может быть снижена.</string>
     <string name="security_advanced_settings">Дополнительные настройки безопасности</string>
     <string name="security_advanced_settings_keywords">безопасность, дополнительные настройки безопасности, дополнительные настройки, расширенные настройки безопасности</string>
-    <string name="security_advanced_settings_no_work_profile_settings_summary">Шифрование, учетные данные и прочее</string>
+    <string name="security_advanced_settings_no_work_profile_settings_summary">Шифрование, учётные данные и прочее</string>
     <string name="security_advanced_settings_work_profile_settings_summary">Блокировка рабочего профиля, шифрование и прочее</string>
     <string name="security_center_title">Безопасность</string>
     <string name="security_check_progress_dialog_message">Проверка безопасности…</string>
