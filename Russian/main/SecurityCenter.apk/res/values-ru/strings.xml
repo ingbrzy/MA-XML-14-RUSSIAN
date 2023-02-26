@@ -2399,7 +2399,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_turbo_macro_subtitle">Играйте на высоком уровне</string>
     <string name="gb_turbo_new_flag">НОВОЕ</string>
     <string name="gb_turbo_shoulder_subtitle">Настройте элементы управления</string>
-    <string name="gb_turbo_time_subtitle">Засекание времени</string>
+    <string name="gb_turbo_time_subtitle">Учёт игрового времени</string>
     <string name="gb_turbo_voice_subtitle">Изменение голоса</string>
     <string name="gb_turbo_wonder_subtitle">Запись ключевых моментов</string>
     <string name="gb_voice_change_audition_tip">Демо</string>
