@@ -736,7 +736,7 @@ ID: %s
     <string name="passport_page_load_failed">Не удалось открыть страницу</string>
     <string name="passport_password_login_btn">Войти</string>
     <string name="passport_password_not_show">Не показывать пароль</string>
-    <string name="passport_password_req_notice">Пароль должен содержать 8~16 символов, цифры и буквы с учетом регистра.</string>
+    <string name="passport_password_req_notice">Пароль должен содержать 8~16 символов, цифры и буквы с учётом регистра.</string>
     <string name="passport_password_show">Показать пароль</string>
     <string name="passport_querying_phone_info">Запрос данных аккаунта…</string>
     <string name="passport_quick_login_title">Введите пароль</string>
