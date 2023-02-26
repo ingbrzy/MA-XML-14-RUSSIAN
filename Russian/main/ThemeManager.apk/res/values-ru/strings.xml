@@ -1103,6 +1103,7 @@ mm"</string>
     <string name="resource_list_title">Недавно выбранные</string>
     <string name="resource_local_picker">Выбор на устройстве</string>
     <string name="resource_menu_refresh">Обновить</string>
+    <string name="resource_mi_ai_picker">Выбор Mi AI рингтона</string>
     <string name="resource_mute">Без звука</string>
     <string name="resource_my">На устройстве</string>
     <string name="resource_network_diagnostics"><u>Диагностика сети</u></string>

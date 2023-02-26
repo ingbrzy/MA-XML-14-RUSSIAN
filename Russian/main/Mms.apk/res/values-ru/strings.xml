@@ -903,8 +903,11 @@
     <string name="pref_title_perm_call">Вызовы</string>
     <string name="pref_title_perm_camera">Доступ к камере</string>
     <string name="pref_title_perm_location">Геолокация</string>
+    <string name="pref_title_perm_read_audio">Доступ к аудиофайлам</string>
     <string name="pref_title_perm_read_call_log">Чтение журнала вызовов</string>
     <string name="pref_title_perm_read_contacts">Чтение контактов</string>
+    <string name="pref_title_perm_read_files">Доступ к файлам и документам</string>
+    <string name="pref_title_perm_read_images_video">Доступ к фото и видео</string>
     <string name="pref_title_perm_read_mms">Чтение SMS</string>
     <string name="pref_title_perm_send_mms">Отправка SMS</string>
     <string name="pref_title_perm_storage">Доступ к хранилищу</string>
@@ -1163,6 +1166,7 @@
     <string name="rcs_send_rms_remind_desp">5G Сообщения - служба обмена мгновенными сообщениями, предоставленная China Mobile. Вы можете отключить эту функцию в настройках.</string>
     <string name="rcs_send_rms_remind_title">Используйте 5G Сообщения</string>
     <string name="rcs_service_agreement">Условия использования</string>
+    <string name="rcs_service_clear_all">Очистить всё</string>
     <string name="rcs_setting">Настройки 5G Сообщений</string>
     <string name="rcs_setting_tips">Альтернативные способы доставки можно изменить в настройках.</string>
     <string name="rcs_silence_message">Приглушать уведомления</string>

@@ -10,7 +10,6 @@ call run_copy_translation.bat %1 AuthManager
 call run_copy_translation.bat %1 Backup
 call run_copy_translation.bat %1 BackupRestoreConfirmation
 call run_copy_translation.bat %1 Bluetooth
-call run_copy_translation.bat %1 Browser
 call run_copy_translation.bat %1 BuiltInPrintService
 call run_copy_translation.bat %1 Calculator
 call run_copy_translation.bat %1 Calendar

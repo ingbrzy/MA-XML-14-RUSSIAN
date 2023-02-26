@@ -273,6 +273,10 @@
         <item>Непровереные сторонние приложения могут вызывать проблемы и снижать стабильность системы.</item>
         <item>Некоторые сторонние приложения могут содержать вредоносное ПО и подвергать риску ваши личные данные.</item>
     </string-array>
+    <string-array name="pp_lab_compact_blur_location_entry">
+        <item>По умолчанию</item>
+        <item>Все</item>
+    </string-array>
     <string-array name="priority_storage_entries">
         <item>Хранилище</item>
         <item>Внешний накопитель</item>

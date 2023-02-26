@@ -486,6 +486,7 @@
     <string name="record_scenes_summaries_stereo_music">Запись по %d каналам, воспроизведение стерео в наушниках</string>
     <string name="record_scenes_summaries_stereo_voice">Расположите микрофон ближе к источнику звука для лучшего качества записи</string>
     <string name="record_scenes_summaries_voice">Расположите микрофон ближе к источнику звука для лучшего качества записи</string>
+    <string name="record_while_in_call_tip">Запись во время вызова недоступна</string>
     <string name="recorder_record">Аудио</string>
     <string name="recording">Запись</string>
     <string name="recording_quality_high">Высокое качество</string>
