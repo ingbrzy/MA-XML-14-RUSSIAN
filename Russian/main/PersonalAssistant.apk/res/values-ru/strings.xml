@@ -59,13 +59,13 @@
     <string name="agenda_assistant_tail_num">Номер</string>
     <string name="agenda_bill_account">Аккаунт: %1$s</string>
     <string name="agenda_birthday_title">День рождения %1$s</string>
-    <string name="agenda_countdown_subtitle">Обратный отсчет | %1$s</string>
+    <string name="agenda_countdown_subtitle">Обратный отсчёт | %1$s</string>
     <string name="agenda_credit_payment">Погашение по кредитной карте %1$s (%2$s)</string>
     <string name="agenda_default">Мероприятия</string>
-    <string name="agenda_electricity">Счет за электричество</string>
+    <string name="agenda_electricity">Счёт за электричество</string>
     <string name="agenda_empty_content">Мероприятия отсутствуют</string>
     <string name="agenda_empty_title">Без названия</string>
-    <string name="agenda_gas">Счет за газ</string>
+    <string name="agenda_gas">Счёт за газ</string>
     <string name="agenda_i_known">Понятно</string>
     <string name="agenda_loan_payment">Погашение кредита %1$s (%2$s)</string>
     <string name="agenda_minute">мин.</string>
@@ -743,7 +743,7 @@
     <string name="cta_desc">Все важные функции в одном месте</string>
     <string name="cta_dialog_all_purpose">"Добро пожаловать в Ленту виджетов! Это приложение объединяет сервисы, связанные с работой, образом жизни и путешествиями. "</string>
     <string name="cta_dialog_desc_calendar">Для отображения мероприятий календаря и запланированных поездок</string>
-    <string name="cta_dialog_desc_location">Для расчета продолжительности ежедневных поездок на работу</string>
+    <string name="cta_dialog_desc_location">Для расчёта продолжительности ежедневных поездок на работу</string>
     <string name="cta_dialog_desc_phone_state">Для идентификации вашего устройства по IMEI</string>
     <string name="cta_dialog_desc_storage">Для сохранения файлов на устройстве</string>
     <string name="cta_dialog_miot_text_all">Для нормальной работы Mi Home требуется подключение к интернету, разрешение использовать геолокацию и сотовую сеть, включать Bluetooth, а также доступ к микрофону и чтение контактов. Разрешить?</string>
@@ -1406,7 +1406,7 @@ ID:%s
     <string name="mini_input_pwd">Введите пароль</string>
     <string name="mini_install_tips">Пожалуйста, загрузите и установите (обновите) плагин безопасности Alipay</string>
     <string name="mini_loading">Alipay</string>
-    <string name="mini_net_error">Низкая скорость сети, невозможно получить результаты платежа, вы можете посмотреть счет Alipay, приложение/сайт, на котором выполнялась операция, или обновить соединение с сетью</string>
+    <string name="mini_net_error">Низкая скорость сети, невозможно получить результаты платежа, вы можете посмотреть счёт Alipay, приложение/сайт, на котором выполнялась операция, или обновить соединение с сетью</string>
     <string name="mini_net_error_weak">Низкая скорость сети, повторите попытку позже</string>
     <string name="mini_no_download_url">Чтобы подключить платеж через браслет, необходимо скачать ПО для браслета. Сейчас путь загрузки получить не удалось, пожалуйста, свяжитесь с Alipay по номеру горячей линии (95188)</string>
     <string name="mini_no_input">Обязательно к заполнению</string>
@@ -1554,7 +1554,7 @@ ID:%s
     <string name="month_june">июня</string>
     <string name="month_june_short">июн</string>
     <string name="month_june_shortest">Июн</string>
-    <string name="month_list_activity_label">Выписка по счету %1$s</string>
+    <string name="month_list_activity_label">Выписка по счёту %1$s</string>
     <string name="month_march">марта</string>
     <string name="month_march_short">мар</string>
     <string name="month_march_shortest">Мар</string>
@@ -2068,7 +2068,7 @@ ID:%s
     <string name="pa_setting_privacy_perm_install_app">Доступ к списку приложений на устройстве</string>
     <string name="pa_setting_privacy_perm_install_app_desc">Для рекомендаций по приложениям</string>
     <string name="pa_setting_privacy_perm_location">Использование геолокации</string>
-    <string name="pa_setting_privacy_perm_location_desc">Для расчета вашего рейтинга в региональной таблице лидеров Super Slopes</string>
+    <string name="pa_setting_privacy_perm_location_desc">Для расчёта вашего рейтинга в региональной таблице лидеров Super Slopes</string>
     <string name="pa_setting_privacy_perm_not_granted">Не предоставлено</string>
     <string name="pa_setting_privacy_perm_storage">Доступ к хранилищу</string>
     <string name="pa_setting_privacy_policy">Политика конфиденциальности</string>
@@ -2298,7 +2298,7 @@ ID:%s
     <string name="payment_record_menu_delete">Удалить</string>
     <string name="payment_record_menu_select">Выбрать</string>
     <string name="payment_report_failed_record_dialog_cancel">Отмена</string>
-    <string name="payment_report_failed_record_dialog_message">Сообщайте о необработанных счетах, чтобы помочь нам сделать расчет платежей более точным. Данные, которыми вы делитесь, будут использоваться только для улучшения Ленты виджетов.</string>
+    <string name="payment_report_failed_record_dialog_message">Сообщайте о необработанных счетах, чтобы помочь нам сделать расчёт платежей более точным. Данные, которыми вы делитесь, будут использоваться только для улучшения Ленты виджетов.</string>
     <string name="payment_report_failed_record_dialog_ok">Отчёт</string>
     <string name="payment_setting">настройка</string>
     <string name="payment_total_month_desc">Этот месяц</string>

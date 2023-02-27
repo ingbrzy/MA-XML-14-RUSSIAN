@@ -493,7 +493,7 @@
     <string name="adapt_embedded">Разделение экрана доступно</string>
     <string name="adaptive_battery_main_switch_title">Адаптивное использование батареи</string>
     <string name="adaptive_brightness_main_switch_title">Адаптивная яркость</string>
-    <string name="adaptive_connectivity_summary">Продлевает время работы от батареи и повышает производительность за счет автоматического управления сетевыми подключениями</string>
+    <string name="adaptive_connectivity_summary">Продлевает время работы от батареи и повышает производительность за счёт автоматического управления сетевыми подключениями</string>
     <string name="adaptive_connectivity_switch_off">Откл.</string>
     <string name="adaptive_connectivity_switch_on">Вкл.</string>
     <string name="adaptive_connectivity_title">Адаптивная связь</string>
@@ -2617,7 +2617,7 @@
     <string name="credentials_title">Хранилище учётных данных</string>
     <string name="credentials_title_verification">Сертификация</string>
     <string name="credentials_wrong_password">Неправильный пароль.</string>
-    <string name="crisp_text">Высокие частоты добавляют четкость деталям выполняемых действий</string>
+    <string name="crisp_text">Высокие частоты добавляют чёткость деталям выполняемых действий</string>
     <string name="critical_feedback">Детализация</string>
     <string name="cross_profile_calendar_restricted_summary">В вашей организации запрещён доступ к рабочему календарю для личных приложений.</string>
     <string name="cross_profile_calendar_summary">Показывать рабочие мероприятия в личном календаре.</string>
@@ -3411,7 +3411,7 @@ ID: %s
     <string name="dual_wifi_avaliable_slave_wifi">Доступны дополнительные сети</string>
     <string name="dual_wifi_avaliable_slave_wifi_24G">Доступны дополнительные сети (2.4 ГГц)</string>
     <string name="dual_wifi_avaliable_slave_wifi_5G">Доступны дополнительные сети (5 ГГц)</string>
-    <string name="dual_wifi_enabler_summary">Ускорение Wi-Fi за счет объединения сетей</string>
+    <string name="dual_wifi_enabler_summary">Ускорение Wi-Fi за счёт объединения сетей</string>
     <string name="dual_wifi_off">Откл.</string>
     <string name="dual_wifi_on">Вкл.</string>
     <string name="dual_wifi_primary_wifi_connected">Основная сеть Wi-Fi</string>
@@ -3704,7 +3704,7 @@ ID: %s
     <string name="external_ram_dialog_icon_title">Включено расширение ОЗУ</string>
     <string name="external_ram_dialog_message">Перезагрузите устройство, чтобы изменения вступили в силу.</string>
     <string name="external_ram_dialog_title">Перезагрузка</string>
-    <string name="external_ram_intro">Расширение ОЗУ за счет хранилища. Используйте эту функцию только если на устройстве достаточно места.</string>
+    <string name="external_ram_intro">Расширение ОЗУ за счёт хранилища. Используйте эту функцию только если на устройстве достаточно места.</string>
     <string name="external_ram_remind_toast">Заканчивается место на устройстве. Расширение ОЗУ отключено.</string>
     <string name="external_ram_summary">Расширение ОЗУ на %1$s %2$s. Используйте эту функцию только если на устройстве достаточно места.</string>
     <string name="external_ram_title">Расширение ОЗУ</string>
@@ -10964,9 +10964,9 @@ UT-интерфейс: %5$s"</string>
     <string name="wapi_no">нет</string>
     <string name="wapi_no_vaild_cert">Требуемые сертификаты не установлены. Установить их?</string>
     <string name="wapi_password_empty">Введите пароль</string>
-    <string name="wapi_password_hex_format_add">Число шестнадцатеричных символов должно быть четным</string>
+    <string name="wapi_password_hex_format_add">Число шестнадцатеричных символов должно быть чётным</string>
     <string name="wapi_password_hex_format_invalid">Неверные шестнадцатеричные символы</string>
-    <string name="wapi_password_hex_length_invalid">Число шестнадцатеричных символов должно быть четным</string>
+    <string name="wapi_password_hex_length_invalid">Число шестнадцатеричных символов должно быть чётным</string>
     <string name="wapi_password_is_empty">Пароль не может быть пустым</string>
     <string name="wapi_password_is_not_hex_format">Недопустимые шестнадцатеричные символы</string>
     <string name="wapi_password_length_invalid">Пароль должен содержать от 8 до 64 символов</string>

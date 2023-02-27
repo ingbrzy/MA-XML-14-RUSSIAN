@@ -380,7 +380,7 @@ ID:%s
     <string name="mibi_paytool_wechat_return_cancel">WeChat возврат отменен</string>
     <string name="mibi_permanently_denied_perm_camera">Разрешите доступ к камере в Настройках для использования этих функций.</string>
     <string name="mibi_permanently_denied_perm_send_sms">Разрешите отправку SMS-сообщений в Настройках для использования этих функций.</string>
-    <string name="mibi_permission_des_camera">Для распознавания номеров карт пополнения счета мобильного телефона и т.д.</string>
+    <string name="mibi_permission_des_camera">Для распознавания номеров карт пополнения счёта мобильного телефона и т.д.</string>
     <string name="mibi_prepaid_card_hint">Все пополнения являются одноразовыми, выбранный номинал должен соответствовать карте пополнения. Неправильный выбор приведет к потере средств.</string>
     <string name="mibi_prepaid_card_hint_input_card_num">Введите номер карты</string>
     <string name="mibi_prepaid_card_hint_input_pwd">Введите пароль</string>
@@ -428,7 +428,7 @@ ID:%s
     <string name="mibi_progress_paytool_installing">Установка мобильного плагина безопасности %1$s…</string>
     <string name="mibi_progress_prepaid_creating">Создание заказа…</string>
     <string name="mibi_progress_querying">Обработка…</string>
-    <string name="mibi_progress_submit_hint">Пополнение будет отражено на вашем счете в течение 3 минут.</string>
+    <string name="mibi_progress_submit_hint">Пополнение будет отражено на вашем счёте в течение 3 минут.</string>
     <string name="mibi_progress_submit_pay">Оплата будет завершена через 3 минуты …</string>
     <string name="mibi_progress_submit_recharge_summary">Пополнение: %1$s Mi Coins.</string>
     <string name="mibi_progress_submit_title">Запрос подтверждён</string>
@@ -436,10 +436,10 @@ ID:%s
     <string name="mibi_progress_success_recharge_summary">Баланс аккаунта: %1$s Mi Coins.</string>
     <string name="mibi_progress_success_recharge_title">Пополнение %1$s Mi Coins завершено</string>
     <string name="mibi_progress_voucher_creating">Пополнение карты Mi Coin…</string>
-    <string name="mibi_progress_warning_check_with_contact">Платеж ещё не пришел на ваш счет.
+    <string name="mibi_progress_warning_check_with_contact">Платеж ещё не пришел на ваш счёт.
 Мы проверим ещё раз в течение двух рабочих дней.
 Центр обслуживания клиентов: 400-100-3399</string>
-    <string name="mibi_progress_warning_waiting">Платеж ещё не пришел на ваш счет.</string>
+    <string name="mibi_progress_warning_waiting">Платеж ещё не пришел на ваш счёт.</string>
     <string name="mibi_prompt_info_button_hint">Внимание(%d)</string>
     <string name="mibi_prompt_info_button_text">ОК</string>
     <string name="mibi_prompt_info_for_first_use">Mi Coin нельзя использовать для покупки оборудования на Mi.com</string>

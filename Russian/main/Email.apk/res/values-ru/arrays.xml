@@ -212,25 +212,25 @@
         <item>Огромный</item>
     </string-array>
     <string-array name="invoice_amount">
-        <item>Сумма счета</item>
-        <item>Сумма счета</item>
+        <item>Сумма счёта</item>
+        <item>Сумма счёта</item>
         <item>Сумма</item>
     </string-array>
     <string-array name="invoice_buyer">
         <item>Плательщик</item>
         <item>Покупатель</item>
-        <item>Счет</item>
+        <item>Счёт</item>
         <item>Просмотр</item>
     </string-array>
     <string-array name="invoice_card_keyword">
-        <item>Счет</item>
+        <item>Счёт</item>
     </string-array>
     <string-array name="invoice_card_pdf_keyword">
-        <item>Счет</item>
+        <item>Счёт</item>
         <item>invoice</item>
     </string-array>
     <string-array name="invoice_date">
-        <item>Дата выставления счета</item>
+        <item>Дата выставления счёта</item>
     </string-array>
     <string-array name="invoice_seller">
         <item>Бенефициар</item>

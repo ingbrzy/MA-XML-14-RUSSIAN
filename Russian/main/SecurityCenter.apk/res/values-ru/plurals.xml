@@ -34,6 +34,11 @@
         <item quantity="one">Добавлена %d игра</item>
         <item quantity="few">Добавлено %d игры</item>
     </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">Добавлено %d приложений</item>
+        <item quantity="one">Добавлено %d приложение</item>
+        <item quantity="few">Добавлено %d приложения</item>
+    </plurals>
     <plurals name="app_behavior_dashboard_title_desc">
         <item quantity="other">%d приложений</item>
         <item quantity="one">%d приложение</item>
@@ -247,6 +252,14 @@
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">Перемотка назад на %d сек.</item>
         <item quantity="one">Перемотка назад на %d сек.</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s ч.</item>
+        <item quantity="one">%s ч.</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s мин.</item>
+        <item quantity="one">%s мин.</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">%d приложений</item>
@@ -600,6 +613,11 @@
         <item quantity="one">"Доступ к сети ограничен для &lt;font color='#ff0000'&gt;%d&lt;/font&gt; приложения"</item>
         <item quantity="few">"Доступ к сети ограничен для &lt;font color='#ff0000'&gt;%d&lt;/font&gt; приложений"</item>
     </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">%d приложений не добавлено</item>
+        <item quantity="one">%d приложение не добавлено</item>
+        <item quantity="few">%d приложения не добавлено</item>
+    </plurals>
     <plurals name="notification_antivirus_title">
         <item quantity="other">%d дней без проверки</item>
         <item quantity="one">%d день без проверки</item>
@@ -644,8 +662,8 @@
         <item quantity="few">%d минуты назад</item>
     </plurals>
     <plurals name="number_locked">
-        <item quantity="other">ЗАЩИЩЕНО: %d</item>
-        <item quantity="one">ЗАЩИЩЕНО: %d</item>
+        <item quantity="other">Защищено: %d</item>
+        <item quantity="one">Защищено: %d</item>
     </plurals>
     <plurals name="number_masked">
         <item quantity="other">%d</item>
@@ -656,8 +674,8 @@
         <item quantity="one">Скрывается для %d приложения</item>
     </plurals>
     <plurals name="number_to_lock">
-        <item quantity="other">МОЖНО ЗАЩИТИТЬ: %d</item>
-        <item quantity="one">МОЖНО ЗАЩИТИТЬ: %d</item>
+        <item quantity="other">Можно защитить: %d</item>
+        <item quantity="one">Можно защитить: %d</item>
     </plurals>
     <plurals name="number_to_mask_text">
         <item quantity="other">Не скрывается для %d приложений</item>
@@ -694,6 +712,10 @@
     <plurals name="pc_battery_history_minute">
         <item quantity="other">" мин."</item>
         <item quantity="one">" мин."</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">Устройство разряжено. Переход в режим гибернации через %1$d сек.</item>
+        <item quantity="one">Устройство разряжено. Переход в режим гибернации через %1$d сек.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other"> %s дней</item>

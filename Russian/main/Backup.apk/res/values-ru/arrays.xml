@@ -63,7 +63,7 @@
         <item>Общий опыт</item>
         <item>Продолжительность передачи</item>
         <item>Простота процесса</item>
-        <item>Четкость инструкций</item>
+        <item>Чёткость инструкций</item>
         <item>Полезность функции</item>
     </string-array>
     <string-array name="trans_succeed_rating_hint">
@@ -77,6 +77,6 @@
         <item>Общий рейтинг</item>
         <item>Длительность передачи</item>
         <item>Простота процесса</item>
-        <item>Четкость инструкций</item>
+        <item>Чёткость инструкций</item>
     </string-array>
 </resources>

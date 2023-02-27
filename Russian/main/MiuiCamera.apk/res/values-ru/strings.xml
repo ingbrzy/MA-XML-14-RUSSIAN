@@ -2354,7 +2354,7 @@
     <string name="ultra_pixel_photography_close_tip">%s Ультра HD отключён</string>
     <string name="ultra_pixel_photography_open_tip">%s Ультра HD включён</string>
     <string name="ultra_pixel_portrait_hint">HD портрет</string>
-    <string name="ultra_pixel_pro_xxxm_message">Эта функция позволяет повысить четкость изображения. Когда она включена, фото могут обрабатываться дольше обычного.</string>
+    <string name="ultra_pixel_pro_xxxm_message">Эта функция позволяет повысить чёткость изображения. Когда она включена, фото могут обрабатываться дольше обычного.</string>
     <string name="ultra_pixel_pro_xxxm_title">200MP ПРО</string>
     <string name="ultra_pixel_xxxmp">200MP</string>
     <string name="ultra_pixel_zoom_no_support_tip">Увеличение не работает в режиме %s Ультра HD</string>

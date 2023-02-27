@@ -387,6 +387,7 @@
     <string name="start_scan">НАЧАТЬ СКАНИРОВАНИЕ</string>
     <string name="stop_advertise">ОСТАНОВИТЬ ПУБЛИКАЦИЮ</string>
     <string name="stop_scan">ОСТАНОВИТЬ СКАНИРОВАНИЕ</string>
+    <string name="sub_title_mishare_switch">Функция отключится автоматически через %d мин.</string>
     <string name="success_receive_much_file_from_pc">Получено более %2$d файлов от %1$s. Нажмите, чтобы посмотреть.</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
@@ -447,6 +448,8 @@
     <string name="tips_p2p_support_use5g_china">Для лучших результатов используйте сеть Wi-Fi 5 ГГц</string>
     <string name="tips_prompt_enable_midrop">Обмен файлами с устройствами поблизости</string>
     <string name="to_feedback">Отчёт</string>
+    <string name="toast_auto_close_in_minutes">Mi Share отключится через %d мин.</string>
+    <string name="toast_transfering">Передача файлов. Повторите позже.</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="transfer_intercept_to_remote">Не удалось передать: %1$s</string>
@@ -454,8 +457,10 @@
     <string name="transfer_to_pc_summary_new"><Data>Последняя версия MIUI+, установленная на ноутбуках Mi, совместима с Mi Share. Cписок поддерживаемых моделей ноутбуков можно проверить на сайте MIUI+ (&lt;a href=\"%1$s\">%2$s&lt;/a>). Если ваш ноутбук есть в списке, но MIUI+ на нем не установлен, обновите BIOS и драйвер сетевого адаптера ноутбука, затем загрузите MIUI+.</Data></string>
     <string name="transfer_to_pc_title">Передача на ПК</string>
     <string name="transfer_to_phone_summary">Включите Mi Share в шторке уведомлений. Выберите устройство получателя из списка доступных устройств поблизости, чтобы передать файлы или фото.</string>
+    <string name="transfer_to_phone_summary_new">Включите Mi Share в Центре управления для обмена файлами с устройствами поблизости. После %d мин. бездействия приложение автоматически отключится.</string>
     <string name="transfer_to_phone_title">Передача на устройство</string>
     <string name="transfer_to_summary">Включите Mi Share в шторке уведомлений. Выберите устройство получателя из списка доступных устройств поблизости, чтобы передать файлы или фото.</string>
+    <string name="transfer_to_summary_new">Включите Mi Share в Центре управления для обмена файлами с устройствами поблизости. После %d мин. бездействия приложение автоматически отключится.</string>
     <string name="transfer_to_title">Передача файлов на мобильные устройства</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>

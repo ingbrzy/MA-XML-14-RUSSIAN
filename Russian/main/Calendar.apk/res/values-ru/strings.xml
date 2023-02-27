@@ -223,7 +223,7 @@
     <string name="credit_detail_sms_content">Содержание SMS</string>
     <string name="credit_detail_today">Cегодня:</string>
     <string name="credit_event_delete_successfully">Успешно удалено</string>
-    <string name="credit_event_title">Счет кредитной карты</string>
+    <string name="credit_event_title">Счёт кредитной карты</string>
     <string name="cricket_card_notification_off">Не уведомлять до начала матча</string>
     <string name="cricket_card_notification_on">Уведомлять до начала матча</string>
     <string name="custom_date_year_format">dd, yyyy</string>
@@ -235,7 +235,7 @@
     <string name="custom_week_month_format">EEE, MMMM</string>
     <string name="custom_year_format">yyyy</string>
     <string name="daily">Ежедневно</string>
-    <string name="date_calculate">Расчет даты</string>
+    <string name="date_calculate">Расчёт даты</string>
     <string name="date_calculate_days">Введите число дней</string>
     <string name="date_calculate_description">Вычисление даты через любое количество дней</string>
     <string name="date_calculate_direction">Направление</string>
@@ -433,10 +433,10 @@
     <string name="gas_amount_label">Счета за газ</string>
     <string name="gas_bill_event_title">Оплата газа:</string>
     <string name="gas_cost_label">Сумма к оплате</string>
-    <string name="gas_detail_account_name">Номер счета</string>
-    <string name="gas_detail_deadline">Срок выставления счета</string>
+    <string name="gas_detail_account_name">Номер счёта</string>
+    <string name="gas_detail_deadline">Срок выставления счёта</string>
     <string name="gas_detail_header_title">Напоминание о плате за электричество</string>
-    <string name="gas_detail_name">Счет: %1$s</string>
+    <string name="gas_detail_name">Счёт: %1$s</string>
     <string name="gas_detail_title">Оплата за газ</string>
     <string name="gas_event_delete_successfully">Удалено</string>
     <string name="gas_interval_label">Расчётный период</string>
@@ -551,9 +551,9 @@
     <string name="life_card_credit_secondary">Дата погашения: %1$s  |  Истекает: %2$s</string>
     <string name="life_card_credit_secondary_no_countdown">Дата погашения: %1$s</string>
     <string name="life_card_credit_secondary_overdue">Дата погашения: %1$s  |  Срок истёк</string>
-    <string name="life_card_electricity_bill_primary">Оплата электричества (счет %1$s)</string>
+    <string name="life_card_electricity_bill_primary">Оплата электричества (счёт %1$s)</string>
     <string name="life_card_electricity_bill_primary_no_account">Оплата электричества</string>
-    <string name="life_card_gas_bill_primary">Оплата газа (счет %1$s)</string>
+    <string name="life_card_gas_bill_primary">Оплата газа (счёт %1$s)</string>
     <string name="life_card_gas_bill_primary_no_account">Оплата газа</string>
     <string name="life_card_gas_bill_secondary">Сегодня</string>
     <string name="life_card_gas_bill_secondary_title">Дата оплаты</string>

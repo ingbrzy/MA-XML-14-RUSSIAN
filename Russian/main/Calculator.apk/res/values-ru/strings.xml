@@ -221,8 +221,8 @@
     <string name="global_search_key_date_convertion">Конвертер времени;Единицы времени;Преобразование времени;Время</string>
     <string name="global_search_key_exchange_rate">Курс валют;Преобразование курсов валют;Конвертер валют;Валюта;Курсы валют</string>
     <string name="global_search_key_length_convertion">Длина;Конвертер длины;Преобразование длины</string>
-    <string name="global_search_key_mortgage">Расчет ипотеки;Ипотечный калькулятор;Ипотека</string>
-    <string name="global_search_key_personal_tax">Подоходный налог;Доход после уплаты налогов;Налоговый калькулятор;Расчет личного дохода;Расчет дохода;Расчет дохода после уплаты налогов;подоходный налог;налог;налоги</string>
+    <string name="global_search_key_mortgage">Расчёт ипотеки;Ипотечный калькулятор;Ипотека</string>
+    <string name="global_search_key_personal_tax">Подоходный налог;Доход после уплаты налогов;Налоговый калькулятор;Расчёт личного дохода;Расчёт дохода;Расчёт дохода после уплаты налогов;подоходный налог;налог;налоги</string>
     <string name="global_search_key_scientific_convertion">Инженерный калькулятор;Вычисление функций;Математика;Алгебра</string>
     <string name="global_search_key_speed_convertion">Преобразование единиц скорости;Преобразование скорости;Конвертер скорости;Скорость</string>
     <string name="global_search_key_temperature_convertion">Преобразование единиц температуры;Преобразование температуры;Конвертер температуры;Фаренгейт;Цельсий</string>
@@ -249,7 +249,7 @@
     <string name="investment_type_once">Однократно</string>
     <string name="investment_type_recurring">Регулярно</string>
     <string name="item_page_title_investment">Вклад</string>
-    <string name="item_title_aa_payment">Счет</string>
+    <string name="item_title_aa_payment">Счёт</string>
     <string name="item_title_age">Возраст</string>
     <string name="item_title_area_conversion">Площадь</string>
     <string name="item_title_bmi">ИМТ</string>
@@ -269,7 +269,7 @@
     <string name="item_title_radix">Система счисления</string>
     <string name="item_title_relationship">Термины родства</string>
     <string name="item_title_scientific_calculator">Инженерный</string>
-    <string name="item_title_spilt_bill">Счет</string>
+    <string name="item_title_spilt_bill">Счёт</string>
     <string name="item_title_tax">Налоги</string>
     <string name="item_title_temprature_conversion">Температура</string>
     <string name="item_title_time_conversion">Время</string>
@@ -288,7 +288,7 @@
     <string name="label_from_date">От</string>
     <string name="label_history">История</string>
     <string name="label_interest">Процент</string>
-    <string name="label_investment_disclaimer">Мы используем трехмесячный период компаундирования для регулярных расчетов</string>
+    <string name="label_investment_disclaimer">Мы используем трехмесячный период компаундирования для регулярных расчётов</string>
     <string name="label_investment_duration">Продолжительность</string>
     <string name="label_loan_tenure">Срок кредита</string>
     <string name="label_monthly_investment">Ежемесячные инвестиции</string>
@@ -483,7 +483,7 @@
     <string name="network_confirm_title">Предоставьте разрешения</string>
     <string name="network_privacy">Приложению требуются подключение к интернету и разрешение для сбора личной информации. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и Политикой конфиденциальности.</string>
     <string name="network_purpose">"Добро пожаловать в Калькулятор! Калькулятор позволяет конвертировать валюты, рассчитывать выплаты по ипотечным кредитам и многое другое. "</string>
-    <string name="new_privacy_string"><Data>"Добро пожаловать в Калькулятор!&lt;br/>Приложение предоставляет следующие функции:&lt;br/>• Общий калькулятор&lt;br/>• Научный калькулятор&lt;br/>• Конвертер (валюта, единицы измерения и др.)&lt;br/>• Шаблоны расчетов для кредитов, вкладов, EMI и др.&lt;br/>Как обрабатывается собранная в приложении личная информация, можно узнать в &lt;a href=\"%1$s\">Политике конфиденциальности&lt;/a>. Перед использованием приложения Калькулятор необходимо принять &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%3$s\">Политику конфиденциальности&lt;/a>. В случае несогласия с Политикой конфиденциальности приложения, можно отозвать свое согласие в настройках в любое время. В этом случае основные функции по-прежнему будут доступны, за исключением некоторых функций."</Data></string>
+    <string name="new_privacy_string"><Data>"Добро пожаловать в Калькулятор!&lt;br/>Приложение предоставляет следующие функции:&lt;br/>• Общий калькулятор&lt;br/>• Научный калькулятор&lt;br/>• Конвертер (валюта, единицы измерения и др.)&lt;br/>• Шаблоны расчётов для кредитов, вкладов, EMI и др.&lt;br/>Как обрабатывается собранная в приложении личная информация, можно узнать в &lt;a href=\"%1$s\">Политике конфиденциальности&lt;/a>. Перед использованием приложения Калькулятор необходимо принять &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%3$s\">Политику конфиденциальности&lt;/a>. В случае несогласия с Политикой конфиденциальности приложения, можно отозвать свое согласие в настройках в любое время. В этом случае основные функции по-прежнему будут доступны, за исключением некоторых функций."</Data></string>
     <string name="night">PM</string>
     <string name="none">Нет</string>
     <string name="noon">PM</string>
@@ -620,8 +620,8 @@
     <string name="tax_annual_bonus_number">Бонус (CNY)</string>
     <string name="tax_birth">Рождение</string>
     <string name="tax_bonus_error">Введите правильную сумму бонуса</string>
-    <string name="tax_cal_method_annual">Расчет годового бонуса</string>
-    <string name="tax_cal_method_fixed_salary">Расчет налога на прибыль</string>
+    <string name="tax_cal_method_annual">Расчёт годового бонуса</string>
+    <string name="tax_cal_method_fixed_salary">Расчёт налога на прибыль</string>
     <string name="tax_cal_method_format">Персональный вклад: %s</string>
     <string name="tax_city_error">Введите нужный город</string>
     <string name="tax_city_located">Местоположение</string>

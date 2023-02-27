@@ -256,7 +256,7 @@
     <string name="bank_card_type_debit">Дебетовая</string>
     <string name="bank_card_unit">cards</string>
     <string name="bank_card_user_account_expire">Срок действия аккаунта истёк</string>
-    <string name="bank_card_user_not_reserve_phone">Вы не указали номер телефона для банковского счета, обратитесь в службу поддержки банка</string>
+    <string name="bank_card_user_not_reserve_phone">Вы не указали номер телефона для банковского счёта, обратитесь в службу поддержки банка</string>
     <string name="bank_card_verify_failed">Неверные данные карты</string>
     <string name="bank_error">Не удалось выпустить карту. Повторите попытку или обратитесь в банк.</string>
     <string name="bank_system_busying">Повторите попытку позже, банковская система занята</string>
@@ -2948,10 +2948,10 @@ ID:%s
     <string name="nfc_add_time_max_desc">Можно добавить до 5 интервалов</string>
     <string name="nfc_add_time_switcher_desc">Выбрать эту карту по умолчанию для определённого времени.</string>
     <string name="nfc_add_time_switcher_title">Выбрать по умолчанию</string>
-    <string name="nfc_alert_msg_card_number_disable_and_refund">Карта заморожена. Сумма будет возвращена на ваш счет</string>
-    <string name="nfc_alert_msg_card_number_not_exist_and_refund">Неверный номер карты. Сумма будет возвращена на ваш счет</string>
-    <string name="nfc_alert_msg_card_out_validity_and_refund">Срок действия карты истёк. Сумма будет возвращена на ваш счет.</string>
-    <string name="nfc_alert_msg_card_refunded_and_refund">Карта аннулирована. Сумма будет возвращена на ваш счет</string>
+    <string name="nfc_alert_msg_card_number_disable_and_refund">Карта заморожена. Сумма будет возвращена на ваш счёт</string>
+    <string name="nfc_alert_msg_card_number_not_exist_and_refund">Неверный номер карты. Сумма будет возвращена на ваш счёт</string>
+    <string name="nfc_alert_msg_card_out_validity_and_refund">Срок действия карты истёк. Сумма будет возвращена на ваш счёт.</string>
+    <string name="nfc_alert_msg_card_refunded_and_refund">Карта аннулирована. Сумма будет возвращена на ваш счёт</string>
     <string name="nfc_alert_msg_card_status_data_illegal">Неверные данные карты. Обратитесь в службу поддержки.</string>
     <string name="nfc_alert_msg_card_status_end_date_invalid">Неверный срок действия. Обратитесь в службу поддержки.</string>
     <string name="nfc_alert_msg_card_status_inblacklist">Эта карта заблокирована. Обратитесь в службу поддержки.</string>
@@ -2962,7 +2962,7 @@ ID:%s
     <string name="nfc_alert_msg_miui_version_restricted">Текущая версия не поддерживается</string>
     <string name="nfc_alert_msg_no_stock">Повторите попытку позже</string>
     <string name="nfc_alert_msg_pay_duplicate">Уже оплачено</string>
-    <string name="nfc_alert_msg_recharge_failed_and_refund">Не удалось пополнить. Сумма будет возвращена на ваш счет.</string>
+    <string name="nfc_alert_msg_recharge_failed_and_refund">Не удалось пополнить. Сумма будет возвращена на ваш счёт.</string>
     <string name="nfc_alert_msg_recharge_result_unknown">Ошибка пополнения. Обратитесь в службу поддержки для подтверждения оплаты.</string>
     <string name="nfc_alert_title_recharge_failed_and_refund">Не удалось пополнить</string>
     <string name="nfc_alert_title_recharge_result_unknown">Не удалось загрузить</string>
@@ -3003,7 +3003,7 @@ ID:%s
     <string name="nfc_bind_bank_card_valid_hint_global">ММ/ГГ</string>
     <string name="nfc_bind_bank_card_valid_title_global">Срок действия</string>
     <string name="nfc_bind_bank_card_validate_code_hint_global">Введите код</string>
-    <string name="nfc_cannot_receive_verify_code">"1. Убедитесь, что используемый вами номер мобильного телефона и адрес электронной почты совпадают с указанными в информации о банковском счете.
+    <string name="nfc_cannot_receive_verify_code">"1. Убедитесь, что используемый вами номер мобильного телефона и адрес электронной почты совпадают с указанными в информации о банковском счёте.
 2. Проверьте папки \"Спам\" и \"Заблокированные\".
 3. Если номер телефона или адрес электронной почты был изменён, свяжитесь с эмитентом банковской карты."</string>
     <string name="nfc_card_balance_des">Баланс (CNY)</string>
@@ -3229,11 +3229,11 @@ ID:%s
     <string name="nfc_open_service_error_not_found">Нет доступных карт.</string>
     <string name="nfc_open_service_error_not_sign">Укажите имя пакета и подпись для Xiaomi</string>
     <string name="nfc_order_detail_delayed">Выполняется обработка. Повторите позже.</string>
-    <string name="nfc_order_hint_refund">Сумма будет возвращена на ваш счет в течение 2 часов.</string>
+    <string name="nfc_order_hint_refund">Сумма будет возвращена на ваш счёт в течение 2 часов.</string>
     <string name="nfc_order_not_found">Заказ не найден</string>
     <string name="nfc_order_refund_success">Возврат выполнен</string>
     <string name="nfc_order_refunding_fail">Не удалось выполнить возврат. Повторите попытку позже.</string>
-    <string name="nfc_order_refunding_success">Сумма будет возвращена на ваш счет.</string>
+    <string name="nfc_order_refunding_success">Сумма будет возвращена на ваш счёт.</string>
     <string name="nfc_pay_alipay">Alipay</string>
     <string name="nfc_paynext_result_fail_content_detail">Ошибка сервера. Повторите попытку позже.</string>
     <string name="nfc_paynext_result_issue_success_content">Карта добавлена</string>
@@ -3261,7 +3261,7 @@ ID:%s
     <string name="nfc_reading_tag_error_not_m1">Поддерживаются только карты Mifare 1k.</string>
     <string name="nfc_reading_tag_time_out">Таймаут. Пробуйте снова.</string>
     <string name="nfc_recharge_amount">+%1$.2f</string>
-    <string name="nfc_refund_success_back">Сумма будет возвращена на ваш счет.</string>
+    <string name="nfc_refund_success_back">Сумма будет возвращена на ваш счёт.</string>
     <string name="nfc_remove_door_card">Удалить</string>
     <string name="nfc_remove_transit_card">Удалить</string>
     <string name="nfc_remove_transit_card_global">Удалить карту</string>
@@ -3298,7 +3298,7 @@ ID:%s
     <string name="nfc_retrun_card_user_info_attention_desc">"1. Чтобы найти свой аккаунт Alipay, перейдите в раздел Alipay > Я и коснитесь фотографии профиля.
 2.Возврат средств на способ оплаты, использованный при первоначальной покупке, занимает около 3 рабочих дней.
 3. Если возврат не поступил, проверьте свою учётную запись Alipay.
-4. Убедитесь, что введенная вами информация верна. Эта информация предоставляется эмитенту вашей карты для возврата средств на ваш счет."</string>
+4. Убедитесь, что введенная вами информация верна. Эта информация предоставляется эмитенту вашей карты для возврата средств на ваш счёт."</string>
     <string name="nfc_retrun_card_user_info_attention_title">Важно</string>
     <string name="nfc_retrun_card_user_info_btn_title">Продолжить</string>
     <string name="nfc_retrun_card_user_info_confirm_dialog_content">Убедитесь, что информация об аккаунте верна</string>

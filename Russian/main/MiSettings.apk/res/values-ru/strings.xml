@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="actionbar_button_up_description">Назад</string>
-    <string name="adaptive_fps_tip">- Баланс между плавностью и временем автономной работы может быть достигнут за счет динамической регулировки частоты обновления.</string>
+    <string name="adaptive_fps_tip">- Баланс между плавностью и временем автономной работы может быть достигнут за счёт динамической регулировки частоты обновления.</string>
     <string name="advanced_mode">Расширенные настройки</string>
     <string name="africa_introduction">Дикая природа процветает в Африке, где обитают многие из самых известных животных мира</string>
     <string name="african_bush_elephant">Африканский слон</string>
@@ -279,7 +279,7 @@
     <string name="fps_normal">Стандартная</string>
     <string name="fps_radio_btn_title">Частота обновления</string>
     <string name="fps_save_battery_tips">Включена экономия заряда. Установлена частота обновления %d Гц.</string>
-    <string name="fps_smooth_summary">Высокая частота обновления добавляет четкость деталям</string>
+    <string name="fps_smooth_summary">Высокая частота обновления добавляет чёткость деталям</string>
     <string name="fps_smooth_title">Высокая</string>
     <string name="fps_standard_summary">Стандартная частота обновления экономит заряд батареи</string>
     <string name="fps_standard_title">Стандартная</string>
