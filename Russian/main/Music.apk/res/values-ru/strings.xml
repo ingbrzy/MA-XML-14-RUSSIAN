@@ -1468,6 +1468,7 @@ ID: %s
     <string name="search_result_online_songs">Онлайн</string>
     <string name="search_songs">Поиск треков</string>
     <string name="search_songs_count">Треки: %d</string>
+    <string name="see_more_videos">Больше видео</string>	
     <string name="select">Выбрать</string>
     <string name="select_all">Выбрать все</string>
     <string name="select_clip_desc">Выберите фрагмент</string>
@@ -1592,6 +1593,7 @@ ID: %s
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
     <string name="supplementary_songs">Дополнительные песни</string>
+    <string name="swipe_for_more">Проведите вверх, чтобы увидеть больше музыкальных клипов</string>
     <string name="switch_success">Успешно переключено</string>
     <string name="system_error_info">Система занята. Попробуйте позже.</string>
     <string name="tab_album">Альбомы</string>
