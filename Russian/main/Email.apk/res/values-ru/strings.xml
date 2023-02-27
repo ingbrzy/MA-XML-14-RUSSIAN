@@ -1663,12 +1663,12 @@
     <string name="silent_ringtone">Без звука</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="size_byte">Б</string>
-    <string name="size_giga_byte">ГБ</string>
-    <string name="size_kilo_byte">КБ</string>
-    <string name="size_mega_byte">МБ</string>
-    <string name="size_peta_byte">ПБ</string>
-    <string name="size_tera_byte">ТБ</string>
+    <string name="size_byte">" Б"</string>
+    <string name="size_giga_byte">" ГБ"</string>
+    <string name="size_kilo_byte">" КБ"</string>
+    <string name="size_mega_byte">" МБ"</string>
+    <string name="size_peta_byte">" ПБ"</string>
+    <string name="size_tera_byte">" ТБ"</string>
     <string name="sms_not_found_tip">Не удалось открыть приложение для отправки SMS. Откройте приложение и отправьте проверочное SMS вручную.</string>
     <string name="sms_tip">Сбой аутентификации, проверьте, перехватывает ли антивирусное ПО SMS</string>
     <string name="smtp_password_error">Неверный пароль сервера исходящих сообщений</string>

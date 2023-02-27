@@ -227,10 +227,10 @@
     <string name="show_hard_key_summary_new">Визуализировать нажатия кнопок навигации</string>
     <string name="show_screen_touch">Показывать касания и жесты</string>
     <string name="show_screen_touch_summary">Отображать касания и жесты с помощью белого кружка</string>
-    <string name="size_byte">Б</string>
-    <string name="size_gigabyte">ГБ</string>
-    <string name="size_kilobyte">КБ</string>
-    <string name="size_megabyte">МБ</string>
+    <string name="size_byte">" Б"</string>
+    <string name="size_gigabyte">" ГБ"</string>
+    <string name="size_kilobyte">" КБ"</string>
+    <string name="size_megabyte">" МБ"</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>
