@@ -3207,10 +3207,10 @@ d MMMM"</string>
     <string name="torch_opened">Фонарик включён</string>
     <string name="touch_filtered_warning">Настройки не могут проверить ваш ответ, потому что приложение скрывает запрос на разрешение.</string>
     <string name="track_frame_time">Профилировать HWUI-отрисовку</string>
-    <string name="traffic_unit_byte">" Б"</string>
-    <string name="traffic_unit_gigabyte">" ГБ"</string>
-    <string name="traffic_unit_kilobyte">" КБ"</string>
-    <string name="traffic_unit_megabyte">" МБ"</string>
+    <string name="traffic_unit_byte">Б</string>
+    <string name="traffic_unit_gigabyte">ГБ</string>
+    <string name="traffic_unit_kilobyte">КБ</string>
+    <string name="traffic_unit_megabyte">МБ</string>
     <string name="transcode_default">Предполагается, что приложения поддерживают современные форматы</string>
     <string name="transcode_disable_cache">Отключить кеш перекодирования</string>
     <string name="transcode_enable_all">Включить перекодирование</string>
