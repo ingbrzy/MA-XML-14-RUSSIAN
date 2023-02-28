@@ -356,7 +356,7 @@
     <string name="mw_guide_dialog_button_confirm">Понятно</string>
     <string name="mw_guide_dialog_message">Приложение не поддерживает разделение экрана, поэтому переключено в другой совместимый режим отображения</string>
     <string name="mw_guide_dialog_title">Внимание</string>
-    <string name="nearby_share">Nearby Share</string>
+    <string name="nearby_share">Обмен с окружением</string>
     <string name="notice_audition">Звуки природы</string>
     <string name="notification_channel_hotspot">Уведомление точки доступа</string>
     <string name="notificationxylophone">Уведомление (ксилофон)</string>
