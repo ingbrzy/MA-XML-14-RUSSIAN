@@ -1844,7 +1844,7 @@ ID: %s
     <string name="multi_view_tip_title">Увеличение и уменьшение</string>
     <string name="must_pick_file">Выберите фото</string>
     <string name="name_split">, </string>
-    <string name="nearby_share">Nearby Share</string>
+    <string name="nearby_share">Обмен с окружением</string>
     <string name="need_to_turn_on_network">Нет подключения к интернету</string>
     <string name="need_to_turn_on_sync">Включите синхронизацию с облаком</string>
     <string name="need_to_turn_on_sync_first">Включите синхронизацию с облаком</string>
