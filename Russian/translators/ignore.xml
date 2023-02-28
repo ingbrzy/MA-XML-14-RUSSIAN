@@ -4378,6 +4378,7 @@
     <string name="sixteen_thousand_kb">16384 KB</string>
     <string name="sixtyfive_thousand_kb">65536 KB</string>
     <string name="size_compat_cloud_data_module_config" />
+    <string name="size_suffix">%1$s %2$s</string>
     <string name="sk">3qy6ngTb0P+etx</string>
     <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="slider_game_page_code">00008</string>
