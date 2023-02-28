@@ -446,7 +446,7 @@
     <string name="time_picker_label_minute">М</string>
     <string name="tips_p2p_support_use5g">Для лучших результатов используйте сеть Wi-Fi 5 ГГц</string>
     <string name="tips_p2p_support_use5g_china">Для лучших результатов используйте сеть Wi-Fi 5 ГГц</string>
-    <string name="tips_prompt_enable_midrop">Обмен файлами с устройствами поблизости</string>
+    <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="to_feedback">Отчёт</string>
     <string name="toast_auto_close_in_minutes">Mi Share отключится через %d мин.</string>
     <string name="toast_transfering">Передача файлов. Повторите позже.</string>

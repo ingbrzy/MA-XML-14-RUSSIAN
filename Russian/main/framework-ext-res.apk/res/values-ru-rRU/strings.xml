@@ -589,7 +589,7 @@
     <string name="tip_for_phone_and_camera">Сложите устройство, чтобы использовать встроенный динамик или фронтальную камеру</string>
     <string name="tip_use_front_camera">"Сложите устройство, чтобы 
 использовать фронтальную камеру"</string>
-    <string name="tips_prompt_enable_midrop">Отправка файлов на устройства поблизости</string>
+    <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="total">Не беспокоить</string>
     <string name="total_description">Отключить звук и вибрацию для всего, кроме будильника</string>
     <string name="total_title">Не беспокоить</string>
