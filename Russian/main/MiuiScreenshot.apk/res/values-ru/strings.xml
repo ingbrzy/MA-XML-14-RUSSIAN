@@ -221,7 +221,7 @@
     <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="name_split">,</string>
-    <string name="nearby_share">Nearby Share</string>
+    <string name="nearby_share">Обмен с окружением</string>
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>
     <string name="not_set">Не задано</string>
@@ -230,7 +230,7 @@
     <string name="nubia_phone">Nubia</string>
     <string name="oneplus">OnePlus</string>
     <string name="oneplus_phone">OnePlus</string>
-    <string name="operation_send">Send</string>
+    <string name="operation_send">Отправить</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
     <string name="pad_device_model_name">Xiaomi Pad</string>
