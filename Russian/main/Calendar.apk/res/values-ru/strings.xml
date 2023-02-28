@@ -1160,6 +1160,7 @@
     <string name="size_kilo_byte">КБ</string>
     <string name="size_mega_byte">МБ</string>
     <string name="size_peta_byte">ПБ</string>
+    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="skip">Пропустить</string>
     <string name="small_week_date_format">EEE dd.MM.yyyy</string>

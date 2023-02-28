@@ -563,6 +563,7 @@ ID: %s
     <string name="size_kilo_byte">КБ</string>
     <string name="size_mega_byte">МБ</string>
     <string name="size_peta_byte">ПБ</string>
+    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="sniff_associate_text">Популярные запросы</string>
     <string name="sniff_bt_text">Torrent-файл</string>

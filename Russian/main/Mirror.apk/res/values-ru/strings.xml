@@ -463,6 +463,7 @@
     <string name="size_kilo_byte">КБ</string>
     <string name="size_mega_byte">МБ</string>
     <string name="size_peta_byte">ПБ</string>
+    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="softap_notification_action">Подключиться</string>
     <string name="softap_notification_message">Нет доступных сетей Wi-Fi. Подключиться к этой точке доступа?</string>
