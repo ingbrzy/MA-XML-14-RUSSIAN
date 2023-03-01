@@ -44,9 +44,9 @@
         <item quantity="few">%1$s разрешения,</item>
     </plurals>
     <plurals name="app_info_private_permission_count">
-        <item quantity="other">%1$s разрешений, связанных с безопасностью</item>
-        <item quantity="one">%1$s разрешение, связанное с безопасностью</item>
-        <item quantity="few">%1$s разрешения, связанных с безопасностью</item>
+        <item quantity="other">%1$s связаны с безопасностью</item>
+        <item quantity="one">%1$s связано с безопасностью</item>
+        <item quantity="few">%1$s связаны с безопасностью</item>
     </plurals>
     <plurals name="comment_count">
         <item quantity="other">%1$s отзывов</item>
