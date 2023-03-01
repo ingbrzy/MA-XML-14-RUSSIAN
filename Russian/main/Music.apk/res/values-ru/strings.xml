@@ -1593,7 +1593,7 @@ ID: %s
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
     <string name="supplementary_songs">Дополнительные песни</string>
-    <string name="swipe_for_more">Проведите вверх, чтобы увидеть больше музыкальных клипов</string>
+    <string name="swipe_for_more">Проведите вверх, чтобы увидеть больше клипов</string>
     <string name="switch_success">Успешно переключено</string>
     <string name="system_error_info">Система занята. Попробуйте позже.</string>
     <string name="tab_album">Альбомы</string>
@@ -1861,6 +1861,7 @@ ID: %s
     <string name="you">Вы</string>
     <string name="you_can_switch_mode_in_settings">Вы можете изменить режим в настройках</string>
     <string name="you_may_like">Вам также может понравиться</string>
+    <string name="you_might_like_it">Вам может понравиться</string>
     <string name="youtube_download_canl">Отмена</string>
     <string name="youtube_download_fail_net">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>
     <string name="youtube_download_fail_source">Произошла ошибка. Подождите немного и повторите попытку.</string>
