@@ -658,6 +658,7 @@
     <string-array name="device_settings_screen_wake_sates"></string-array>
     <array name="device_settings_sleep_snore_imgs_res_ids"></array>
     <string-array name="device_settings_vibrate_mode_type_array"></string-array>
+    <string-array name="device_support_3gonly2gonly"></string-array>
     <string-array name="device_support_pickup_by_MTK"></string-array>
     <array name="device_support_video_24_wallpaper" />
     <string-array name="device_use_camera_one"></string-array>
