@@ -113,7 +113,7 @@
     <string name="delete_file_success">Файл удалён</string>
     <string name="delete_operation_record">Удалить запись?</string>
     <string name="delete_operation_record_timeout">Не удалось удалить запись. Повторите попытку позже.</string>
-    <string name="delete_record_only">Файлы, на которые ссылаются выбранные записи, не будут удалены.</string>
+    <string name="delete_record_only">Будут удалены только выбранные записи. Никакие файлы удалены не будут.</string>
     <string name="delete_success">Успешно удалено</string>
     <string name="detail_download_path">"Папка: "</string>
     <string name="detail_download_time">"Загружено: "</string>
@@ -376,7 +376,7 @@
     <string name="operation_move">Переместить</string>
     <string name="operation_rename">Переименовать</string>
     <string name="operation_save">Сохранить</string>
-    <string name="operation_sure_to_delete">Удалить?</string>
+    <string name="operation_sure_to_delete">Удалить историю?</string>
     <string name="operation_transport_success">Добавлено в список загрузки</string>
     <string name="operation_will_not_show_after_delete">Запись больше не будет отображаться здесь, если удалите её</string>
     <string name="pause_all">Приостановить все</string>
