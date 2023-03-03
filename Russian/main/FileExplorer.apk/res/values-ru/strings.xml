@@ -146,6 +146,8 @@
     <string name="cloud_drive_settings">Настройки Mi Drive</string>
     <string name="cloud_empty_hint_text">"Ничего нет.
 Попробуйте переместить файлы с устройства на Mi Drive."</string>
+    <string name="cloud_empty_hint_text_pad">"Ничего нет.
+Попробуйте переместить файлы с устройства на Mi Drive."</string>
     <string name="cloud_guide_summary_text">Автоматическая синхронизация файлов на всех ваших устройствах</string>
     <string name="cloud_guide_title_text">Синхронизация с Mi Drive</string>
     <string name="cloud_permission_storage_desc">Для сохранения фото и документов на устройстве</string>
@@ -303,6 +305,9 @@
     <string name="exo_controls_stop_description">Остановить</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
+    <string name="extend_service_setting">Дополнительные службы</string>
+    <string name="extend_service_summary">Если отключить эту службу, функции Mi Drive будут недоступны</string>
+    <string name="extend_service_title">Управление файлами Mi Drive</string>
     <string name="extended_storage_file_can_not_open">Не удалось открыть файл. Скопируйте его в хранилище устройства.</string>
     <string name="extract">Извлечь</string>
     <string name="fab_menu_ball">Ярлык</string>
@@ -901,6 +906,9 @@
     <string name="status_bar_notification_info_overflow">&gt;999</string>
     <string name="stay_awake_summary">Не переходить в спящий режим при использовании FTP</string>
     <string name="stay_awake_title">Не выключать дисплей</string>
+    <string name="stop_extend_service_dialog_confirm">Отключить</string>
+    <string name="stop_extend_service_dialog_summary">Если отключить эту службу, управление файлами в Mi Drive будет недоступно. Всё равно отключить?</string>
+    <string name="stop_extend_service_dialog_tilte">Дополнительные службы</string>
     <string name="stop_server">Остановить</string>
     <string name="storage_cloned_app">Хранилище для клонов</string>
     <string name="storage_info_detail">Свободно: %1$s | Всего: %2$s</string>
