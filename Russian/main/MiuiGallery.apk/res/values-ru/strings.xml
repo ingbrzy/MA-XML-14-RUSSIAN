@@ -1962,7 +1962,7 @@ ID: %s
     <string name="operation_projection">Транслировать</string>
     <string name="operation_remove_face">Удалить</string>
     <string name="operation_remove_from_face_album">Удалить из альбома</string>
-    <string name="operation_remove_from_other_albums">Переместить из Других</string>
+    <string name="operation_remove_from_other_albums">Переместить из Другие</string>
     <string name="operation_remove_from_rubbish_albums">Восстановить</string>
     <string name="operation_remove_rubbish">Восстановить</string>
     <string name="operation_remove_secret">Переместить</string>
@@ -2001,7 +2001,7 @@ ID: %s
     <string name="origin_video_name">видео</string>
     <string name="other_album">Другие</string>
     <string name="other_album_operation_move_to_rubbish_albums">Переместить в корзину</string>
-    <string name="other_album_operation_remove_from_other_albums">Переместить из Других</string>
+    <string name="other_album_operation_remove_from_other_albums">Переместить из Другие</string>
     <string name="other_settings">Дополнительные настройки</string>
     <string name="owner_album_subtitle">Пользователей: %1$s</string>
     <string name="pad_device_model_name">Планшет Xiaomi</string>
@@ -2411,7 +2411,7 @@ ID: %s
     <string name="privacy_rejected_map_new">Отзыв согласия с Заявлением Карты галереи о совместном использовании данных третьей стороной</string>
     <string name="privacy_rejected_pos_btn">Отозвать</string>
     <string name="privacy_share_album_confirm">Условия и положения</string>
-    <string name="privacy_share_album_confirm_detail">Общие альбомы предоставляются Xiaomi Cloud. Перед использованием этой функции прочтите и примите наши &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Пользовательское соглашение>&lt;/a>&lt;/font> и &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Политику конфиденциальности&lt;/a>&lt;/font>.</string>
+    <string name="privacy_share_album_confirm_detail">Общие альбомы предоставляются Xiaomi Cloud. Перед использованием этой функции прочтите и примите наши &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Пользовательское соглашение&lt;/a>&lt;/font> и &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Политику конфиденциальности&lt;/a>&lt;/font>.</string>
     <string name="private_entry_lock_state_activated_text">Отпустите для открытия приватного альбома</string>
     <string name="private_entry_lock_state_enterd_text">Потяните вниз для открытия приватного альбома</string>
     <string name="problem_feedback">Обратная связь</string>
@@ -2522,7 +2522,7 @@ ID: %s
     <string name="remove_from_album_title">Удаление из этого альбома</string>
     <string name="remove_from_current_album">Удалить из этого альбома</string>
     <string name="remove_from_favorites_failed">Ошибка удаления из Избранных</string>
-    <string name="remove_from_other_albums_tip">Переместить из альбома Другие?</string>
+    <string name="remove_from_other_albums_tip">Переместить из Другие?</string>
     <string name="remove_from_secret_fail">Ошибка перемещения из приватного альбома</string>
     <string name="remove_from_secret_failed_with_reason">Ошибка перемещения из приватного альбома. %1$s.</string>
     <string name="remove_from_secret_successful">Перемещено из приватного альбома</string>
@@ -2856,8 +2856,8 @@ ID: %s
     <string name="show_cloud_albumlist_summary">После отключения синхронизации новые файлы из выбранных альбомов не будут загружаться в облако </string>
     <string name="show_hidden_album_summary">Просмотр и управление скрытыми альбомами</string>
     <string name="show_hidden_album_title">Скрытые альбомы</string>
-    <string name="show_in_other_albums_disable_toast_long_press_menu">Альбом перемещён, перейдите в Другие для просмотра</string>
-    <string name="show_in_other_albums_enable_toast_long_press_menu">Альбом перемещён, перейдите в Альбомы для просмотра</string>
+    <string name="show_in_other_albums_disable_toast_long_press_menu">Альбом перемещён. Перейдите в Альбомы для просмотра.</string>
+    <string name="show_in_other_albums_enable_toast_long_press_menu">Альбом перемещён. Перейдите в Другие для просмотра.</string>
     <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Перемещено в корзину</string>
     <string name="show_nearby_photos">Показать фото и видео поблизости</string>
     <string name="signature_dialog_clear">Очистить</string>
