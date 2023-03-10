@@ -1632,7 +1632,7 @@ ID:%s
     <string name="tb_detection_subpage_info">Страница %1$d описания. Проведите горизонтально в верхней части экрана, чтобы перейти на страницу %2$d.</string>
     <string name="tb_detection_subpage_last_info">Страница %1$d описания. Последняя страница.</string>
     <string name="tb_exercise_consume_no_data">Нет информации о калориях</string>
-    <string name="tb_exercise_consume_normal">Сожжено калорий: %1$d. %2$s. Нажмите чтобы посмотреть подробную информацию.</string>
+    <string name="tb_exercise_consume_normal">Сожжено калорий: %1$d. %2$s. Нажмите для подробностей.</string>
     <string name="tb_exercise_detail_consume_daily_enough">Сожжено калорий: %1$d. Тренировки было достаточно.</string>
     <string name="tb_exercise_detail_consume_daily_not_enough">Сожжено калорий: %1$d. Тренировка не была достаточно продуктивной.</string>
     <string name="tb_exercise_detail_consume_no_data">Нет информации о сожженных калориях</string>
@@ -1651,7 +1651,7 @@ ID:%s
     <string name="tb_exercise_detail_step_w_m_no_data">Нет данных о количестве шагов. Дни, когда вы достигли цели: %1$d.</string>
     <string name="tb_exercise_detail_step_w_m_no_goal">Среднее ежедневное количество шагов: %1$d.</string>
     <string name="tb_exercise_detail_step_w_m_normal">Среднее ежедневное количество шагов: %1$d. Дни, когда вы достигли цели: %2$d.</string>
-    <string name="tb_exercise_exercise_duration">Продолжительность упражнения в минутах: %1$d. %2$s. Нажмите чтобы посмотреть подробную информацию.</string>
+    <string name="tb_exercise_exercise_duration">Продолжительность упражнения в минутах: %1$d. %2$s. Нажмите для подробностей.</string>
     <string name="tb_exercise_exercise_no_data">Нет информации о продолжительности упражнений</string>
     <string name="tb_exercise_goal_info">Цель ежедневной активности: %1$s. %2$s</string>
     <string name="tb_exercise_home_banner">Ежедневная проверка</string>

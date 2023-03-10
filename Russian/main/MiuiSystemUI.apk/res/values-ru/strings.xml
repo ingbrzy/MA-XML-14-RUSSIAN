@@ -920,6 +920,10 @@
     <string name="daltonizer_mode_protanomaly">Протаномалия (красный-зелёный)</string>
     <string name="daltonizer_mode_tritanomaly">Тританомалия (синий-жёлтый)</string>
     <string name="daltonizer_type_overridden">Новая настройка: %1$s</string>
+    <string name="dark_mode_power_save_alert_dialog_confirm">Понятно</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"При отключении оптимизации MIUI и включении Экономии заряда, автоматически включится Тёмный режим.
+Чтобы отключить Тёмный режим, отключите Экономию заряда или включите оптимизацию MIUI в меню Для разработчиков."</string>
+    <string name="dark_mode_power_save_alert_dialog_title">Тёмный режим</string>
     <string name="data_connection_3_5g">H</string>
     <string name="data_connection_3_5g_plus">H+</string>
     <string name="data_connection_3g">3G</string>

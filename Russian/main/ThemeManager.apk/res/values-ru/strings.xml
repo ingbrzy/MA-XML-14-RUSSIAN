@@ -1597,7 +1597,7 @@ mm"</string>
     <string name="video_not_support_title">Видео слишком большое</string>
     <string name="video_silence_apply_success">Видео без звука установлено</string>
     <string name="video_wallpaper_apply_warning">Применить обои к рабочему столу и экрану блокировки?</string>
-    <string name="video_wallpaper_import">Нажмите чтобы добавить</string>
+    <string name="video_wallpaper_import">Добавить</string>
     <string name="vip_level_dialog_positive">Я знаю</string>
     <string name="vip_level_dialog_title">Совет</string>
     <string name="voice_input">Голосовой ввод</string>

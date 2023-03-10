@@ -533,6 +533,7 @@
     <string name="cleaner_space_description">можно освободить…</string>
     <string name="cleaner_space_detail_description">Удалите ненужные файлы в Галерее</string>
     <string name="cleaner_stop_scan">Остановить</string>
+    <string name="cleaner_subtitle_slim_space_prefix">Занято %1$s %2$s</string>
     <string name="cleaner_title">Очистка</string>
     <string name="cleaner_video_action">Просмотр</string>
     <string name="cleaner_video_description">Удаление видео</string>
@@ -574,7 +575,7 @@
     <string name="cloud_camera_display_name">Камера</string>
     <string name="cloud_cancel_authorizing_to_device">Отмена авторизации…</string>
     <string name="cloud_data_size">Фото и видео в облаке: %1$s</string>
-    <string name="cloud_full_space_tip_message">Обновите тарифный план облачного хранилища для возможности синхронизации фото и видео</string>
+    <string name="cloud_full_space_tip_message">Обновите тарифный план облачного хранилища для синхронизации фото и видео</string>
     <string name="cloud_full_space_tip_negative">Не сейчас</string>
     <string name="cloud_full_space_tip_positive">Обновить</string>
     <string name="cloud_full_space_tip_title">Недостаточно места</string>
@@ -2889,6 +2890,8 @@ ID: %s
     <string name="slim_action_auto_backup_enable_description">Загрузка в облако…</string>
     <string name="slim_action_auto_backup_sub_tip">Освободите место на устройстве</string>
     <string name="slim_action_auto_backup_tip">Включите синхронизацию с облаком</string>
+    <string name="slim_auto_backup_cloud_confirm_detail">Включите синхронизацию с облаком для загрузки фото и видео с устройства</string>
+    <string name="slim_auto_backup_cloud_confirm_title">Синхронизация с облаком</string>
     <string name="slim_complete">Готово</string>
     <string name="slim_complete_action_title">Оптимизация завершена</string>
     <string name="slim_complete_count">"Оптимизировано %1$s и %2$s. "</string>
@@ -2908,6 +2911,9 @@ ID: %s
     <string name="slim_dialog_title">Оптимизация места</string>
     <string name="slim_exit_dialog_positive">Остановить</string>
     <string name="slim_exit_dialog_title">Остановка оптимизации</string>
+    <string name="slim_finish_upgrade_tip"><Data>Обновите тарифный план облачного хранилища, чтобы получить больше места. &lt;a href=\"%1$s\">Обновить&lt;/a>.</Data></string>
+    <string name="slim_function_summery_first">Храните оптимизированные фото на устройстве, а исходные изображения в облаке</string>
+    <string name="slim_function_summery_second">Файлы за последние %d дней останутся на устройстве</string>
     <string name="slim_preference_scanning">Анализ фото и видео…</string>
     <string name="slim_preference_summery">Загрузка оригиналов в облако и сохранение копий меньшего размера высокого качества на устройстве через %d дней после съёмки.</string>
     <string name="slim_preference_title">Оптимизация места</string>
@@ -2915,7 +2921,12 @@ ID: %s
     <string name="slim_space">освобождено</string>
     <string name="slim_stop">Остановить</string>
     <string name="slim_stop_v2">Остановить</string>
-    <string name="slim_success_tip">Освобождено %s на устройстве</string>
+    <string name="slim_subtitle_slim_space_prefix">Свободно %1$s %2$s</string>
+    <string name="slim_subtitle_sync_off_no_slimdata">Включите синхронизацию с облаком для оценки свободного места</string>
+    <string name="slim_subtitle_sync_on_no_slimdata">Синхронизация. Попробуйте позже.</string>
+    <string name="slim_subtitle_sync_on_no_slimdata_no_cloudspace">Обновите тарифный план облачного хранилища, чтобы получить больше места</string>
+    <string name="slim_success_tip">Освобождено %s</string>
+    <string name="slim_upgrade_button">Обновить</string>
     <string name="slow_motion_enter">Замедленная съёмка</string>
     <string name="smartisan">Smartisan</string>
     <string name="smartisan_phone">Smartisan</string>
