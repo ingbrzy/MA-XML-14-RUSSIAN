@@ -1284,7 +1284,7 @@ ID: %s
     <string name="grant_permission_title">Предоставьте разрешения</string>
     <string name="grant_permission_unlock_and_set">Разблокировать</string>
     <string name="grant_permission_unlock_and_set_2">Разблокировать</string>
-    <string name="grant_permission_write_clipboard">Для возможности копирования содержимого, разрешите приложению запись в буфер обмена</string>
+    <string name="grant_permission_write_clipboard">Для копирования содержимого, разрешите приложению запись в буфер обмена</string>
     <string name="group_header_title_immutable_album">Организация фото</string>
     <string name="group_header_title_media_group">Типы медиа</string>
     <string name="group_header_title_third_album">Ещё</string>
@@ -1383,9 +1383,9 @@ ID: %s
     <string name="install_fail">Не удалось загрузить плагин из-за ошибки.</string>
     <string name="install_media_editor_download_description">Загрузка…</string>
     <string name="install_media_editor_download_title">Загрузка плагина редактора…</string>
-    <string name="install_media_editor_function_message">Для возможности использования \"%1$s\" загрузите последнюю версию редактора галереи.</string>
-    <string name="install_media_editor_latest_message">Для возможности редактирования загрузите последнюю версию плагина.</string>
-    <string name="install_media_editor_message">Для возможности редактирования необходимо загрузить плагин. Загрузить?</string>
+    <string name="install_media_editor_function_message">Для использования \"%1$s\" загрузите последнюю версию редактора галереи.</string>
+    <string name="install_media_editor_latest_message">Для редактирования загрузите последнюю версию плагина.</string>
+    <string name="install_media_editor_message">Для редактирования необходимо загрузить плагин. Загрузить?</string>
     <string name="install_media_editor_title">Загрузка плагина</string>
     <string name="internal_storage_device">Хранилище</string>
     <string name="invalid_invition_url">Неверная ссылка</string>
@@ -1926,7 +1926,7 @@ ID: %s
     <string name="online_video_vip_transcoding">"Потоковая передача для VIP…
 При первом использовании этой функции перекодирование может занять некоторое время."</string>
     <string name="open">ОК</string>
-    <string name="open_public_message">Создать ссылку для возможности поделиться с друзьями</string>
+    <string name="open_public_message">Создайте ссылку, чтобы поделиться с друзьями</string>
     <string name="open_public_title">Общий доступ</string>
     <string name="open_settings">Настройки</string>
     <string name="operate_processing_file_error">Дождитесь окончания обработки всех фото.</string>

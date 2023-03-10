@@ -436,7 +436,7 @@
     <string name="micloud_manual_reactivate">Реактивировать</string>
     <string name="micloud_manual_request_permission_cancel">Отмена</string>
     <string name="micloud_manual_request_permission_confirm">Настройки</string>
-    <string name="micloud_manual_request_permission_content">Для возможности пользоваться нашими сервисами, предоставьте Xiaomi Cloud следующие разрешения в Настройках: \"%s\".</string>
+    <string name="micloud_manual_request_permission_content">Чтобы пользоваться нашими сервисами, предоставьте Xiaomi Cloud следующие разрешения в Настройках: \"%s\".</string>
     <string name="micloud_manual_request_permission_content_on_provision">Предоставьте необходимые разрешения в приложении Безопасность</string>
     <string name="micloud_manual_request_permission_title">Предоставьте разрешения</string>
     <string name="micloud_manual_sync_all">Синхронизировать все элементы</string>

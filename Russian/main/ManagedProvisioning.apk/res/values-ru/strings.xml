@@ -137,7 +137,7 @@
     <string name="expand_button_title">Дополнительно</string>
     <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
     <string name="financed_device_screen_header">Устройство предоставлено %1$s</string>
-    <string name="financed_make_payments_subheader_description">%1$s может установить приложение %2$s для возможности платежей за это устройство.</string>
+    <string name="financed_make_payments_subheader_description">%1$s может установить приложение %2$s для возможности платежей.</string>
     <string name="financed_make_payments_subheader_title">Платежи за устройство</string>
     <string name="financed_restrict_device_subheader_description">%1$s может ограничить доступ к этому устройству, если платежи не совершаются.</string>
     <string name="financed_restrict_device_subheader_title">Ограничение пользования</string>

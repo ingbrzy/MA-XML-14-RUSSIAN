@@ -408,7 +408,7 @@
     <string name="info_system">Система:</string>
     <string name="info_system_version">Версия системы:</string>
     <string name="install_media_editor_button_text">Загрузить</string>
-    <string name="install_media_editor_message">Загрузить плагин для возможности редактирования?</string>
+    <string name="install_media_editor_message">Загрузить плагин для редактирования?</string>
     <string name="install_media_editor_title">Требуется плагин</string>
     <string name="instruction">Введите нижеприведенный адрес в FTP-клиент: </string>
     <string name="instruction_pre_pad">Управление файлами на этом устройстве с помощью ПК</string>

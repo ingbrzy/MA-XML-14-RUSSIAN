@@ -278,7 +278,7 @@
     <string name="bh_saved_number">Сохранённый номер: %1$s</string>
     <string name="bh_set_package">Установить тарифный план оператора связи</string>
     <string name="bh_settings">Настройки</string>
-    <string name="bh_should_login_to_buy">Войдите в Xiaomi аккаунт для возможности покупки минут и пакетов интернета</string>
+    <string name="bh_should_login_to_buy">Войдите в Xiaomi аккаунт для покупки минут и пакетов интернета</string>
     <string name="bh_sim">SIM %1$d</string>
     <string name="bh_sim_1">%1$s (SIM 1)</string>
     <string name="bh_sim_2">%1$s (SIM 2)</string>
@@ -1450,8 +1450,8 @@
     <string name="permission_notice_desc_write_external_storage">Для добавления фото профиля и импорта визиток</string>
     <string name="permission_record_audio_desc">Для использования голоса при проверке личности</string>
     <string name="permission_retry_deny">Отмена</string>
-    <string name="permission_retry_dialog_msg">Для возможности использовать SIM-карту с этим приложением, для вызовов с помощью ярлыков на рабочем столе, управления контактами и обновления журнала вызовов, разрешите приложению доступ к контактам и журналу вызовов, а также доступ к информации об устройстве.</string>
-    <string name="permission_retry_dialog_msg_pad">Для возможности использовать SIM-карту с этим приложением и управления контактами, разрешите приложению доступ к контактам и информации об устройстве.</string>
+    <string name="permission_retry_dialog_msg">Для использования SIM-карты с этим приложением, для вызовов с помощью ярлыков на рабочем столе, управления контактами и обновления журнала вызовов, разрешите приложению доступ к контактам и журналу вызовов, а также доступ к информации об устройстве.</string>
+    <string name="permission_retry_dialog_msg_pad">Для использования SIM-карты с этим приложением и управления контактами, разрешите приложению доступ к контактам и информации об устройстве.</string>
     <string name="permission_retry_setting">Настройки</string>
     <string name="permission_write_external_storage_desc">Для сохранения данных приложения</string>
     <string name="phoneLabelsGroup">Телефон</string>

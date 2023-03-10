@@ -151,7 +151,7 @@
     <string name="access_misport_title">Перенос из Mi Fit</string>
     <string name="access_permission_grant_authorization_title">Предоставьте разрешения</string>
     <string name="access_permission_not_agree_tips">Вы не сможете использовать эту службу, пока не предоставите необходимые разрешения, однако это не повлияет на использование вами других служб. Вы в любое время можете ограничить разрешения в Настройках.</string>
-    <string name="access_permission_storage_save_qrcode">Для возможности сохранять изображения, разрешите приложению доступ к хранилищу</string>
+    <string name="access_permission_storage_save_qrcode">Для сохранения изображений, разрешите приложению доступ к хранилищу</string>
     <string name="access_permission_to_grant_authorization">ОК</string>
     <string name="access_setting_done">Готово</string>
     <string name="access_thirdparty_alipay">Alipay</string>
