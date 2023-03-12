@@ -6046,7 +6046,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="vb_video_effects_3d_surround">Объемный звук</string>
     <string name="vb_video_effects_display_style">Стиль</string>
     <string name="vb_video_effects_dolby">Dolby Atmos</string>
-    <string name="vb_video_effects_dolby_dialog_enhancer">Улучшение</string>
+    <string name="vb_video_effects_dolby_dialog_enhancer">Усиление голоса</string>
     <string name="vb_video_effects_dolby_headset">" (только наушники)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos вкл.</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Расширенное стерео</string>
