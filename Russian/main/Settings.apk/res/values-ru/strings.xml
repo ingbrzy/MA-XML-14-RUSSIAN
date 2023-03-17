@@ -2722,6 +2722,10 @@
     <string name="dark_mode_day_night_mode_summary">Включение тёмного режима на закате и отключение на рассвете</string>
     <string name="dark_mode_day_night_mode_title">От заката до рассвета</string>
     <string name="dark_mode_font_background_title">Автонастройка текста и фона</string>
+    <string name="dark_mode_power_save_alert_dialog_confirm">Понятно</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"При отключении оптимизации MIUI и включении Экономии заряда, автоматически включится Тёмный режим.
+Чтобы отключить Тёмный режим, отключите Экономию заряда или включите оптимизацию MIUI в меню Для разработчиков."</string>
+    <string name="dark_mode_power_save_alert_dialog_title">Тёмный режим</string>
     <string name="dark_mode_time_settings">Расписание тёмного режима</string>
     <string name="dark_theme_main_switch_title">Использовать тёмную тему</string>
     <string name="dark_theme_slice_subtitle">Помогает продлить время работы батареи</string>
@@ -8933,12 +8937,14 @@ UT-интерфейс: %5$s"</string>
     <string name="shoulder_key_sound_text_wind">Двигатель</string>
     <string name="shoulder_key_switch_status_close">Откл.</string>
     <string name="shoulder_key_switch_status_open">Вкл.</string>
+    <string name="show_alarm_icon_title">Значок будильника</string>
     <string name="show_all_anrs">Показывать все ANR</string>
     <string name="show_all_anrs_summary">Показывать диалог \"Приложение не отвечает\" для всех приложений</string>
     <string name="show_all_apps">Вся информация об использовании</string>
     <string name="show_background_processes">Показать процессы в кеше</string>
     <string name="show_badge_notifications_short">"Метка 
 на иконке"</string>
+    <string name="show_bt_icon_title">Значок Bluetooth</string>
     <string name="show_carrier_under_keyguard_title">Оператор на экране блокировки</string>
     <string name="show_charging_in_non_lockscreen_animation">Анимация зарядки</string>
     <string name="show_charging_in_non_lockscreen_animation_summary">Отображать анимацию зарядки после разблокировки устройства и скрывать при воспроизведении видео или в полноэкранных сценах</string>
@@ -8960,7 +8966,9 @@ UT-интерфейс: %5$s"</string>
     <string name="show_ime_summary">Показывать на экране, когда физическая клавиатура включена</string>
     <string name="show_magnifier_when_input">Показывать лупу</string>
     <string name="show_menu">Вызов меню</string>
+    <string name="show_mute_icon_title">Значок режима \"Без звука\"</string>
     <string name="show_network_speed_title">Скорость сети</string>
+    <string name="show_nfc_icon_title">Значок NFC</string>
     <string name="show_non_rect_clip">Отладка операций усечения</string>
     <string name="show_notification_channel_warnings">Канал уведомлений</string>
     <string name="show_notification_channel_warnings_summary">Показывать предупреждение об уведомлениях приложения вне допустимого канала</string>
