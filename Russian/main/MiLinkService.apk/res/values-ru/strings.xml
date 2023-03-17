@@ -55,6 +55,7 @@
     <string name="appcirculate_fragment_circulate_device_list_text_searching">Поиск устройств поблизости…</string>
     <string name="appcirculate_toast_busy">На другом устройстве идёт передача файлов. Дождитесь завершения и повторите попытку.</string>
     <string name="appcirculate_toast_cancel">Отменено</string>
+    <string name="appcirculate_toast_connected">Начата трансляция</string>
     <string name="appcirculate_toast_fail">Не удалось переключиться на другое устройство</string>
     <string name="appcirculate_toast_loading">Переключение на другое устройство…</string>
     <string name="appcirculate_toast_not_support_device_pad">Не удалось открыть это приложение на ПК планшете</string>
@@ -130,6 +131,8 @@
     <string name="circulate_card_sticker_remote_control_volum_reduce">Громкость-</string>
     <string name="circulate_card_sticker_selected">Выбрано</string>
     <string name="circulate_common_retry_later">Повторите попытку позже</string>
+    <string name="circulate_controlphone_button_hint">Просмотр экрана</string>
+    <string name="circulate_controlphone_title">Управление устройством</string>
     <string name="circulate_cta_agree">Принимаю</string>
     <string name="circulate_cta_app_name">Mi Smart Hub</string>
     <string name="circulate_cta_desc_phone">Добро пожаловать в Mi Smart Hub! Это приложение можно использовать для трансляции содержимого экрана, воспроизведения мультимедиа на разных устройствах, для использования Mi Smart Play, MIUI+ и обмена между приложениями. Для нормальной работы приложению необходимы подключение к интернету и следующие разрешения:</string>
@@ -191,6 +194,13 @@
     <string name="circulate_local_pad_name">Планшет</string>
     <string name="circulate_local_phone_name">Моё устройство</string>
     <string name="circulate_public_device_title_format">"%1$s %2$s"</string>
+    <string name="circulate_ringfind_button_hint_play">Воспроизведение</string>
+    <string name="circulate_ringfind_button_hint_stop">Остановка воспроизведения</string>
+    <string name="circulate_ringfind_error_hint_ringing">Уже идёт воспроизведение</string>
+    <string name="circulate_ringfind_error_hint_start">Не удалось начать воспроизведение. Повторите попытку.</string>
+    <string name="circulate_ringfind_error_hint_stop">Не удалось остановить воспроизведение. Повторите попытку.</string>
+    <string name="circulate_ringfind_title">Воспроизведение</string>
+    <string name="circulate_ringfind_title_stop">Остановка воспроизведения</string>
     <string name="circulate_title">Mi Smart Hub</string>
     <string name="circulate_tv_power_alter_text">Вы настроили ТВ на выключение питания или экрана. После выключения, пульты управления и ТВ будут не видны.</string>
     <string name="circulate_tv_power_alter_title">Внимание</string>
@@ -219,8 +229,12 @@
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="device_desc_trust">Доверенные устройства</string>
+    <string name="device_type_name_pad">Планшет</string>
+    <string name="device_type_name_phone">Телефон</string>
     <string name="dialog_can_not_find_device">Устройства поблизости не найдены</string>
+    <string name="dialog_cancel">Отмена</string>
     <string name="dialog_cancle">Отмена</string>
+    <string name="dialog_confirm">ОК</string>
     <string name="dialog_connect_fail">Не удалось подключиться</string>
     <string name="dialog_connect_retry">Нажмите, чтобы повторить попытку</string>
     <string name="dialog_connect_verify_perssion">Дайте разрешение на телевизоре</string>
@@ -281,6 +295,16 @@
     <string name="expand_button_title">Дополнительно</string>
     <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
     <string name="file_read_des">Для отображения фото и других файлов на внешних мониторах</string>
+    <string name="find_device_close">Понятно</string>
+    <string name="find_device_notification_content_phone">%1$s ищет это устройство с помощью %2$s. Разблокируйте устройство для остановки воспроизведения.</string>
+    <string name="find_device_notification_content_single_phone">Идёт поиск этого устройства с помощью %1$s. Разблокируйте устройство для остановки воспроизведения.</string>
+    <string name="find_device_notification_content_single_tablet">Идёт поиск этого устройства с помощью %1$s. Разблокируйте устройство для остановки воспроизведения.</string>
+    <string name="find_device_notification_content_tablet">%1$s ищет это устройство с помощью %2$s. Разблокируйте устройство для остановки воспроизведения.</string>
+    <string name="find_device_popup_content_phone">%1$s ищет это устройство с помощью %2$s.</string>
+    <string name="find_device_popup_content_single_phone">Идёт поиск этого устройства с помощью %1$s</string>
+    <string name="find_device_popup_content_single_tablet">Идёт поиск этого устройства с помощью %1$s</string>
+    <string name="find_device_popup_content_tablet">%1$s ищет это устройство с помощью %2$s</string>
+    <string name="find_device_title">Воспроизведение звука на устройстве</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
@@ -320,6 +344,7 @@
     <string name="guide_page_subtitle_2">Перетащите карточку экрана этого устройства на планшет, ПК или ТВ для трансляции экрана устройства.</string>
     <string name="guide_page_subtitle_2_pad">Перетащите карточку экрана этого устройства на ТВ для отображения экрана устройства.</string>
     <string name="guide_page_subtitle_3">Перетащите приложение в Mi Smart Hub и выберите устройство, на котором хотите продолжить текущую задачу.</string>
+    <string name="guide_page_subtitle_earphones">Перетаскивайте наушники между телефоном, планшетом и телевизором, чтобы быстро переключить наушники на другое устройство</string>
     <string name="guide_page_title_0">Добро пожаловать в Mi Smart Hub!</string>
     <string name="guide_page_title_0_pad">Добро пожаловать в Mi Smart Hub!</string>
     <string name="guide_page_title_1">Воспроизведение аудио</string>
@@ -327,6 +352,7 @@
     <string name="guide_page_title_2">Трансляция экрана</string>
     <string name="guide_page_title_2_pad">Трансляция экрана</string>
     <string name="guide_page_title_3">Приложения</string>
+    <string name="guide_page_title_earphones">Быстрое переключение</string>
     <string name="hang_up">Трансляция при выключенном экране</string>
     <string name="hang_up_alert_dialog_content">При выключении экрана трансляция будет продолжаться. Для включения экрана нажмите кнопку питания.</string>
     <string name="hang_up_alert_dialog_neg">Отмена</string>

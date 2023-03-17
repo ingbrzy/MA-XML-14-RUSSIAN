@@ -136,6 +136,7 @@
     <string name="morning">Утро</string>
     <string name="night">Вечер</string>
     <string name="no_apps">Ничего нет</string>
+    <string name="no_icons">Нет значков</string>
     <string name="noon">Полдень</string>
     <string name="reset">Сброс</string>
     <string name="saturday">Суббота</string>
@@ -169,6 +170,7 @@
     <string name="solar_term_white_dews">Белые росы</string>
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
+    <string name="status_bar_icons">Значки строки состояния</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>

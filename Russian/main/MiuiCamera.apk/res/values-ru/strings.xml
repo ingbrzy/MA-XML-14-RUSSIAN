@@ -747,9 +747,13 @@
     <string name="download_automatic_title">Автозагрузка плагинов</string>
     <string name="download_cancel_hint">Отменить загрузку %1$s?</string>
     <string name="download_confirm">Загрузить</string>
-    <string name="download_hint">Для загрузки требуется %1$s МБ мобильного трафика. Загрузить?</string>
-    <string name="download_hint_cn">Устройство не подключено к Wi-Fi. Для загрузки требуется %1$s МБ мобильного трафика. Загрузить?</string>
-    <string name="download_hint_wifi">Устройство не подключено к Wi-Fi. Для загрузки требуется %1$s МБ мобильного трафика. Загрузить?</string>
+    <string name="download_hint">Для загрузки необходимо %1$s МБ мобильного трафика. Загрузить?</string>
+    <string name="download_hint_check_on_wifi">Устройство подключено к Wi-Fi. Загрузить файл %1$s МБ?</string>
+    <string name="download_hint_check_on_wifi_cn">Устройство подключено к Wi-Fi. Загрузить файл %1$s МБ?</string>
+    <string name="download_hint_check_on_wifi_remind">Больше не напоминать</string>
+    <string name="download_hint_check_on_wifi_remind_cn">Больше не напоминать</string>
+    <string name="download_hint_cn">Устройство не подключено к Wi-Fi. Для загрузки необходимо %1$s МБ мобильного трафика. Загрузить?</string>
+    <string name="download_hint_wifi">Устройство не подключено к Wi-Fi. Для загрузки необходимо %1$s МБ мобильного трафика. Загрузить?</string>
     <string name="download_in_progress">Загрузка…</string>
     <string name="download_in_progress_descrip">Загрузка</string>
     <string name="download_title">Мобильный трафик</string>

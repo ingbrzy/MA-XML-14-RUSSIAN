@@ -430,6 +430,7 @@
     <string name="gadget_weather_title_14">Погода 1x4</string>
     <string name="gadget_weather_title_24">Погода 2x4</string>
     <string name="garbage_count">Присутствуют старые экземпляры: %1$s</string>
+    <string name="global_search">Поиск</string>
     <string name="global_search_hint">Поиск</string>
     <string name="got_it_botton">Понятно</string>
     <string name="group_folder">Новая папка</string>
@@ -444,8 +445,11 @@
     <string name="home_gesture_content_center">Контент-центр</string>
     <string name="home_gesture_global_search">Включён</string>
     <string name="home_gesture_no_action">Отключён</string>
+    <string name="home_gesture_notification_and_control_center">Шторка уведомлений и центр управления</string>
     <string name="home_gesture_notification_bar">Уведомления</string>
     <string name="home_pull_down_action">Свайп вниз на рабочем столе</string>
+    <string name="home_pull_down_know">Понятно</string>
+    <string name="home_pull_up_content">Доступен поиск свайпом вниз на рабочем столе</string>
     <string name="home_screen">Рабочий стол</string>
     <string name="home_slide_up_action">Свайп вверх на рабочем столе</string>
     <string name="home_switch_personal_assistant">Экран слева</string>
@@ -869,6 +873,7 @@
     <string name="resource_canary_leak_tip">есть утечка!</string>
     <string name="resource_canary_wait_for_heapdump_message">Формирование дампа…</string>
     <string name="restore_icon_successful">Успешно добавлено</string>
+    <string name="risk_app_report">Сообщить о приложении</string>
     <string name="russia_preinstall_folder_name">Russia</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>

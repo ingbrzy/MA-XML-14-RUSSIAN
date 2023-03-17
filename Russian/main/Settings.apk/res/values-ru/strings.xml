@@ -9388,6 +9388,7 @@ UT-интерфейс: %5$s"</string>
 блокировки"</string>
     <string name="status_bar_app_enable_message">Метка на иконке</string>
     <string name="status_bar_carrier_settings_no_sim_card">Нет SIM-карты</string>
+    <string name="status_bar_icons_title">Значки строки состояния</string>
     <string name="status_bar_key_position_custom">Изменить положение кнопок</string>
     <string name="status_bar_settings">Уведомления</string>
     <string name="status_bar_settings_all_app_display_loading">Подождите…</string>

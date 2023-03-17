@@ -422,6 +422,7 @@
     <string name="network_daliy_net_usage_limit_tips">При достижении лимита трафика система ограничит доступ к мобильному интернету</string>
     <string name="network_data_net_checkbox_title">Включить мобильный интернет</string>
     <string name="network_data_net_custom_setting">Установить лимит трафика</string>
+    <string name="network_error">Ошибка сети</string>
     <string name="network_not_available">Не удалось подключиться к сети</string>
     <string name="network_setting">Настройки сети</string>
     <string name="network_wlan_net_checkbox_title">Включить Wi-Fi</string>
@@ -436,6 +437,7 @@
     <string name="not_set">Не задано</string>
     <string name="ok_button">OK</string>
     <string name="open_browser">Открыть в браузере</string>
+    <string name="page_load_failed">Не удалось открыть страницу</string>
     <string name="parent_center">Родительский центр</string>
     <string name="parent_center_app_exit_title">Выход из детского пространства</string>
     <string name="parent_center_app_eyes_protect_tips">Здоровое использование, защита детского зрения</string>
@@ -470,6 +472,17 @@
     <string name="password_toggle_content_description">Видимость пароля</string>
     <string name="password_verify_checkbox_title">Вам необходимо подтвердить пароль при выходе из детского пространства, если установлен пароль экрана блокировки</string>
     <string name="pc_activity_title">Оптимизация батареи</string>
+    <string name="pc_entered_extreme_mode">Включён режим гибернации</string>
+    <string name="pc_entered_extreme_mode_summary">Устройство разряжено. Включён режим гибернации, приложения работают в фоновом режиме без возможности отправки уведомлений.</string>
+    <string name="pc_extreme_exit_and_power_off">Выход</string>
+    <string name="pc_extreme_mode_bg_toast">В режиме гибернации приложения работают в фоновом режиме без возможности отправки уведомлений</string>
+    <string name="pc_extreme_mode_exit_risk_title">Внимание</string>
+    <string name="pc_extreme_mode_exit_risk_title_summary">Устройство разряжено. При выходе из режима гибернации устройство будет выключено.</string>
+    <string name="pc_extreme_mode_find_charger">Зарядите устройство как можно скорее</string>
+    <string name="pc_extreme_mode_runtime">Режим гибернации включен для %1$s %2$s.</string>
+    <string name="pc_extreme_mode_title">Режим гибернации</string>
+    <string name="pc_going_to_exit_extreme_mode">Выход из режима гибернации</string>
+    <string name="pc_going_to_exit_extreme_mode_summary">Устройство заряжается. Режим гибернации отключён.</string>
     <string name="permission_control">Управление разрешениями</string>
     <string name="playing">Игры</string>
     <string name="pm_lable_name">О ROOT-доступе</string>
@@ -483,6 +496,7 @@
     <string name="remove_kid_mode_tip_msg">При удалении дочернего пространства все данные в этом пространстве будут удалены без возможности восстановления. Удалить детское пространство?</string>
     <string name="renew_now">Продлить</string>
     <string name="restrict_time_interval">Период отключения</string>
+    <string name="retry_action">Повтор</string>
     <string name="safe_protect">Безопасность и защита</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
@@ -547,6 +561,7 @@
     <string name="superpower_date">EEEE, d MMMM</string>
     <string name="superpower_dialog_app_select_content">Сторонние приложения обычно потребляют больше энергии, чем системные приложения. Добавить в любом случае?</string>
     <string name="superpower_dialog_app_select_title">Внимание</string>
+    <string name="superpower_dialog_button_ok">ОК</string>
     <string name="superpower_exit_hint">Выключение ультраэкономии заряда…</string>
     <string name="superpower_incharging">Зарядка</string>
     <string name="superpower_progress_battery_last">%s осталось</string>

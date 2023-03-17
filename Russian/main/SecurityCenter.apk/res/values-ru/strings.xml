@@ -3544,7 +3544,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_fast_charge_switch_toast_message">Изменения будут применены при следующей зарядке</string>
     <string name="pc_fast_charge_title">Ускорение зарядки</string>
     <string name="pc_going_to_exit_extreme_mode">Выход из режима гибернации</string>
-    <string name="pc_going_to_exit_extreme_mode_summary">Устройство заряжается. Режим гибернации выключен.</string>
+    <string name="pc_going_to_exit_extreme_mode_summary">Устройство заряжается. Режим гибернации отключён.</string>
     <string name="pc_going_to_extreme_mode">Вход в режим гибернации</string>
     <string name="pc_hidemode_normal">Баланс</string>
     <string name="pc_hidemode_normal_title">Сбалансированный режим</string>

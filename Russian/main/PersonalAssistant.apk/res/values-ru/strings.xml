@@ -1701,7 +1701,10 @@ ID:%s
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Виджет: %s. Нажмите дважды кнопку ниже для замены другим виджетом.</string>
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Статус установки: %3$s. Кнопка \"Переключить\" ниже. Нажмите дважды для преключения.</string>
     <string name="pa_accessibility_picker_home_widget_slected">Выбран %1$s, размер: %2$s, состояние установки: %3$s. Нажмите дважды для подробностей. Нажмите и удерживайте, чтобы перетащить.</string>
+    <string name="pa_accessibility_picker_home_widget_slected_for_pay">"%1$s, %2$s, состояние установки: %3$s.
+Tap twice to view details."</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">Выбран %1$s, строка %2$d, номер %3$d. Нажмите дважды для подробностей.</string>
+    <string name="pa_accessibility_picker_order_list_to_theme">Откройте Темы</string>
     <string name="pa_accessibility_picker_search_cancel">Панель поиска виджета. Нажмите дважды для отмены.</string>
     <string name="pa_accessibility_picker_search_clear">Очистить ввод</string>
     <string name="pa_accessibility_picker_search_tips">Панель поиска виджета. Нажмите дважды для поиска.</string>
@@ -1998,6 +2001,7 @@ ID:%s
     <string name="pa_picker_no_relevant_content">Ничего не найдено</string>
     <string name="pa_picker_permission_denied">"Ленте виджетов требуется доступ к статусу установки
 для отображения виджетов."</string>
+    <string name="pa_picker_purchase_order">Приобретено</string>
     <string name="pa_picker_request">Настройки</string>
     <string name="pa_picker_retry">Повтор</string>
     <string name="pa_picker_search">Поиск</string>
@@ -2016,6 +2020,7 @@ ID:%s
     <string name="pa_picker_search_result_type_widget">Виджеты</string>
     <string name="pa_picker_suit_list_activity_title">Пакеты персонализации</string>
     <string name="pa_picker_tab_title_category">Категории</string>
+    <string name="pa_picker_tab_title_fun">Новое</string>
     <string name="pa_picker_tab_title_recommend">Рекомендации</string>
     <string name="pa_picker_theme_app_version_error">Некорректная версия приложения Темы</string>
     <string name="pa_picker_tips_count_limit_forbidden">Не удалось добавить виджеты. Удалите виджеты, чтобы добавить новые.</string>
@@ -2054,6 +2059,8 @@ ID:%s
     <string name="pa_setting_app_usage_auth_dialog_title">Внимание</string>
     <string name="pa_setting_bugreport">Обратная связь</string>
     <string name="pa_setting_perm_empty">Ничего нет</string>
+    <string name="pa_setting_personalized_recommenddation_swicth_summary">Получите рекомендации по виджетам на основе ваших интересов</string>
+    <string name="pa_setting_personalized_recommenddation_swicth_title">Персональные рекомендации</string>
     <string name="pa_setting_privacy_auth">Разрешить анализ использования приложений</string>
     <string name="pa_setting_privacy_auth_summary">Получение рекомендаций, основанных на ваших предпочтениях</string>
     <string name="pa_setting_privacy_category_perm">Разрешения</string>
@@ -2168,6 +2175,7 @@ ID:%s
     <string name="pa_sports_fav_league">Мои события</string>
     <string name="pa_sports_fav_title">Мои команды</string>
     <string name="pa_sports_followed">Подписки</string>
+    <string name="pa_sports_jump_error">Не удалось открыть страницу</string>
     <string name="pa_sports_league_detail_download_douyu">Загрузите Douyu для просмотра</string>
     <string name="pa_sports_league_detail_download_hupu">Загрузите Hupu для просмотра</string>
     <string name="pa_sports_league_detail_view">Просмотр</string>
