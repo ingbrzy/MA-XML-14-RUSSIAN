@@ -1500,7 +1500,7 @@ ID:%s
     <string name="sport_invalid_dialog_time_content">Эта тренировка длилась менее 5 секунд. Завершить без записи?</string>
     <string name="sport_invalid_dialog_title">Слишком быстро!</string>
     <string name="sport_menu_share">Отправить</string>
-    <string name="sport_no_internet_toast">Плохой сигнал. Не удается определить точное местоположение.</string>
+    <string name="sport_no_internet_toast">Плохой сигнал. Не удается получить точную геопозицию.</string>
     <string name="sport_outdoor_running">Бег</string>
     <string name="sport_pace_chart_last_km">Менее 1 км</string>
     <string name="sport_pace_step_unit">Об/мин</string>
@@ -1543,7 +1543,7 @@ ID:%s
     <string name="sporting_key_speed">Темп</string>
     <string name="sporting_key_step">Шаги</string>
     <string name="sporting_key_time">Длительность</string>
-    <string name="sporting_location">Местоположение</string>
+    <string name="sporting_location">Геолокация</string>
     <string name="sporting_title_outdoor_riding">Велосипед</string>
     <string name="sporting_title_pause">Пауза</string>
     <string name="sporting_title_running">Бег</string>

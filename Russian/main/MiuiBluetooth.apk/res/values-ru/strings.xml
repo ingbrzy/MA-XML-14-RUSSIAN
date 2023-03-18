@@ -516,7 +516,7 @@
     <string name="ims_reg_status_not_registered">Не зарегистрирована</string>
     <string name="ims_reg_status_registered">Зарегистрирована</string>
     <string name="ims_reg_title">Состояние регистрации IMS</string>
-    <string name="imsi_protection_warning">Этой сети доступен уникальный идентификатор, который может использоваться для отслеживания местоположения устройства. <annotation id="url">Подробнее</annotation></string>
+    <string name="imsi_protection_warning">Этой сети доступен уникальный идентификатор, который может использоваться для геолокации устройства. <annotation id="url">Подробнее</annotation></string>
     <string name="inactive_app_active_summary">Активно. Нажмите для отключения.</string>
     <string name="inactive_app_inactive_summary">Неактивно. Нажмите для включения.</string>
     <string name="inactive_apps_title">Неактивные приложения</string>
@@ -646,7 +646,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
     <string name="mobile_data_always_on">Мобильный интернет</string>
     <string name="mobile_data_always_on_summary">Не отключать мобильный интернет даже при активном Wi-Fi (для быстрого переключения между сетями)</string>
-    <string name="mock_location_app">Приложение для фиктивных местоположений</string>
+    <string name="mock_location_app">Приложение для фиктивных геоданных</string>
     <string name="mock_location_app_not_set">Приложение не выбрано</string>
     <string name="mock_location_app_set">Приложение: %1$s</string>
     <string name="monday">Понедельник</string>
@@ -1212,7 +1212,7 @@
     <string name="wifitrackerlib_connected_via_network_scorer">Автоматически подключено через %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
     <string name="wifitrackerlib_help_url_imsi_protection" />
-    <string name="wifitrackerlib_imsi_protection_warning">Этой сети доступен идентификатор SIM-карты, который можно использовать для отслеживания местоположения устройства. <annotation id="url">Подробнее</annotation></string>
+    <string name="wifitrackerlib_imsi_protection_warning">Этой сети доступен идентификатор SIM-карты, который можно использовать для геолокации устройства. <annotation id="url">Подробнее</annotation></string>
     <string name="wifitrackerlib_osu_completing_sign_up">Завершение регистрации…</string>
     <string name="wifitrackerlib_osu_connect_failed">Не удалось подключиться</string>
     <string name="wifitrackerlib_osu_opening_provider">Открытие %1$s</string>

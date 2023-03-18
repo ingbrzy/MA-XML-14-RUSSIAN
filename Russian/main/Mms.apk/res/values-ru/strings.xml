@@ -442,7 +442,7 @@
     <string name="home_tab_common">Обычные</string>
     <string name="hybrid_check_network">Настройки сети</string>
     <string name="hybrid_data_error">Произошла ошибка</string>
-    <string name="hybrid_locating_fail">Не удалось определить местоположение</string>
+    <string name="hybrid_locating_fail">Не удалось определить геопозицию</string>
     <string name="hybrid_network_access_denied">В доступе к сети отказано</string>
     <string name="hybrid_network_unavaliable">Не удалось подключиться к сети</string>
     <string name="hybrid_pull_to_refresh_pull_label">Потяните вниз для обновления…</string>
@@ -1024,7 +1024,7 @@
     <string name="rcs_chatbot_blocked_tip">Мини-приложение заблокировано. Не удается открыть диалог.</string>
     <string name="rcs_chatbot_card_message">Получена карточка. Нажмите для просмотра.</string>
     <string name="rcs_chatbot_file_message">Получен файл. Нажмите для просмотра.</string>
-    <string name="rcs_chatbot_geo_message">Получено сообщение с информацией о местоположении. Нажмите для просмотра.</string>
+    <string name="rcs_chatbot_geo_message">Получено сообщение с геопозицией. Нажмите для просмотра.</string>
     <string name="rcs_chatbot_image_message">Получено изображение. Нажмите для просмотра.</string>
     <string name="rcs_chatbot_local_net_error">"Не удалось получить данные.
 Включите мобильный интернет и откройте эту страницу снова."</string>
@@ -1590,7 +1590,7 @@
     <string name="timed_message_expired_title_2">Отправить их сейчас?</string>
     <string name="timed_message_to">для</string>
     <string name="title_activity_rcs_login">Вход</string>
-    <string name="title_activity_rcs_maps">Местоположение</string>
+    <string name="title_activity_rcs_maps">Геопозиция</string>
     <string name="title_allow_network_access">Автообновление данных</string>
     <string name="title_choose_contacts">Выбор контактов</string>
     <string name="title_collapse_sp_messages">Группировать уведомления</string>

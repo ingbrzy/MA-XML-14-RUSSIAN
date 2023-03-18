@@ -85,8 +85,8 @@
     <string name="error_camera_unavailable_title">Камера недоступна</string>
     <string name="evening">После полудня</string>
     <string name="expand_button_title">Дополнительно</string>
-    <string name="first_using_dialog_message">Приложению Компас для нормальной работы требуется доступ к сети, камере и местоположению.</string>
-    <string name="first_using_dialog_message_no_camera">Приложению Компас для нормальной работы требуется доступ к интернету и местоположению. Разрешить?</string>
+    <string name="first_using_dialog_message">Приложению Компас для нормальной работы требуются разрешения для доступа к интернету, камере и геолокации</string>
+    <string name="first_using_dialog_message_no_camera">Приложению Компас для нормальной работы требуются разрешения для доступа к интернету и геолокации. Разрешить?</string>
     <string name="first_using_dialog_title">Предоставьте разрешения</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>

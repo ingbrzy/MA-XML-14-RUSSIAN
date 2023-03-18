@@ -3402,7 +3402,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="om_shortcut_dialog_summary">Ускорение позволяет очистить память и ускорить работу устройства одним нажатием. Добавить ярлык на рабочий стол?</string>
     <string name="om_shortcut_dialog_title">Ускорение</string>
     <string name="once_settings_camera_ttile">Отправить без метаданных</string>
-    <string name="once_settings_location_title">Отправлять без информации о местоположении</string>
+    <string name="once_settings_location_title">Отправить без геопозиции</string>
     <string name="once_settings_subtitle">Как вы хотите поделиться выбранными файлами?</string>
     <string name="once_settings_title">Защита приватности</string>
     <string name="one_address_choose_hint">%s1</string>
@@ -4457,7 +4457,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_risk_detection_user">Личная информация</string>
     <string name="privacy_risk_install_app">Небезопасные приложения</string>
     <string name="privacy_risk_photo_delete">Фотографии могут быть удалены без вашего разрешения</string>
-    <string name="privacy_risk_photo_location">Фотографии с информацией о местоположении</string>
+    <string name="privacy_risk_photo_location">Фотографии с геопозицией</string>
     <string name="privacy_risk_photo_location_msg">Ограничить доступ к Галерее, когда в этом нет необходимости</string>
     <string name="privacy_risk_photo_msg">Фотографии с конфиденциальной информацией</string>
     <string name="privacy_risk_result_cancel_msg">Не удалось завершить сканирование. Продолжите, чтобы получить результаты.</string>
@@ -4481,7 +4481,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_risk_sensitive_bar_title">Конфиденциальные разрешения</string>
     <string name="privacy_risk_sensitive_call_records">Доступ к журналу вызовов</string>
     <string name="privacy_risk_sensitive_contact">Доступ к контактам</string>
-    <string name="privacy_risk_sensitive_location">Определение местоположения</string>
+    <string name="privacy_risk_sensitive_location">Геолокация</string>
     <string name="privacy_risk_sensitive_permissions">Конфиденциальные разрешения</string>
     <string name="privacy_risk_sensitive_permissions_msg">Предоставляйте разрешения только тогда, когда это необходимо</string>
     <string name="privacy_risk_sensitive_record">Запись аудио или вызовов</string>
@@ -4673,7 +4673,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="save_mode_btn_ok">Понятно</string>
-    <string name="sc_allow_network_dialog_message">Вы ограничили сетевое подключение и доступ к вашему местоположению. Предоставьте приложению \"Безопасность\" необходимые разрешения для использования этой функции.</string>
+    <string name="sc_allow_network_dialog_message">Вы ограничили сетевое подключение и геолокацию. Предоставьте приложению \"Безопасность\" необходимые разрешения для использования этой функции.</string>
     <string name="sc_allow_network_dialog_tiltle">Невозможно использовать функцию</string>
     <string name="sc_system_risk_fix_info_xspace">Нельзя решить проблему во втором пространстве. Повторите попытку в первом пространстве.</string>
     <string name="sc_warning_updater_not_found">Приложение \"Обновление\" не найдено.</string>
@@ -5921,7 +5921,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="traffic_remind">"Предупреждать о трафике "</string>
     <string name="traffic_remind_switch">"Предупреждать о трафике "</string>
     <string name="traffic_reminder_settings">Предупреждение о трафике</string>
-    <string name="traffic_setting_fragment_area">Местоположение</string>
+    <string name="traffic_setting_fragment_area">Геолокация</string>
     <string name="traffic_setting_fragment_brand">Бренд</string>
     <string name="traffic_setting_fragment_button1_text">Отмена</string>
     <string name="traffic_setting_fragment_button2_text">Сохранить</string>
@@ -6188,7 +6188,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="warningcenter_disaster_level_info">Уровни предупреждения</string>
     <string name="warningcenter_disaster_level_title">Уровни предупреждения</string>
     <string name="warningcenter_disaster_list_title">Предупреждения о бедствиях</string>
-    <string name="warningcenter_disaster_local">Местоположение</string>
+    <string name="warningcenter_disaster_local">Геолокация</string>
     <string name="warningcenter_disaster_mai">Туман</string>
     <string name="warningcenter_disaster_orange">Оранжевый уровень</string>
     <string name="warningcenter_disaster_place_settings">Регион</string>

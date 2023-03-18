@@ -195,7 +195,7 @@
     <string name="accessibility_left_control_center_button">Ярлык</string>
     <string name="accessibility_left_lock_screen_magazine_button">Карусель обоев</string>
     <string name="accessibility_left_xmyzl_button">Xiaomi Quick Connect</string>
-    <string name="accessibility_location_active">Есть активные запросы на определение местоположения</string>
+    <string name="accessibility_location_active">Есть активные запросы на геолокацию</string>
     <string name="accessibility_lock_icon">Устройство заблокировано</string>
     <string name="accessibility_long_click_tile">Открыть настройки</string>
     <string name="accessibility_manage_notification">Управление уведомлениями</string>
@@ -441,8 +441,8 @@
     <string name="alarms_and_reminders_switch_title">Разрешить установку будильников и напоминаний</string>
     <string name="alarms_and_reminders_title">Будильники и напоминания</string>
     <string name="all_network_unavailable">Нет доступных сетей</string>
-    <string name="allow_mock_location">Фиктивные местоположения</string>
-    <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
+    <string name="allow_mock_location">Фиктивные геоданные</string>
+    <string name="allow_mock_location_summary">Разрешить использование фиктивных геоданных</string>
     <string name="allow_turn_screen_on">Разрешить включение экрана</string>
     <string name="allow_turn_screen_on_description">Разрешить приложению включать экран. Приложение сможет включать экран в любое время без вашего участия.</string>
     <string name="always_use_accessory">Использовать по умолчанию для этого USB аксессуара</string>
@@ -759,7 +759,7 @@
     <string name="camera_recording_announcement">Камера: идёт запись</string>
     <string name="camera_stopped_recording_announcement">Камера: запись остановлена</string>
     <string name="cancel">Отмена</string>
-    <string name="car_lockscreen_disclaimer_text">Будьте в курсе дорожной обстановки и соблюдайте действующие правила. Указания могут быть неточными, неполными, опасными, неподходящими, запрещёнными или связанными с пересечением административных зон. Бизнес-информация также может быть неточной или неполной. Данные не поставляются в режиме реального времени, и точность местоположения не может быть гарантирована. Не используйте во время вождения мобильное устройство, а также приложения, несовместимые с Android Auto.</string>
+    <string name="car_lockscreen_disclaimer_text">Будьте в курсе дорожной обстановки и соблюдайте действующие правила. Указания могут быть неточными, неполными, опасными, неподходящими, запрещёнными или связанными с пересечением административных зон. Бизнес-информация также может быть неточной или неполной. Данные не поставляются в режиме реального времени, и точность геолокации не может быть гарантирована. Не используйте во время вождения мобильное устройство, а также приложения, несовместимые с Android Auto.</string>
     <string name="car_lockscreen_disclaimer_title">Водите аккуратно</string>
     <string name="carrier_network_change_mode">Смена сети</string>
     <string name="category_personal">Личный профиль</string>
@@ -1408,7 +1408,7 @@
     <string name="ims_reg_status_not_registered">Не зарегистрирован</string>
     <string name="ims_reg_status_registered">Зарегистрирован</string>
     <string name="ims_reg_title">Статус сервиса IMS</string>
-    <string name="imsi_protection_warning">Этой сети доступен уникальный идентификатор, который может использоваться для отслеживания местоположения устройства. <annotation id="url">Подробнее</annotation></string>
+    <string name="imsi_protection_warning">Этой сети доступен уникальный идентификатор, который может использоваться для геолокации устройства. <annotation id="url">Подробнее</annotation></string>
     <string name="inactive_app_active_summary">Активно. Нажмите для отключения.</string>
     <string name="inactive_app_inactive_summary">Неактивно. Нажмите для включения.</string>
     <string name="inactive_apps_title">Неактивные приложения</string>
@@ -1723,8 +1723,8 @@
     <string name="local_backup_password_toast_confirmation_mismatch">Пароли не совпадают</string>
     <string name="local_backup_password_toast_success">Новый пароль для резервных копий задан</string>
     <string name="local_backup_password_toast_validation_failure">Не удалось задать пароль для резервных копий</string>
-    <string name="location_status">Данные о местоположении</string>
-    <string name="location_status_content_description">%1$s поделился местоположением</string>
+    <string name="location_status">Геопозиция</string>
+    <string name="location_status_content_description">%1$s поделился геопозицией</string>
     <string name="lock_screen_access_to_5G">Доступ к 5G</string>
     <string name="lock_screen_carrier_airplane_mode_on">Режим полёта</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
@@ -1964,7 +1964,7 @@ mm"</string>
     <string name="mobile_data_no_connection">Нет подключения</string>
     <string name="mobile_data_off_summary">Без автоподключения к мобильному интернету</string>
     <string name="mobile_data_settings_title">Мобильный интернет</string>
-    <string name="mock_location_app">Приложение для фиктивных местоположений</string>
+    <string name="mock_location_app">Приложение для фиктивных геоданных</string>
     <string name="mock_location_app_not_set">Приложение не выбрано</string>
     <string name="mock_location_app_set">Приложение: %1$s</string>
     <string name="monday">Понедельник</string>
@@ -2006,7 +2006,7 @@ mm"</string>
     <string name="monitoring_description_network_logging">"Администратор включил ведение сетевого журнала для отслеживания трафика на устройстве.
 
 Для получения подробной информации обращайтесь к администратору."</string>
-    <string name="monitoring_description_parental_controls">Это устройство под родительским контролем. Ваш родитель может видеть и контролировать используемые вами приложения, ваше местоположение, длительность использования устройства.</string>
+    <string name="monitoring_description_parental_controls">Это устройство под родительским контролем. Ваш родитель может видеть и контролировать используемые вами приложения, местонахождение, длительность использования устройства.</string>
     <string name="monitoring_description_personal_profile_named_vpn">В личном профиле запущено приложение %1$s, которое может отслеживать ваши действия в сети, включая работу с электронной почтой, приложениями и сайтами.</string>
     <string name="monitoring_description_two_named_vpns">Запущены приложения %1$s и %2$s, которые могут отслеживать ваши действия в сети, включая работу с электронной почтой, приложениями и сайтами.</string>
     <string name="monitoring_description_vpn">"Вы разрешили приложению подключаться к сети VPN.
@@ -3538,7 +3538,7 @@ d MMMM"</string>
     <string name="wifi_not_in_range">Недоступно</string>
     <string name="wifi_passpoint_expired">Срок действия истёк</string>
     <string name="wifi_remembered">Сохранено</string>
-    <string name="wifi_scan_notify_message">Чтобы улучшать работу устройства (например, для более точного определения вашего местоположения), приложения и сервисы могут искать беспроводные сети в любое время, даже если вы отключили Wi‑Fi. Запретить это можно в настройках поиска сетей Wi-Fi.</string>
+    <string name="wifi_scan_notify_message">Чтобы улучшать работу устройства (например, для более точной геолокации, приложения и сервисы могут искать беспроводные сети в любое время, даже если вы отключили Wi-Fi. Запретить это можно в настройках поиска сетей Wi-Fi.</string>
     <string name="wifi_scan_throttling">Ограничивать поиск сетей Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Уменьшает энергопотребление и улучшает работу сети</string>
     <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
@@ -3611,7 +3611,7 @@ d MMMM"</string>
     <string name="wifitrackerlib_connected_via_network_scorer">Автоматически подключено через %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
     <string name="wifitrackerlib_help_url_imsi_protection" />
-    <string name="wifitrackerlib_imsi_protection_warning">Этой сети доступен идентификатор SIM-карты, который можно использовать для отслеживания местоположения устройства. <annotation id="url">Подробнее</annotation></string>
+    <string name="wifitrackerlib_imsi_protection_warning">Этой сети доступен идентификатор SIM-карты, который можно использовать для геолокации устройства. <annotation id="url">Подробнее</annotation></string>
     <string name="wifitrackerlib_osu_completing_sign_up">Завершение регистрации…</string>
     <string name="wifitrackerlib_osu_connect_failed">Не удалось подключиться</string>
     <string name="wifitrackerlib_osu_opening_provider">Открытие %1$s</string>

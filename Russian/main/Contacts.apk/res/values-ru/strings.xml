@@ -966,7 +966,7 @@
     <string name="hint_more_contact">Объедините дубликаты контактов</string>
     <string name="hybrid_check_network">Настройки сети</string>
     <string name="hybrid_data_error">Произошла ошибка</string>
-    <string name="hybrid_locating_fail">Не удалось определить местоположение</string>
+    <string name="hybrid_locating_fail">Не удалось определить геопозицию</string>
     <string name="hybrid_network_unavaliable">Не удалось подключиться к сети</string>
     <string name="hybrid_service_unavailiable">Сервис недоступен</string>
     <string name="hybrid_try_again">Повторить</string>

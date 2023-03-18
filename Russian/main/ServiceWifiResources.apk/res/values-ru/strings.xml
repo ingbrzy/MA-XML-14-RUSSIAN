@@ -105,8 +105,8 @@
     <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_carrier">Отмена</string>
     <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_confirmation">Отмена</string>
     <string name="wifi_suggestion_content">Предложение от %s</string>
-    <string name="wifi_suggestion_imsi_privacy_content">Эти сети получают идентификатор SIM-карты, который можно использовать для отслеживания местоположения устройства</string>
-    <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">Сеть Wi-Fi %s при подключении может получить доступ к уникальному идентификатору SIM-карты, который может использоваться для отслеживания местоположения устройства</string>
+    <string name="wifi_suggestion_imsi_privacy_content">Эти сети получают идентификатор SIM-карты, который можно использовать для геолокации устройства</string>
+    <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">Сеть Wi-Fi %s при подключении может получить доступ к уникальному идентификатору SIM-карты, который может использоваться для геолокации устройства</string>
     <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_title">Разрешить подключение?</string>
     <string name="wifi_suggestion_imsi_privacy_title">Подключиться к сети Wi-Fi %s?</string>
     <string name="wifi_suggestion_title">Подключиться к сети Wi-Fi?</string>

@@ -245,7 +245,7 @@
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="geolocation_permissions_prompt_dont_share">Отклонить</string>
-    <string name="geolocation_permissions_prompt_message">%s запрашивает информацию о вашем местоположении</string>
+    <string name="geolocation_permissions_prompt_message">%s хочет получить вашу геопозицию</string>
     <string name="geolocation_permissions_prompt_remember">Запомнить выбор</string>
     <string name="geolocation_permissions_prompt_share">Разрешить</string>
     <string name="google_app_label">Поиск Google</string>

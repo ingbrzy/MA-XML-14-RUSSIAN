@@ -249,8 +249,8 @@
     <string name="all_day">" Весь день "</string>
     <string name="all_empty_alert">Укажите параметры нового SIP-аккаунта.</string>
     <string name="allow">Предоставлено</string>
-    <string name="allow_mock_location">Фиктивные местоположения</string>
-    <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
+    <string name="allow_mock_location">Фиктивные геоданные</string>
+    <string name="allow_mock_location_summary">Разрешить использование фиктивных геоданных</string>
     <string name="already_auto">Автовыбор</string>
     <string name="always_enable_mms">Всегда принимать MMS</string>
     <string name="always_enable_mms_summary">Принимать MMS даже при отключённом мобильном интернете</string>
@@ -1336,7 +1336,7 @@
     <string name="ims_reg_status_registered">Зарегистрирован</string>
     <string name="ims_reg_title">Статус регистрации сервиса IMS</string>
     <string name="ims_settings">Настройки IMS</string>
-    <string name="imsi_protection_warning">Этой сети доступен уникальный идентификатор, который может использоваться для отслеживания местоположения устройства. <annotation id="url">Подробнее</annotation></string>
+    <string name="imsi_protection_warning">Этой сети доступен уникальный идентификатор, который может использоваться для геолокации устройства. <annotation id="url">Подробнее</annotation></string>
     <string name="inactive_app_active_summary">Включено. Нажмите, чтобы отключить.</string>
     <string name="inactive_app_inactive_summary">Выключено. Нажмите, чтобы включить.</string>
     <string name="inactive_apps_title">Неактивные приложения</string>
@@ -1669,9 +1669,9 @@
     <string name="mobile_property">Свойства</string>
     <string name="mobile_special_network_optimization_config_summary">Интеллектуальная обработка разных сценариев в сети для улучшения качества связи</string>
     <string name="mobile_special_network_optimization_config_title">Сценарии адаптивного режима</string>
-    <string name="mock_location_app">Выбрать приложение для фиктивных местоположений</string>
-    <string name="mock_location_app_not_set">Нет приложения для фиктивных местоположений</string>
-    <string name="mock_location_app_set">Приложение для создания фиктивных местоположений: %1$s</string>
+    <string name="mock_location_app">Выбрать приложение для фиктивных геоданных</string>
+    <string name="mock_location_app_not_set">Нет приложения для фиктивных геоданных</string>
+    <string name="mock_location_app_set">Приложение для создания фиктивных геоданных: %1$s</string>
     <string name="modem_dialog_body">Мобильная сеть нестабильна, это вызывает перебои или сетевые проблемы. Отправить отчёт об ошибке в Xiaomi? Он может содержать некоторые личные данные. Мы используем отчёты только для анализа и исправления неполадок и не предоставляем их третьим лицам в коммерческих целях.</string>
     <string name="modem_dialog_title">Мобильная сеть нестабильна</string>
     <string name="modem_set_title">НАСТРОЙКА МОДЕМА</string>
@@ -3248,7 +3248,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifitrackerlib_connected_via_network_scorer">Автоматически подключено через %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
     <string name="wifitrackerlib_help_url_imsi_protection" />
-    <string name="wifitrackerlib_imsi_protection_warning">Этой сети доступен идентификатор SIM-карты, который можно использовать для отслеживания местоположения устройства. <annotation id="url">Подробнее</annotation></string>
+    <string name="wifitrackerlib_imsi_protection_warning">Этой сети доступен идентификатор SIM-карты, который можно использовать для геолокации устройства. <annotation id="url">Подробнее</annotation></string>
     <string name="wifitrackerlib_osu_completing_sign_up">Завершение регистрации…</string>
     <string name="wifitrackerlib_osu_connect_failed">Не удалось подключиться</string>
     <string name="wifitrackerlib_osu_opening_provider">Открытие %1$s</string>

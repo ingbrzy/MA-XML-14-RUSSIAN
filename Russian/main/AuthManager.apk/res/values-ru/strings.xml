@@ -44,7 +44,7 @@
     <string name="HIPS_Perm_Intl_group_name_location">Геолокация</string>
     <string name="HIPS_Perm_Intl_group_name_storage">Хранилище</string>
     <string name="HIPS_Perm_Location">Геолокация</string>
-    <string name="HIPS_Perm_Location_Desc">Получение точного местоположения (GPS и сети)</string>
+    <string name="HIPS_Perm_Location_Desc">Получение точной геопозиции (GPS и сети)</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Устройства поблизости</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Обнаружение устройств поблизости и подключение к ним</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Обнаружение устройств поблизости и подключение по Bluetooth и Wi-Fi</string>
@@ -316,7 +316,7 @@
     <string name="perm_manager_suggest_operation">Управление разрешениями</string>
     <string name="perm_manager_suggest_title">Настроить разрешения?</string>
     <string name="perm_modem_location">Использование геолокации</string>
-    <string name="perm_modem_location_desc">Разрешить оператору связи получать данные о местоположении</string>
+    <string name="perm_modem_location_desc">Разрешить оператору связи получать геопозицию</string>
     <string name="permdesc_add_voicemail">Разрешить %1$s добавлять голосовые сообщения?</string>
     <string name="permdesc_call_phone">Разрешить %1$s совершать вызовы?</string>
     <string name="permdesc_camera">Разрешить %1$s снимать фото и видео?</string>

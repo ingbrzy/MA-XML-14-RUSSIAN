@@ -299,7 +299,7 @@
     <string name="general_error">Ошибка распознавания</string>
     <string name="general_feedback">Сообщить об ошибках</string>
     <string name="general_location">Разрешите приложению Сканер использовать геолокацию для получения услуг на основе местоположения</string>
-    <string name="general_location_dialog">Сервис предоставляется Dianping. Фотографии и информация о местоположении будут переданы Dianping для получения информации о магазине.</string>
+    <string name="general_location_dialog">Сервис предоставляется Dianping. Фотографии и геопозиция будут переданы Dianping для получения информации о магазине.</string>
     <string name="general_location_prompt">Использование геолокации</string>
     <string name="general_no">Результаты отсутствуют</string>
     <string name="general_no_found">Похожие продукты</string>
@@ -758,8 +758,8 @@
     <string name="spaceIsLow_content">Недостаточно места в хранилище. Освободите место.</string>
     <string name="storage_permissions_text">Для использования этой функции, разрешите Сканеру доступ к хранилищу</string>
     <string name="store_feedback_prompt">Напишите отзыв</string>
-    <string name="store_location_dialog">Сервис предоставляется Dianping. Все фотографии, сделанные вами во время использования этого сервиса, включая информацию о местоположении, будут переданы в Dianping для получения информации о магазинах.</string>
-    <string name="store_location_fail">Не удалось получить информацию о местоположении</string>
+    <string name="store_location_dialog">Сервис предоставляется Dianping. Все фотографии, сделанные вами во время использования этого сервиса, включая геопозицию, будут переданы в Dianping для получения информации о магазинах.</string>
+    <string name="store_location_fail">Не удалось получить геопозицию</string>
     <string name="store_location_prompt">Разрешите приложению использовать геолокацию для идентификации магазинов</string>
     <string name="store_module_title">Магазин</string>
     <string name="store_no_date">Не удалось идентифицировать магазин</string>

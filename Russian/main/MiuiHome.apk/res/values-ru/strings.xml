@@ -203,7 +203,7 @@
     <string name="branch_new_feature">Новая функция</string>
     <string name="branch_privacy_policy">Политика конфиденциальности</string>
     <string name="branch_search_guide_description">Результаты поиска теперь более полные</string>
-    <string name="branch_search_guide_privacy">Сервис предоставлен Branch Metrics Inc. Информация о вашем местоположении, поисковые запросы и идентификатор Google Ads будут переданы Branch. Перед использованием сервиса прочтите и примите <font color="#B3000000"><a href="http://url1">Условия и положения</a></font> и <font color="#B3000000"><a href="http://url2">Политику конфиденциальности</a></font> Branch.</string>
+    <string name="branch_search_guide_privacy">Сервис предоставлен Branch Metrics Inc. Ваша геопозиция, поисковые запросы и идентификатор Google Ads будут переданы Branch. Перед использованием сервиса прочтите и примите <font color="#B3000000"><a href="http://url1">Условия и положения</a></font> и <font color="#B3000000"><a href="http://url2">Политику конфиденциальности</a></font> Branch.</string>
     <string name="branch_search_guide_title">Поиск среди приложений</string>
     <string name="branch_terms_condition">Условия и положения</string>
     <string name="branch_tip_title">Быстрый поиск поможет найти нужное</string>

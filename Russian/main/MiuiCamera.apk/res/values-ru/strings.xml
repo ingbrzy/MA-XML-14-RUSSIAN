@@ -337,7 +337,7 @@
     <string name="ai_west_lake">Западное озеро</string>
     <string name="ai_wuhan">Ухань</string>
     <string name="ai_zhang_jia_jie">Чжанцзяцзе</string>
-    <string name="aiwatermark_location_absent_hint">Не удалось получить информацию о местоположении</string>
+    <string name="aiwatermark_location_absent_hint">Не удалось определить геопозицию</string>
     <string name="aiwatermark_location_list_title">Геолокация</string>
     <string name="aiwatermark_location_tips">Разрешите приложению использовать геолокацию для получения актуальных водяных знаков</string>
     <string name="altitude_text">Высота</string>
@@ -640,7 +640,7 @@
     <string name="cta_msg">Добро пожаловать в приложение Камера! Это приложение можно использовать для съёмки фото и видео. Разрешите приложению подключение к интернету и предоставьте следующие дополнительные разрешения:</string>
     <string name="cta_perm_cam">Камера</string>
     <string name="cta_perm_cam_desc">Съёмка фото и видео</string>
-    <string name="cta_perm_dec">Добавление информации о местоположении в фото и видео</string>
+    <string name="cta_perm_dec">Добавление геопозиции в фото и видео</string>
     <string name="cta_perm_loc">Геолокация</string>
     <string name="cta_perm_phone">Состояние устройства</string>
     <string name="cta_perm_storage">Хранилище</string>
@@ -1006,7 +1006,7 @@
     <string name="location">Геолокация</string>
     <string name="location_access_allow">Разрешить</string>
     <string name="location_fromkeyguard_not_permission">У приложения \"Камера\" отсутствует разрешение на геолокацию. Разблокируйте устройство.</string>
-    <string name="location_permission_des">Добавлять информацию о местоположении в фото и видео</string>
+    <string name="location_permission_des">Добавлять геопозицию в фото и видео</string>
     <string name="location_permission_not_ask_again">Разрешите приложению геолокацию в Настройках</string>
     <string name="location_permission_not_ask_again_go_to_settings">Разрешить</string>
     <string name="log_format">LOG</string>
@@ -1776,7 +1776,7 @@
     <string name="pref_camera_rec_type_normal">Стандартный</string>
     <string name="pref_camera_recordlocation_entry_off">Откл.</string>
     <string name="pref_camera_recordlocation_entry_on">Вкл.</string>
-    <string name="pref_camera_recordlocation_title">Сохранять местоположение</string>
+    <string name="pref_camera_recordlocation_title">Сохранять геопозицию</string>
     <string name="pref_camera_reference_capture_title">Контрольные линии</string>
     <string name="pref_camera_reference_capture_title_golden_section">Золотое сечение</string>
     <string name="pref_camera_reference_capture_title_jiugongge">Сетка</string>

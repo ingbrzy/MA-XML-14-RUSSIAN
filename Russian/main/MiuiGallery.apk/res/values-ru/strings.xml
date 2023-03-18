@@ -1335,7 +1335,7 @@ ID: %s
     <string name="hr_preview_200m">Предпросмотр 200MP</string>
     <string name="hybrid_check_network">Настройки сети</string>
     <string name="hybrid_data_error">Произошла ошибка</string>
-    <string name="hybrid_locating_fail">Не удалось определить местоположение</string>
+    <string name="hybrid_locating_fail">Не удалось определить геопозицию</string>
     <string name="hybrid_network_access_denied">В доступе к сети отказано</string>
     <string name="hybrid_network_unavaliable">Не удалось подключиться к сети</string>
     <string name="hybrid_provider">Предоставлено %1$s</string>
@@ -1588,10 +1588,10 @@ ID: %s
     <string name="map_grant_position_permission_after_declined_twice_message">Разрешите приложению \"Галерея\" использовать геолокацию для отображения на карте фото и видео</string>
     <string name="map_grant_position_permission_subtitle">Для отображения на карте фото и видео</string>
     <string name="map_guide_message">Посмотрите на карте где сняты фото и видео</string>
-    <string name="map_location">Перейти к текущему местоположению</string>
-    <string name="map_positioning_failed_tip">Не удалось получить информацию о местоположении из-за слабого сигнала</string>
-    <string name="map_privacy_dialog_content"><Data>Этот сервис позволяет отображать на карте фото и видео с информацией о местоположении. Сервис использует Baidu Map Open SDK. Прежде чем продолжить, прочтите и примите &lt;a href=\"%1$s\">Заявление Карты галереи о совместном использовании данных третьей стороной&lt;/a>.</Data></string>
-    <string name="map_privacy_dialog_message"><Data>Этот сервис позволяет отображать на карте фото и видео с информацией о местоположении. Сервис использует Baidu Map Open SDK. Чтобы узнать больше, ознакомьтесь с &lt;a href=\"%1$s\">Политикой конфиденциальности Baidu Map для продуктов и сервисов Open Platform&lt;/a>.</Data></string>
+    <string name="map_location">Перейти к текущей геопозиции</string>
+    <string name="map_positioning_failed_tip">Не удалось получить геопозицию из-за слабого сигнала</string>
+    <string name="map_privacy_dialog_content"><Data>Этот сервис позволяет отображать на карте фото и видео с геопозицией. Сервис использует Baidu Map Open SDK. Прежде чем продолжить, прочтите и примите &lt;a href=\"%1$s\">Заявление Карты галереи о совместном использовании данных третьей стороной&lt;/a>.</Data></string>
+    <string name="map_privacy_dialog_message"><Data>Этот сервис позволяет отображать на карте фото и видео с геопозицией. Сервис использует Baidu Map Open SDK. Чтобы узнать больше, ознакомьтесь с &lt;a href=\"%1$s\">Политикой конфиденциальности Baidu Map для продуктов и сервисов Open Platform&lt;/a>.</Data></string>
     <string name="map_privacy_dialog_title">Карта галереи</string>
     <string name="map_privacy_policy">Политика конфиденциальности Карты галереи</string>
     <string name="map_privacy_policy_1">Политика конфиденциальности</string>
@@ -2380,7 +2380,7 @@ ID: %s
     <string name="privacy_detail_map">Политика конфиденциальности Карты галереи</string>
     <string name="privacy_entrance">Конфиденциальность</string>
     <string name="privacy_map">Карта галереи</string>
-    <string name="privacy_map_detail"><Data>Этот сервис позволяет отображать на карте фото и видео с информацией о местоположении. Для обеспечения сервиса используется Baidu Map Open SDK. Прежде чем продолжить, примите &lt;a href=\"%1$s\">Политику конфиденциальности Baidu Map для продуктов и сервисов Open Platform&lt;/a>.</Data></string>
+    <string name="privacy_map_detail"><Data>Этот сервис позволяет отображать на карте фото и видео с геопозицией. Для обеспечения сервиса используется Baidu Map Open SDK. Прежде чем продолжить, примите &lt;a href=\"%1$s\">Политику конфиденциальности Baidu Map для продуктов и сервисов Open Platform&lt;/a>.</Data></string>
     <string name="privacy_map_detail_content">Политика конфиденциальности Baidu Map для продуктов и сервисов Open Platform</string>
     <string name="privacy_map_detail_content_new">Заявление Карты галереи о совместном использовании данных третьей стороной</string>
     <string name="privacy_permission">Разрешения</string>
@@ -2719,8 +2719,8 @@ ID: %s
     <string name="secret_reason_unknow_reasons">Неизвестная ошибка</string>
     <string name="secret_reason_video_not_support">Добавление видео в приватный альбом не поддерживается</string>
     <string name="security_share_subtitle_default">Защита приватности</string>
-    <string name="security_share_subtitle_hide">Информация о местоположении удалена</string>
-    <string name="security_share_subtitle_no_hide">Содержит информацию о местоположении</string>
+    <string name="security_share_subtitle_hide">Геопозиция удалена</string>
+    <string name="security_share_subtitle_no_hide">Содержит геопозицию</string>
     <string name="see_ignore_faces">Просмотреть пропущенные фото</string>
     <string name="see_more_settings">Дополнительно</string>
     <string name="select_all">Выбрать все</string>
@@ -3291,7 +3291,7 @@ ID: %s
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
-    <string name="tip_capture_location">Местоположение:</string>
+    <string name="tip_capture_location">Геопозиция:</string>
     <string name="tip_capture_params">Данные EXIF:</string>
     <string name="tip_capture_time">Дата съёмки:</string>
     <string name="tip_file_info">Файл:</string>

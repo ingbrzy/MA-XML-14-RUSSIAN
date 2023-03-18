@@ -164,8 +164,8 @@
     <string name="alarms_and_reminders_label">Будильники и напоминания</string>
     <string name="alarms_and_reminders_switch_title">Разрешить установку будильников и напоминаний</string>
     <string name="alarms_and_reminders_title">Будильники и напоминания</string>
-    <string name="allow_mock_location">Фиктивные местоположения</string>
-    <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
+    <string name="allow_mock_location">Фиктивные геоданные</string>
+    <string name="allow_mock_location_summary">Разрешить использование фиктивных геоданных</string>
     <string name="allow_mock_modem">Разрешить имитацию модема</string>
     <string name="allow_mock_modem_summary">Разрешить этому устройству запускать сервис, имитирующий модем, для инструментального теста. Не включайте этот параметр, когда пользуетесь телефоном в обычном режиме.</string>
     <string name="allow_turn_screen_on">Разрешить включение экрана</string>
@@ -649,7 +649,7 @@ ID: %s
     <string name="ims_reg_status_not_registered">Не зарегистрирован</string>
     <string name="ims_reg_status_registered">Зарегистрирован</string>
     <string name="ims_reg_title">Статус сервиса IMS</string>
-    <string name="imsi_protection_warning">Этой сети доступен уникальный идентификатор, который может использоваться для отслеживания местоположения устройства. <annotation id="url">Подробнее</annotation></string>
+    <string name="imsi_protection_warning">Этой сети доступен уникальный идентификатор, который может использоваться для геолокации устройства. <annotation id="url">Подробнее</annotation></string>
     <string name="inactive_app_active_summary">Активно. Нажмите для отключения.</string>
     <string name="inactive_app_inactive_summary">Неактивно. Нажмите для включения.</string>
     <string name="inactive_apps_title">Неактивные приложения</string>
@@ -786,7 +786,7 @@ mm"</string>
     <string name="mobile_data_always_on">Не отключать мобильный интернет</string>
     <string name="mobile_data_always_on_summary">Не отключать передачу данных по мобильной сети даже при активном Wi-Fi (для быстрого переключения между сетями)</string>
     <string name="mobile_no_internet">Мобильная сеть без доступа в интернет</string>
-    <string name="mock_location_app">Приложение для фиктивных местоположений</string>
+    <string name="mock_location_app">Приложение для фиктивных геоданных</string>
     <string name="mock_location_app_not_set">Приложение не выбрано</string>
     <string name="mock_location_app_set">Приложение: %1$s</string>
     <string name="monday">Понедельник</string>
@@ -1617,7 +1617,7 @@ mm"</string>
     <string name="wifitrackerlib_connected_via_network_scorer">Автоматически подключено через %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
     <string name="wifitrackerlib_help_url_imsi_protection" />
-    <string name="wifitrackerlib_imsi_protection_warning">Этой сети доступен идентификатор SIM-карты, который можно использовать для отслеживания местоположения устройства. <annotation id="url">Подробнее</annotation></string>
+    <string name="wifitrackerlib_imsi_protection_warning">Этой сети доступен идентификатор SIM-карты, который можно использовать для геолокации устройства. <annotation id="url">Подробнее</annotation></string>
     <string name="wifitrackerlib_osu_completing_sign_up">Завершение регистрации…</string>
     <string name="wifitrackerlib_osu_connect_failed">Не удалось подключиться</string>
     <string name="wifitrackerlib_osu_opening_provider">Открытие %1$s</string>

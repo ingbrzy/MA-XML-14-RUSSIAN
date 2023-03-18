@@ -107,8 +107,8 @@
     <string name="alert_place_unredirect_outgoing_call">Вызов по моему номеру телефона</string>
     <string name="alert_redirect_outgoing_call_or_not">Выберите, как сделать этот вызов</string>
     <string name="alert_redirect_outgoing_call_timeout">Вызов не может быть выполнен %1$s. Попробуйте использовать другое приложение для перенаправления вызовов или обратитесь к разработчику за помощью.</string>
-    <string name="allow_mock_location">Фиктивные местоположения</string>
-    <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
+    <string name="allow_mock_location">Фиктивные геоданные</string>
+    <string name="allow_mock_location_summary">Разрешить использование фиктивных геоданных</string>
     <string name="animator_duration_scale_title">Длительность анимации</string>
     <string name="answer_incoming_call">Ответить</string>
     <string name="answering_ends_other_call">Если вы ответите, вызов в %1$s будет завершен</string>
@@ -462,7 +462,7 @@
     <string name="ims_reg_status_not_registered">Не зарегистрирован</string>
     <string name="ims_reg_status_registered">Зарегистрирован</string>
     <string name="ims_reg_title">Статус сервиса IMS</string>
-    <string name="imsi_protection_warning">Этой сети доступен уникальный идентификатор, который может использоваться для отслеживания местоположения устройства. <annotation id="url">Подробнее</annotation></string>
+    <string name="imsi_protection_warning">Этой сети доступен уникальный идентификатор, который может использоваться для геолокации устройства. <annotation id="url">Подробнее</annotation></string>
     <string name="inactive_app_active_summary">Включено. Нажмите, чтобы отключить.</string>
     <string name="inactive_app_inactive_summary">Выключено. Нажмите, чтобы включить.</string>
     <string name="inactive_apps_title">Неактивные приложения</string>
@@ -535,9 +535,9 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
     <string name="mobile_data_always_on">Не отключать мобильный Интернет</string>
     <string name="mobile_data_always_on_summary">Не отключать передачу данных по мобильной сети даже при активном Wi-Fi-подключении (для быстрого переключения между сетями).</string>
-    <string name="mock_location_app">Выбрать приложение для фиктивных местоположений</string>
-    <string name="mock_location_app_not_set">Нет приложения для фиктивных местоположений</string>
-    <string name="mock_location_app_set">Приложение для создания фиктивных местоположений: %1$s</string>
+    <string name="mock_location_app">Выбрать приложение для фиктивных геоданных</string>
+    <string name="mock_location_app_not_set">Нет приложения для фиктивных геоданных</string>
+    <string name="mock_location_app_set">Приложение для создания фиктивных геоданных: %1$s</string>
     <string name="monday">Понедельник</string>
     <string name="monday_short">Пн</string>
     <string name="monday_shortest">Пн</string>
@@ -1128,7 +1128,7 @@
     <string name="wifitrackerlib_connected_via_network_scorer">Автоматически подключено через %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
     <string name="wifitrackerlib_help_url_imsi_protection" />
-    <string name="wifitrackerlib_imsi_protection_warning">Этой сети доступен идентификатор SIM-карты, который можно использовать для отслеживания местоположения устройства. <annotation id="url">Подробнее</annotation></string>
+    <string name="wifitrackerlib_imsi_protection_warning">Этой сети доступен идентификатор SIM-карты, который можно использовать для геолокации устройства. <annotation id="url">Подробнее</annotation></string>
     <string name="wifitrackerlib_osu_completing_sign_up">Завершение регистрации…</string>
     <string name="wifitrackerlib_osu_connect_failed">Не удалось подключиться</string>
     <string name="wifitrackerlib_osu_opening_provider">Открытие %1$s</string>
