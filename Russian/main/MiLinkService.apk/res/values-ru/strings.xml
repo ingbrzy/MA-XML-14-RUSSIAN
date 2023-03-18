@@ -852,7 +852,7 @@
     <string name="upgrade_start">Обновить</string>
     <string name="upgrade_start_all">Обновить</string>
     <string name="upgrade_test_package">"Чтобы завершить обновление,
-убедитесь, что обновление содержит последние версии всех приложений."</string>
+убедитесь, что обновление содержит актуальные версии всех приложений."</string>
     <string name="upgrade_title">Обновление устройств</string>
     <string name="upgrade_toast_no_wifi">Не удалось подключиться</string>
     <string name="upgrade_tv_device_tip">*Обновления предоставлены Xiaomi TV</string>

@@ -1652,7 +1652,7 @@ ID: %s
     <string name="plus_properties_format">Формат</string>
     <string name="plus_properties_frame_rate">Частота кадров</string>
     <string name="plus_properties_last_playback_position">Последняя позиция</string>
-    <string name="plus_properties_last_playback_time">Последние</string>
+    <string name="plus_properties_last_playback_time">Недавние</string>
     <string name="plus_properties_length">Длительность</string>
     <string name="plus_properties_media">Медиа</string>
     <string name="plus_properties_path">Расположение</string>
@@ -1839,7 +1839,7 @@ ID: %s
     <string name="small_video_cancel_button">Отмена</string>
     <string name="small_video_download_button">Загрузить</string>
     <string name="small_video_load_more_hint">Проведите вверх, чтобы увидеть больше видео</string>
-    <string name="small_video_snack_download_description">Загрузите SnackVideo, чтобы смотреть последние видео от избранных авторов</string>
+    <string name="small_video_snack_download_description">Загрузите SnackVideo, чтобы смотреть новые видео от избранных авторов</string>
     <string name="small_video_snack_download_title">SnackVideo</string>
     <string name="small_video_tab_expose_hint">Нажмите для просмотра других видеороликов</string>
     <string name="sms_send_success">Отправлено</string>

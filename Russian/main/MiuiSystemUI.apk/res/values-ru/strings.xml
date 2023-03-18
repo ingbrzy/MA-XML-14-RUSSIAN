@@ -563,7 +563,7 @@
     <string name="biometric_dialog_tap_confirm_with_face">Распознавание выполнено. Нажмите на значок разблокировки.</string>
     <string name="biometric_dialog_try_again">Повторить попытку</string>
     <string name="biometric_dialog_use_password">Используйте пароль</string>
-    <string name="biometric_dialog_use_pattern">Используйте графический ключ</string>
+    <string name="biometric_dialog_use_pattern">Используйте ключ</string>
     <string name="biometric_dialog_use_pin">Используйте PIN-код</string>
     <string name="biometric_dialog_wrong_password">Неверный графический ключ</string>
     <string name="biometric_dialog_wrong_pattern">Неверный пароль</string>
