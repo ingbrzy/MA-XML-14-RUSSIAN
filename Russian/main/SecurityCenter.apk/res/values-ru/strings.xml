@@ -4510,7 +4510,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_search_keyword_4">Скрытие ярлыков на рабочем столе</string>
     <string name="privacy_search_keyword_5">Конфиденциальные приложения</string>
     <string name="privacy_search_keyword_6">Скрытие</string>
-    <string name="privacy_show_other_permissions">Показать другие разрешения</string>
+    <string name="privacy_show_other_permissions">Другие разрешения</string>
     <string name="privacy_show_password">Показывать пароли</string>
     <string name="privacy_show_password_summary">Ненадолго показывать символы при вводе</string>
     <string name="privacy_special_permission_summary">Управление специальными разрешениями</string>
