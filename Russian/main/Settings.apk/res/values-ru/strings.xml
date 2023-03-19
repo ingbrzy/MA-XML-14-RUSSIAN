@@ -6464,8 +6464,8 @@ ID: %s
     <string name="multifunction_keyboard">Многофункциональная</string>
     <string name="multiple_users_main_switch_title">Несколько пользователей</string>
     <string name="music_equalizer">Эквалайзер</string>
-    <string name="music_playback_control_cross_device_flow">Передача аудиопотока между устройствами</string>
-    <string name="music_video_flow_across_device">Управление и передача аудиопотока между устройствами</string>
+    <string name="music_playback_control_cross_device_flow">Передача аудиопотоков между устройствами</string>
+    <string name="music_video_flow_across_device">Управление и передача медиапотоков между устройствами</string>
     <string name="musicfx_title">Звуковые эффекты</string>
     <string name="mute">Режим \"Без звука\"</string>
     <string name="mute_media_sound_summary">Отключить звуки мультимедиа для всех приложений в режиме \"Без звука\"</string>
