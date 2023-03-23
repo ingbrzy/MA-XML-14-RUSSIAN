@@ -231,6 +231,7 @@
     <string name="global_search_key_word_figure">Финансовые иероглифы</string>
     <string name="golbal_search_calculator_setting">Калькулятор;Настройки калькулятора;Настройки</string>
     <string name="golbal_search_path_calculator_setting">Системные приложения/Калькулятор/Настройки</string>
+    <string name="gst_initial_value">%d</string>
     <string name="height_prompt">Рост</string>
     <string name="help_content_desc">Помощь</string>
     <string name="hint_annual_rate">Введите годовой курс</string>
@@ -246,6 +247,7 @@
     <string name="install_scanner_to_continued_use">Сканер был удалён. Установить его повторно?</string>
     <string name="interest_rate_hint">Введите процентную ставку</string>
     <string name="investment_invalid_duration">Продолжительность должна быть больше нуля</string>
+    <string name="investment_loan_result">Подробности</string>
     <string name="investment_type_once">Однократно</string>
     <string name="investment_type_recurring">Регулярно</string>
     <string name="item_page_title_investment">Вклад</string>

@@ -550,6 +550,7 @@
     <string name="screen_fps_unit">%d Гц</string>
     <string name="screen_fps_unit_power_save">%d Гц (Экономия)</string>
     <string name="screen_fps_unit_smooth">%d Гц (Качество)</string>
+    <string name="screen_fps_unit_string">%s Гц</string>
     <string name="screen_original_gamut">Расширенный</string>
     <string name="screen_original_gamut_summary">Использовать максимально широкий цветовой профиль</string>
     <string name="screen_paper_mode_apps_loading">Подождите…</string>
