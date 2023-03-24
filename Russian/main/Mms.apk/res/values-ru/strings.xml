@@ -712,7 +712,7 @@
     <string name="mx_filter_message_from_stranger">Блокировать Mi сообщения с неизвестных номеров</string>
     <string name="mx_filter_message_from_stranger_dialog_desc">Вы по-прежнему сможете получать SMS с неизвестных номеров. Включить или отключить эту функцию можно в разделе Сообщения &gt; Настройки.</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Блокировать Mi сообщения с неизвестных номеров</string>
-    <string name="mx_filter_message_from_stranger_summary">Вы по-прежнему сможете получать SMS с неизвестных номеров</string>
+    <string name="mx_filter_message_from_stranger_summary">Разрешить Mi сообщения только от контактов</string>
     <string name="mx_main_purpose">"Mi Сообщения позволяют бесплатно отправлять сообщения другим пользователям MIUI через интернет.
 Для активации этого сервиса необходима отправка SMS. Ваш оператор связи может взимать плату за это сообщение."</string>
     <string name="mx_main_purpose_short">Приложение позволяет пользователям MIUI бесплатно отправлять и получать SMS и MMS сообщения.</string>

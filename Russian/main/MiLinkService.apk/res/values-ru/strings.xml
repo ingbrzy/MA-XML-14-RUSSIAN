@@ -821,6 +821,7 @@
     <string name="toast_msg_for_multi_window">Эта функция недоступна в режиме разделения экрана</string>
     <string name="toast_msg_for_small_window">Сверните окно во время трансляции, это позволит пользоваться другими функциями и приложениями на телефоне.</string>
     <string name="toast_nfc_dont_move">Не отодвигайте устройство</string>
+    <string name="toast_nfc_same_wifi">Подключите ТВ и это устройство к одной сети</string>
     <string name="toast_title_for_small_window">Сверните окно во время трансляции.</string>
     <string name="toast_turn_off_hotspot_before_cast">Выключите точку доступа перед трансляцией</string>
     <string name="today">Сегодня</string>

@@ -47,7 +47,7 @@
     <string name="arcsin">arcsin</string>
     <string name="arctan">arctan</string>
     <string name="base_rate">Базовая процентная ставка</string>
-    <string name="bmi_error_text">Некорректный ИМТ. Убедитесь, что введены правильные рост и вес.</string>
+    <string name="bmi_error_text">Введите корректные параметры</string>
     <string name="bmi_label_information">Информация</string>
     <string name="bmi_label_normal">Нормальный</string>
     <string name="bmi_label_overweight">Избыточный</string>

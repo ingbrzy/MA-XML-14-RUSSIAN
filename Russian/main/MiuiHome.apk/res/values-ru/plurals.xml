@@ -83,9 +83,9 @@
         <item quantity="few">%d минуты назад</item>
     </plurals>
     <plurals name="remove_dialog_title_multi_format">
-        <item quantity="other">Удалить %1$d приложений с рабочего стола?</item>
-        <item quantity="one">Удалить %1$d приложение с рабочего стола?</item>
-        <item quantity="few">Удалить %1$d приложения с рабочего стола?</item>
+        <item quantity="other">Удалить %1$d элементов с рабочего стола?</item>
+        <item quantity="one">Удалить %1$d элемент с рабочего стола?</item>
+        <item quantity="few">Удалить %1$d элемента с рабочего стола?</item>
     </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
         <item quantity="other">Страница %1$d, %2$d приложений.</item>

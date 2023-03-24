@@ -45,9 +45,9 @@
     <string name="app_description_title">О приложении</string>
     <string name="app_label">Компас</string>
     <string name="app_name">Настройка</string>
-    <string name="calibrate_failed">Ошибка калибровки высоты</string>
-    <string name="calibrate_failed_no_location">Калибровка не удалась</string>
-    <string name="calibrate_failed_timeout">Не удалось подключиться к серверу</string>
+    <string name="calibrate_failed">Калибровка высоты не удалась</string>
+    <string name="calibrate_failed_no_location">Калибровка не удалась. Ошибка геолокации.</string>
+    <string name="calibrate_failed_timeout">Калибровка не удалась. Ошибка сервера.</string>
     <string name="calibrate_new_tip">Резко наклоните устройство, чтобы прокатить шар по кругу</string>
     <string name="calibrate_rotate_again">Повторите попытку</string>
     <string name="calibrate_success">Калибровка завершена</string>
