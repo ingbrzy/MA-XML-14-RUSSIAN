@@ -111,8 +111,8 @@
     <string name="HIPS_Perm_read_notification_sms_Desc">Чтение сервисных SMS</string>
     <string name="HIPS_Perm_recognition">Информация об активности</string>
     <string name="HIPS_Perm_recognition_Desc">Доступ к данным о здоровье и активности</string>
-    <string name="HIPS_Perm_service_foreground">Приоритетные сервисы</string>
-    <string name="HIPS_Perm_service_foreground_Desc">Приоритетные сервисы</string>
+    <string name="HIPS_Perm_service_foreground">Службы переднего плана</string>
+    <string name="HIPS_Perm_service_foreground_Desc">Службы переднего плана</string>
     <string name="HIPS_Perm_show_when_locked">Экран блокировки</string>
     <string name="HIPS_Perm_show_when_locked_Desc">Отображение на экране блокировки</string>
     <string name="HIPS_Perm_tencentControl">Файлы приложений соцсетей</string>
