@@ -1421,7 +1421,7 @@
     <string name="permdesc_enableCarMode">Приложение сможет включать режим \"Вождение\".</string>
     <string name="permdesc_exemptFromAudioRecordRestrictions">Снятие ограничения приложения на аудиозапись.</string>
     <string name="permdesc_expandStatusBar">Приложение сможет разворачивать и сворачивать строку состояния.</string>
-    <string name="permdesc_foregroundService">Приложение сможет использовать активные сервисы.</string>
+    <string name="permdesc_foregroundService">Приложение сможет использовать службы переднего плана</string>
     <string name="permdesc_fullScreenIntent">Приложение сможет показывать уведомления в полноэкранном режиме на заблокированном устройстве</string>
     <string name="permdesc_getAccounts">Приложение сможет получить список всех аккаунтов на устройстве, в том числе созданных приложениями.</string>
     <string name="permdesc_getPackageSize">Приложение сможет получать сведения о размере кода, данных и кеша.</string>
@@ -1617,7 +1617,7 @@
     <string name="permlab_enableCarMode">Включение режима громкой связи</string>
     <string name="permlab_exemptFromAudioRecordRestrictions">Снятие ограничений на аудиозапись</string>
     <string name="permlab_expandStatusBar">Разворачивание/сворачивание строки состояния</string>
-    <string name="permlab_foregroundService">Запуск активных сервисов</string>
+    <string name="permlab_foregroundService">Запуск служб переднего плана</string>
     <string name="permlab_fullScreenIntent">Показ уведомлений в полноэкранном режиме на заблокированном устройстве</string>
     <string name="permlab_getAccounts">Поиск аккаунтов на устройстве</string>
     <string name="permlab_getPackageSize">Вычисление объема памяти приложений</string>

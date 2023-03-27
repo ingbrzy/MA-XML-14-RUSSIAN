@@ -71,8 +71,8 @@
     <string name="fmt_time_second_millis">"s.S'с'"</string>
     <string name="forbidden_fakecell">Защита от поддельных базовых станций</string>
     <string name="forbidden_fakecell_summary">Предотвращать подключение устройства к поддельным базовым станциям</string>
-    <string name="foreground_text">Использовать активный сервис для увеличения приоритета</string>
-    <string name="foreground_title">Активные сервисы</string>
+    <string name="foreground_text">Использовать службы переднего плана для увеличения приоритета</string>
+    <string name="foreground_title">Службы переднего плана</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
