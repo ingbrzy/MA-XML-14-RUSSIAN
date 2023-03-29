@@ -427,7 +427,7 @@
     <string name="realme">realme</string>
     <string name="realme_phone">realme</string>
     <string name="reboot_confirm_title">Перезагрузить устройство?</string>
-    <string name="reboot_info_auto_boot">Устройство включится в %s</string>
+    <string name="reboot_info_auto_boot">Включение устройства: %s</string>
     <string name="reboot_info_shutdown_alarm">Предстоящий будильник: %s</string>
     <string name="reboot_progress">Перезагрузка…</string>
     <string name="redmi_6">Redmi 6</string>

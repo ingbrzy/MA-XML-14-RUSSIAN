@@ -409,7 +409,7 @@
     <string name="quick_settings_wifi_detail_empty_text">Нет доступных сетей Wi-Fi</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wireless_label">Обратная беспроводная зарядка</string>
-    <string name="reboot_info_auto_boot">Устройство включится в %s</string>
+    <string name="reboot_info_auto_boot">Включение устройства: %s</string>
     <string name="reboot_info_shutdown_alarm">Предстоящий будильник: %s</string>
     <string name="recovery">Recovery</string>
     <string name="reset">Сброс</string>

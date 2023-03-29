@@ -2684,7 +2684,7 @@ mm"</string>
     <string name="quick_settings_work_mode_label">Рабочий режим</string>
     <string name="quick_step_accessibility_toggle_overview">Обзор переключателей</string>
     <string name="rapid_charge_mode_tip">Быстрая зарядка</string>
-    <string name="reboot_info_auto_boot_global">Устройство включится в %s</string>
+    <string name="reboot_info_auto_boot_global">Включение устройства: %s</string>
     <string name="reboot_info_shutdown_alarm_global">Предстоящий будильник: %s</string>
     <string name="reboot_to_bootloader_title">Режим Fastboot</string>
     <string name="reboot_to_recovery_title">Режим Recovery</string>
