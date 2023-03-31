@@ -2245,7 +2245,7 @@ Tap twice to view details."</string>
     <string name="pa_widget_advert_loading_dialog_message">Подождите…</string>
     <string name="pa_widget_menu_edit">Изменить</string>
     <string name="pa_widget_menu_remove">Удалить</string>
-    <string name="pa_widget_menu_replace">Переключить</string>
+    <string name="pa_widget_menu_replace">Виджеты</string>
     <string name="pa_widget_need_download_dialog_cancel">Отмена</string>
     <string name="pa_widget_need_download_dialog_confirm">ОК</string>
     <string name="pa_widget_need_download_dialog_message_install">Чтобы использовать виджеты, установите \"%s\".</string>
