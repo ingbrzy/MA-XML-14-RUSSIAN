@@ -159,6 +159,10 @@
     <string name="high_bit_rate">MP3, ~%1$d кбит/с, ~%2$d МБ/ч</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="invalid_argument">Недопустимый аргумент</string>
+    <string name="invisible_mode_dialog_message">Микрофон недоступен. Отключите режим инкогнито в настройках.</string>
+    <string name="invisible_mode_dialog_negative">Отмена</string>
+    <string name="invisible_mode_dialog_positive">Отключить</string>
+    <string name="invisible_mode_dialog_title">Режим инкогнито</string>
     <string name="invisible_mode_error_tip">Микрофон недоступен. Отключите режим инкогнито в настройках.</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="keywords_search_call_record">Записать вызовы;Записать вызов;Запись вызова;Записи вызовов</string>

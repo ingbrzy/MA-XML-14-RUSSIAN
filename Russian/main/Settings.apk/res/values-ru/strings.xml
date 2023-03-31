@@ -870,7 +870,7 @@
     <string name="app_sees_restricted_accounts">Этому приложению разрешён доступ к вашим аккаунтам</string>
     <string name="app_sees_restricted_accounts_and_controlled_by">Этому приложению разрешён доступ к вашим аккаунтам. Управляется приложением \"%1$s\".</string>
     <string name="app_settings_link">Настройки уведомлений в приложении</string>
-    <string name="app_switch_key">Кнопка \"Меню\"</string>
+    <string name="app_switch_key">Недавние</string>
     <string name="app_uninstall_sounds_enable_title">Звук удаления приложения</string>
     <string name="app_usage_cycle">Цикл использования данных приложения</string>
     <string name="app_usage_preference">Настройки использования приложения</string>
@@ -3697,6 +3697,7 @@ ID: %s
     <string name="expert_detail_content_description">Подробности</string>
     <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
     <string name="extended_power_menu">Расширенное меню питания</string>
+    <string name="extension_function">Дополнительные функции</string>
     <string name="exterior">Режим</string>
     <string name="external_auto_rotate_title">Блокировка ориентации внешнего экрана</string>
     <string name="external_code_size_label">На USB-накопителе</string>
