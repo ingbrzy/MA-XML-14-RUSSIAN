@@ -1954,6 +1954,7 @@ Tap twice to view details."</string>
     <string name="pa_picker_detail_bottom_bt_text_upgrade">Обновите приложение, чтобы использовать его виджеты</string>
     <string name="pa_picker_detail_bottom_download_app_and_add_widget">Установить</string>
     <string name="pa_picker_detail_bottom_update_app_and_add_widget">Обновить</string>
+    <string name="pa_picker_detail_bt_loading">Подождите…</string>
     <string name="pa_picker_detail_dialog_open_pa_in_setting_message">Откройте Ленту виджетов, чтобы добавить виджеты оттуда</string>
     <string name="pa_picker_detail_dialog_open_pa_in_setting_title">Использование Ленты виджетов</string>
     <string name="pa_picker_detail_download_app_dialog_cancel">Отмена</string>
@@ -1976,8 +1977,13 @@ Tap twice to view details."</string>
     <string name="pa_picker_detail_net_error">Ошибка сети. Нажмите, чтобы повторить попытку.</string>
     <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Подождите…</string>
     <string name="pa_picker_detail_small_widget">Виджеты</string>
+    <string name="pa_picker_detail_state_error_retry">Что-то пошло не так. Попробуйте еще раз.</string>
+    <string name="pa_picker_detail_suit_price_already_bought">Приобретено</string>
+    <string name="pa_picker_detail_suit_price_placeholder">5 Mi Coin</string>
     <string name="pa_picker_detail_theme_app_cta">Настройки</string>
     <string name="pa_picker_detail_theme_app_cta_pre">"Чтобы использовать этот виджет, разрешите приложению Темы подключение к интернету. "</string>
+    <string name="pa_picker_detail_theme_app_need_login">Вход</string>
+    <string name="pa_picker_detail_theme_app_need_login_pre">"Войдите в аккаунт Xiaomi. "</string>
     <string name="pa_picker_detail_vp2_indicator">Выбранные страницы: %1$d из %2$d</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Ожидание загрузки через Wi-Fi</string>
     <string name="pa_picker_empty">"Виджеты недоступны в этой версии приложения. 
@@ -2236,6 +2242,7 @@ Tap twice to view details."</string>
     <string name="pa_vertical_center">Вертикальное расположение. Выравнивание по центру.</string>
     <string name="pa_vertical_left">Вертикальное расположение. Выравнивание по левому краю.</string>
     <string name="pa_vertical_right">Вертикальное расположение. Выравнивание по правому краю.</string>
+    <string name="pa_widget_advert_loading_dialog_message">Подождите…</string>
     <string name="pa_widget_menu_edit">Изменить</string>
     <string name="pa_widget_menu_remove">Удалить</string>
     <string name="pa_widget_menu_replace">Переключить</string>

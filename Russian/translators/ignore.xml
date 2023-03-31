@@ -4262,6 +4262,7 @@
     <string name="search_worldclock">@string/worldclock_title</string>
     <string name="search_yahoo">Yahoo!</string>
     <string name="search_yicha">Yicha</string>
+    <string name="searchbar_scrolling_view_behavior">com.google.android.material.search.SearchBar$ScrollingViewBehavior</string>
     <string name="secondart_setting_title">红包提醒设置</string>
     <string name="secret_key">q2cjp52h1an92s7j</string>
     <string name="security_encryption_attention_symbol">•</string>
@@ -4367,6 +4368,7 @@
     <string name="shopping_setting_tmall">Tmall</string>
     <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_task_shortcut_in_desktop">show_task_shortcut_in_desktop</string>
+    <string name="side_sheet_behavior">com.google.android.material.sidesheet.SideSheetBehavior</string>
     <string name="sign_percent">%</string>
     <string name="sign_secret_key">vha2n2sh808j7ni2p3af1mw58gxa9yrj</string>
     <string name="sim_settings_summary">%1$s - %2$s</string>

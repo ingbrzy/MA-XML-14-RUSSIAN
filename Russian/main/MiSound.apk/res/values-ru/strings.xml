@@ -380,6 +380,9 @@
     <string name="now_here">А сейчас?</string>
     <string name="original_sound">Воспроизвести оригинал</string>
     <string name="password_toggle_content_description">Показать пароль</string>
+    <string name="permission_go_to_settings">Настройки</string>
+    <string name="permission_requesr_content">Разрешите приложению \"Подключение к устройствам поблизости\" в Настройках</string>
+    <string name="permission_requesr_title">Предоставьте разрешения</string>
     <string name="personal_sound">Воспроизвести с использованием пресета</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="retry_test">Начать сначала</string>

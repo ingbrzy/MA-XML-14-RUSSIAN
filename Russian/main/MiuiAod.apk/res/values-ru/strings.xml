@@ -80,6 +80,7 @@ dd.MM"</string>
     <string name="background_icon">Фон</string>
     <string name="below_image">Внизу</string>
     <string name="black_white_clock_panel">Часы</string>
+    <string name="bold_font">Жирный шрифт</string>
     <string name="bottomsheet_action_collapse">Свернуть нижний лист</string>
     <string name="bottomsheet_action_expand">Развернуть нижний лист</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
@@ -153,12 +154,14 @@ dd.MM"</string>
     <string name="line_space">Межстрочный интервал</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Выберите AM или PM</string>
+    <string name="material_hour_24h_suffix">%1$s ч.</string>
     <string name="material_hour_selection">Часы</string>
     <string name="material_hour_suffix">"%1$s ч."</string>
     <string name="material_minute_selection">Минуты</string>
     <string name="material_minute_suffix">%1$s мин.</string>
     <string name="material_slider_range_end">Конец диапазона,</string>
     <string name="material_slider_range_start">Начало диапазона,</string>
+    <string name="material_slider_value">Значение</string>
     <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Ввод времени в режиме часов</string>
     <string name="material_timepicker_hour">Часы</string>
@@ -181,6 +184,7 @@ dd.MM"</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -248,16 +252,20 @@ dd.MM"</string>
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Следующий месяц</string>
     <string name="mtrl_picker_a11y_prev_month">Предыдущий месяц</string>
+    <string name="mtrl_picker_announce_current_range_selection">Начало: %1$s – Окончание: %2$s</string>
     <string name="mtrl_picker_announce_current_selection">Текущий выбор: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">не выбрано</string>
     <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Выбор даты</string>
     <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
     <string name="mtrl_picker_day_of_week_column_header">День: %1$s</string>
+    <string name="mtrl_picker_end_date_description">Окончание %1$s</string>
     <string name="mtrl_picker_invalid_format">Неверный формат.</string>
     <string name="mtrl_picker_invalid_format_example">Пример: %1$s</string>
     <string name="mtrl_picker_invalid_format_use">Используйте: %1$s</string>
     <string name="mtrl_picker_invalid_range">Неверный диапазон.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Перейти к выбору года %1$d</string>
     <string name="mtrl_picker_navigate_to_year_description">Перейти к выбору года %1$s</string>
     <string name="mtrl_picker_out_of_range">Вне диапазона: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Начало – %1$s</string>
@@ -266,9 +274,11 @@ dd.MM"</string>
     <string name="mtrl_picker_range_header_title">Диапазон дат</string>
     <string name="mtrl_picker_range_header_unselected">Начало – Окончание</string>
     <string name="mtrl_picker_save">Сохранить</string>
+    <string name="mtrl_picker_start_date_description">Начало %1$s</string>
     <string name="mtrl_picker_text_input_date_hint">Дата</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Окончание</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Начало</string>
+    <string name="mtrl_picker_today_description">Сегодня %1$s</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Календарь</string>
     <string name="mtrl_picker_toggle_to_day_selection">Выбрать день</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Ручной ввод</string>
@@ -311,6 +321,8 @@ dd.MM"</string>
     <string name="scope_icon">Стиль калейдоскопа</string>
     <string name="scope_time">Калейдоскоп</string>
     <string name="search_menu_title">Поиск</string>
+    <string name="searchview_clear_text_content_description">Удалить текст</string>
+    <string name="searchview_navigation_content_description">Назад</string>
     <string name="select_notification_animation_style">Анимация</string>
     <string name="select_notification_notify_style">Эффекты уведомлений</string>
     <string name="send">Отправить</string>
@@ -325,6 +337,7 @@ dd.MM"</string>
     <string name="show_notification">Показывать уведомления</string>
     <string name="show_notificaton">Показывать уведомления</string>
     <string name="shownone_arround_image">Нет</string>
+    <string name="side_sheet_accessibility_pane_title">Боковая панель</string>
     <string name="signature">Подпись</string>
     <string name="signature_default_content">"Всегда верьте, что произойдет
 что-то чудесное"</string>

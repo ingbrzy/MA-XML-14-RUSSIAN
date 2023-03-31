@@ -69,6 +69,7 @@ call run_copy_translation.bat %1 MiuiFreeformService
 call run_copy_translation.bat %1 MiuiFrequentPhrase
 call run_copy_translation.bat %1 MiuiGallery
 call run_copy_translation.bat %1 MiuiHome
+call run_copy_translation.bat %1 MiuiInputSettings
 call run_copy_translation.bat %1 MiuiPackageInstaller
 call run_copy_translation.bat %1 MiuiScanner
 call run_copy_translation.bat %1 MiuiScreenRecorder
