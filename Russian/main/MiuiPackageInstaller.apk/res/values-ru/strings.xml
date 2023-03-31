@@ -117,6 +117,10 @@
     <string name="app_store_missing_title">App Store не установлено</string>
     <string name="app_version_format">Версия: %1$s</string>
     <string name="application_detail_tips">Сведения о приложении и разрешения</string>
+    <string name="auth_type_face">Лицо</string>
+    <string name="auth_type_finger">Отпечаток</string>
+    <string name="auth_type_screen_lock">Блокировка экрана</string>
+    <string name="auth_type_security_verify">Методы проверки</string>
     <string name="authorize_this_once_install">Разрешить только сейчас</string>
     <string name="authorize_to_install">Разрешить</string>
     <string name="auto_startup_dialog_msg">Это приложение может запускаться без вашего разрешения.</string>
@@ -161,6 +165,10 @@
     <string name="close">Закрыть</string>
     <string name="close_mi_protect_lockscreen_authorize_cancel">Отмена</string>
     <string name="close_mi_protect_lockscreen_authorize_ok">Продолжить</string>
+    <string name="close_mi_protected_second_tip_dialog_cancel">Отмена</string>
+    <string name="close_mi_protected_second_tip_dialog_msg">Добавить другие методы проверки вместо обычной блокировки экрана?</string>
+    <string name="close_mi_protected_second_tip_dialog_ok">Добавить</string>
+    <string name="close_mi_protected_second_tip_dialog_title">Другие методы проверки</string>
     <string name="close_safe_mode">Отключить</string>
     <string name="collect_diagnosis_log">Сбор журнала диагностики</string>
     <string name="comment_count_wan">Отзывы: %1$s</string>
@@ -317,6 +325,7 @@ ID: %s
     <string name="general_mode_title">Общая защита</string>
     <string name="give_up">Отмена</string>
     <string name="gold_mi_prize">Золотая награда Mi</string>
+    <string name="google_application_id" />
     <string name="grant_confirm_question">Предоставить нижеперечисленные разрешения? Приложение получит доступ к</string>
     <string name="grant_dialog_button_allow">Разрешить</string>
     <string name="grant_dialog_button_deny">Отклонить</string>
@@ -680,6 +689,7 @@ ID: %s
     <string name="passport_access_denied">Доступ запрещён</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
     <string name="passport_area_code_title">Код страны</string>
+    <string name="passport_attention">Внимание</string>
     <string name="passport_bad_authentication">Неверное имя пользователя или пароль</string>
     <string name="passport_checking_account">Проверка пароля…</string>
     <string name="passport_copy_link">Копировать URL</string>
@@ -693,16 +703,19 @@ ID: %s
     <string name="passport_dialog_nick_name_prefix">Псевдоним: %s</string>
     <string name="passport_dialog_phone_number_prefix">Номер телефона: %s</string>
     <string name="passport_dialog_register_other">Нет, создать новый</string>
+    <string name="passport_doing_query_account">Проверка информации аккаунта…</string>
     <string name="passport_email">Email</string>
     <string name="passport_empty_password">Пароль не может быть пустым</string>
     <string name="passport_error_auth_fail">Сессия устарела, войдите повторно</string>
     <string name="passport_error_device_id">Не удалось получить ID устройства</string>
+    <string name="passport_error_dup_binded_email">Этот адрес электронной почты уже связан с другим аккаунтом Xiaomi</string>
     <string name="passport_error_dynamic_token_error">Неверный проверочный код</string>
     <string name="passport_error_email">Неверный адрес электронной почты</string>
     <string name="passport_error_empty_email">Введите адрес Email</string>
     <string name="passport_error_empty_password">Введите пароль</string>
     <string name="passport_error_empty_pwd">Пароль не может быть пустым</string>
     <string name="passport_error_empty_user_id">Введите имя пользователя</string>
+    <string name="passport_error_invalid_bind_address">Неверный адрес электронной почты</string>
     <string name="passport_error_length_limit">Текст слишком длинный</string>
     <string name="passport_error_network">Не удалось подключиться к сети</string>
     <string name="passport_error_no_password_user">Вы ещё не задали пароль. Войдите с помощью SMS.</string>
@@ -719,8 +732,15 @@ ID: %s
     <string name="passport_error_user_agreement">Примите Пользовательское соглашение</string>
     <string name="passport_error_user_name">Неверное имя пользователя</string>
     <string name="passport_error_user_password">Пароли не совпадают</string>
+    <string name="passport_exceed_binded_phone_times_notice">Этот номер телефона уже связан с другим аккаунтом Xiaomi</string>
+    <string name="passport_facebook_login_btn_content_description">Войти с помощью Facebook</string>
+    <string name="passport_frequency_try_later">Слишком много попыток. Повторите позже.</string>
     <string name="passport_get_login_type_next">Далее</string>
+    <string name="passport_get_phone_verifycode_exceed_limit">На этот номер было отправлено слишком много проверочных кодов. Повторите попытку через 24 часа.</string>
+    <string name="passport_google_login_btn_content_description">Войти с помощью Google</string>
     <string name="passport_header_back">Назад</string>
+    <string name="passport_help">Помощь</string>
+    <string name="passport_i_know">Понятно</string>
     <string name="passport_identification_expired">Код устарел, начните сначала</string>
     <string name="passport_input_captcha_hint">Введите код с картинки</string>
     <string name="passport_input_password_hint">Введите пароль</string>
@@ -733,6 +753,8 @@ ID: %s
     <string name="passport_network_error">Ошибка сети</string>
     <string name="passport_network_error_hint">Проверьте URL-адрес и повторите попытку, или скопируйте его и откройте в браузере</string>
     <string name="passport_next">Далее</string>
+    <string name="passport_no_account">Вход не выполнен</string>
+    <string name="passport_open_settings">Настройки</string>
     <string name="passport_page_load_failed">Не удалось открыть страницу</string>
     <string name="passport_password_login_btn">Войти</string>
     <string name="passport_password_not_show">Не показывать пароль</string>
@@ -759,9 +781,11 @@ ID: %s
     <string name="passport_to_password_login">Войти с помощью пароля</string>
     <string name="passport_to_verify_code_login">Войти с помощью SMS</string>
     <string name="passport_unknow_host_network_error">Проверьте настройки сети и повторите попытку</string>
+    <string name="passport_user_avatar_uploading">Подождите…</string>
     <string name="passport_user_id_hint">Email/номер телефона/ID аккаунта Xiaomi</string>
     <string name="passport_user_id_intro">Введите пароль для %1$s</string>
     <string name="passport_user_password_hint">Пароль</string>
+    <string name="passport_vcode_what_app_send_prompt">Код подтверждения WhatsApp будет отправлен на резервное устройство &lt;font color=#1F93FF>%s&lt;/font></string>
     <string name="passport_wechat_not_install">Сначала установите WeChat</string>
     <string name="passport_wrong_captcha">Код введен неверно</string>
     <string name="passport_wrong_phone_number_format">Неверный формат номера телефона</string>
@@ -901,6 +925,7 @@ ID: %s
     <string name="pure_mode_tip_dialog_title">%1$s пытается установить приложение</string>
     <string name="pure_mode_title">Нейтрализация рисков при установке</string>
     <string name="pure_tip_virus">Найдены вирусы: %1$s</string>
+    <string name="qq_application_id" />
     <string name="reboot_time">Подготовка к перезагрузке… (%1$s)</string>
     <string name="register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="register_by_local_phone_short_text">Создать аккаунт</string>
@@ -1231,6 +1256,7 @@ ID: %s
     <string name="user_name_phone_number">Номер телефона</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+    <string name="verification_word">Проверить</string>
     <string name="verify_account_close_title">Отключить</string>
     <string name="verify_account_default_title">Подтвердите вашу личность</string>
     <string name="verify_account_title">Подтвердите вашу личность</string>

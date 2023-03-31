@@ -2585,6 +2585,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gtb_brightness_adjust">Яркость</string>
     <string name="gtb_brightness_dialog_right_btn">Оставить</string>
     <string name="gtb_brightness_dialog_sub_message">*Функцию можно включить или выключить в настройках.</string>
+    <string name="gtb_casual_guide_toast">Узнайте больше в разделе Игры</string>
     <string name="gtb_content_switch">Рекомендации</string>
     <string name="gtb_content_switch_summary">Получать рекомендации по игровому контенту</string>
     <string name="gtb_deep_garbage_cleaning">Глубокая очистка…</string>
@@ -3516,6 +3517,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_battery_history_total_consumption_title">Энергопотребление</string>
     <string name="pc_battery_history_usetime_title">Активный режим</string>
+    <string name="pc_close_notifi_action">Отключить</string>
     <string name="pc_emergency_call">SOS</string>
     <string name="pc_endurance_calculation">Вычисление…</string>
     <string name="pc_entered_extreme_mode">Включён режим гибернации</string>
@@ -4693,6 +4695,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="screen_share_warning_button">Понятно</string>
     <string name="screen_share_warning_summary">Входящие уведомления не будут отображаться во время трансляции на внешний монитор</string>
     <string name="screen_share_warning_title">Уведомления скрыты</string>
+    <string name="screen_type_external">Внешний экран</string>
+    <string name="screen_type_internal">Внутренний экран</string>
     <string name="screenrecord_not_find">Установите последнюю версию Записи экрана и повторите попытку.</string>
     <string name="sd_eject">Извлечь SD-карту</string>
     <string name="sd_eject_summary">Безопасное извлечение SD-карты</string>
@@ -5297,6 +5301,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="storage_dialog_unsupported">"^1 не поддерживается. 
 
 Сначала необходимо его настроить."</string>
+    <string name="storage_entry_file">Файлы</string>
+    <string name="storage_entry_other">Другое</string>
+    <string name="storage_entry_setting">Настройки</string>
     <string name="storage_fbo_clear">Обновление хранилища FBO</string>
     <string name="storage_fbo_des">Внутреннее хранилище фрагментировано, это может значительно замедлять работу устройства. Обновление хранилища FBO работает автоматически, когда устройство не используется, дефрагментируя файлы для уменьшения задержек.</string>
     <string name="storage_fbo_number_tip">Объединено на %1$s</string>
@@ -6050,6 +6057,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="vb_video_effects_dolby_headset">" (только наушники)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos вкл.</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Расширенное стерео</string>
+    <string name="vb_video_effects_dolby_tips">Усиление голоса и Расширенное стерео не работают при включенном иммерсивном звуке</string>
     <string name="vb_video_effects_immersion_sound">Иммерсивный звук</string>
     <string name="vb_video_effects_immersion_sound_summary">Эффект погружения и ощущения пространства при воспроизведении через наушники</string>
     <string name="vb_video_effects_liquid_summary">Повышение четкости диалогов в видео</string>

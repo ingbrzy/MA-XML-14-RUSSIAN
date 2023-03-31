@@ -228,6 +228,7 @@ ID: %s
     <string name="dialog_cloud_space_not_enough">Для создания резервной копии требуется %1$s свободного места в облачном хранилище. Обновите тарифный план.</string>
     <string name="dialog_content_cancel_backup">В случае отмены резервного копирования, уже загруженные данные будут потеряны. Отменить?</string>
     <string name="dialog_content_cancel_restore">В случае отмены восстановления, уже восстановленные данные будут сохранены. Отменить?</string>
+    <string name="dialog_get_installed_apps_consent_message">Для автоматического резервного копирования разрешите в Настройках приложению доступ к списку приложений на устройстве и выберите \"Всегда разрешать\"</string>
     <string name="dialog_get_installed_apps_consent_title">Предоставьте разрешения</string>
     <string name="dialog_msg_overwrite_backup">Локальная резервная копия отличается от копии в Xiaomi Cloud. Если вы продолжите, текущая копия перезапишет предыдущую.</string>
     <string name="dialog_msg_restore_require_wlan">Для восстановления из резервной копии требуется подключение к Wi-Fi.</string>
@@ -308,6 +309,7 @@ ID: %s
     <string name="managespace_delete_backup">Удалить</string>
     <string name="manual_request_notification_permission_dialog_negative_button">Закрыть</string>
     <string name="manual_request_notification_permission_dialog_positive_button">Настройки</string>
+    <string name="manual_request_permissions_dialog_description">Если не предоставить разрешения для \"%s\", вы не сможете получать уведомления о сбоях резервного копирования и других важных действиях. Разрешение можно предоставить в Настройках.</string>
     <string name="manual_request_permissions_dialog_title">Предоставьте разрешения</string>
     <string name="menu_item_managespace">Управление памятью</string>
     <string name="menu_item_sort">Сортировка</string>
@@ -432,6 +434,7 @@ ID: %s
     <string name="request_notification_permission_dialog_confirm">Понятно</string>
     <string name="request_permission_post_notification">Для уведомлений о резервном копировании в облако</string>
     <string name="request_permission_post_notification_title">Уведомления</string>
+    <string name="request_permissions_dialog_description">Разрешите уведомления и напоминания, чтобы были доступны все возможности облачного резервного копирования</string>
     <string name="request_permissions_dialog_title">Предоставьте разрешения</string>
     <string name="restore_app_order_finish">Готово</string>
     <string name="restore_app_order_loading">Подождите…</string>
@@ -512,6 +515,7 @@ ID: %s
     <string name="session_failed_disk_no_space_restore_detail">Для восстановления требуется не менее %s</string>
     <string name="session_failed_disk_no_space_title">Недостаточно места. Очистите хранилище и повторите попытку.</string>
     <string name="session_failed_dist_no_space_btn_text">Очистка</string>
+    <string name="session_failed_get_installed_apps_denied_detail">Для автоматического резервного копирования разрешите в Настройках приложению доступ к списку приложений на устройстве и выберите \"Всегда разрешать\"</string>
     <string name="session_failed_get_installed_apps_denied_title">Предоставьте разрешения</string>
     <string name="session_failed_no_server_response_title">Не удалось подключиться к серверу</string>
     <string name="session_failed_override_detail">Локальное резервное копирование отличается от резервного копирования в Xiaomi Cloud. Текущая резервная копия перезапишет предыдущую. Продолжить?</string>

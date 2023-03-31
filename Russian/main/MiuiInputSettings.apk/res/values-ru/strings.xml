@@ -146,13 +146,22 @@
     <string name="key_system_control">Управление системой</string>
     <string name="keyboard_assistance_category">Подсказки клавиатуры</string>
     <string name="keyboard_back_light">Подсветка клавиатуры</string>
+    <string name="keyboard_back_light_automatic_adjustment">Автонастройка подсветки</string>
+    <string name="keyboard_back_light_brightness">Яркость подсветки</string>
+    <string name="keyboard_cursor_style_title">Стиль курсора</string>
+    <string name="keyboard_cursor_title">Курсор</string>
+    <string name="keyboard_function_summary_first_line">·Нажмите и удерживайте для отображения ярлыков</string>
+    <string name="keyboard_function_summary_second_line">·Для передачи экрана поднесите устройство, авторизованное под той же учетной записью, к области NFC на клавиатуре. Выберите файл или фотографию для передачи между устройствами.</string>
     <string name="keyboard_funtion_key">Функциональная клавиша</string>
     <string name="keyboard_layout_default_label">По умолчанию</string>
     <string name="keyboard_layout_dialog_setup_button">Настроить раскладки клавиатуры</string>
     <string name="keyboard_layout_dialog_switch_hint">Для смены нажмите CTRL + Пробел</string>
     <string name="keyboard_layout_dialog_title">Выбор раскладки клавиатуры</string>
     <string name="keyboard_layout_picker_title">Раскладка клавиатуры</string>
+    <string name="keyboard_layout_thai">Тайская</string>
+    <string name="keyboard_layouts_label">Клавиатура Xiaomi</string>
     <string name="keyboard_mouse_touch">Клавиатура, мышь и трекпад</string>
+    <string name="keyboard_nfc_function">NFC</string>
     <string name="keyboard_shortcuts_helper">Быстрые клавиши</string>
     <string name="keyboard_shortcuts_helper_summary">Показывать быстрые клавиши</string>
     <string name="knock_edge_area_invalid">Жест не работает у краев экрана</string>
@@ -169,15 +178,20 @@
     <string name="ks_category_app">Открытые приложения</string>
     <string name="ks_category_key">Клавиатура</string>
     <string name="ks_category_system">Системные ярлыки</string>
+    <string name="ks_close_window">Закрыть текущее окно</string>
     <string name="ks_dialog_add_text">Введите комбинацию клавиш, чтобы добавить ярлык</string>
     <string name="ks_dialog_conflict">Этот ярлык уже используется для \"%s\"</string>
     <string name="ks_dialog_modify_text">Введите комбинацию клавиш, чтобы изменить ярлык</string>
     <string name="ks_dialog_reset_btn">Восстановить</string>
+    <string name="ks_dialog_reset_conflict_text">Не удалось сбросить. Эта комбинация уже используется.</string>
     <string name="ks_dialog_reset_text_app">Настройки ярлыков для открытия приложений будут восстановлены по умолчанию. Все пользовательские ярлыки будут удалены. Восстановить?</string>
     <string name="ks_dialog_reset_text_system">Восстановить настройки системных ярлыков по умолчанию?</string>
     <string name="ks_dialog_title">Открыть %s</string>
     <string name="ks_launch_control_center">Центр управления</string>
     <string name="ks_launch_notification_center">Шторка уведомлений</string>
+    <string name="ks_launch_recents_tasks">Открыть Недавние</string>
+    <string name="ks_lock_screen">Экран блокировки</string>
+    <string name="ks_regional_screen_shot">Скриншот (частичный)</string>
     <string name="ks_reset_title">Настройки по умолчанию</string>
     <string name="ks_screenshot">Скриншот</string>
     <string name="ks_search_summary">Поиск</string>
@@ -210,6 +224,11 @@
     <string name="lock_settings_common_title">Настройка защиты</string>
     <string name="long_press_back_key">Долгое нажатие \"Назад\"</string>
     <string name="long_press_buttom_key">Долгое нажатие \"Домой\" на экране блокировки</string>
+    <string name="long_press_power_guide_know">Понятно</string>
+    <string name="long_press_power_guide_message" formatted="false">"Нажмите и удерживайте кнопку питания в течение %s сек., чтобы разбудить Google Ассистент.
+Если удерживать кнопку в течение %s секунд, откроется меню питания."</string>
+    <string name="long_press_power_guide_settings">Настройки</string>
+    <string name="long_press_power_guide_title">Пробуждение кнопкой питания</string>
     <string name="long_press_power_key_half_of_second">Запускать Google Ассистент кнопкой питания</string>
     <string name="long_press_power_key_half_second">Нажмите и удерживайте кнопку питания 0.5 сек.</string>
     <string name="long_press_power_key_tips">&lt;Data&gt;Долгое нажатие кнопки питания &lt;font color=#999999&gt;Быстрее и удобнее&lt;/font&gt;&lt;/Data&gt;</string>
@@ -289,6 +308,8 @@
     <string name="morning">Утро</string>
     <string name="mute">Режим \"Без звука\"</string>
     <string name="natural_scroll">Натуральная прокрутка</string>
+    <string name="natural_scroll_summary">Прокрутка содержимого движением пальцев</string>
+    <string name="navigation_type_title">Экранная навигация</string>
     <string name="night">Вечер</string>
     <string name="no_media_button_receiver">Нет</string>
     <string name="none">Нет</string>
@@ -369,6 +390,7 @@
     <string name="stylus_connect_fail">Не удалось подключить. Повторите сопряжение.</string>
     <string name="stylus_connect_fail_no_battery">Зарядите стилус</string>
     <string name="stylus_connect_fail_no_reason">Не удалось подключить</string>
+    <string name="stylus_connect_fail_not_match_tablet">Стилус несовместим с планшетом</string>
     <string name="stylus_connect_fail_not_open_gps">Не удалось подключить. Включите геолокацию и повторите попытку.</string>
     <string name="stylus_connecting">Подключение…</string>
     <string name="stylus_function_and_action">Функции</string>
@@ -398,6 +420,7 @@
     <string name="stylus_ota_update">Обновить</string>
     <string name="stylus_ota_update_failed">Не удалось обновить прошивку</string>
     <string name="stylus_ota_updating">Обновление…</string>
+    <string name="stylus_pen_mask_text">Коснитесь экрана для рукописного ввода</string>
     <string name="stylus_primary_key">Первая кнопка</string>
     <string name="stylus_quick_write">Рукописный ввод</string>
     <string name="stylus_quick_write_summary">Нажмите и удерживайте кнопку рукописного ввода, чтобы написать или сделать рисунок</string>
@@ -466,6 +489,23 @@
     <string name="time_picker_label_minute">М</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
+    <string name="touchpad_back">Назад</string>
+    <string name="touchpad_back_summary">Проведите двумя пальцами от левого или правого края трекпада</string>
+    <string name="touchpad_gestures_title">Жесты трекпада</string>
+    <string name="touchpad_go_home">Возврат на Рабочий стол</string>
+    <string name="touchpad_go_home_summary">Проведите вверх тремя пальцами</string>
+    <string name="touchpad_launch_controller_center">Открыть Центр управления</string>
+    <string name="touchpad_launch_controller_center_summary">Проведите вниз двумя пальцами от верхнего правого края трекпада</string>
+    <string name="touchpad_launch_notification">Открыть шторку уведомлений</string>
+    <string name="touchpad_launch_notification_summary">Проведите вниз двумя пальцами от верхнего левого края трекпада</string>
+    <string name="touchpad_quick_switch">Переключение между приложениями</string>
+    <string name="touchpad_quick_switch_summary">Проведите влево или вправо тремя пальцами</string>
+    <string name="touchpad_screen_shot">Сделать скриншот</string>
+    <string name="touchpad_screen_shot_summary">Проведите вниз тремя пальцами</string>
+    <string name="touchpad_switch_recent_task">Открыть Недавние</string>
+    <string name="touchpad_switch_recent_task_summary">Проведите тремя пальцами вверх и задержите</string>
+    <string name="touchpad_title">Трекпад</string>
+    <string name="touchpad_touch_click_title">Коснитесь трекпада для нажатия</string>
     <string name="trackball_wake_title">Пробуждать трекболом</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>

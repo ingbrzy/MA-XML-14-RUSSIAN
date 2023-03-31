@@ -926,6 +926,7 @@ mm"</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
     <string name="passport_activate_token_expired">Код устарел. Повторите попытку.</string>
     <string name="passport_area_code_title">Код страны</string>
+    <string name="passport_attention">Внимание</string>
     <string name="passport_auth_title"/>
     <string name="passport_bad_authentication">Неверное имя пользователя или пароль</string>
     <string name="passport_barcode_add_account_prompt">Для добавления аккаунта отсканируйте QR-код после авторизации.</string>
@@ -950,6 +951,7 @@ mm"</string>
     <string name="passport_empty_user_name">Имя не может быть пустым</string>
     <string name="passport_error_auth_fail">Сессия устарела, войдите повторно</string>
     <string name="passport_error_device_id">Не удалось получить ID устройства</string>
+    <string name="passport_error_dup_binded_email">Этот адрес электронной почты уже связан с другим аккаунтом Xiaomi</string>
     <string name="passport_error_dynamic_token_error">Неверный проверочный код</string>
     <string name="passport_error_email">Неверный адрес электронной почты</string>
     <string name="passport_error_empty_captcha_code">Введите защитный код</string>
@@ -961,6 +963,7 @@ mm"</string>
     <string name="passport_error_empty_vcode">Введите код подтверждения</string>
     <string name="passport_error_empty_voice_code">Введите код с картинки</string>
     <string name="passport_error_illegal_pwd">Неверный пароль</string>
+    <string name="passport_error_invalid_bind_address">Неверный адрес электронной почты</string>
     <string name="passport_error_length_limit">Текст слишком длинный</string>
     <string name="passport_error_network">Не удалось подключиться к сети</string>
     <string name="passport_error_no_password_user">Вы ещё не задали пароль. Войдите с помощью SMS.</string>
@@ -979,10 +982,15 @@ mm"</string>
     <string name="passport_error_user_agreement_error">Примите условия и положения</string>
     <string name="passport_error_user_name">Неверное имя пользователя</string>
     <string name="passport_error_user_password">Пароли не совпадают</string>
+    <string name="passport_exceed_binded_phone_times_notice">Этот номер телефона уже связан с другим аккаунтом Xiaomi</string>
+    <string name="passport_facebook_login_btn_content_description">Войти с помощью Facebook</string>
     <string name="passport_forget_password"><u>Забыли пароль?</u></string>
+    <string name="passport_frequency_try_later">Слишком много попыток. Повторите позже.</string>
     <string name="passport_get_login_type_next">Далее</string>
+    <string name="passport_get_phone_verifycode_exceed_limit">На этот номер было отправлено слишком много проверочных кодов. Повторите попытку через 24 часа.</string>
     <string name="passport_get_verify_code">Получить код</string>
     <string name="passport_getting_verify_code">Получение…</string>
+    <string name="passport_google_login_btn_content_description">Войти с помощью Google</string>
     <string name="passport_header_back">Назад</string>
     <string name="passport_identification_expired">Код устарел, начните сначала</string>
     <string name="passport_input_captcha_hint">Введите код с картинки</string>
@@ -1002,8 +1010,10 @@ mm"</string>
     <string name="passport_network_error_hint">Проверьте URL-адрес и повторите попытку, или скопируйте его и откройте в браузере</string>
     <string name="passport_next">Далее</string>
     <string name="passport_next_step">ДАЛЕЕ</string>
+    <string name="passport_no_account">Вход не выполнен</string>
     <string name="passport_oauth_actionbar_title">Xiaomi аккаунт</string>
     <string name="passport_oauth_sucess_tip">Вход выполнен</string>
+    <string name="passport_open_settings">Настройки</string>
     <string name="passport_page_load_failed">Не удалось открыть страницу</string>
     <string name="passport_password_login_btn">Войти</string>
     <string name="passport_password_not_show">Не показывать пароль</string>
