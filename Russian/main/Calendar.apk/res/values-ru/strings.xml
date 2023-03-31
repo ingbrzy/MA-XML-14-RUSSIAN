@@ -943,8 +943,8 @@
     <string name="preferences_alerts_vibrateWhen_title">Вибрация</string>
     <string name="preferences_alerts_vibrate_title">Напоминания по умолчанию</string>
     <string name="preferences_allow_remind">Разрешить напоминания</string>
-    <string name="preferences_default_allday_reminder_title">Время напоминания (весь день)</string>
-    <string name="preferences_default_reminder_dialog">Начало напоминания</string>
+    <string name="preferences_default_allday_reminder_title">Напоминание в течение дня</string>
+    <string name="preferences_default_reminder_dialog">Время напоминания</string>
     <string name="preferences_default_reminder_title">Начало напоминания</string>
     <string name="preferences_home_tz_title">Мой часовой пояс</string>
     <string name="preferences_import_credit_repayment">Платежи по кредитным картам</string>
