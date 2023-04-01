@@ -636,7 +636,7 @@
     <string name="app_predict_settings_train_tip">Используйте автоматическую оптимизацию актуальности рекомендаций</string>
     <string name="app_predict_widget_experience_now">Попробовать</string>
     <string name="app_predict_widget_name_2x4">Рекомендации</string>
-    <string name="app_predict_widget_summary">Быстрый запуск приложений, которые могут вам понадобиться</string>
+    <string name="app_predict_widget_summary">Приложения, которые могут понадобиться</string>
     <string name="app_predict_widget_title">Рекомендации</string>
     <string name="app_right">Официальный продукт Xiaomi</string>
     <string name="app_running_tip_dialog_negative">Отмена</string>
