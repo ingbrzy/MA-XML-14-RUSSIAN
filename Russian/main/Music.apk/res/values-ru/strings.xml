@@ -1154,13 +1154,17 @@ ID: %s
     <string name="passport_access_denied">Доступ запрещён</string>
     <string name="passport_account_label">Xiaomi аккаунт</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
+    <string name="passport_account_user_base_info">Основная информация</string>
+    <string name="passport_account_user_details">Личная информация</string>
     <string name="passport_activate_token_expired">Код устарел. Повторите попытку.</string>
     <string name="passport_area_code_title">Код страны</string>
+    <string name="passport_attention">Внимание</string>
     <string name="passport_bad_authentication">Неверное имя пользователя или пароль</string>
     <string name="passport_barcode_add_account_prompt">Для добавления аккаунта отсканируйте QR-код после авторизации.</string>
     <string name="passport_can_not_receive_verification_code">Не получили код подтверждения?</string>
     <string name="passport_can_not_recevie_verify_code">Не получили код подтверждения?</string>
     <string name="passport_captcha_title">Капча</string>
+    <string name="passport_check_security">Проверка наличия угроз безопасности…</string>
     <string name="passport_checking_account">Проверка пароля…</string>
     <string name="passport_clear_input">Очистить введённое содержимое</string>
     <string name="passport_close">Закрыть</string>
@@ -1181,6 +1185,7 @@ ID: %s
     <string name="passport_empty_user_name">Имя не может быть пустым</string>
     <string name="passport_error_auth_fail">Сессия устарела, войдите повторно</string>
     <string name="passport_error_device_id">Не удалось получить ID устройства</string>
+    <string name="passport_error_dup_binded_email">Этот адрес электронной почты уже связан с другим аккаунтом Xiaomi</string>
     <string name="passport_error_dynamic_token_error">Неверный проверочный код</string>
     <string name="passport_error_email">Неверный адрес электронной почты</string>
     <string name="passport_error_empty_captcha_code">Введите защитный код</string>
@@ -1192,6 +1197,7 @@ ID: %s
     <string name="passport_error_empty_vcode">Введите код подтверждения</string>
     <string name="passport_error_empty_voice_code">Введите код с картинки</string>
     <string name="passport_error_illegal_pwd">Неверный пароль</string>
+    <string name="passport_error_invalid_bind_address">Неверный адрес электронной почты</string>
     <string name="passport_error_length_limit">Текст слишком длинный</string>
     <string name="passport_error_network">Не удалось подключиться к сети</string>
     <string name="passport_error_no_password_user">Вы ещё не задали пароль. Войдите с помощью SMS.</string>
@@ -1210,11 +1216,18 @@ ID: %s
     <string name="passport_error_user_agreement_error">Примите условия и положения</string>
     <string name="passport_error_user_name">Неверное имя пользователя</string>
     <string name="passport_error_user_password">Пароли не совпадают</string>
+    <string name="passport_exceed_binded_phone_times_notice">Этот номер телефона уже связан с другим аккаунтом Xiaomi</string>
+    <string name="passport_facebook_login_btn_content_description">Войти с помощью Facebook</string>
     <string name="passport_forget_password"><u>Забыли пароль?</u></string>
+    <string name="passport_frequency_try_later">Слишком много запросов. Повторите попытку позже.</string>
     <string name="passport_get_login_type_next">Далее</string>
+    <string name="passport_get_phone_verifycode_exceed_limit">На этот номер было отправлено слишком много проверочных кодов. Повторите попытку через 24 часа.</string>
     <string name="passport_get_verify_code">Получить код</string>
     <string name="passport_getting_verify_code">Получение…</string>
+    <string name="passport_google_login_btn_content_description">Войти с помощью Google</string>
     <string name="passport_header_back">Назад</string>
+    <string name="passport_help">Помощь</string>
+    <string name="passport_i_know">Понятно</string>
     <string name="passport_identification_expired">Код устарел, начните сначала</string>
     <string name="passport_input_captcha_hint">Введите код с картинки</string>
     <string name="passport_input_password_hint">Введите пароль</string>
@@ -1227,12 +1240,16 @@ ID: %s
     <string name="passport_international_phone_password_login_tip">(Пользователям за пределами Китая необходимо вводить номер мобильного телефона в формате: +[Код страны][Номер телефона], например +7 1234567890)</string>
     <string name="passport_log_detail">Показать сведения</string>
     <string name="passport_login_failed">Ошибка авторизации</string>
+    <string name="passport_logout_account">Выйти</string>
     <string name="passport_mi_account_first_title">Аккаунт будет создан автоматически, если этот номер телефона используется впервые</string>
     <string name="passport_mi_account_title">Вход с помощью аккаунта Xiaomi</string>
     <string name="passport_network_error">Ошибка сети</string>
     <string name="passport_network_error_hint">Проверьте URL-адрес и повторите попытку, или скопируйте его и откройте в браузере</string>
+    <string name="passport_network_timeout">Не удалось подключиться к сети. Повторите попытку.</string>
     <string name="passport_next">Далее</string>
     <string name="passport_next_step">ДАЛЕЕ</string>
+    <string name="passport_no_account">Вход не выполнен</string>
+    <string name="passport_open_settings">Настройки</string>
     <string name="passport_page_load_failed">Не удалось открыть страницу</string>
     <string name="passport_password_login_btn">Войти</string>
     <string name="passport_password_not_show">Не показывать пароль</string>
@@ -1258,7 +1275,11 @@ ID: %s
     <string name="passport_set_password_no_phone_msg">Добавьте номер телефона для защиты аккаунта.</string>
     <string name="passport_sign_in">Войти</string>
     <string name="passport_sign_in_or_sign_up">Войти/Создать аккаунт</string>
+    <string name="passport_skip_query_account">Пропустить</string>
     <string name="passport_sms_phone_intro">Код отправлен на %1$s %1$s</string>
+    <string name="passport_sns_access_token_expired_warning">Сеанс истек. Войдите снова, чтобы повторно подключить эту учетную запись.</string>
+    <string name="passport_sns_bind_limit">Слишком много попыток. Попробуйте выбрать другой способ входа.</string>
+    <string name="passport_system_error">Система не отвечает. Подождите немного и повторите попытку.</string>
     <string name="passport_talkback_image_captcha">Защитный код с картинки</string>
     <string name="passport_talkback_switch_image_captcha">Переключиться на защитный код с картинки</string>
     <string name="passport_talkback_switch_voice_captcha">Переключиться на голосовой защитный код</string>
@@ -1273,8 +1294,12 @@ ID: %s
     <string name="passport_unknow_error">Неизвестная ошибка</string>
     <string name="passport_unknow_host_network_error">Проверьте настройки сети и повторите попытку</string>
     <string name="passport_unknow_network_error">Ошибка сети</string>
+    <string name="passport_unknown_error">Неизвестная ошибка</string>
+    <string name="passport_unknown_host_network_error">Проверьте настройки сети и повторите попытку</string>
     <string name="passport_user_agreement_link">&lt;Data&gt;"Я прочитал и принимаю&amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt; Xiaomi."&lt;/Data&gt;</string>
     <string name="passport_user_agreement_link_more">"&lt;Data&gt;"Я прочитал и принимаю &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%4$s\"&gt;Политику конфиденциальности&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt;.&lt;/Data&gt;"</string>
+    <string name="passport_user_avatar_update_title">Фото профиля</string>
+    <string name="passport_user_avatar_uploading">Подождите…</string>
     <string name="passport_user_id_hint">Email/номер телефона/ID аккаунта Xiaomi</string>
     <string name="passport_user_id_intro">Введите пароль для %1$s</string>
     <string name="passport_user_password_hint">Пароль</string>
@@ -1282,6 +1307,7 @@ ID: %s
     <string name="passport_vcode_notification_title">Проверка авторизации не завершена</string>
     <string name="passport_vcode_prompt_long">Введите код подтверждения</string>
     <string name="passport_vcode_sms_send_prompt">Отправить код на %s</string>
+    <string name="passport_vcode_what_app_send_prompt">Код подтверждения WhatsApp будет отправлен на номер для восстановления (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_verification_failed">Не удалось проверить</string>
     <string name="passport_verify">Проверить</string>
     <string name="passport_wechat_not_install">Сначала установите WeChat</string>
@@ -1468,7 +1494,7 @@ ID: %s
     <string name="search_result_online_songs">Онлайн</string>
     <string name="search_songs">Поиск треков</string>
     <string name="search_songs_count">Треки: %d</string>
-    <string name="see_more_videos">Больше видео</string>	
+    <string name="see_more_videos">Больше видео</string>
     <string name="select">Выбрать</string>
     <string name="select_all">Выбрать все</string>
     <string name="select_clip_desc">Выберите фрагмент</string>
@@ -1874,4 +1900,5 @@ ID: %s
     <string name="youtube_play_history">История просмотров</string>
     <string name="youtube_share_guide_tip">Теперь вы можете делиться с друзьями видео</string>
     <string name="youtube_tab_explore">Обзор</string>
+    <string name="youtube_tab_playlist">Плейлисты</string>
 </resources>

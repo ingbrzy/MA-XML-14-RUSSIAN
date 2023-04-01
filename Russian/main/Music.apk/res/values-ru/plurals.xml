@@ -165,6 +165,12 @@
         <item quantity="other">Перемотка назад на %d сек.</item>
         <item quantity="one">Перемотка назад на %d сек.</item>
     </plurals>
+    <plurals name="feed_play_times">
+        <item quantity="other">%s просмотров</item>
+        <item quantity="one">%s просмотр</item>
+        <item quantity="few">%s просмотра</item>
+        <item quantity="many">%s просмотров</item>
+    </plurals>
     <plurals name="free_downloads_num_hint">
         <item quantity="other">Осталось %d бесплатных скачиваний</item>
         <item quantity="one">Осталось %d бесплатное скачивание</item>
