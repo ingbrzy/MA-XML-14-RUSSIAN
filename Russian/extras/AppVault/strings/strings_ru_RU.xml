@@ -7,7 +7,7 @@
     <string name="search_filter_color_all">Все цвета</string>
     <string name="search_filter_size_all">Все размеры</string>
     <string name="widget_apps">Приложения с виджетами</string>
-    <string name="widget_num_limit">Не удалось добавить виджеты. Удалите виджеты, чтобы добавить новые.</string>
+    <string name="widget_num_limit">Не удалось добавить. Удалите виджеты, чтобы добавить новые.</string>
     <string name="widget_num_warn">Добавлено. Большое количество виджетов на рабочем столе может замедлить работу устройства.</string>
     <!-- Categories -->
     <string name="theme_clock">Часы</string>
@@ -54,9 +54,9 @@
     <string name="whatsapp_photos">Фото</string>
     <!-- Widgets -->
     <string name="widget_appvault_shortcuts">Ярлыки</string>
-    <string name="widget_appvault_shortcuts_desc">Быстрый запуск часто используемых приложений и функций</string>
-    <string name="widget_appvault_smart_shortcuts">Рекомендации по приложениям</string>
-    <string name="widget_appvault_smart_shortcuts_desc">Быстрый запуск часто используемых приложений и функций</string>
+    <string name="widget_appvault_shortcuts_desc">Часто используемые приложения и функции</string>
+    <string name="widget_appvault_smart_shortcuts">Рекомендации</string>
+    <string name="widget_appvault_smart_shortcuts_desc">Часто используемые приложения и функции</string>
     <string name="widget_browser_search">Поиск</string>
     <string name="widget_browser_search_desc">Поиск в интернете</string>
     <string name="widget_browser_shortcuts">Ярлыки</string>
@@ -88,9 +88,9 @@
     <string name="widget_clock_world">Мировые часы</string>
     <string name="widget_clock_world_desc">Время в других городах</string>
     <string name="widget_files_pin">Частые файлы</string>
-    <string name="widget_files_pin_desc">Быстрый доступ к часто просматриваемым файлам</string>	
+    <string name="widget_files_pin_desc">Доступ к часто просматриваемым файлам</string>	
     <string name="widget_gallery_custom">Избранные фото</string>
-    <string name="widget_gallery_custom_desc">Добавьте виджет и нажмите на него для выбора фотографий</string>
+    <string name="widget_gallery_custom_desc">Добавьте виджет и нажмите на него для выбора фото</string>
     <string name="widget_gallery_recommend">Моменты</string>
     <string name="widget_gallery_recommend_desc">Вспомните самые яркие моменты</string>
     <string name="widget_health_sleep">Сон</string>
@@ -100,7 +100,7 @@
     <string name="widget_health_steps">Шаги</string>
     <string name="widget_health_steps_desc">Количество шагов и прогресс</string>
     <string name="widget_mivideo_local">Локальные видео</string>
-    <string name="widget_mivideo_local_desc">Быстрый доступ к локальным аудио- и видеофайлам</string>
+    <string name="widget_mivideo_local_desc">Доступ к локальным аудио- и видеофайлам</string>
     <string name="widget_notes_quick">Ярлыки</string>
     <string name="widget_notes_quick_desc">Быстрое создание заметок и задач</string>
     <string name="widget_notes_quick_note">Заметки</string>
@@ -117,8 +117,8 @@
     <string name="widget_pals_dog_desc">Гав ~ поиграй со мной!</string>
     <string name="widget_security_app_behavior">Конфиденциальность</string>
     <string name="widget_security_app_behavior_desc">Cтатистика действий приложений</string>
-    <string name="widget_security_app_predict">Рекомендации по приложениям</string>
-    <string name="widget_security_app_predict_desc">Быстрый запуск приложений по рекомендациям AI</string>
+    <string name="widget_security_app_predict">Рекомендации</string>
+    <string name="widget_security_app_predict_desc">Приложения по рекомендациям AI</string>
     <string name="widget_security_battery">Батарея</string>
     <string name="widget_security_battery_desc">Просмотр состояния батареи</string>
     <string name="widget_security_cleaner">Очистка</string>
