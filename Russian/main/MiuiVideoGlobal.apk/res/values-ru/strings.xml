@@ -890,9 +890,11 @@ ID: %s
     <string name="local_diversion_close_recommend">Закрыть</string>
     <string name="local_diversion_download_more_video">Ещё</string>
     <string name="local_diversion_manage_local_video">Управление файлами</string>
+    <string name="local_diversion_moments_videos">Смотреть \"Моменты\"</string>
     <string name="local_diversion_open_mivideo">"Посмотреть в Mi Видео
 "</string>
     <string name="local_diversion_recommend_title">Популярное</string>
+    <string name="local_diversion_trending_videos">Смотреть видео \"В тренде\"</string>
     <string name="local_diversion_view_more">Просмотр</string>
     <string name="local_empty_guide">Видео, которые вы снимаете, появятся здесь</string>
     <string name="local_folder_select_count">Выбрано: %s</string>

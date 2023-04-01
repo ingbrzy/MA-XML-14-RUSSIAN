@@ -6,6 +6,7 @@ if "%~1"=="" (
 )
 ;
 call run_copy_translation_sel.bat %1 MiBrowserGlobal
+call run_copy_translation_sel.bat %1 MiuiVideoGlobal
 call run_copy_translation_sel.bat %1 Music
 
 :_end_batch
