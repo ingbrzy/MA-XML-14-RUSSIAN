@@ -1425,7 +1425,7 @@ ID:%s
     <string name="snore_detection_enable">Обнаружение храпа и разговора</string>
     <string name="snore_detection_guide_one_description">Во время сна будут записываться все звуки. Машинное обучение позволяет приложению Здоровье обнаруживать храп, разговор и шум, сохранять записи на устройстве.</string>
     <string name="snore_detection_guide_one_title">Запись через микрофон</string>
-    <string name="snore_detection_guide_schedule_suggest">Микрофон будет включаться и выключаться по расписанию вашего режима сна. Установите расписание &gt;</string>
+    <string name="snore_detection_guide_schedule_suggest">Микрофон будет включаться и выключаться по расписанию вашего режима сна. Установите расписание></string>
     <string name="snore_detection_guide_schedule_suggest_details">Микрофон будет включён во время сна для анализа вашего цикла сна. Чтобы сделать статистику более точной, установите время сна в часах.</string>
     <string name="snore_detection_guide_three_description">Убедитесь, что устройство достаточно заряжено, прежде чем ложиться спать. Низкий заряд батареи может прервать запись.</string>
     <string name="snore_detection_guide_three_title">Проверьте уровень заряда</string>

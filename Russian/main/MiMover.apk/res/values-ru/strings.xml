@@ -124,7 +124,7 @@
     <string name="close_twice_auth_operation">"URL:
 Посетите https://appleid.apple.com/#!&amp;page=signin для отключения"</string>
     <string name="close_twice_auth_step_1">1. Откройте любой веб-браузер на любом ПК и перейдите на appleid.apple.com.</string>
-    <string name="close_twice_auth_step_2">2. Войдите в Apple ID, для которого вы хотите отключить двухфакторную аутентификацию, перейдите в раздел "\Безопасность"\ в настройках учётной записи и выберите "\Изменить"\.</string>
+    <string name="close_twice_auth_step_2">2. Войдите в Apple ID, для которого вы хотите отключить двухфакторную аутентификацию, перейдите в раздел \"Безопасность\" в настройках учётной записи и выберите \"Изменить\".</string>
     <string name="close_twice_auth_step_3">3. Нажмите \"Отключить двухфакторную аутентификацию\". Нажмите ещё раз, чтобы подтвердить.</string>
     <string name="close_twice_auth_steps">Выполните следующие действия, чтобы отключить двухфакторную аутентификацию для Apple ID:</string>
     <string name="close_twice_auth_tutor">Отключить двухфакторную аутентификацию Apple ID</string>

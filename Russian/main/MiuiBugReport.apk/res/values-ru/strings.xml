@@ -87,6 +87,7 @@
     <string name="bugreport_dump_start_notification_title">Создание отчёта об ошибке…</string>
     <string name="bugreport_tool_log_dumping_desc">Это займет около минуты</string>
     <string name="bugreport_tool_log_dumping_title">Создание отчёта об ошибке</string>
+    <string name="can_not_add_more_image">Достигнут лимит изображений/видео</string>
     <string name="catch_full_log_action_cancel">Отменить</string>
     <string name="catch_full_log_action_complete">Завершить и отправить</string>
     <string name="catch_full_log_action_start">Начать</string>
@@ -173,6 +174,18 @@ ID: %s
     <string name="doing_login">Вход…</string>
     <string name="doing_query_account">Проверка информации об аккаунте…</string>
     <string name="doing_register">Создание аккаунта…</string>
+    <string name="dynamic_dialog_content">Будет включена функция динамического журнала, которая относится к специальному режиму записи проблем и содержит информацию о запущенных программах (включая системные вызовы и т. д.). После включения этой функции, в системе могут возникать проблемы с задержкой или нагревом (это нормально). После завершения записи журнала устройство автоматически выключится. Отправьте нам журнал при повторном появлении проблемы. Нажав \"Принимаю\" ниже, вы соглашаетесь с тем, что мы будем собирать вышеуказанные данные в следующем сеансе записи, необходимые для решения проблемы.</string>
+    <string name="dynamic_dialog_negative_text">Отмена</string>
+    <string name="dynamic_dialog_notification_text">Отправьте журнал нам при повторном появлении проблемы. Функция будет автоматически закрыта.</string>
+    <string name="dynamic_dialog_notification_title">Динамический журнал</string>
+    <string name="dynamic_dialog_positive_text">Принимаю</string>
+    <string name="dynamic_dialog_title">Примечание о конфиденциальности</string>
+    <string name="dynamic_log_float_dump_SF">дамп surfaceflinger</string>
+    <string name="dynamic_log_float_dump_activity">дамп activity</string>
+    <string name="dynamic_log_float_dump_window">дамп window</string>
+    <string name="dynamic_log_load_text">Загрузка…</string>
+    <string name="dynamic_log_restore_toast_text">Идёт восстановление динамического журнала, попробуйте позже!</string>
+    <string name="dynamic_log_title">Динамический журнал</string>
     <string name="early_morning">Утро</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
@@ -490,6 +503,7 @@ ID: %s
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -624,6 +638,7 @@ ID: %s
     <string name="non_system_app_select">Приложения</string>
     <string name="noon">Полдень</string>
     <string name="not_set">Не задано</string>
+    <string name="not_support_service_in_maintenance_mode">Сервис не поддерживается в режиме обслуживания</string>
     <string name="nothing">--</string>
     <string name="ok">ОК</string>
     <string name="open_feedback_main">Ещё</string>

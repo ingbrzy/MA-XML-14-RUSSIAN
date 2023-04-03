@@ -3403,7 +3403,7 @@ ID: %s
     <string name="dual_cdma_sim_warning_notification_summary">Использование %1$s может ограничить функциональность. Нажмите для подробностей.</string>
     <string name="dual_clock">Двойные часы</string>
     <string name="dual_clock_aod_open_message">Двойные часы будут отображаться на экране блокировки и рабочем столе, а также на выключенном экране.</string>
-    <string name="dual_clock_hint">Для "\Двойных часов\" необходимы системный виджет часов и тема по умолчанию</string>
+    <string name="dual_clock_hint">Для \"Двойных часов\" необходимы системный виджет часов и тема по умолчанию</string>
     <string name="dual_clock_ok">Понятно</string>
     <string name="dual_clock_open_message">Двойные часы будут отображаться на экране блокировки и рабочем столе.</string>
     <string name="dual_setting_simcard1">SIM 1</string>
