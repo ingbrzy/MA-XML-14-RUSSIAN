@@ -62,6 +62,10 @@
     <string name="effect_3dsurround">Иммерсивный звук</string>
     <string name="effect_3dsurround_summary">Усиление глубины звука для наушников и динамиков</string>
     <string name="effect_3dsurround_summary_headphone">Усиление глубины звука для наушников</string>
+    <string name="effect_dolby">Dolby</string>
+    <string name="effect_misound">Misound</string>
+    <string name="effect_none">Нет</string>
+    <string name="effect_selection">Звуковые эффекты</string>
     <string name="effect_virtual_surround">Виртуальный иммерсивный звук</string>
     <string name="effect_virtual_surround_summary">Увеличение глубины звука в наушниках при воспроизведении аудио и видео (функция не работает при воспроизведении %.1f аудио)</string>
     <string name="end_wireless_transmission">Остановить</string>
@@ -500,6 +504,7 @@
     <string name="sound_transmission_title">Беспроводной микрофон</string>
     <string name="spatial_audio">Иммерсивный звук</string>
     <string name="spatial_audio_summary">Эффект погружения и пространства при воспроизведении через наушники</string>
+    <string name="spatial_audio_summary_spk">Эффект погружения и пространства при воспроизведении</string>
     <string name="speaker_scenario_resume">Восстановить исходный</string>
     <string name="speaker_scenario_selection">Звук динамика</string>
     <string name="speaker_scenario_selection_another">Оригинал</string>

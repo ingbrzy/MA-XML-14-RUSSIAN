@@ -37,6 +37,7 @@
     <string name="download_md5">MD5: %1$s</string>
     <string name="downloading">Загрузка:</string>
     <string name="downloading_desc">Идёт загрузка, проверьте статус в области уведомлений.</string>
+    <string name="fastboot_desc">Будет выполнена перезагрузка в режим Fastboot, если не знакомы с этим режимом, не продолжайте. Продолжить?</string>
     <string name="fastboot_mode">Обновление через Fastboot. Прошивку можно установить только с использованием Терминала на ПК!</string>
     <string name="fastboot_update_warning">Это обновление только для установки через Fastboot!</string>
     <string name="fetch_notification_default_channel_name">Загрузки</string>
@@ -57,6 +58,7 @@
 Все данные будут сохранены."</string>
     <string name="install_title">Вы уверены, что хотите продолжить?</string>
     <string name="menu_title_current_version_log">Что нового?</string>
+    <string name="menu_title_fastboot">Перезагрузка в Fastboot</string>
     <string name="menu_title_fastboot_mode">Обновление через Fastboot</string>
     <string name="menu_title_pick_rom_file">Выбрать пакет обновления</string>
     <string name="menu_title_recovery">Перезагрузка в Recovery</string>

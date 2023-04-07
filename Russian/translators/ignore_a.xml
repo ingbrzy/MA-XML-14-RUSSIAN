@@ -1043,6 +1043,7 @@
     <integer-array name="om_app_background_restrict"></integer-array>
     <integer-array name="om_occupy_memory_percent"></integer-array>
     <string-array name="one_handed_timeout_values"></string-array>
+    <string-array name="only_bing"></string-array>
     <string-array name="only_google"></string-array>
     <string-array name="operate_entries"></string-array>
     <string-array name="operate_entryValues"></string-array>
@@ -1291,6 +1292,7 @@
     <string-array name="screenrecorder_utils_support_90fps_frames_cpu"></string-array>
     <string-array name="screenrecorder_utils_support_high_frames_cpu"></string-array>
     <string-array name="search_bar_search_engines_default"></string-array>
+    <string-array name="search_bar_search_engines_only_bing"></string-array>
     <string-array name="search_bar_search_engines_only_google"></string-array>
     <string-array name="search_keywords_title_com_miui_securitycenter"></string-array>
     <string-array name="search_price_list"></string-array>

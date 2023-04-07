@@ -373,6 +373,8 @@
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
+    <string name="close_drawer">Закрыть меню навигации</string>
+    <string name="close_sheet">Закрыть таблицу</string>
     <string name="collect_diagnosis_log">Сбор журнала диагностики</string>
     <string name="colors_viewpager_content_description">Предпросмотр цвета</string>
     <string name="common_google_play_services_enable_button">Включить</string>
@@ -468,6 +470,8 @@
     <string name="debug_monitoring_category">Мониторинг</string>
     <string name="debug_networking_category">Сети</string>
     <string name="debug_view_attributes">Включить проверку атрибутов</string>
+    <string name="default_error_message">Неверный ввод</string>
+    <string name="default_popup_window_title">Всплывающее окно</string>
     <string name="default_user_icon_description">Аватар по умолчанию</string>
     <string name="delete_blob_confirmation_text">Вы уверены, что хотите удалить общие данные?</string>
     <string name="delete_blob_text">Удаление общих данных</string>
@@ -501,6 +505,7 @@ ID: %s
     <string name="dream_complication_title_date">Дата</string>
     <string name="dream_complication_title_time">Время</string>
     <string name="dream_complication_title_weather">Погода</string>
+    <string name="dropdown_menu">Выпадающее меню</string>
     <string name="early_morning">Утро</string>
     <string name="edit_frequent_phrases">Редактировать частые фразы</string>
     <string name="enable_adb">Отладка по USB</string>
@@ -650,9 +655,11 @@ ID: %s
     <string name="ims_reg_status_registered">Зарегистрирован</string>
     <string name="ims_reg_title">Статус сервиса IMS</string>
     <string name="imsi_protection_warning">Этой сети доступен уникальный идентификатор, который может использоваться для геолокации устройства. <annotation id="url">Подробнее</annotation></string>
+    <string name="in_progress">Обработка…</string>
     <string name="inactive_app_active_summary">Активно. Нажмите для отключения.</string>
     <string name="inactive_app_inactive_summary">Неактивно. Нажмите для включения.</string>
     <string name="inactive_apps_title">Неактивные приложения</string>
+    <string name="indeterminate">Не выбрано</string>
     <string name="input_length_exceeds_limit">Слишком длинный текст</string>
     <string name="input_method_function_clipboard">Буфер обмена и частые фразы</string>
     <string name="input_method_function_clipboard_des">Нажмите для просмотра содержимого буфера обмена и частых фраз</string>
@@ -896,6 +903,7 @@ mm"</string>
     <string name="mtrl_timepicker_confirm">ОК</string>
     <string name="multi_window_cvw_summary_global">Перетащите угол, чтобы переключиться на плавающее окно или изменить его размер</string>
     <string name="multi_window_cvw_title">Плавающее окно</string>
+    <string name="navigation_menu">Меню навигации</string>
     <string name="network_error_info">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
     <string name="night">Вечер</string>
@@ -903,10 +911,12 @@ mm"</string>
     <string name="no_network">Не удалось подключиться к сети</string>
     <string name="noon">Полдень</string>
     <string name="not_default_data_content_description">Не настроено для использования данных</string>
+    <string name="not_selected">Не выбрано</string>
     <string name="not_set">Не задано</string>
     <string name="notification_channel_alerts">Предупреждения</string>
     <string name="oem_unlock_enable">OEM разблокировка</string>
     <string name="oem_unlock_enable_summary">Разрешить разблокировку загрузчика ОС</string>
+    <string name="off">Откл.</string>
     <string name="offline_notification_text">Нажмите для просмотра рекламы, сохраненной в автономном режиме</string>
     <string name="offline_notification_title">Просмотр рекламы</string>
     <string name="offline_opt_in_confirm">ОК</string>
@@ -915,6 +925,7 @@ mm"</string>
     <string name="offline_opt_in_message">Вы получите уведомление со ссылкой на сайт рекламодателя для просмотра, когда сеть снова будет доступна</string>
     <string name="offline_opt_in_title">Просмотр рекламы</string>
     <string name="ok">ОК</string>
+    <string name="on">Вкл.</string>
     <string name="osu_completing_sign_up">Завершение регистрации…</string>
     <string name="osu_connect_failed">Не удалось подключиться</string>
     <string name="osu_opening_provider">Открытие %1$s</string>
@@ -924,12 +935,16 @@ mm"</string>
     <string name="passport_access_denied">Доступ запрещен</string>
     <string name="passport_account_label">Xiaomi аккаунт</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
+    <string name="passport_account_user_avatar_from_album">Галерея</string>
+    <string name="passport_account_user_avatar_from_camera">Камера</string>
     <string name="passport_account_user_base_info">Основная информация</string>
     <string name="passport_account_user_details">Личная информация</string>
     <string name="passport_activate_token_expired">Код устарел. Повторите попытку.</string>
+    <string name="passport_agree">Принимаю</string>
     <string name="passport_area_code_title">Код страны</string>
     <string name="passport_attention">Внимание</string>
     <string name="passport_auth_title"/>
+    <string name="passport_back">Назад</string>
     <string name="passport_bad_authentication">Неверное имя пользователя или пароль</string>
     <string name="passport_barcode_add_account_prompt">Для добавления аккаунта отсканируйте QR-код после авторизации.</string>
     <string name="passport_can_not_receive_verification_code">Не удалось получить код подтверждения?</string>
@@ -1033,11 +1048,14 @@ mm"</string>
     <string name="passport_quick_login_title">Введите пароль</string>
     <string name="passport_re_get_verify_code">Получить код снова</string>
     <string name="passport_reging">Создание аккаунта…</string>
+    <string name="passport_register_by_local_phone_long_text">Создать аккаунт</string>
+    <string name="passport_register_by_local_phone_short_text">Создать</string>
     <string name="passport_register_restricted">С этим номером связано слишком много аккаунтов, выберите другой</string>
     <string name="passport_reload_ph_ticket">Повторить</string>
     <string name="passport_relogin_notice">Необходимо выполнить вход повторно</string>
     <string name="passport_remove_confirm">Удалить</string>
     <string name="passport_remove_unactivated_account_notice">Ваш аккаунт не активирован</string>
+    <string name="passport_request_cancel">Отмена</string>
     <string name="passport_resend_active_email">Повторить</string>
     <string name="passport_resend_ticket">Отправить код повторно</string>
     <string name="passport_reset_fail_title">Не удалось сбросить пароль</string>
@@ -1051,6 +1069,7 @@ mm"</string>
     <string name="passport_send_too_many_code">На этот номер отправлено слишком много кодов подтверждения. Подождите 24 часа и повторите попытку.</string>
     <string name="passport_send_too_many_sms">На этот номер отправлено слишком много кодов подтверждения. Подождите 24 часа и повторите попытку.</string>
     <string name="passport_sending_vcode">Отправка кода…</string>
+    <string name="passport_service_error">Ошибка сервера</string>
     <string name="passport_set_password">Задать пароль</string>
     <string name="passport_set_password_no_phone_msg">Добавьте номер телефона для защиты аккаунта.</string>
     <string name="passport_sign_in">Войти</string>
@@ -1082,6 +1101,7 @@ mm"</string>
     <string name="passport_user_avatar_uploading">Подождите…</string>
     <string name="passport_user_id_hint">Email/номер телефона/ID аккаунта Xiaomi</string>
     <string name="passport_user_id_intro">Введите пароль для %1$s</string>
+    <string name="passport_user_name_phone_number">Номер телефона</string>
     <string name="passport_user_password_hint">Пароль</string>
     <string name="passport_v_code_error">Неверный код подтверждения</string>
     <string name="passport_vcode_notification_title">Проверка авторизации не завершена</string>
@@ -1142,6 +1162,8 @@ mm"</string>
     <string name="radio_info_nr_available">Доступность NR:</string>
     <string name="radio_info_nr_frequency">Частота NR:</string>
     <string name="radio_info_nr_state">Состояние NR:</string>
+    <string name="range_end">Конец диапазона</string>
+    <string name="range_start">Начало диапазона</string>
     <string name="register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="register_by_local_phone_short_text">Создать аккаунт</string>
     <string name="remaining_length_format">Осталось %1$s</string>
@@ -1211,8 +1233,11 @@ mm"</string>
     <string name="select_webview_provider_dialog_title">Настройки сервиса WebView</string>
     <string name="select_webview_provider_title">Сервис WebView</string>
     <string name="select_webview_provider_toast_text">Вариант недействителен. Повторите попытку.</string>
+    <string name="selected">Выбрано</string>
     <string name="send">Отправить</string>
     <string name="send_diagnosis_log">Отправить журнал</string>
+    <string name="setting_later">Не сейчас</string>
+    <string name="setting_now">Добавить</string>
     <string name="settings_label">Настройки</string>
     <string name="settingslib_learn_more_text">Подробнее</string>
     <string name="share">Отправить</string>

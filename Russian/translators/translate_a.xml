@@ -233,6 +233,11 @@
         <item>Systrace (графика)</item>
         <item>Стек вызовов на glGetError</item>
     </string-array>
+    <string-array name="feedback_tag_list">
+        <item>Ошибка</item>
+        <item>Предложение</item>
+        <item>Прочее</item>
+    </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Не использовать проверку HDCP</item>
         <item>Использовать проверку HDCP только для DRM-контента</item>
@@ -426,10 +431,5 @@
         <item>Анимация 2x</item>
         <item>Анимация 5x</item>
         <item>Анимация 10x</item>
-    </string-array>
-    <string-array name="feedback_tag_list">
-        <item>Ошибка</item>
-        <item>Предложение</item>
-        <item>Прочее</item>
     </string-array>
 </resources>

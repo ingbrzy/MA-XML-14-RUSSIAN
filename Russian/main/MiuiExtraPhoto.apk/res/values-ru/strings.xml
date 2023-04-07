@@ -203,6 +203,9 @@
     <string name="noon">Полдень</string>
     <string name="ok">ОК</string>
     <string name="open">Включить</string>
+    <string name="operation_original">Сравнить</string>
+    <string name="operation_redo">Вернуть</string>
+    <string name="operation_undo">Отменить</string>
     <string name="refocus_discard_confirm_message">Сохранить изменения?</string>
     <string name="refocus_discard_negative_btn">Отменить</string>
     <string name="refocus_discard_positive_btn">Сохранить</string>
