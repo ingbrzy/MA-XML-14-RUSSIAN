@@ -740,7 +740,6 @@
     <string name="back_davinci_global">3:SHOT ON MI 9T:AI TRIPLE CAMERA:48MP TRIPLE CAMERA</string>
     <string name="back_davinciin">3:SHOT ON REDMI K20:AI TRIPLE CAMERA:48MP TRIPLE CAMERA</string>
     <string name="back_dipper">2:SHOT ON MI 8:AI DUAL CAMERA:48MP DUAL CAMERA</string>
-    <string name="back_double_tap">none</string>
     <string name="back_draco">2:SHOT ON MIX ALPHA:AI DUAL CAMERA:108MP DUAL CAMERA</string>
     <string name="back_durandal">4:REDMI NOTE 9S:AI QUAD CAMERA:48MP QUAD CAMERA</string>
     <string name="back_durandal_india">4:REDMI NOTE 9 PRO:AI QUAD CAMERA:48MP QUAD CAMERA</string>
@@ -867,7 +866,6 @@
     <string name="back_to_mi_video">返回小米视频观看</string>
     <string name="back_toco">1:MI NOTE 10 LITE:AI QUAD CAMERA:64MP QUAD CAMERA</string>
     <string name="back_tocoin">1:SHOT ON MI 10i:AI QUAD CAMERA:64MP QUAD CAMERA</string>
-    <string name="back_triple_tap">none</string>
     <string name="back_tucana">1:SHOT ON MI CC9 PRO:AI PENTA CAMERA:108MP PENTA CAMERA</string>
     <string name="back_tucana_global">5:SHOT ON MI NOTE 10:AI PENTA CAMERA:108MP PENTA CAMERA</string>
     <string name="back_tucana_global_pro">5:MI NOTE 10 PRO:AI PENTA CAMERA:108MP PENTA CAMERA</string>
@@ -2286,11 +2284,6 @@
     <string name="domain_address">SipDomain</string>
     <string name="door_amin_assert">image_door</string>
     <string name="door_amin_file_anme">door.json</string>
-    <string name="double_click_power_key">mi_pay</string>
-    <string name="double_click_power_key_def_function">mi_pay</string>
-    <string name="double_click_volume_down_when_lock_def_function">launch_camera</string>
-    <string name="double_knock">launch_voice_assistant</string>
-    <string name="double_knock_def_function">launch_voice_assistant</string>
     <string name="double_seventh_day">七夕</string>
     <string name="double_seventh_day_tradition">七夕</string>
     <string name="download_num_size">%1$s | %2$s</string>
@@ -4201,7 +4194,6 @@
     <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
     <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_text">@string/photo_editor_text</string>
-    <string name="screen_shot">截屏</string>
     <string name="search_alarm_clock">@string/alarm_list_title</string>
     <string name="search_answer_state_setting_title">@string/answer_state_setting_title</string>
     <string name="search_apps_url">market://search?q=%s&amp;ref=migs&amp;pageRef=migs_local_app</string>
@@ -4986,10 +4978,6 @@
     <string name="theme_id">com_7idear.framework.theme</string>
     <string name="theme_name">%1$s</string>
     <string name="themepicker_overlayable_package">com.android.wallpaper</string>
-    <string name="three_gesture_down">screen_shot</string>
-    <string name="three_gesture_down_def_function">screen_shot</string>
-    <string name="three_gesture_long_press">partial_screen_shot</string>
-    <string name="three_gesture_long_press_def_function">partial_screen_shot</string>
     <string name="tian_gan">天干</string>
     <string name="ticket_activity_card_date_day">" "</string>
     <string name="ticket_activity_card_date_month">" "</string>
