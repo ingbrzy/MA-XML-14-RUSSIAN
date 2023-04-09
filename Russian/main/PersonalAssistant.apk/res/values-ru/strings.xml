@@ -1699,10 +1699,10 @@ ID:%s
     <string name="pa_accessibility_picker_home_title">Добавление веджета</string>
     <string name="pa_accessibility_picker_home_widget_replace">Выбран %s. Переключение виджетов.</string>
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Виджет: %s. Нажмите дважды кнопку ниже для замены другим виджетом.</string>
-    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Статус установки: %3$s. Кнопка \"Переключить\" ниже. Нажмите дважды для преключения.</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Статус установки: %3$s. Кнопка \"Переключить\" ниже. Нажмите дважды для переключения.</string>
     <string name="pa_accessibility_picker_home_widget_slected">Выбран %1$s, размер: %2$s, состояние установки: %3$s. Нажмите дважды для подробностей. Нажмите и удерживайте, чтобы перетащить.</string>
     <string name="pa_accessibility_picker_home_widget_slected_for_pay">"%1$s, %2$s, состояние установки: %3$s.
-Tap twice to view details."</string>
+Нажмите дважды для подробностей."</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">Выбран %1$s, строка %2$d, номер %3$d. Нажмите дважды для подробностей.</string>
     <string name="pa_accessibility_picker_order_list_to_theme">Откройте Темы</string>
     <string name="pa_accessibility_picker_search_cancel">Панель поиска виджета. Нажмите дважды для отмены.</string>
@@ -1993,6 +1993,13 @@ Tap twice to view details."</string>
     <string name="pa_picker_home_request_failed">Ошибка сети</string>
     <string name="pa_picker_home_search_hint">Поиск виджетов</string>
     <string name="pa_picker_home_title">Добавление виджетов</string>
+    <string name="pa_picker_image_text_share">Отправить</string>
+    <string name="pa_picker_image_text_share_copy_url">Копировать URL</string>
+    <string name="pa_picker_image_text_share_more">Ещё</string>
+    <string name="pa_picker_image_text_share_wechat_favourite">Избранное WeChat</string>
+    <string name="pa_picker_image_text_share_wechat_session">WeChat</string>
+    <string name="pa_picker_image_text_share_wechat_timeline">Моменты WeChat</string>
+    <string name="pa_picker_image_text_share_weibo">Weibo</string>
     <string name="pa_picker_item_retry">Не удалось загрузить. Повторите попытку.</string>
     <string name="pa_picker_list_app_footer_classic_widget">Виджеты Android</string>
     <string name="pa_picker_list_app_title">Приложения с виджетами</string>
@@ -2005,9 +2012,18 @@ Tap twice to view details."</string>
     <string name="pa_picker_loading">Подождите…</string>
     <string name="pa_picker_maml_list_activity_title">Добавление виджетов</string>
     <string name="pa_picker_no_relevant_content">Ничего не найдено</string>
+    <string name="pa_picker_order_go_to_allow_cta">Разрешить</string>
+    <string name="pa_picker_order_go_to_login">Войти</string>
+    <string name="pa_picker_order_login_xiaomi_account">Войдите в аккаунт Xiaomi, чтобы иметь использовать эту функцию</string>
+    <string name="pa_picker_order_theme_app_cta_pre">Разрешите приложению подключение к интернету, чтобы иметь использовать эту функцию</string>
     <string name="pa_picker_permission_denied">"Ленте виджетов требуется доступ к статусу установки
 для отображения виджетов."</string>
     <string name="pa_picker_purchase_order">Приобретено</string>
+    <string name="pa_picker_recommend_add_limit_toast">Достигнут лимит количества виджетов</string>
+    <string name="pa_picker_recommend_bottom_button_add">Добавить</string>
+    <string name="pa_picker_recommend_bottom_button_download_and_add">Добавить</string>
+    <string name="pa_picker_recommend_download_tip">После добавления виджета, соответствующее приложение будет загружено автоматически.</string>
+    <string name="pa_picker_recommend_title">Рекомендации</string>
     <string name="pa_picker_request">Настройки</string>
     <string name="pa_picker_retry">Повтор</string>
     <string name="pa_picker_search">Поиск</string>
@@ -2035,6 +2051,9 @@ Tap twice to view details."</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">Больше нельзя добавить виджетов такого типа</string>
     <string name="pa_picker_toast_count_limit_warning">Добавлено. Большое количество виджетов на рабочем столе может замедлить работу устройства.</string>
     <string name="pa_picker_toast_screen_cell_locked">Не удалось добавить виджет. Рабочий стол защищен от изменений.</string>
+    <string name="pa_picker_widget_select_normal_description">%1$s</string>
+    <string name="pa_picker_widget_select_uninstall_description">%1$s, не установлено</string>
+    <string name="pa_picker_widget_select_upgrade_description">%1$s, доступно обновление</string>
     <string name="pa_privacy_text">Конфиденциальность</string>
     <string name="pa_read_storage_permission_description">Для использования обоев рабочего стола в качестве фона в приложении</string>
     <string name="pa_recommend_add_btn">Начать</string>

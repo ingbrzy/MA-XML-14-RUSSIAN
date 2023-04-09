@@ -182,9 +182,11 @@
     <string name="available_via_carrier">Доступно через %1$s</string>
     <string name="available_via_passpoint">Доступно через %1$s</string>
     <string name="avatar_picker_title">Выберите фото профиля</string>
+    <string name="back_double_tap">Двойное касание</string>
     <string name="back_navigation_animation">Анимация предиктивного отклика</string>
     <string name="back_navigation_animation_dialog">Этот параметр включает системную анимацию для предиктивной анимации жестов. Для каждого приложения в файле манифеста необходимо установить значение enableOnBackInvokedCallback в true.</string>
     <string name="back_navigation_animation_summary">Включение системной анимации для предиктивного отклика</string>
+    <string name="back_triple_tap">Тройное касание</string>
     <string name="battery_info_status_charging">Заряжается</string>
     <string name="battery_info_status_charging_fast">Быстрая зарядка</string>
     <string name="battery_info_status_charging_lower">Заряжается</string>
@@ -500,6 +502,8 @@ ID: %s
     <string name="disabled_by_app_ops_text">Контролируется ограниченной настройкой</string>
     <string name="disconnect">Отключить</string>
     <string name="done">Готово</string>
+    <string name="double_click_power_key">Двойное нажатие \"Питание\"</string>
+    <string name="double_knock">Двойное касание костяшкой</string>
     <string name="dream_complication_title_aqi">Качество воздуха</string>
     <string name="dream_complication_title_cast_info">Информация о трансляции</string>
     <string name="dream_complication_title_date">Дата</string>

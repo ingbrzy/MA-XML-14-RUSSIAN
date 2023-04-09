@@ -223,7 +223,7 @@
     <string name="activity_not_found_notice">Приложение не найдено</string>
     <string name="add_device">Добавить устройство</string>
     <string name="add_test_env_permission">Добавить разрешение для тестовой среды</string>
-    <string name="add_test_env_permission_hint">Внимание: после преключения в тестовую среду, устройство больше не сможет получить доступ к производственной среде.</string>
+    <string name="add_test_env_permission_hint">Внимание: после переключения в тестовую среду, устройство больше не сможет получить доступ к производственной среде.</string>
     <string name="add_test_key">Добавление ключа безопасности</string>
     <string name="add_test_key_hint">Одобрено. Нажмите, чтобы добавить тестовый ключ.</string>
     <string name="add_to_trust_device">Это доверенное устройство</string>
