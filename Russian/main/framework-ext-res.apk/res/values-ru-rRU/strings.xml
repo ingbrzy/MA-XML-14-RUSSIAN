@@ -48,9 +48,9 @@
     <string name="autofill_save_sub_message">Просматривать пароли и управлять ими можно в Настройки &gt; Пароли и защита &gt; %s</string>
     <string name="autofill_save_title">Автосохранение данных</string>
     <string name="autofill_service_name">Управление паролями</string>
-    <string name="back_double_tap">Двойное касание</string>
-    <string name="back_tap">Одиночное касание</string>
-    <string name="back_triple_tap">Тройное касание</string>
+    <string name="back_double_tap">Двойное постукивание</string>
+    <string name="back_tap">Функция постукивания</string>
+    <string name="back_triple_tap">Тройное постукивание</string>
     <string name="backup_suspend_hint">Выполняется резервное копирование для этого приложения. Дождитесь завершения и повторите попытку.</string>
     <string name="battery_authentic_failed_button">Понятно</string>
     <string name="battery_authentic_failed_title">Внимание</string>

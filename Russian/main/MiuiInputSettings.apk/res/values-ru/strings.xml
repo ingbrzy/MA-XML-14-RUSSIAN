@@ -45,10 +45,10 @@
     <string name="auto_disable_screenbuttons_summary">Автоматически отключать кнопки навигации при использовании избранных приложений. Двойное нажатие на любую кнопку навигации вновь активирует их.</string>
     <string name="auto_disable_screenbuttons_title">Автоотключение кнопок навигации</string>
     <string name="back_button">Назад</string>
-    <string name="back_double_tap">Двойное касание</string>
+    <string name="back_double_tap">Двойное постукивание</string>
     <string name="back_key">Кнопка \"Назад\"</string>
-    <string name="back_tap">Одиночное касание</string>
-    <string name="back_triple_tap">Тройное касание</string>
+    <string name="back_tap">Функция постукивания</string>
+    <string name="back_triple_tap">Тройное постукивание</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="builtin_keyboard_settings_title">Физическая клавиатура</string>
     <string name="camera_key_action_app_title">Открыть приложение</string>

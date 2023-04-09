@@ -1074,7 +1074,7 @@
     <string name="ba_security_summary_pin_unavailable">Недоступно</string>
     <string name="back">Назад</string>
     <string name="back_button">Назад</string>
-    <string name="back_double_tap">Двойное касание</string>
+    <string name="back_double_tap">Двойное постукивание</string>
     <string name="back_key">Кнопка \"Назад\"</string>
     <string name="back_navigation_animation">Анимация предиктивного отклика</string>
     <string name="back_navigation_animation_dialog">Этот параметр включает системную анимацию для предиктивной анимации жестов. Для каждого приложения в файле манифеста необходимо установить значение enableOnBackInvokedCallback в true.</string>
@@ -1082,8 +1082,8 @@
     <string name="back_sensitivity_dialog_message">"
 Высокая чувствительность может конфликтовать с жестами приложений от края экрана"</string>
     <string name="back_sensitivity_dialog_title">Чувствительность края экрана</string>
-    <string name="back_tap">Одиночное касание</string>
-    <string name="back_triple_tap">Тройное касание</string>
+    <string name="back_tap">Функция постукивания</string>
+    <string name="back_triple_tap">Тройное постукивание</string>
     <string name="background_activity_disabled_dialog_text">"Поскольку это приложение не настроено на оптимизацию батареи, вы не можете ограничить его.
 
 Чтобы ограничить приложение, сначала включите оптимизацию батареи."</string>
