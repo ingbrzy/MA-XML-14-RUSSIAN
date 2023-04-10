@@ -118,6 +118,9 @@ NASA/JPL/Университет Аризоны"</string>
     <string name="mars_summary">Необъятные пустыни на поверхности Марса всегда манили своей таинственностью</string>
     <string name="mars_super_wallpaper_label">mars</string>
     <string name="mars_title">Марс</string>
+    <string name="mars_view_height_0">287.3 км</string>
+    <string name="mars_view_height_1">256.7 км</string>
+    <string name="mars_view_height_2">286.2 км</string>
     <string name="mars_view_height_3">268.0 км</string>
     <string name="mars_view_height_4">283.8 км</string>
     <string name="mi_wallpaper_loading">Загрузка Mi Обоев…</string>

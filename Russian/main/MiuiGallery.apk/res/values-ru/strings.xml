@@ -1420,6 +1420,7 @@ ID: %s
     <string name="kick_sharer_failed">Ошибка удаления пользователя</string>
     <string name="kick_sharer_successfully">Пользователь удалён</string>
     <string name="kilobyteShort">" КБ"</string>
+    <string name="labour_day">День труда</string>
     <string name="last_some_day_pets_title">Лапы и усы</string>
     <string name="last_some_day_show_title">Время для шоу</string>
     <string name="last_some_day_surfing_title">Попутный ветер</string>
@@ -1845,6 +1846,7 @@ ID: %s
     <string name="multi_view_tip_title">Увеличение и уменьшение</string>
     <string name="must_pick_file">Выберите фото</string>
     <string name="name_split">, </string>
+    <string name="national_day">День нации</string>
     <string name="nearby_share">Обмен с окружением</string>
     <string name="need_to_turn_on_network">Нет подключения к интернету</string>
     <string name="need_to_turn_on_sync">Включите синхронизацию с облаком</string>

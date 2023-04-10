@@ -273,6 +273,9 @@
     <string name="keyboard_upgrade_failed">Не удалось обновить клавиатуру</string>
     <string name="keyboard_upgrade_start">Обновление клавиатуры…</string>
     <string name="keyboard_upgrade_success">Клавиатура успешно обновлена</string>
+    <string name="knock_gesture_v">Нарисуйте V костяшкой</string>
+    <string name="knock_long_press_horizontal_slid">Нажмите и проведите горизонтально костяшкой</string>
+    <string name="knock_slide_shape">Нарисуйте окружность костяшкой</string>
     <string name="ks_back_home">Рабочий стол</string>
     <string name="ks_close_window">Закрыть текущее окно</string>
     <string name="ks_launch_control_center">Центр управления</string>
@@ -311,6 +314,10 @@
     <string name="lollipop">Леденец</string>
     <string name="long_press_back_key">Долгое нажатие \"Назад\"</string>
     <string name="long_press_buttom_key">Долгое нажатие \"Домой\" на экране блокировки</string>
+    <string name="long_press_home_key">Долгое нажатие \"Домой\"</string>
+    <string name="long_press_menu_key">Долгое нажатие \"Меню\"</string>
+    <string name="long_press_menu_key_when_lock">Долгое нажатие \"Меню\" на экране блокировки</string>
+    <string name="long_press_power_key">Долгое нажатие \"Питание\"</string>
     <string name="long_press_power_key_half_second">Нажмите и удерживайте кнопку питания %s сек.</string>
     <string name="long_press_volume_down">Долгое нажатие \"Уменьшение громкости\"</string>
     <string name="magic_window_toast">Включено разделение экрана</string>

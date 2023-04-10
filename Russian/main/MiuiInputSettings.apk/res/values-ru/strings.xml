@@ -185,6 +185,8 @@
     <string name="knock_guide_set_voiceassist">Mi AI</string>
     <string name="knock_guide_sub_title">Запуск Mi AI или скриншот костяшкой</string>
     <string name="knock_guide_title">Двойное касание костяшкой</string>
+    <string name="knock_long_press_horizontal_slid">Нажмите и проведите горизонтально костяшкой</string>
+    <string name="knock_slide_shape">Нарисуйте окружность костяшкой</string>
     <string name="knock_slide_v">Нарисуйте \"V\" костяшкой</string>
     <string name="ks_add_title">Добавить ярлык</string>
     <string name="ks_back_home">Рабочий стол</string>
@@ -237,11 +239,15 @@
     <string name="lock_settings_common_title">Настройка защиты</string>
     <string name="long_press_back_key">Долгое нажатие \"Назад\"</string>
     <string name="long_press_buttom_key">Долгое нажатие \"Домой\" на экране блокировки</string>
+    <string name="long_press_home_key">Долгое нажатие \"Домой\"</string>
+    <string name="long_press_menu_key">Долгое нажатие \"Меню\"</string>
+    <string name="long_press_menu_key_when_lock">Долгое нажатие \"Меню\" на экране блокировки</string>
     <string name="long_press_power_guide_know">Понятно</string>
     <string name="long_press_power_guide_message" formatted="false">"Нажмите и удерживайте кнопку питания в течение %s сек., чтобы разбудить Google Ассистент.
 Если удерживать кнопку в течение %s секунд, откроется меню питания."</string>
     <string name="long_press_power_guide_settings">Настройки</string>
     <string name="long_press_power_guide_title">Пробуждение кнопкой питания</string>
+    <string name="long_press_power_key">Долгое нажатие \"Питание\"</string>
     <string name="long_press_power_key_half_of_second">Запускать Google Ассистент кнопкой питания</string>
     <string name="long_press_power_key_half_second">Нажмите и удерживайте кнопку питания 0.5 сек.</string>
     <string name="long_press_power_key_tips">&lt;Data&gt;Долгое нажатие кнопки питания &lt;font color=#999999&gt;Быстрее и удобнее&lt;/font&gt;&lt;/Data&gt;</string>
