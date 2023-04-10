@@ -686,6 +686,9 @@ ID: %s
     <string name="keep_screen_on">Не выключать экран</string>
     <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включён</string>
     <string name="keywords_alarms_and_reminders">расписание, будильник, напоминание, часы</string>
+    <string name="knock_long_press_horizontal_slid">Нажмите и проведите горизонтально костяшкой</string>
+    <string name="knock_slide_shape">Нарисуйте окружность костяшкой</string>
+    <string name="label">Ярлык</string>
     <string name="launch_defaults_none">Действия по умолчанию не установлены</string>
     <string name="launch_defaults_some">Некоторые настройки по умолчанию</string>
     <string name="loading">Подождите…</string>
@@ -702,6 +705,10 @@ ID: %s
     <string name="login_register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="login_system_failed">Ошибка авторизации, повторите попытку</string>
     <string name="login_with_sns">Другие варианты входа</string>
+    <string name="long_press_home_key">Долгое нажатие \"Домой\"</string>
+    <string name="long_press_menu_key">Долгое нажатие \"Меню\"</string>
+    <string name="long_press_menu_key_when_lock">Долгое нажатие \"Меню\" на экране блокировки</string>
+    <string name="long_press_power_key">Долгое нажатие \"Питание\"</string>
     <string name="long_screenshot_guide_text">"Нажмите для создания
 скриншота с прокруткой"</string>
     <string name="long_screenshot_not_support_msg">Приложение не поддерживает скриншоты с прокруткой</string>

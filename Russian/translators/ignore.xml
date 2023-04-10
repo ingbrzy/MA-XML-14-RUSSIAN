@@ -928,7 +928,6 @@
     <string name="bluetooth_open_ok">蓝牙开启成功</string>
     <string name="bluetooth_package">com.android.bluetooth</string>
     <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
-    <string name="bluetooth_profile_volume_control">VOLUME_CONTROL</string>
     <string name="bluetooth_share_file_name">bluetooth_content_share</string>
     <string name="bookcity_downloadcenter__shared__download_font_immediately">后台下载</string>
     <string name="bookcity_downloadcenter__shared__download_font_later">以后再说</string>
@@ -2748,10 +2747,7 @@
     <string name="keyword_recommend">推荐您</string>
     <string name="keywords_adb_wireless">adb, debug, dev</string>
     <string name="kg_text_message_separator">" — "</string>
-    <string name="knock_gesture_v">none</string>
-    <string name="knock_long_press_horizontal_slid">change_brightness</string>
     <string name="knock_long_press_horizontal_slid_def_function">change_brightness</string>
-    <string name="knock_slide_shape">partial_screen_shot</string>
     <string name="knock_slide_shape_def_function">partial_screen_shot</string>
     <string name="ks_key_download_button">ks_key_download_button</string>
     <string name="ks_key_status">ks_key_status</string>
@@ -2769,7 +2765,6 @@
     <string name="l_digit9">%d</string>
     <string name="label">MIUI SDK</string>
     <string name="label_notification_ticker">%1$s: %2$s</string>
-    <string name="labour_day">劳动节</string>
     <string name="labour_day_tradition">勞動節</string>
     <string name="language_translate_entry_chinese_cn">ZH</string>
     <string name="language_value_chinese_cn">chinese_cn</string>
@@ -3054,13 +3049,9 @@
     <string name="lock_screen_hongbao_message"> </string>
     <string name="lockscreen_wallpaper_changed">@string/theme_apply_success</string>
     <string name="lockscreen_wallpaper_changed">@string/theme_apply_success</string>
-    <string name="long_press_home_key">launch_voice_assistant</string>
     <string name="long_press_home_key_def_function">launch_voice_assistant</string>
-    <string name="long_press_menu_key">show_menu</string>
     <string name="long_press_menu_key_def_function">show_menu</string>
-    <string name="long_press_menu_key_when_lock">turn_on_torch</string>
     <string name="long_press_menu_key_when_lock_def_function">turn_on_torch</string>
-    <string name="long_press_power_key">none</string>
     <string name="lucky_activity"> </string>
     <string name="lucky_alarm"> </string>
     <string name="lucky_alarm_app"> </string>
@@ -3183,9 +3174,6 @@
     <string name="mars_coordinate_longitude_3">4.676°S</string>
     <string name="mars_coordinate_longitude_4">20.953°N</string>
     <string name="mars_id">mars</string>
-    <string name="mars_view_height_0">287.3 km</string>
-    <string name="mars_view_height_1">256.7 km</string>
-    <string name="mars_view_height_2">286.2 km</string>
     <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
     <string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
     <string name="material_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
@@ -3559,7 +3547,6 @@
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mx_mcc">334</string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
-    <string name="national_day">国庆节</string>
     <string name="national_day_tradition">國慶節</string>
     <string name="national_father_day">國父誕辰</string>
     <string name="national_father_day_tradition">國父誕辰</string>
