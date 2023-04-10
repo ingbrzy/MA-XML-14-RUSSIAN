@@ -396,7 +396,7 @@ ID: %s
     <string name="do_not_remind_this_version">Не напоминать об этой версии</string>
     <string name="do_not_support_google_voice_search">Голосовой поиск Google не поддерживается на вашем устройстве.</string>
     <string name="doing_login">Выполняется вход…</string>
-    <string name="doing_query_account">Проверка информации учётной записи…</string>
+    <string name="doing_query_account">Проверка аккаунта…</string>
     <string name="doing_register">Создание аккаунта…</string>
     <string name="download">Загрузить</string>
     <string name="download_added_to_list">Добавлено в очередь загрузок</string>

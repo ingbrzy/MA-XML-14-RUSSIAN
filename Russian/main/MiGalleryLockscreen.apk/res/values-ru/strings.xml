@@ -265,7 +265,7 @@ ID:%s
     <string name="dlg_cancel">Отмена</string>
     <string name="dlg_ok">ОК</string>
     <string name="doing_login">Вход…</string>
-    <string name="doing_query_account">Проверка информации об аккаунте…</string>
+    <string name="doing_query_account">Проверка аккаунта…</string>
     <string name="doing_register">Создание аккаунта…</string>
     <string name="dot_and_space">• </string>
     <string name="double_click_to_exit_activity">Нажмите ещё раз для выхода</string>
@@ -812,7 +812,7 @@ mm"</string>
     <string name="pull_to_refresh_refreshing_label">Обновление…</string>
     <string name="pull_to_refresh_release_label">Отпустите для обновления</string>
     <string name="qq_application_id"/>
-    <string name="qq_login_btn_content_description">Войти с помощью  QQ</string>
+    <string name="qq_login_btn_content_description">Вход через QQ</string>
     <string name="recommend_switch_desc">Получение рекомендаций на основе ваших предпочтений</string>
     <string name="recommend_switch_dlg_close">Отключить</string>
     <string name="recommend_switch_dlg_desc">Вы не сможете получать рекомендации на основе ваших предпочтений, если вы отключите эту функцию.</string>

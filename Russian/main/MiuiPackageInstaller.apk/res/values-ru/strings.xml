@@ -710,7 +710,7 @@ ID: %s
     <string name="passport_dialog_nick_name_prefix">Псевдоним: %s</string>
     <string name="passport_dialog_phone_number_prefix">Номер телефона: %s</string>
     <string name="passport_dialog_register_other">Нет, создать новый</string>
-    <string name="passport_doing_query_account">Проверка информации аккаунта…</string>
+    <string name="passport_doing_query_account">Проверка аккаунта…</string>
     <string name="passport_email">Email</string>
     <string name="passport_empty_password">Пароль не может быть пустым</string>
     <string name="passport_error_auth_fail">Сессия устарела, войдите повторно</string>

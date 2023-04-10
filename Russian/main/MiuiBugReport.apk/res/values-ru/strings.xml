@@ -172,7 +172,7 @@ ID: %s
     <string name="discard_draft_dialog_content">Любые изменения, внесенные вами в этот отчёт, будут потеряны.</string>
     <string name="discard_draft_dialog_title">Удалить черновик?</string>
     <string name="doing_login">Вход…</string>
-    <string name="doing_query_account">Проверка информации об аккаунте…</string>
+    <string name="doing_query_account">Проверка аккаунта…</string>
     <string name="doing_register">Создание аккаунта…</string>
     <string name="dynamic_dialog_content">Будет включена функция динамического журнала, которая относится к специальному режиму записи проблем и содержит информацию о запущенных программах (включая системные вызовы и т. д.). После включения этой функции, в системе могут возникать проблемы с задержкой или нагревом (это нормально). После завершения записи журнала устройство автоматически выключится. Отправьте нам журнал при повторном появлении проблемы. Нажав \"Принимаю\" ниже, вы соглашаетесь с тем, что мы будем собирать вышеуказанные данные в следующем сеансе записи, необходимые для решения проблемы.</string>
     <string name="dynamic_dialog_negative_text">Отмена</string>
@@ -814,7 +814,7 @@ ID: %s
     <string name="pull_to_refresh_refreshing_label">Обновление…</string>
     <string name="pull_to_refresh_release_label">Отпустите для обновления</string>
     <string name="qq_application_id"/>
-    <string name="qq_login_btn_content_description">Войти с помощью QQ</string>
+    <string name="qq_login_btn_content_description">Вход через QQ</string>
     <string name="refresh">Обновить</string>
     <string name="register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="register_by_local_phone_short_text">Создать аккаунт</string>

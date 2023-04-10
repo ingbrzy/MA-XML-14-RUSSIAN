@@ -2444,7 +2444,7 @@ ID: %s
     <string name="publishing">Открытие доступа…</string>
     <string name="purge_or_recovery_processing">Обработка…</string>
     <string name="qq_application_id" />
-    <string name="qq_login_btn_content_description">Войти через QQ</string>
+    <string name="qq_login_btn_content_description">Вход через QQ</string>
     <string name="qr_invite_scan_hint">Отсканируйте QR-код</string>
     <string name="qr_invite_time_hint">QR-код действителен 7 дней</string>
     <string name="qr_invite_title">QR-код приглашения</string>

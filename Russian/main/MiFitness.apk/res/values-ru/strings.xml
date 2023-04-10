@@ -1299,7 +1299,7 @@ ID:%s
     <string name="distance_custom_target">Проверьте свою цель</string>
     <string name="distance_range">(0,1–999)</string>
     <string name="doing_login">Выполняется вход…</string>
-    <string name="doing_query_account">Проверка информации учётной записи…</string>
+    <string name="doing_query_account">Проверка аккаунта…</string>
     <string name="doing_register">Создание аккаунта…</string>
     <string name="download_background">Загрузить</string>
     <string name="early_morning">Утро</string>
