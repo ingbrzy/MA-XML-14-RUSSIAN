@@ -806,6 +806,7 @@ ID:%s
     <string name="download_keep_queued_download">Оставить</string>
     <string name="download_list_no_items_tip">Ничего нет</string>
     <string name="download_list_open_xl_ok">ОК</string>
+    <string name="download_live_unsupported">Нельзя скачать прямую трансляцию</string>
     <string name="download_memory_info_avai">" доступно %s|"</string>
     <string name="download_memory_info_total">" всего %s"</string>
     <string name="download_menu_title_clear_all">Очистить все</string>
@@ -1399,6 +1400,7 @@ ID:%s
     <string name="miuix_appcompat_delete_description">Удалить</string>
     <string name="miuix_appcompat_deselect_all">Снять выбор</string>
     <string name="miuix_appcompat_deselect_all_description">Снять выбор</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -2359,6 +2361,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="readmode_recommend">Просмотреть рекомендации</string>
     <string name="readmode_recommend_message">Вы уже прочитали эту книгу :)</string>
     <string name="readmode_refresh">Обновить</string>
+    <string name="readmode_tips">Вкл. режим \"Только текст\"</string>
     <string name="readmodelist_bookmarks_to_show">Список чтения</string>
     <string name="reboot">Перезагрузка</string>
     <string name="recent_apk_status_install">УСТАНОВЛЕНО</string>
@@ -2459,6 +2462,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="save_to_camera_success">Сохранено в Галерее</string>
     <string name="save_to_private_folder">Добавить в скрытые файлы</string>
     <string name="saved_sucess">Сохранено</string>
+    <string name="scan_type_empty_folder">Пустая папка</string>
     <string name="scanner_uninstalled_text">Установите Сканер, чтобы продолжить</string>
     <string name="scanner_uninstalled_title">Сканер был удалён</string>
     <string name="scanning_info">Найдено: TXT (%1$d), EPUB (%2$d), PDF (%3$d)</string>
@@ -3349,6 +3353,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="year_month_day_format">d MMM yyyy</string>
     <string name="yes">Да</string>
     <string name="yesterday">Вчера</string>
+    <string name="youtube_dialog_content">Вы будете перенаправлены из Mi Браузера в приложение YouTube. Продолжить?</string>
     <string name="ytb_added_subscription">Вы успешно подписались</string>
     <string name="ytb_cancel">Отмена</string>
     <string name="ytb_deleted_subscription">Вы успешно отказались от подписки</string>
