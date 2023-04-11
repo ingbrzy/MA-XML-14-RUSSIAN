@@ -541,7 +541,7 @@ ID:%s
     <string name="individuation_recommend_switch_message">После отключения этой функции вы больше не будете получать рекомендации, основанные на ваших личных предпочтениях. Выключить?</string>
     <string name="individuation_recommend_title">Рекомендации</string>
     <string name="individuation_service_switch">Персонализированные рекомендации</string>
-    <string name="input_email_address_notice">Мы будем использовать этот адрес для подтверждения аккаунта</string>
+    <string name="input_email_address_notice">Этот адрес электронной почты будет использоваться для подтверждения вашего аккаунта</string>
     <string name="input_hint_prefix">Введите %1$s</string>
     <string name="input_new_pwd">Введите новый пароль</string>
     <string name="installing_apk">Установка…</string>
@@ -1026,7 +1026,7 @@ ID:%s
     <string name="ringtone_not_support">"Формат этого трека не поддерживается"</string>
     <string name="root_downloads">Загрузки</string>
     <string name="runtime_permission_ungranted">Невозможно начать запись без необходимых разрешений</string>
-    <string name="same_new_and_old_pwd">Новый пароль должен отличаться от старого</string>
+    <string name="same_new_and_old_pwd">Новый пароль должен отличаться от текущего</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>

@@ -355,7 +355,7 @@ ID:%s
     <string name="in_progress">Обработка…</string>
     <string name="inconsistent_pwd">Пароли не совпадают</string>
     <string name="indeterminate">Не выбрано</string>
-    <string name="input_email_address_notice">Мы будем использовать этот адрес для подтверждения аккаунта</string>
+    <string name="input_email_address_notice">Этот адрес электронной почты будет использоваться для подтверждения вашего аккаунта</string>
     <string name="input_new_pwd">Введите новый пароль</string>
     <string name="io_error_title">Проверьте свою сеть</string>
     <string name="item_view_role_description">Вкладка</string>
@@ -993,7 +993,7 @@ ID:%s
     <string name="revoke_privacy_policy_instructions">"Если вы продолжите, согласие с Политикой конфиденциальности Xiaomi аккаунта будет отозвано. Сбор вашей личной информации будет прекращён. Уже собранная и сохранённая личная информация будет удалена в течение определённого срока в соответствии с действующими законами и правилами, если не требуется иное. Поскольку Xiaomi Акаунт предоставляет сервисы на основе сбора некоторой личной информации, отзыв согласия будет считаться отказом от сервисов Xiaomi аккаунта. Отозвать согласие? "</string>
     <string name="revoke_privacy_policy_title">Отзыв согласия</string>
     <string name="risky_pwd_not_allow">Новый пароль небезопасен. Установите другой.</string>
-    <string name="same_new_and_old_pwd">Новый пароль должен отличаться от старого</string>
+    <string name="same_new_and_old_pwd">Новый пароль должен отличаться от текущего</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>

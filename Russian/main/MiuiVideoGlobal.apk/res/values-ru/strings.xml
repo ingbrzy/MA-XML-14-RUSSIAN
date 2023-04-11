@@ -840,7 +840,7 @@ ID: %s
     <string name="inline_auto_play_tip">"Используется мобильный интернет… "</string>
     <string name="inline_auto_play_to_set">Настройки</string>
     <string name="inline_mute_click_tip">Нажмите, чтобы включить звук</string>
-    <string name="input_email_address_notice">Мы будем использовать этот адрес для подтверждения вашего аккаунта</string>
+    <string name="input_email_address_notice">Этот адрес электронной почты будет использоваться для подтверждения вашего аккаунта</string>
     <string name="input_new_pwd">Введите новый пароль</string>
     <string name="input_size_tips">Можно ввести до 1000 символов</string>
     <string name="input_size_tips_new">Можно ввести до %d символов</string>
@@ -1780,7 +1780,7 @@ ID: %s
     <string name="s6">Разрешить объявлению создать мероприятие в календаре?</string>
     <string name="s7">Тестовое объявление</string>
     <string name="s_double_tap_play_stop">Двойное нажатие для остановки/воспроизведения</string>
-    <string name="same_new_and_old_pwd">Новый пароль не может совпадать с текущим паролем</string>
+    <string name="same_new_and_old_pwd">Новый пароль должен отличаться от текущего</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>

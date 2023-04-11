@@ -2586,7 +2586,7 @@ ID: %s
     <string name="saf_secret_album">Приватный альбом</string>
     <string name="saf_secret_album_guide">Предоставьте приложению разрешение для отображения содержимого приватного альбома</string>
     <string name="same_name_album_exist_and_toast">Альбом с таким именем уже существует. Создан альбом \"%s\".</string>
-    <string name="same_new_and_old_pwd">Пароли не должны совпадать</string>
+    <string name="same_new_and_old_pwd">Новый пароль должен отличаться от текущего</string>
     <string name="samsung">Samsung</string>
     <string name="samsung_phone">Samsung</string>
     <string name="saturday">Суббота</string>

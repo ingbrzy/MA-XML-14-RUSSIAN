@@ -976,6 +976,7 @@ mm"</string>
     <string name="passport_agree">Принимаю</string>
     <string name="passport_area_code_title">Код страны</string>
     <string name="passport_attention">Внимание</string>
+    <string name="passport_auth_fail_warning">Сессия устарела. Войдите повторно.</string>
     <string name="passport_auth_title"/>
     <string name="passport_back">Назад</string>
     <string name="passport_bad_authentication">Неверное имя пользователя или пароль</string>
@@ -1051,6 +1052,7 @@ mm"</string>
     <string name="passport_i_know">Понятно</string>
     <string name="passport_identification_expired">Код устарел, начните сначала</string>
     <string name="passport_input_captcha_hint">Введите код с картинки</string>
+    <string name="passport_input_email_address_notice">Этот адрес электронной почты будет использоваться для подтверждения вашего аккаунта</string>
     <string name="passport_input_password_hint">Введите пароль</string>
     <string name="passport_input_phone_hint">Введите номер телефона</string>
     <string name="passport_input_phone_number_hint">Введите номер телефона</string>
@@ -1108,6 +1110,8 @@ mm"</string>
     <string name="passport_request_error_unknown">Произошла системная ошибка. Вернитесь назад и повторите попытку.</string>
     <string name="passport_request_gallery_permission_message">Разрешите доступ к Галерее:&lt;br />Для установки фото профиля</string>
     <string name="passport_resend_active_email">Повторить</string>
+    <string name="passport_resend_email_reach_limit_message">Запрошено слишком много писем для подтверждения. Убедитесь, что они не попали в папку для спама.</string>
+    <string name="passport_resend_email_reach_limit_title">Лимит попыток</string>
     <string name="passport_resend_ticket">Отправить код повторно</string>
     <string name="passport_reset_fail_title">Не удалось сбросить пароль</string>
     <string name="passport_reset_password_prompt">Неверный пароль</string>
@@ -1116,6 +1120,7 @@ mm"</string>
     <string name="passport_restart_register_prompt">Возможно, потребуется отправить код подтверждения повторно.</string>
     <string name="passport_restart_register_title">Создание Xiaomi аккаунта</string>
     <string name="passport_retry">Повтор</string>
+    <string name="passport_same_new_and_old_pwd">Новый пароль должен отличаться от текущего</string>
     <string name="passport_send_sms_to">Код отправлен на %1$s</string>
     <string name="passport_send_too_many_code">На этот номер отправлено слишком много кодов подтверждения. Подождите 24 часа и повторите попытку.</string>
     <string name="passport_send_too_many_sms">На этот номер отправлено слишком много кодов подтверждения. Подождите 24 часа и повторите попытку.</string>

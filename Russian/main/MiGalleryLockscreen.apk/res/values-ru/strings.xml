@@ -343,7 +343,7 @@ ID:%s
     <string name="idbct_title">Качество обоев</string>
     <string name="identity">Идентификация</string>
     <string name="inconsistent_pwd">Пароли не совпадают</string>
-    <string name="input_email_address_notice">Мы будем использовать этот адрес для подтверждения аккаунта</string>
+    <string name="input_email_address_notice">Этот адрес электронной почты будет использоваться для подтверждения вашего аккаунта</string>
     <string name="input_length_exceeds_limit">Слишком длинный текст</string>
     <string name="input_new_pwd">Введите новый пароль</string>
     <string name="isornot_your_mi_account">Это ваш Xiaomi аккаунт?</string>
@@ -856,7 +856,7 @@ mm"</string>
     <string name="rv_with_footer_empty">Пока ничего нет.</string>
     <string name="rv_with_footer_loading">Подождите…</string>
     <string name="rv_with_footer_pull_load_more">Потяните вниз, чтобы увидеть больше</string>
-    <string name="same_new_and_old_pwd">Новый пароль должен отличаться от старого</string>
+    <string name="same_new_and_old_pwd">Новый пароль должен отличаться от текущего</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
