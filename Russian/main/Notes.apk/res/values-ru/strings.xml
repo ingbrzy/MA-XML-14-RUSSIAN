@@ -111,6 +111,7 @@
     <string name="cta_v2_agree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше</string>
     <string name="cta_v2_app_purpose">Создание, просмотр и управление заметками</string>
     <string name="cta_v2_app_purpose_v12">Добро пожаловать в Заметки! Это приложение можно использовать для создания задач и заметок, содержащих текст, изображения и аудио.</string>
+    <string name="cta_v2_app_purpose_v12_lite">Добро пожаловать в Заметки! Это приложение можно использовать для создания заметок и задач.</string>
     <string name="data_empty_folder">Папки отсутствуют</string>
     <string name="data_empty_note">Заметки отсутствуют</string>
     <string name="data_empty_todo">Задачи отсутствуют</string>
@@ -304,6 +305,7 @@
     <string name="image_annotation_edit_hint">Описание изображения</string>
     <string name="image_annotation_edit_length_warning">Описание изображения может содержать не более %d символов</string>
     <string name="info_note_enter_desktop">Заметка добавлена на рабочий стол</string>
+    <string name="insert_image_size_limit_tip">Размер изображения превышает %d МБ. Оно было автоматически сжато.</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="last_excerpt_unfinish_hint">Последняя выдержка неполная</string>
     <string name="loading_text">Подождите…</string>
@@ -436,6 +438,7 @@
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -1010,6 +1013,7 @@
     <string name="warn_cannot_add_new_style">Не удалось добавить новый формат, заметка слишком длинная</string>
     <string name="warn_disable_edit_in_browse_mode">Редактирование заметок в режиме \"только для чтения\" недоступно</string>
     <string name="warn_enter_browse_mode">Режим \"только для чтения\"</string>
+    <string name="warn_enter_browse_mode_forbid_create">Создание или редактирование заметок в режиме \"только для чтения\" недоступно</string>
     <string name="web_sso_login_fail">Необходимо выполнить вход повторно</string>
     <string name="web_sso_login_message">Авторизация…</string>
     <string name="webview_reload">Повторить</string>
