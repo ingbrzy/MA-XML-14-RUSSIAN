@@ -135,6 +135,10 @@
         <item quantity="other">%1$d</item>
         <item quantity="one">%1$d</item>
      </plurals>
+    <plurals name="group_sms_error_message">
+        <item quantity="other">Нельзя выбрать более %d получателей для SMS</item>
+        <item quantity="one">Нельзя выбрать более %d получателя для SMS</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Полчаса назад</item>
      </plurals>

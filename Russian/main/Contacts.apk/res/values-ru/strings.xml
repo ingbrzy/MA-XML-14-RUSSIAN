@@ -947,7 +947,7 @@
     <string name="group_rename_dialog_title">Переименование группы</string>
     <string name="group_rename_fail_toast">Не удалось переименовать группу</string>
     <string name="group_rename_success_toast">Группа переименована</string>
-    <string name="group_sms_error_message">SMS не может иметь более %s получателей.</string>
+    <string name="group_sms_error_message">Нельзя выбрать более %s получателей для SMS</string>
     <string name="group_sms_progress_msg">Подготовка группового SMS…</string>
     <string name="groupsLabel">Группы</string>
     <string name="groups_list_empty">Нет групп</string>
