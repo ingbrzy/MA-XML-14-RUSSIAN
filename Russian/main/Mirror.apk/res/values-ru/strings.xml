@@ -89,8 +89,8 @@
     <string name="enable_power_save_mode_notification_success_content">Включена экономия заряда батареи на устройстве</string>
     <string name="enable_power_save_mode_notification_success_title">Экономия заряда</string>
     <string name="enable_wifi_alert_cancel">Отмена</string>
-    <string name="enable_wifi_alert_message">MIUI+ для подключения устройств требуется Wi-Fi. Включить Wi-Fi?</string>
-    <string name="enable_wifi_alert_message_china">MIUI+ для подключения устройств требуется Wi-Fi. Включить Wi-Fi?</string>
+    <string name="enable_wifi_alert_message">Включите Wi-Fi для подключения к другим устройствам. Включить сейчас?</string>
+    <string name="enable_wifi_alert_message_china">Включите Wi-Fi для подключения к другим устройствам. Включить сейчас?</string>
     <string name="enable_wifi_alert_message_for_photo_relay">MIUI+ позволяет легко переключаться между устройствами, когда нужно отредактировать фото, сделанные на другом устройстве. Включить Wi-Fi для использования функции Handoff?</string>
     <string name="enable_wifi_alert_message_for_photo_relay_china">MIUI+ позволяет легко переключаться между устройствами, когда нужно отредактировать фото, сделанные на другом устройстве. Включить Wi-Fi для использования функции Handoff?</string>
     <string name="enable_wifi_alert_ok">Включить</string>
@@ -100,7 +100,7 @@
     <string name="eras_bc">до н. э.</string>
     <string name="evening">После полудня</string>
     <string name="expand_button_title">Дополнительно</string>
-    <string name="file_transferring">Дождитесь окончания текущей передачи и повторите попытку</string>
+    <string name="file_transferring">Идёт передача файлов.  Повторите попытку позже.</string>
     <string name="fingerprint_dialog_touch_sensor">Коснитесь сенсора отпечатков</string>
     <string name="fingerprint_error_hw_not_available">Сенсор отпечатков недоступен</string>
     <string name="fingerprint_error_hw_not_present">Сенсор отпечатков отсутствует</string>
