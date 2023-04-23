@@ -33,7 +33,7 @@
     <string name="HIPS_Perm_Intl_group_desc_call_log">Доступ к журналу вызовов</string>
     <string name="HIPS_Perm_Intl_group_desc_camera">Съёмка фото и видео</string>
     <string name="HIPS_Perm_Intl_group_desc_contact">Изменение и удаление контактов</string>
-    <string name="HIPS_Perm_Intl_group_desc_location">Использование точной геолокации (GPS и сети)</string>
+    <string name="HIPS_Perm_Intl_group_desc_location">Точная геолокация (GPS и сети)</string>
     <string name="HIPS_Perm_Intl_group_desc_storage">Добавление и удаление файлов в хранилище</string>
     <string name="HIPS_Perm_Intl_group_name_audio_recorder">Микрофон</string>
     <string name="HIPS_Perm_Intl_group_name_auto_start">Автозапуск</string>
@@ -231,7 +231,7 @@
     <string name="grant_dialog_storage_category_title">Приложению требуется доступ к Галерее и файлам приложений соцсетей</string>
     <string name="grant_dialog_storage_gallery_title">Галерея</string>
     <string name="grant_dialog_storage_sociality_title">Файлы приложений соцсетей</string>
-    <string name="keep_blur_location">Оставить</string>
+    <string name="keep_blur_location">Да</string>
     <string name="keep_notice_me">Уведомлять</string>
     <string name="location_settings">Настройки</string>
     <string name="location_warning">Приложение %1$s является поставщиком геолокации. Изменить поставщика можно в настройках.</string>
@@ -315,8 +315,8 @@
     <string name="perm_educate_post_notification">Уведомления могут сопровождаться звуком и вибрацией при появлении в шторке уведомлений и на значках приложений на рабочем столе. Параметры уведомлений можно изменить в Настройках.</string>
     <string name="perm_manager_suggest_operation">Управление разрешениями</string>
     <string name="perm_manager_suggest_title">Настроить разрешения?</string>
-    <string name="perm_modem_location">Использование геолокации</string>
-    <string name="perm_modem_location_desc">Разрешить оператору связи получать геопозицию</string>
+    <string name="perm_modem_location">Доступ к геопозиции</string>
+    <string name="perm_modem_location_desc">Разрешить оператору связи получать вашу геопозицию</string>
     <string name="permdesc_add_voicemail">Разрешить %1$s добавлять голосовые сообщения?</string>
     <string name="permdesc_call_phone">Разрешить %1$s совершать вызовы?</string>
     <string name="permdesc_camera">Разрешить %1$s снимать фото и видео?</string>
@@ -426,7 +426,7 @@
     <string name="solar_term_white_dews">Белые росы</string>
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
-    <string name="stop_blur_location">Отключить</string>
+    <string name="stop_blur_location">Нет</string>
     <string name="storage_policy_notify_both_title">Приложению %1$s запрещён доступ к Галерее и файлам приложений соцсетей</string>
     <string name="storage_policy_notify_content">Нажмите, чтобы настроить разрешения</string>
     <string name="storage_policy_notify_gallery_title">Приложению %1$s запрещён доступ к Галерее</string>
