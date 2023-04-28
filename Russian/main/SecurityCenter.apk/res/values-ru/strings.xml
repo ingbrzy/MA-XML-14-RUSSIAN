@@ -463,6 +463,7 @@
     <string name="app_manager_app_version_name">"Версия: "</string>
     <string name="app_manager_appupdate_remind">Уведомлять о наличии обновлений</string>
     <string name="app_manager_as_dlg_msg">Автозапуск приложений может привести к дополнительному расходу ОЗУ и батареи. Разрешить автозапуск?</string>
+    <string name="app_manager_as_dlg_msg_new">Автозапуск приложений может привести к дополнительному расходу ОЗУ и батареи. Чтобы повысить производительность, MIUI оптимизирует разрешения на автозапуск для редко используемых приложений.</string>
     <string name="app_manager_as_dlg_title">Внимание</string>
     <string name="app_manager_back">Назад</string>
     <string name="app_manager_bipartition">Клонирование</string>
@@ -759,6 +760,7 @@
     <string name="auto_import_games">Разместите все ваши игры в одном месте</string>
     <string name="auto_send_correcting_msg">Если не заполнить, система автоматически отправит подтверждение по SMS.</string>
     <string name="auto_set_by_brand">Автоматическая настройка трафика и информации о свободном трафике в соответствии с брендом</string>
+    <string name="auto_start_tips">Чтобы повысить производительность, MIUI оптимизирует разрешения на автозапуск для редко используемых приложений</string>
     <string name="auto_task_allow_suggestion">Рекомендации по задачам</string>
     <string name="auto_task_available_device">Доступные устройства</string>
     <string name="auto_task_condition_choose_battery_level_down">Разряд батареи до определённого уровня</string>
@@ -1418,6 +1420,7 @@
     <string name="dialog_btn_delete_icon">Удалить</string>
     <string name="dialog_btn_no_create_icon">Отмена</string>
     <string name="dialog_btn_yes_create_icon">Добавить</string>
+    <string name="dialog_btn_yes_install_icon">Установить</string>
     <string name="dialog_change_package_type_summary">Изменение типа тарифа приведет к сбросу всех настроек передачи данных (например, лимитов трафика) до их значений по умолчанию. Изменить тип тарифа?</string>
     <string name="dialog_change_package_type_title">Изменение типа тарифа</string>
     <string name="dialog_msg_auto_start_declare">Некоторые приложения могут некорректно сообщать, что система не разрешила их запуск. Проверьте разрешения, выданные отдельным приложениям, в разделе Настройки &gt; Приложения.</string>
@@ -1429,6 +1432,8 @@
     <string name="dialog_msg_delete_icon_title">Удалить ярлык с рабочего стола?</string>
     <string name="dialog_msg_delete_icon_title_pad">Удалить ярлык с рабочего стола?</string>
     <string name="dialog_msg_delete_icon_title_phone">Удалить ярлык с рабочего стола?</string>
+    <string name="dialog_msg_install_manager_content">Установить приложение Безопасность?</string>
+    <string name="dialog_msg_install_manager_content_pad">Установить приложение Безопасность?</string>
     <string name="dialog_msg_stop_virus_scan">Остановить проверку?</string>
     <string name="dialog_no_longer_alert">Больше не показывать</string>
     <string name="dialog_remobe_luckymoney_cancle">Отмена</string>
@@ -2423,6 +2428,12 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_turbo_time_subtitle">Учёт игрового времени</string>
     <string name="gb_turbo_voice_subtitle">Изменение голоса</string>
     <string name="gb_turbo_wonder_subtitle">Запись ключевых моментов</string>
+    <string name="gb_vision_enhance">Улучшенные визуальные эффекты</string>
+    <string name="gb_vision_enhance_desc">Улучшение качества изображения и производительности</string>
+    <string name="gb_vision_enhance_smart_frame_insertion">Умная частота кадров</string>
+    <string name="gb_vision_enhance_smart_frame_insertion_desc">Авторегулировка частоты кадров для более плавной картинки</string>
+    <string name="gb_vision_enhance_super_resolution">Суперразрешение</string>
+    <string name="gb_vision_enhance_super_resolution_desc">Увеличение разрешения для просмотра более мелких деталей</string>
     <string name="gb_voice_change_audition_tip">Демо</string>
     <string name="gb_voice_change_settinged">Синтезатор голоса включён</string>
     <string name="gb_voice_changer_cartoon">Мультик</string>
@@ -3045,6 +3056,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -3427,9 +3439,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="operator_name_telcom">China Telecom</string>
     <string name="operator_name_unicom">China Unicom</string>
     <string name="operator_name_virtual_operator">Виртуальный оператор</string>
-    <string name="operator_number_cmcc">10086</string>
-    <string name="operator_number_telcom">10000</string>
-    <string name="operator_number_unicom">10010</string>
+    <string name="opt_antivirus_scan_antivirus_notification_summary">Вредоносные приложения создают угрозу безопасности</string>
+    <string name="opt_antivirus_scan_single_antivirus_notification_title">%s возможно вредоносное</string>
     <string name="optimize_manage_title">Ускорение</string>
     <string name="optimize_result_available_memory_info">Доступная память</string>
     <string name="optimize_result_button_cloudspace">Получить больше места в облачном хранилище</string>
@@ -3568,11 +3579,14 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_main_power_manager_hour_minute">%1$s ч. %2$s мин. до полной зарядки</string>
     <string name="pc_main_sub_battery_text_day_hour">Осталось: %1$s д. %2$s ч.</string>
     <string name="pc_main_sub_battery_text_hour_minute">Осталось: %1$s ч. %2$s мин.</string>
+    <string name="pc_no_more_remind">Не напоминать</string>
     <string name="pc_performance_mode_dialog_summary">Устройство сможет работать в течение %s в производительном режиме. Обратите внимание, что режим увеличит расход батареи и может привести к перегреву.</string>
     <string name="pc_performance_mode_dialog_summary2">Производительность будет повышена. Это увеличит расход батареи и может привести к перегреву. Включить?</string>
     <string name="pc_performance_mode_dialog_title">Производительный режим</string>
     <string name="pc_performance_mode_noti_summary">Повышенный расход батареи и возможен перегрев</string>
     <string name="pc_performance_mode_noti_title">Производительный режим</string>
+    <string name="pc_remind_close_cover_to_charge_summary">Сложите устройство для более быстрой и стабильной зарядки</string>
+    <string name="pc_remind_close_cover_to_charge_title">Сложите для зарядки</string>
     <string name="pc_search_keywords_battery">Батарея</string>
     <string name="pc_search_keywords_battery_save">Экономия</string>
     <string name="pc_search_keywords_battery_use">Расход батареи</string>
@@ -3586,6 +3600,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_temperature_too_high">Устройство перегрелось</string>
     <string name="pc_to_phone_install">Заблокирована установка %s через USB</string>
     <string name="pc_wait_device_cools_down">Дождитесь, когда устройство остынет, чтобы использовать эту функцию</string>
+    <string name="pc_wireless_charge_adjust_position_summary">Поместите на беспроводное зарядное устройство</string>
+    <string name="pc_wireless_charge_adjust_position_title">Быстрая зарядка</string>
     <string name="pc_xiaoai_create_auto_task">Новая задача из Mi AI</string>
     <string name="per_month_pkg_traffic_settings">Тарифный план</string>
     <string name="perfermance_optimization_summary">Избегать перегрева и аппаратных проблем</string>
@@ -5459,6 +5475,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="superpower_settins_autoleave_title">Автоотключение</string>
     <string name="superpower_settins_other">Дополнительные настройки</string>
     <string name="superpower_settins_switch_summary">Ограничение энергоемких функций для продления работы (звонки, SMS, выбранные приложения)</string>
+    <string name="support_app_name_securitycenter">Инструменты безопасности</string>
     <string name="support_game_booster_tips">Улучшите скорость и впечатления от игры</string>
     <string name="sys_app_prot_cracked_confirm">Понятно</string>
     <string name="sys_cpu_title">Загрузка ЦП</string>
@@ -6043,8 +6060,18 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="vb_quick_func_screening">Трансляция</string>
     <string name="vb_settings">Настройки</string>
     <string name="vb_ve_settings_ai_stronger">ИИ</string>
-    <string name="vb_ve_settings_display_style_tips">*Эффекты применяются ко всему экрану</string>
-    <string name="vb_ve_settings_display_style_tips_new">*Эффекты применяются только к области воспроизведения</string>
+    <string name="vb_ve_settings_display_style_tips">*Эффекты будут применены ко всему экрану</string>
+    <string name="vb_ve_settings_display_style_tips_new">*Эффекты будут применены только к области воспроизведения видео</string>
+    <string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">"*Эффект будет применён только к области воспроизведения видео.
+
+Функция не работает с улучшенным видео.
+
+Включение эффекта приведёт к выключению других."</string>
+    <string name="vb_ve_settings_display_style_tips_with_conflict_tips">"*Эффект будет применён ко всему экрану.
+
+Функция не работает с улучшенным видео.
+
+Включение эффекта приведёт к выключению других."</string>
     <string name="vb_ve_settings_pic_border_stronger">Улучшенные контуры</string>
     <string name="vb_ve_settings_picture_stronger">Улучшенная анимация</string>
     <string name="vb_video_effects_3d">Объемный звук</string>
@@ -6060,6 +6087,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="vb_video_effects_dolby_tips">Усиление голоса и Расширенное стерео не работают при включенном иммерсивном звуке</string>
     <string name="vb_video_effects_immersion_sound">Иммерсивный звук</string>
     <string name="vb_video_effects_immersion_sound_summary">Эффект погружения и ощущения пространства при воспроизведении через наушники</string>
+    <string name="vb_video_effects_immersion_sound_summary_new">Эффект погружения и ощущения пространства при воспроизведении поддерживаемых форматов аудио</string>
     <string name="vb_video_effects_liquid_summary">Повышение четкости диалогов в видео</string>
     <string name="vb_video_effects_only_headphone">Работает только с наушниками</string>
     <string name="vb_video_effects_setting_black_white">Ч/Б</string>

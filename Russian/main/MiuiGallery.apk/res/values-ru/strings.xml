@@ -269,6 +269,7 @@
     <string name="art_still_module_loading">Загрузка плагина \"Арт\"…</string>
     <string name="assistant_page_community">Сообщество</string>
     <string name="assistant_page_discovery">Новое</string>
+    <string name="assistant_page_image_printing">Печать</string>
     <string name="assistant_page_label">Моменты</string>
     <string name="assistant_page_server_error">Проверьте настройки сети</string>
     <string name="assistant_today_of_year_function_closed_tip">Включить</string>
@@ -1458,7 +1459,7 @@ ID: %s
     <string name="loading_video_fail_sync_without_network">Подключитесь к сети для загрузки данных</string>
     <string name="loading_video_fail_syncing">Дождитесь окончания загрузки данных и повторите попытку</string>
     <string name="loading_video_thumbnail">Загрузка эскиза видео…</string>
-    <string name="local_secret_tip">При включении этой функции все файлы из приватного альбома будут синхронизироваться с облаком. Изменить настройки можно в Настройки > Синхронизация с облаком > Управление синхронизацией > Приватный альбом.</string>
+    <string name="local_secret_tip">Вы можете хранить все приватные файлы на этом устройстве, не синхронизируя их с облаком. Изменить настройки можно в меню Настройки > Синхронизация с облаком > Управление синхронизацией.</string>
     <string name="login_and_enable_service">Войти в Xiaomi аккаунт</string>
     <string name="login_by_local_phone_long_text">Войдите в аккаунт</string>
     <string name="login_by_local_phone_short_text">Вход</string>
@@ -1691,6 +1692,7 @@ ID: %s
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -1845,6 +1847,7 @@ ID: %s
     <string name="multi_view_tip_sub_title">Разведите или сведите два пальца, чтобы изменить размер отображения</string>
     <string name="multi_view_tip_title">Увеличение и уменьшение</string>
     <string name="must_pick_file">Выберите фото</string>
+    <string name="my_family">Семья</string>
     <string name="name_split">, </string>
     <string name="national_day">День нации</string>
     <string name="nearby_share">Обмен с окружением</string>
@@ -3435,6 +3438,7 @@ ID: %s
     <string name="user_alias_self">Я</string>
     <string name="user_avatar_update_title">Изменение фото профиля</string>
     <string name="user_avatar_uploading">Подождите…</string>
+    <string name="user_family">Семья %1$s</string>
     <string name="user_name_phone_number">Номер телефона</string>
     <string name="user_notice_identify_summary_format">Используя этот сервис, вы соглашаетесь с Условиями использования и Политикой конфиденциальности Xiaomi.</string>
     <string name="user_notice_title">Условия использования</string>

@@ -63,6 +63,7 @@
     <string name="ad_tag_text_1">Популярное</string>
     <string name="ad_tag_text_2">Тренд</string>
     <string name="add">Добавить</string>
+    <string name="add_home_icon_success">Успешно добавлено</string>
     <string name="add_resource_detail_fail">Не удалось добавить ресурс</string>
     <string name="afternoon">После полудня</string>
     <string name="all_resources">Все</string>
@@ -632,6 +633,7 @@ mm"</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -1146,6 +1148,8 @@ mm"</string>
     <string name="resource_search_color_hint_red">Красный</string>
     <string name="resource_search_color_hint_yellow">Жёлтый</string>
     <string name="resource_search_history">История поиска</string>
+<!-- ### FROM SOURCE -->
+    <string name="resource_search_hot_tag">Popular</string>
     <string name="resource_search_list_empty">Ничего не найдено</string>
     <string name="resource_see_more">Показать ещё</string>
     <string name="resource_select">Выбрать</string>

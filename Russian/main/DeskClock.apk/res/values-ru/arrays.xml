@@ -11,6 +11,7 @@
         <item>Зазвонит через %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="alarm_in_furture_new_array">
+        <item>Сработает менее чем через %d мин.</item>
         <item>Сработает через %1$s</item>
         <item>Сработает через %2$s</item>
         <item>Сработает через %1$s %2$s</item>
@@ -44,6 +45,7 @@
         <item>Будильник зазвонит через %1$s, %2$s %3$s</item>
     </string-array>
     <string-array name="alarm_set_new_array">
+        <item>Будильник сработает менее чем через %d мин.</item>
         <item>Будильник сработает через %1$s</item>
         <item>Будильник сработает через %2$s</item>
         <item>Будильник сработает через %1$s %2$s</item>

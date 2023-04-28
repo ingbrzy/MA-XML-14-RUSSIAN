@@ -367,6 +367,14 @@
         <item quantity="other">Понятно (%d сек.)</item>
         <item quantity="one">Понятно (%d сек.)</item>
     </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"Примечание:
+·Улучшенные визуальные эффекты будут недоступны, если включена экономия заряда батареи или устройство перегрето.
+·\"Умная частота кадров\" показывает наилучшие результаты, когда в игре установлено не менее %d кадров в секунду."</item>
+        <item quantity="one">"Примечание:
+·Улучшенные визуальные эффекты будут недоступны, если включена экономия заряда батареи или устройство перегрето.
+·\"Умная частота кадров\" показывает наилучшие результаты, когда в игре установлено не менее %d кадра в секунду."</item>
+    </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Попробуйте %d-дневную пробную 
 версию Синтезатора голоса"</item>
@@ -696,6 +704,11 @@
         <item quantity="one">%d приложение</item>
         <item quantity="few">%d приложения</item>
     </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%2$d приложений, включая %1$s, могут быть вредоносными</item>
+        <item quantity="one">%2$d приложение, включая %1$s, могут быть вредоносным</item>
+        <item quantity="few">%2$d приложения, включая %1$s, могут быть вредоносными</item>
+    </plurals>
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>
         <item quantity="one">+%d</item>
@@ -829,6 +842,10 @@
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d мин. "</item>
         <item quantity="one">"%d мин. "</item>
+    </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantity="other">Оптимизировать использование батареи для %d сценариев</item>
+        <item quantity="one">Оптимизировать использование батареи для %d сценария</item>
     </plurals>
     <plurals name="power_center_battery_problem">
         <item quantity="other">Устранить %d проблем с питанием</item>

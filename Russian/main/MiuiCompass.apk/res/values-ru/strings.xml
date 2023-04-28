@@ -110,6 +110,10 @@
     <string name="get_location">Разрешить</string>
     <string name="gradienter_title">Уровень</string>
     <string name="guide_toast">Для калибровки вращайте телефон так, как показано ниже</string>
+    <string name="invisible_mode_dialog_message">Камера недоступна в режиме инкогнито. Отключите режим инкогнито в настройках.</string>
+    <string name="invisible_mode_dialog_negative">Отмена</string>
+    <string name="invisible_mode_dialog_positive">Настройки</string>
+    <string name="invisible_mode_dialog_title">Режим инкогнито</string>
     <string name="keywords_search_compass">Компас;Калибровка компаса;Давление;Высота;Широта;Долгота;MIUI Компас;Приложение компас;Направление;Атмосферное давление;Какая высота</string>
     <string name="latitude">ШИРОТА</string>
     <string name="location_east">ДОЛГОТА (В)</string>
@@ -135,6 +139,7 @@
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
