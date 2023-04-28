@@ -1546,7 +1546,7 @@
     <string name="eletric_card_one_identification_risk_mms">Проверка входящих сообщений</string>
     <string name="eletric_card_one_identification_risk_mms_summary">Проверка на наличие рисков входящих сообщений по номеру телефона отправителя, а также прикрепленных URL-адресов</string>
     <string name="eletric_card_one_identification_risk_screen">Скрытие личной информации</string>
-    <string name="eletric_card_one_identification_risk_screen_summary">Скрытие уведомлений и личных приложений на внешних мониторах во время трансляции</string>
+    <string name="eletric_card_one_identification_risk_screen_summary">Скрытие уведомлений и приложений с личной информацией на внешних мониторах во время трансляции</string>
     <string name="eletric_card_status_bg_content_disable">Откл.</string>
     <string name="eletric_card_status_bg_content_enable">Вкл.</string>
     <string name="eletric_card_summary_1">Проверка входящих вызовов на угрозы безопасности</string>
@@ -1568,8 +1568,8 @@
     <string name="eletric_group_title_two_identification_risk_app_summary">Предупреждение о совершении финансовых операций после подозрительных звонков или сообщений</string>
     <string name="eletric_group_title_two_identification_risk_mms">Предупреждение о пересылке кодов подтверждения</string>
     <string name="eletric_group_title_two_identification_risk_mms_summary">Предупреждение о пересылке кодов подтверждения из сообщений в приложения соцсетей</string>
-    <string name="eletric_group_title_two_identification_risk_screen">Скрытие личных приложений</string>
-    <string name="eletric_group_title_two_identification_risk_screen_summary">Приостановка трансляции при переключении на личные приложения, такие как Галерея, Сообщения и др.</string>
+    <string name="eletric_group_title_two_identification_risk_screen">Скрытие приложений с личной информацией</string>
+    <string name="eletric_group_title_two_identification_risk_screen_summary">В случае запуска приложений при трансляции, содержащих личную информацию (WeChat, Alipay, Галерея и т. д.), эта информация отображаться не будет. При необходимости, вы можете вручную включить отображение этой информации.</string>
     <string name="eletric_group_two_identification_risk_app">Предупреждение о рискованных финансовых операциях</string>
     <string name="eletric_group_two_identification_risk_mms">Защита кодов подтверждения</string>
     <string name="eletric_identification_unfamiliar_numbers">Идентификация неизвестных номеров</string>
