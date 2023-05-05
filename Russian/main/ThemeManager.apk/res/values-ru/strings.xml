@@ -1148,8 +1148,7 @@ mm"</string>
     <string name="resource_search_color_hint_red">Красный</string>
     <string name="resource_search_color_hint_yellow">Жёлтый</string>
     <string name="resource_search_history">История поиска</string>
-<!-- ### FROM SOURCE -->
-    <string name="resource_search_hot_tag">Popular</string>
+    <string name="resource_search_hot_tag">Популярное</string>
     <string name="resource_search_list_empty">Ничего не найдено</string>
     <string name="resource_see_more">Показать ещё</string>
     <string name="resource_select">Выбрать</string>

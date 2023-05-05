@@ -143,6 +143,7 @@
     <string name="dolby_atoms_sound_effect_label">Dolby Atmos</string>
     <string name="drag_to_add_tiles">Нажмите и удерживайте для добавления или сортировки</string>
     <string name="early_morning">Утро</string>
+    <string name="emergency_call">Экстренная помощь</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="error_icon_content_description">Ошибка</string>
