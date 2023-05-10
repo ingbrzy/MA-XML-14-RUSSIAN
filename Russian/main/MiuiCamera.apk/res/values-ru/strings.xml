@@ -2112,10 +2112,10 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
     <string name="pref_super_night_se_summary">Автоматически переключаться на ночной режим при тёмном освещении</string>
     <string name="pref_super_night_se_title">Ночной режим</string>
     <string name="pref_true_colour_video_mode_description">Натуральный цвет</string>
-    <string name="pref_true_colour_video_mode_introduction">TC</string>
+    <string name="pref_true_colour_video_mode_introduction">Потрясающие визуальные эффекты, реалистичные детали и поразительный контраст</string>
 <!-- ### FROM SOURCE -->
     <string name="pref_true_colour_video_mode_summary">Record 1080P and 4K videos in Video and Pro modes to capture lifelike details, stunning colors, and striking contrast (this feature might not be compatible with some third party apps)</string>
-    <string name="pref_true_colour_video_mode_title">TC</string>
+    <string name="pref_true_colour_video_mode_title">Dolby Vision</string>
     <string name="pref_userdefine_watermark_title">Дополнительный текст</string>
     <string name="pref_video_ai_audio_effect_comparation_3d">3D</string>
     <string name="pref_video_ai_audio_effect_comparation_3d_i">3D звук</string>
@@ -2660,7 +2660,7 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
     <string name="video_tag_flag_title">Тег</string>
     <string name="video_true_colour_fourcc">tc</string>
     <string name="video_true_colour_suffix">_TC</string>
-    <string name="video_true_colour_tip">TC</string>
+    <string name="video_true_colour_tip">DOVI</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">Политика конфиденциальности</string>
