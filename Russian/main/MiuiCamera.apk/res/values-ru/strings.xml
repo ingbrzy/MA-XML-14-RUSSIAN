@@ -603,8 +603,8 @@
     <string name="color_effect_live_years">Сепия</string>
     <string name="color_enhance_mode">Улучшенные цвета</string>
     <string name="config_name_HDR">HDR</string>
-    <string name="config_name_audio_map">Аудиограмма</string>
-    <string name="config_name_delay_capture">Обратный отсчёт</string>
+    <string name="config_name_audio_map">Сонограмма</string>
+    <string name="config_name_delay_capture">Таймер</string>
     <string name="config_name_flash">Вспышка</string>
     <string name="config_name_group">Групповое фото</string>
     <string name="config_name_hht">Ночной режим</string>
@@ -612,10 +612,10 @@
     <string name="config_name_mimovie">Режим кино</string>
     <string name="config_name_photo_histogram">Гистограмма</string>
     <string name="config_name_photography_style">Стиль</string>
-    <string name="config_name_portrait_repair">Портрет Ультра HD</string>
+    <string name="config_name_portrait_repair">Портрет HD</string>
     <string name="config_name_privacy_watermark">Водяной знак</string>
     <string name="config_name_quality">Разрешение</string>
-    <string name="config_name_ratio">Рамка</string>
+    <string name="config_name_ratio">Соотношение сторон</string>
     <string name="config_name_scene">Сюжет</string>
     <string name="config_name_setting">Настройки</string>
     <string name="config_name_sound">Звук</string>
@@ -845,7 +845,7 @@
     <string name="face_analyze_info">Возраст: %2$s | Пол: %1$s</string>
     <string name="face_analyze_info_female">Женский</string>
     <string name="face_analyze_info_male">Мужской</string>
-    <string name="face_beauty_advanced">Полный</string>
+    <string name="face_beauty_advanced">Профи</string>
     <string name="face_beauty_age_alias_female_0_7">Женский 0-7</string>
     <string name="face_beauty_age_alias_female_18_30">Женский 18-30</string>
     <string name="face_beauty_age_alias_female_31_44">Женский 31-44</string>
@@ -914,7 +914,7 @@
     <string name="guide_pop_window_msg_cv_lens">Нажмите, чтобы попробовать Pro-объективы</string>
     <string name="guide_pop_window_msg_mimoji">Нажмите, чтобы использовать аватары</string>
     <string name="hand_gesture_open_tip">Для активации таймера съёмки поднимите руку</string>
-    <string name="hand_gesture_tip">Жест съёмки</string>
+    <string name="hand_gesture_tip">Cъёмка жестом</string>
     <string name="hdr_tip">HDR</string>
     <string name="hibernate_hint">Коснитесь экрана для запуска камеры</string>
     <string name="hine_hht">"При слабом освещении камера сделает несколько снимков,
@@ -1270,7 +1270,7 @@
     <string name="module_name_pixel_64m">64M</string>
     <string name="module_name_pixel_xxxm">200MP</string>
     <string name="module_name_portrait">Портрет</string>
-    <string name="module_name_professional">Ручной режим</string>
+    <string name="module_name_professional">Профи</string>
     <string name="module_name_scanner">Сканер</string>
     <string name="module_name_square">Квадрат</string>
     <string name="module_name_super_moon">Суперлуна</string>
@@ -1358,8 +1358,7 @@
     <string name="pad_cannot_connect_camera_twice">Не удалось подключиться к камере. Перезагрузите устройство.</string>
     <string name="pad_close_back_flash_toast">Устройство перегрелось. Вспышка недоступна для использования.</string>
     <string name="pad_close_night_algo_toast_thermal">Охладите устройство, чтобы установить экспозицию</string>
-<!-- ### FROM SOURCE -->
-    <string name="pad_pref_camera_lying_desc">Notify about current orientation when the device is parallel to the ground while taking photos and scanning documents</string>
+    <string name="pad_pref_camera_lying_desc">Уведомлять о текущей ориентации, когда устройство параллельно земле во время съёмки или сканирования документов</string>
     <string name="pad_pref_camera_lying_summary">Уведомлять о текущей ориентации, когда устройство параллельно земле</string>
     <string name="pad_super_night_toast">Держите устройство неподвижно во время съёмки</string>
     <string name="pano_click_to_toggle_direction">Нажмите на стрелку, чтобы изменить направление</string>
@@ -1370,11 +1369,10 @@
     <string name="pano_how_to_use_prompt_start">Нажмите на стрелку для смены направления и плавно перемещайте устройство</string>
     <string name="pano_how_to_use_prompt_to_move">Перемещайте устройство плавно</string>
     <string name="parameter_ambilight_title">Длинная выдержка</string>
-<!-- ### FROM SOURCE -->
-    <string name="parameter_aperture_description">The camera can automatically select the aperture based on the current environment. If you choose to adjust the aperture manually, remember that the smaller its value, the more light hits the sensor.</string>
-    <string name="parameter_aperture_title">Ирисовая диафрагма</string>
-    <string name="parameter_description_pro_capture_title">Функции ручного режима</string>
-    <string name="parameter_description_pro_video_title">Функции ручного режима</string>
+    <string name="parameter_aperture_description">Камера может автоматически выбирать диафрагму в зависимости от текущих условий. При выборе диафрагмы вручную, помните, что чем меньше ее значение, тем больше света попадает на матрицу.</string>
+    <string name="parameter_aperture_title">Диафрагма</string>
+    <string name="parameter_description_pro_capture_title">Функции режима Профи</string>
+    <string name="parameter_description_pro_video_title">Функции режима Профи</string>
     <string name="parameter_description_sub_title">Больше творческого контроля над фото и видео</string>
     <string name="parameter_ef_split_description">Можно перетащить кольцо экспозиции от кольца фокусировки и настроить два параметра отдельно.</string>
     <string name="parameter_ef_split_title">Раздельная фокусировка и экспозамер</string>
@@ -1390,22 +1388,15 @@
     <string name="parameter_histogram_title">Гистограмма</string>
     <string name="parameter_iso_description">Значения ISO могут быть определены автоматически с помощью экспонометра. При установке значения вручную, помните, что более высокое значение ISO делает вашу камеру более чувствительной к свету, но вносит больше цифрового шума в изображение.</string>
     <string name="parameter_iso_title">Чувствительность ISO</string>
-    <string name="parameter_lens_description">"Можно переключаться между различными доступными объективами: "</string>
-<!-- ### FROM SOURCE -->
-    <string name="parameter_lens_description_wide">You can switch between multiple available lenses: WIDE (wide angle lens)</string>
-<!-- ### FROM SOURCE -->
-    <string name="parameter_lens_description_wide_macro">You can switch between multiple available lenses: WIDE (wide angle lens), MACRO (macro lens)</string>
-<!-- ### FROM SOURCE -->
-    <string name="parameter_lens_description_wide_uw">You can switch between multiple available lenses: UW (ultra wide angle lens), WIDE (wide angle lens)</string>
-<!-- ### FROM SOURCE -->
-    <string name="parameter_lens_description_wide_uw_macro">You can switch between multiple available lenses: UW (ultra wide angle lens), WIDE (wide angle lens), MACRO (macro lens)</string>
-<!-- ### FROM SOURCE -->
-    <string name="parameter_lens_description_wide_uw_tele">You can switch between multiple available lenses: UW (ultra wide angle lens), WIDE (wide angle lens), TELE (telephoto lens)</string>
-<!-- ### FROM SOURCE -->
-    <string name="parameter_lens_description_wide_uw_tele_x">You can switch between multiple available lenses: UW (ultra wide angle lens), WIDE (wide angle lens), TELE-%1$sX (telephoto lens)</string>
-<!-- ### FROM SOURCE -->
-    <string name="parameter_lens_description_wide_uw_tele_xx">You can switch between multiple available lenses: UW (ultra wide angle lens), WIDE (wide angle lens), TELE-%1$sX (telephoto lens), TELE-%2$sX (telephoto lens)</string>
-    <string name="parameter_lens_marco">, МАКРО (макро-объектив)</string>
+    <string name="parameter_lens_description">"Доступно переключение между объективами: "</string>
+    <string name="parameter_lens_description_wide">Доступно переключение между объективами: WIDE (широкоугольный)</string>
+    <string name="parameter_lens_description_wide_macro">Доступно переключение между объективами: WIDE (широкоугольный), MACRO (макрообъектив)</string>
+    <string name="parameter_lens_description_wide_uw">Доступно переключение между объективами: UW (ультраширокоугольный), WIDE (широкоугольный)</string>
+    <string name="parameter_lens_description_wide_uw_macro">Доступно переключение между объективами: UW (ультраширокоугольный), WIDE (широкоугольный), MACRO (макрообъектив)</string>
+    <string name="parameter_lens_description_wide_uw_tele">Доступно переключение между объективами: UW (ультраширокоугольный), WIDE (широкоугольный), TELE (телеобъектив)</string>
+    <string name="parameter_lens_description_wide_uw_tele_x">Доступно переключение между объективами: UW (ультраширокоугольный), WIDE (широкоугольный), TELE-%1$sX (телеобъектив)</string>
+    <string name="parameter_lens_description_wide_uw_tele_xx">Доступно переключение между объективами: UW (ультраширокоугольный), WIDE (широкоугольный), TELE-%1$sX (телеобъектив), TELE-%2$sX (телеобъектив)</string>
+    <string name="parameter_lens_marco">, МАКРО (макрообъектив)</string>
     <string name="parameter_lens_st">, S-ТЕЛЕ (зум-объектив)</string>
     <string name="parameter_lens_t">, ТЕЛЕ (телеобъектив)</string>
     <string name="parameter_lens_tele_2x">, ТЕЛЕ 2Х (телеобъектив)</string>
@@ -1416,25 +1407,20 @@
     <string name="parameter_lens_w">Ш (широкоугольный)</string>
     <string name="parameter_log_format_description">Этот формат записывает видео с логарифмической функцией, примененной к кривой экспозиции, для захвата большего числа деталей в светлых и тёмных местах, что предоставляет больше возможностей в постобработке.</string>
     <string name="parameter_log_format_title">LOG формат</string>
-<!-- ### FROM SOURCE -->
-    <string name="parameter_log_lut_format_description">Turn on LOG to import customized LUTs for video previews. Videos will be recorded in LOG files.</string>
+    <string name="parameter_log_lut_format_description">Включите LOG формат, чтобы импортировать таблицы LUT для предпросмотра видео. Видео будут записываться в файлы LOG.</string>
     <string name="parameter_manual_picturestyle_description">Насыщенность позволяет контролировать глубину и интенсивность цвета, контрастность позволяет выявить или минимизировать разницу между светлым и тёмным, резкость визуализирует детали вдоль контуров.</string>
-<!-- ### FROM SOURCE -->
-    <string name="parameter_manual_picturestyle_description_new">Use tonal adjustments to increase contrast or lower it and make the image more layered. Experiment with different hues to give your photos a warmer or cooler look. Decide whether you want crisper details or lowered sharpness for a more delicate feel.</string>
+    <string name="parameter_manual_picturestyle_description_new">Используйте тональную коррекцию, чтобы повысить или понизить контрастность и сделать изображение более многослойным. Экспериментируйте с различными оттенками, чтобы сделать фото более теплыми или холодными. Выберите, хотите ли вы получить более четкие детали или снизить резкость для более мягкого восприятия.</string>
     <string name="parameter_metering_description">Средний замер учитывает все области вашего изображения, работая лучше всего для равномерно освещенных сцен. Центровзвешенный замер в основном фокусируется на центральной области кадра и учитывает яркость окружающей области, которая подходит для съёмки объектов в центре кадра. Точечный замер охватывает область только в одном месте, обеспечивая точный контроль над экспозицией.</string>
     <string name="parameter_metering_title">Режимы замера</string>
     <string name="parameter_peak_focus_description">При ручной фокусировке используйте функцию \"Пик фокуса\" для подсветки красным области фокусировки.</string>
     <string name="parameter_peak_focus_title">Пик фокуса</string>
     <string name="parameter_peak_raw_description">Этот формат сохраняет все данные изображения без сжатия и обработки. Несжатые данные дают больше возможностей в постобработке.</string>
-<!-- ### FROM SOURCE -->
-    <string name="parameter_peak_raw_description_mm">RAW files capture uncompressed data and offer more image editing options.</string>
+    <string name="parameter_peak_raw_description_mm">Файлы RAW содержат несжатые данные и предлагают больше возможностей для редактирования</string>
     <string name="parameter_peak_raw_title">RAW формат</string>
     <string name="parameter_peak_raw_title_mm">Формат изображения</string>
-<!-- ### FROM SOURCE -->
-    <string name="parameter_peak_ultra_raw_description_mm">"RAW files capture uncompressed data and offer more image editing options.
-Ultra RAW images save %d bit of data keeping even more detail."</string>
+    <string name="parameter_peak_ultra_raw_description_mm">"Файлы RAW содержат несжатые данные и предлагают больше возможностей для редактирования.
+Для Ultra RAW используется %d-бит, которые сохраняют еще больше деталей."</string>
     <string name="parameter_videos_title">Эффекты</string>
-<!-- ### FROM SOURCE -->
     <string name="parameter_waveform_title">WAVE</string>
     <string name="parameter_wb_description">Помимо предустановок баланса белого (лампа накаливания, дневной свет, флуоресцентный, облачный), можно также установить для баланса белого свое значение в диапазоне %1$d-%2$d Кельвин.</string>
     <string name="parameter_wb_title">Баланс белого</string>
@@ -1475,7 +1461,7 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
 для размытия фона на ваших фото"</string>
     <string name="portrait_bokeh_text">Режим \"Портрет\"</string>
     <string name="portrait_bokeh_tips">Разместите объект в пределах 1.5 метров</string>
-    <string name="portrait_deblur_tips">HD-портрет</string>
+    <string name="portrait_deblur_tips">Портрет HD</string>
     <string name="portrait_india_effect_entry_memory">Память</string>
     <string name="portrait_india_effect_entry_mono">Моно</string>
     <string name="portrait_india_effect_entry_pink">Румянец</string>
@@ -1495,7 +1481,7 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
 и увеличивает резкость переднего плана"</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Попробуйте режим \"Портрет\".
 Держите объект в фокусе, размывая фон."</string>
-    <string name="portrait_repair_tips">Умный HD-портрет</string>
+    <string name="portrait_repair_tips">Умный портрет HD</string>
     <string name="pre_volume_gain_adjust">Регулировка усиления</string>
     <string name="pref_960_watermark_title">Водяной знак 960FPS</string>
     <string name="pref_a_c_f">Сонограф</string>
@@ -1537,9 +1523,8 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
     <string name="pref_camera_auto_capture_when_stable_title">Автосъёмка при фокусе</string>
     <string name="pref_camera_auto_chroma_flash_title">Комбо вспышка</string>
     <string name="pref_camera_auto_hibernation">Съёмка с выключенным экраном</string>
-<!-- ### FROM SOURCE -->
-    <string name="pref_camera_auto_hibernation_desc">Turn off screen after %d minutes of inactivity to save power while recording regular or time-lapse videos, using timed bursts or long exposure</string>
-    <string name="pref_camera_auto_hibernation_description">Выключить экран через %d мин. съёмки для экономии заряда</string>
+    <string name="pref_camera_auto_hibernation_desc">Выключать экран после %d мин. бездействия для экономии заряда при записи обычного или замедленного видео, при использовании таймлапса или длительной экспозиции</string>
+    <string name="pref_camera_auto_hibernation_description">Выключать экран через %d мин. съёмки для экономии заряда</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Центровзвешенная</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Средний кадр</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Точечный замер</string>
@@ -1553,7 +1538,7 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
     <string name="pref_camera_beautify_entry_low">Низкий</string>
     <string name="pref_camera_beautify_entry_normal">Средний</string>
     <string name="pref_camera_beauty">Улучшение</string>
-    <string name="pref_camera_beauty_deep">Улучшение Pro</string>
+    <string name="pref_camera_beauty_deep">Улучшение Профи</string>
     <string name="pref_camera_bokeh_title">Портрет</string>
     <string name="pref_camera_coloreffect_entry_aqua">Вода</string>
     <string name="pref_camera_coloreffect_entry_big_face">Растянуть</string>
@@ -1707,15 +1692,14 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
     <string name="pref_camera_groupshot_mode_title">Групповое фото</string>
     <string name="pref_camera_hand_night_title">Ночной</string>
     <string name="pref_camera_hdr_entry_auto">Авто</string>
-    <string name="pref_camera_hdr_entry_live">Живой</string>
-    <string name="pref_camera_hdr_entry_normal">Обычный</string>
+    <string name="pref_camera_hdr_entry_live">Реальный</string>
+    <string name="pref_camera_hdr_entry_normal">Профи</string>
     <string name="pref_camera_hdr_entry_off">Откл.</string>
     <string name="pref_camera_hdr_title">HDR</string>
-<!-- ### FROM SOURCE -->
-    <string name="pref_camera_heic_image_format_desc3">"High efficiency image file format saves storage space in Photo and Ultra HD modes, but isn't supported by some third party apps. You can't take dynamic shots and remove watermarks in HEIF."</string>
+    <string name="pref_camera_heic_image_format_desc3">Высокоэффективный формат HEIF экономит место в режимах Фото и Ultra HD, но поддерживается не всеми приложениями. В HEIF нельзя делать динамические снимки и удалять водяные знаки.</string>
     <string name="pref_camera_heic_image_format_description">Сохранение снимков в высокоэффективном формате HEIF</string>
-    <string name="pref_camera_heic_image_format_description2">Высокоэффективный формат изображения уменьшает размер файлов, однако поддерживается не всеми приложениями. Вы не сможете делать динамические снимки и удалять водяные знаки.</string>
-    <string name="pref_camera_heic_image_format_description_global">Высокоэффективный формат изображения уменьшает размер файлов, однако поддерживается не всеми приложениями. Вы не сможете удалять водяные знаки в HEIF.</string>
+    <string name="pref_camera_heic_image_format_description2">Высокоэффективный формат HEIF уменьшает размер файлов, но поддерживается не всеми приложениями. В HEIF нельзя делать динамические снимки и удалять водяные знаки.</string>
+    <string name="pref_camera_heic_image_format_description_global">Высокоэффективный формат HEIF уменьшает размер файлов, но поддерживается не всеми приложениями. В HEIF нельзя удалять водяные знаки.</string>
     <string name="pref_camera_heic_image_format_title">HEIC формат</string>
     <string name="pref_camera_hfr_entry_2x">60</string>
     <string name="pref_camera_hfr_entry_3x">90</string>
@@ -1784,13 +1768,12 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
     <string name="pref_camera_long_pressing_shutter_title">Удерживайте кнопку съёмки для блокировки AE/AF/AWB</string>
     <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google объектив</string>
     <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE/AF блокировка</string>
-<!-- ### FROM SOURCE -->
-    <string name="pref_camera_lying_desc">Notify about current orientation when the device is parallel to the ground while taking photos and scanning documents</string>
+    <string name="pref_camera_lying_desc">Уведомлять о текущей ориентации, когда устройство параллельно земле во время съёмки или сканирования документов</string>
     <string name="pref_camera_lying_summary">Уведомлять о текущей ориентации, когда устройство параллельно земле</string>
     <string name="pref_camera_lying_title">Уведомлять об ориентации</string>
     <string name="pref_camera_magic_mirror_title">Волшебное зеркало</string>
-    <string name="pref_camera_manual_description_title">Функции ручного режима</string>
-    <string name="pref_camera_manual_mode_title">Ручной режим</string>
+    <string name="pref_camera_manual_description_title">Функции режима Профи</string>
+    <string name="pref_camera_manual_mode_title">Режим Профи</string>
     <string name="pref_camera_manually_exposure_value_abbr">EV</string>
     <string name="pref_camera_mfnr_sat_enable_title">Использовать несколько кадров для уменьшения шума</string>
     <string name="pref_camera_movie_solid_title">Стабилизация изображения</string>
@@ -1827,34 +1810,20 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
     <string name="pref_camera_portrait_with_facebeauty_title">Улучшение в режиме \"Портрет\"</string>
     <string name="pref_camera_predictive_shutter_description">Режим \"Отслеживание движения\" позволяет уменьшить размытость движущихся объектов</string>
     <string name="pref_camera_predictive_shutter_title">Отслеживание движения</string>
-<!-- ### FROM SOURCE -->
-    <string name="pref_camera_pro_video_log_lut_delete_hint">Delete</string>
-<!-- ### FROM SOURCE -->
-    <string name="pref_camera_pro_video_log_lut_import">Import LUT</string>
-<!-- ### FROM SOURCE -->
-    <string name="pref_camera_pro_video_log_lut_import_cancel">Cancel</string>
-<!-- ### FROM SOURCE -->
-    <string name="pref_camera_pro_video_log_lut_import_contains">Duplicate files have been replaced</string>
-<!-- ### FROM SOURCE -->
-    <string name="pref_camera_pro_video_log_lut_import_content">You can only import CUBE files.</string>
-<!-- ### FROM SOURCE -->
-    <string name="pref_camera_pro_video_log_lut_import_do_not_me">"Don't show again"</string>
-<!-- ### FROM SOURCE -->
-    <string name="pref_camera_pro_video_log_lut_import_failed">"Couldn't import"</string>
-<!-- ### FROM SOURCE -->
-    <string name="pref_camera_pro_video_log_lut_import_lut_file">Import LUT</string>
-<!-- ### FROM SOURCE -->
-    <string name="pref_camera_pro_video_log_lut_import_ok">OK</string>
-<!-- ### FROM SOURCE -->
-    <string name="pref_camera_pro_video_log_lut_import_over_limit_hint">You can import up to %d files</string>
-<!-- ### FROM SOURCE -->
-    <string name="pref_camera_pro_video_log_lut_invalid">None</string>
-<!-- ### FROM SOURCE -->
+    <string name="pref_camera_pro_video_log_lut_delete_hint">Удаление</string>
+    <string name="pref_camera_pro_video_log_lut_import">Импорт LUT</string>
+    <string name="pref_camera_pro_video_log_lut_import_cancel">Отмена</string>
+    <string name="pref_camera_pro_video_log_lut_import_contains">Дубликаты файлов заменены</string>
+    <string name="pref_camera_pro_video_log_lut_import_content">Можно импортировать только файлы CUBE</string>
+    <string name="pref_camera_pro_video_log_lut_import_do_not_me">Больше не показывать</string>
+    <string name="pref_camera_pro_video_log_lut_import_failed">Не удалось импортировать</string>
+    <string name="pref_camera_pro_video_log_lut_import_lut_file">Импорт LUT</string>
+    <string name="pref_camera_pro_video_log_lut_import_ok">ОК</string>
+    <string name="pref_camera_pro_video_log_lut_import_over_limit_hint">Можно импортировать не более %d файлов</string>
+    <string name="pref_camera_pro_video_log_lut_invalid">Нет</string>
     <string name="pref_camera_pro_video_log_lut_restore">Rec.709</string>
-<!-- ### FROM SOURCE -->
     <string name="pref_camera_pro_video_log_lut_title">LUT</string>
-<!-- ### FROM SOURCE -->
-    <string name="pref_camera_pro_video_log_lut_top_tips">"LUTs are only applied to previews while you're recording videos"</string>
+    <string name="pref_camera_pro_video_log_lut_top_tips">LUT применяется только для предпросмотра во время записи видео</string>
     <string name="pref_camera_proximity_lock_summary">Предотвращать случайные нажатия в кармане</string>
     <string name="pref_camera_proximity_lock_title">Режим \"В кармане\"</string>
     <string name="pref_camera_quick_settings">Быстрые настройки</string>
@@ -1998,7 +1967,7 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
     <string name="pref_custom_tint_title">Цветовая тема</string>
     <string name="pref_customization_style">Выбор стиля</string>
     <string name="pref_customization_title">Персонализация</string>
-    <string name="pref_cv_film_watermark_summary">Превью предоставляются только для ознакомления. Водяной знак появится на фото, сделанных в режимах \"Фото\" и \"Ручной режим\"</string>
+    <string name="pref_cv_film_watermark_summary">Превью предоставляются только для ознакомления. Водяной знак появится на фото, сделанных в режимах \"Фото\" и \"Профи\"</string>
     <string name="pref_cv_film_watermark_title">Пользовательский водяной знак на плёнке</string>
     <string name="pref_cv_watermark_location_title">Координаты</string>
     <string name="pref_cv_watermark_summary">Превью предоставляются только для ознакомления. Водяной знак Leica появится на фото JPEG и HEIF. Режимы Серийная съёмка, Ультра HD и \"Весёлая камера\" не поддерживаются.</string>
@@ -2052,7 +2021,7 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
     <string name="pref_module_settings">Режимы</string>
     <string name="pref_more_mode_style_title">Расположение режимов</string>
     <string name="pref_motioon_detection">Обнаружение движения</string>
-    <string name="pref_movie_solid_support_desc">Работает для видео в режимах Pro и Таймлапс</string>
+    <string name="pref_movie_solid_support_desc">Работает для видео в режимах \"Профи\" и \"Таймлапс\"</string>
     <string name="pref_multi_camera_dual_video_front">Фронтальная камера</string>
     <string name="pref_multi_camera_dual_video_remote">Двойная запись</string>
     <string name="pref_n_s_a">Настройки звука</string>
@@ -2064,7 +2033,7 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
     <string name="pref_noise_setting_off">Откл.</string>
     <string name="pref_noise_setting_on">Вкл.</string>
-    <string name="pref_p_d_e">Функции Pro</string>
+    <string name="pref_p_d_e">Функции Профи</string>
     <string name="pref_photo_assistance_tips_off">Откл.</string>
     <string name="pref_photo_assistance_tips_on">Вкл.</string>
     <string name="pref_pic_flaw_tip_summary">Уведомлять, когда люди в кадре закрывают глаза или объектив частично перекрыт во время съёмки</string>
@@ -2107,14 +2076,12 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
     <string name="pref_skin_beautify_smooth_title">Кожа</string>
     <string name="pref_smart_guide_title">Умные рекомендации</string>
     <string name="pref_sound_noise_reduction_summary">Во время записи</string>
-<!-- ### FROM SOURCE -->
-    <string name="pref_super_night_se_desc">Detect low light conditions while using Photo and Portrait modes to improve image quality automatically</string>
+    <string name="pref_super_night_se_desc">Определение низкой освещенности в режимах Фото и Портрет для улучшения качества изображения</string>
     <string name="pref_super_night_se_summary">Автоматически переключаться на ночной режим при тёмном освещении</string>
     <string name="pref_super_night_se_title">Ночной режим</string>
     <string name="pref_true_colour_video_mode_description">Натуральный цвет</string>
     <string name="pref_true_colour_video_mode_introduction">Потрясающие визуальные эффекты, реалистичные детали и поразительный контраст</string>
-<!-- ### FROM SOURCE -->
-    <string name="pref_true_colour_video_mode_summary">Record 1080P and 4K videos in Video and Pro modes to capture lifelike details, stunning colors, and striking contrast (this feature might not be compatible with some third party apps)</string>
+    <string name="pref_true_colour_video_mode_summary">Запись в формате 1080P и 4K в режимах \"Видео\" и \"Профи\" позволяет запечатлеть реалистичные детали, потрясающие цвета и поразительный контраст (функция может быть несовместима с некоторыми приложениями)</string>
     <string name="pref_true_colour_video_mode_title">Dolby Vision</string>
     <string name="pref_userdefine_watermark_title">Дополнительный текст</string>
     <string name="pref_video_ai_audio_effect_comparation_3d">3D</string>
@@ -2192,8 +2159,7 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
     <string name="pref_video_time_lapse_frame_interval_title">Интервал в режиме \"Ускорение\"</string>
     <string name="pref_watermark_off">Откл.</string>
     <string name="pref_watermark_on">Вкл.</string>
-<!-- ### FROM SOURCE -->
-    <string name="pref_watermark_summary">"Watermarks will appear on JPEG and HEIF photos. Burst shots, Ultra HD, and Fun Cam images aren't supported."</string>
+    <string name="pref_watermark_summary">Водяные знаки будут отображаться на фото в форматах JPEG и HEIF. Режимы Серийная съёмка, Ультра HD и \"Весёлая камера\" не поддерживаются.</string>
     <string name="pref_watermark_title">Водяной знак</string>
     <string name="pref_wind_denoise_title">Подавление шума ветра</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
@@ -2211,7 +2177,7 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
     <string name="pro_color_mode">Продвинутый цветовой режим</string>
     <string name="process_tips_1">Не складывайте устройство, пока идёт сохранение видео</string>
     <string name="process_tips_2">Не разворачивайте устройство, пока идёт сохранение видео</string>
-    <string name="professional_shortcut_short">Ручной</string>
+    <string name="professional_shortcut_short">Профи</string>
     <string name="prompt_desc">Для использования этой функции требуется %s MБ мобильного трафика. Продолжить?</string>
     <string name="qvga_shelter_tip_text">Не загораживайте объектив</string>
     <string name="recommend_landscape_tip">Рекомендуется альбомный режим</string>
@@ -2268,10 +2234,10 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
     <string name="simple_mode_button_text_face_beauty">Отключить режим улучшения</string>
     <string name="simple_mode_button_text_fast_video">Отключить режим Замедленная съёмка</string>
     <string name="simple_mode_button_text_gradienter">Отключить режим Горизонт</string>
-    <string name="simple_mode_button_text_groupshot">Отключить групповое селфи</string>
-    <string name="simple_mode_button_text_hand_night">Отключить ночной режим</string>
+    <string name="simple_mode_button_text_groupshot">Отключить Групповое селфи</string>
+    <string name="simple_mode_button_text_hand_night">Отключить Ночной режим</string>
     <string name="simple_mode_button_text_magic_mirror">Отключить Волшебное зеркало</string>
-    <string name="simple_mode_button_text_manual">Отключить ручной режим</string>
+    <string name="simple_mode_button_text_manual">Отключить режим Профи</string>
     <string name="simple_mode_button_text_panorama">Отключить режим Панорама</string>
     <string name="simple_mode_button_text_scene">Отключить режим Сюжет</string>
     <string name="simple_mode_button_text_slow_video">Отключить режим Таймлапс</string>
@@ -2415,8 +2381,7 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
     <string name="time_freeze_action_start_tip">Нажмите кнопку, чтобы заморозить фон</string>
     <string name="time_freeze_adjust_button_title">Настройка</string>
     <string name="time_freeze_clipbox_tint">Заморозка</string>
-<!-- ### FROM SOURCE -->
-    <string name="time_freeze_description_title">Time freeze</string>
+    <string name="time_freeze_description_title">Заморозка</string>
     <string name="time_lapse_error">Запись Таймлапса недоступна при этом разрешении видео</string>
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="time_picker_label_hour">Ч</string>
@@ -2436,90 +2401,48 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
     <string name="timer_burst_param_total_count_infinity">не ограничена</string>
     <string name="timer_burst_setting_total_count_infinity">"Серия "</string>
     <string name="timerburst_pressed_hint">Нажмите ещё раз для остановки</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_ai_audio_off">Audio zoom: Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_ai_audio_single_off">Frontal sound: Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_ai_off">AI camera: Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_cvtype_title1">Style: Leica Authentic</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_cvtype_title2">Style: Leica Vibrant</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_eis_off">Steady video: Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_eis_pro_off">Steady video PRO: Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_flash_auto">Flash: Auto</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_flash_back_soft_light">Ring light: On</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_flash_off">Flash: Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_flash_on">Flash: On</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_flash_on_but_not_adjust_ambient">Ring light: On</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_flash_screen_halo_auto">Ring light: Auto</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_flash_screen_light_auto">Soft flash: Auto</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_flash_screen_light_on">Soft flash: On</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_flash_torch">Flash: Always on</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_gif_off">GIF: Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_gif_on">GIF: On</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_hand_gesture_off">Palm shutter: Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_hdr_off">HDR: Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_live_photo_off">Dynamic shot: Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_log_off">LOG: Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_macro_mode_off">Macro: Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_macro_mode_on">Macro: On</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_non_auto_macro_off">Macro: Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_non_auto_macro_on">Macro: On</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_portrait_repair_off">HD portrait: Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_privacy_watermark_off">Protective watermark: Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_raw_off">RAW: Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_raw_off_mm">Image format: JPG</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_timer_burst_off">Timed burst: Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_timer_off">Timer: Off</string>
-<!-- ### FROM SOURCE -->
+    <string name="tip_ai_audio_off">Аудиозум: Откл.</string>
+    <string name="tip_ai_audio_single_off">Фронтальный звук: Откл.</string>
+    <string name="tip_ai_off">AI камера: Откл.</string>
+    <string name="tip_cvtype_title1">Стиль: Настоящая Leica</string>
+    <string name="tip_cvtype_title2">Стиль: Яркая Leica</string>
+    <string name="tip_eis_off">EIS: Откл.</string>
+    <string name="tip_eis_pro_off">EIS PRO: Откл.</string>
+    <string name="tip_flash_auto">Вспышка: Авто</string>
+    <string name="tip_flash_back_soft_light">Кольцевая лампа: Вкл.</string>
+    <string name="tip_flash_off">Вспышка: Откл.</string>
+    <string name="tip_flash_on">Вспышка: Вкл.</string>
+    <string name="tip_flash_on_but_not_adjust_ambient">Кольцевая лампа: Вкл.</string>
+    <string name="tip_flash_screen_halo_auto">Кольцевая лампа: Авто</string>
+    <string name="tip_flash_screen_light_auto">Мягкая вспышка: Авто</string>
+    <string name="tip_flash_screen_light_on">Мягкая вспышка: Вкл.</string>
+    <string name="tip_flash_torch">Вспышка: Всегда вкл.</string>
+    <string name="tip_gif_off">GIF: Откл.</string>
+    <string name="tip_gif_on">GIF: Вкл.</string>
+    <string name="tip_hand_gesture_off">Cъёмка жестом: Откл.</string>
+    <string name="tip_hdr_off">HDR: Откл.</string>
+    <string name="tip_live_photo_off">Динамические снимки: Откл.</string>
+    <string name="tip_log_off">LOG: Откл.</string>
+    <string name="tip_macro_mode_off">Макро: Откл.</string>
+    <string name="tip_macro_mode_on">Макро: Вкл.</string>
+    <string name="tip_non_auto_macro_off">Макро: Откл.</string>
+    <string name="tip_non_auto_macro_on">Макро: Вкл.</string>
+    <string name="tip_portrait_repair_off">Портрет HD: Откл.</string>
+    <string name="tip_privacy_watermark_off">Водяной знак: Откл.</string>
+    <string name="tip_raw_off">RAW: Откл.</string>
+    <string name="tip_raw_off_mm">Формат: JPG</string>
+    <string name="tip_timer_burst_off">Серийная съёмка: Откл.</string>
+    <string name="tip_timer_off">Таймер: Откл.</string>
     <string name="tip_ultra_pixel_100M">100MP</string>
-<!-- ### FROM SOURCE -->
     <string name="tip_ultra_pixel_108M">108MP</string>
-<!-- ### FROM SOURCE -->
     <string name="tip_ultra_pixel_48M">48MP</string>
-<!-- ### FROM SOURCE -->
     <string name="tip_ultra_pixel_50M">50MP</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_ultra_pixel_50M_format">Image resolution: %s</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_ultra_pixel_50M_off">%s: Off</string>
-<!-- ### FROM SOURCE -->
+    <string name="tip_ultra_pixel_50M_format">Разрешение: %s</string>
+    <string name="tip_ultra_pixel_50M_off">%s: Откл.</string>
     <string name="tip_ultra_pixel_64M">64MP</string>
-<!-- ### FROM SOURCE -->
     <string name="tip_ultra_pixel_XXXM">200MP</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_ultra_raw_off">Ultra RAW: Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_ultra_wide_boken_off">Full body mode: Off</string>
+    <string name="tip_ultra_raw_off">Ульта RAW: Откл.</string>
+    <string name="tip_ultra_wide_boken_off">Режим \"Во весь рост\": Откл.</string>
     <string name="title_doc4_recognize_page_hint">Перетащите или коснитесь для выбора области текста</string>
     <string name="title_item_context_menu_doc4_copy_done">Скопировано</string>
     <string name="title_pref_camera_doc4">Распознавание текста</string>
@@ -2530,8 +2453,7 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="too_low_battery">Батарея разряжена</string>
-<!-- ### FROM SOURCE -->
-    <string name="top_menu_hint_text">Swipe down to open menu</string>
+    <string name="top_menu_hint_text">Проведите вниз, чтобы открыть меню</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
@@ -2549,7 +2471,7 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
     <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
     <string name="ultra_pixel_photography_close_tip">%s Ультра HD отключён</string>
     <string name="ultra_pixel_photography_open_tip">%s Ультра HD включён</string>
-    <string name="ultra_pixel_portrait_hint">HD портрет</string>
+    <string name="ultra_pixel_portrait_hint">Портрет HD</string>
     <string name="ultra_pixel_pro_xxxm_message">Эта функция позволяет повысить чёткость изображения. Когда она включена, фото могут обрабатываться дольше обычного.</string>
     <string name="ultra_pixel_pro_xxxm_title">200MP ПРО</string>
     <string name="ultra_pixel_xxxmp">200MP</string>
@@ -2664,10 +2586,8 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">Политика конфиденциальности</string>
-<!-- ### FROM SOURCE -->
-    <string name="vlog_pro_accessible_play_template_sound">Vlog template sounds are on</string>
-<!-- ### FROM SOURCE -->
-    <string name="vlog_pro_accessible_stop_template_sound">Vlog template sounds are off</string>
+    <string name="vlog_pro_accessible_play_template_sound">Шаблон звуков ВЛОГ включён</string>
+    <string name="vlog_pro_accessible_stop_template_sound">Шаблон звуков ВЛОГ отключён</string>
     <string name="vlog_pro_cancel_reset_record_hint">Отмена</string>
     <string name="vlog_pro_first_into_vlog_dumy_hint">Выберите шаблон и нажмите, чтобы начать</string>
     <string name="vlog_pro_first_record_hint">Нажмите, чтобы объединить</string>
@@ -2686,12 +2606,9 @@ Ultra RAW images save %d bit of data keeping even more detail."</string>
     <string name="vv_use_hint_text_title">Видеоблог</string>
     <string name="wait">Подождите…</string>
     <string name="warm_prompt">Внимание</string>
-<!-- ### FROM SOURCE -->
-    <string name="watermark_choose_one_tip">You can apply only one watermark to each photo.</string>
-<!-- ### FROM SOURCE -->
-    <string name="watermark_function_description">About watermarks</string>
-<!-- ### FROM SOURCE -->
-    <string name="watermark_keep_at_least_one">Select at least one option</string>
+    <string name="watermark_choose_one_tip">Можно применить только один водяной знак к каждой фотографии</string>
+    <string name="watermark_function_description">О водяных знаках</string>
+    <string name="watermark_keep_at_least_one">Выберите хотя бы один вариант</string>
     <string name="watermark_tab_city">Город</string>
     <string name="watermark_tab_festival">Праздник</string>
     <string name="watermark_tab_general">Общие</string>
