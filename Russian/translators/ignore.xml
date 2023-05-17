@@ -5052,6 +5052,7 @@
     <string name="tw_childrens_day_tradition">兒童節</string>
     <string name="tw_youth_day">青年节</string>
     <string name="tw_youth_day_tradition">青年節</string>
+    <string name="txt_in_image_subscribe_info">%1$s / %2$s</string>
     <string name="txv_dnd_end_time_title"> </string>
     <string name="txv_dnd_start_time">0:00</string>
     <string name="txv_dnd_start_time_title"> </string>

@@ -199,6 +199,10 @@
         <item quantity="few">+%d</item>
         <item quantity="many">+%d</item>
     </plurals>
+    <plurals name="month_more_events_RTL">
+        <item quantity="other">%d+</item>
+        <item quantity="one">%d+</item>
+    </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d новых уведомлений</item>
         <item quantity="one">%d новое уведомление</item>

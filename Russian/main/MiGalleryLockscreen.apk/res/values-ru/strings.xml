@@ -220,6 +220,7 @@
     <string name="delete_pic">Удалить</string>
     <string name="deny_des">Приложению для нормальной работы необходим доступ к Галерее.</string>
     <string name="detail_ad_type_ad">Объявления</string>
+    <string name="detail_ad_type_close_ad">Закрыть</string>
     <string name="detail_ad_type_video">Популярные видео</string>
     <string name="detail_add_cw">Добавить обои</string>
     <string name="detail_add_shortcut">Добавить на рабочий стол</string>

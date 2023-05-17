@@ -137,6 +137,7 @@
     <string name="close">Закрыть</string>
     <string name="close_camera_failed">Не удалось отключить камеру…</string>
     <string name="close_camera_requesting">Отключение камеры…</string>
+    <string name="cloud_video_conference">Облачная видеоконференция</string>
     <string name="conference_call_description" formatted="false">%s,%s и др. (всего %s)</string>
     <string name="conference_call_recorder_title">Конференц-вызов</string>
     <string name="conference_call_single_description" formatted="false">%s и др. (всего %s)</string>
