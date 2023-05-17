@@ -39,7 +39,7 @@
     <string name="act_find_city_hint">Введите местоположение</string>
     <string name="act_find_city_hot_attractions_title">Популярные места</string>
     <string name="act_find_city_hot_city_title">Популярные города</string>
-    <string name="act_location_error_to_find_city">Не удалось определить местоположение. Вы можете добавить город вручную.</string>
+    <string name="act_location_error_to_find_city">Не удалось определить местоположение. Вы можете добавить местоположение вручную.</string>
     <string name="act_set_city_find_side">Определение местоположения…</string>
     <string name="act_set_city_find_side_error">Местоположение не определено</string>
     <string name="act_weather_find_city_added">Добавлено</string>

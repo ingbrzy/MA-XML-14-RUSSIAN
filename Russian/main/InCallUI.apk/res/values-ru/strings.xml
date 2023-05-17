@@ -222,7 +222,7 @@
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
-    <string name="high_temperature_toast">Из-за защиты от перегрева функция временно недоступна</string>
+    <string name="high_temperature_toast">Устройство перегрелось. Функция сейчас недоступна.</string>
     <string name="inCallLabel">Телефон</string>
     <string name="incall_bubble_hangup_click_hint">Нажмите ещё раз, чтобы вернуться к вызову</string>
     <string name="incall_call_type_label_sip">SIP вызов</string>
