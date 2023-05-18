@@ -80,6 +80,7 @@
     <string name="allPerms">Все</string>
     <string name="all_permissions">Все разрешения</string>
     <string name="allow_current_install">Разрешить однократно</string>
+    <string name="allowed_this_time">Разрешить однократно</string>
     <string name="anonymous_source_continue">Продолжить</string>
     <string name="anonymous_source_warning">Ваше устройство и личные данные могут быть уязвимы для атак неизвестных приложений. Устанавливая это приложение, вы соглашаетесь с тем, что несете ответственность за любой ущерб вашему телефону или потерю данных, которые возможны при его использовании.</string>
     <string name="anonymous_source_warning_tablet">Ваше устройство и личные данные могут быть уязвимы для атак неизвестных приложений. Устанавливая это приложение, вы соглашаетесь с тем, что несете ответственность за любой ущерб вашему телефону или потерю данных, которые возможны при его использовании.</string>
@@ -99,6 +100,7 @@
     <string name="app_install_failed_button_text">Поиск приложений</string>
     <string name="app_install_safe_check">Проверка приложений перед установкой</string>
     <string name="app_installing_not_allow">"Вы заблокировали установку %1$s. "</string>
+    <string name="app_installing_not_allow_1">"Для %1$s заблокирована установка приложения. "</string>
     <string name="app_name">Установщик пакетов</string>
     <string name="app_name_unknown">Неизвестно</string>
     <string name="app_non_put_on_the_shelf">Не доступно</string>
@@ -135,11 +137,20 @@
     <string name="btn_text_install_security_version_in_appstore">Заменить на безопасную версию</string>
     <string name="btn_text_scaning">Сканирование…</string>
     <string name="btn_text_security_install">Заменить на безопасную версию</string>
+    <string name="bundle_app_learn_how_to_install">Как установить \"%1$s\"</string>
+    <string name="bundle_app_market_install_background">Установить</string>
+    <string name="bundle_app_market_install_permissions">Разрешения</string>
+    <string name="bundle_app_market_install_privacy">Конфиденциальность</string>
+    <string name="bundle_app_market_install_title">Установить \"%1$s\"?</string>
     <string name="bundle_app_on_self_desc_text">Выбранное приложение уже загружено. Если хотите дополнительно загрузить \"%1$s\", нажмите здесь.</string>
     <string name="bundle_app_on_self_desc_text_click">Нажмите здесь.</string>
     <string name="bundle_app_on_self_tips">Это приложение есть в GetApps и безопасно для загрузки</string>
     <string name="bundle_app_on_self_tips_no_store">Вы собираетесь загрузить \"%1$s\"</string>
     <string name="bundle_app_on_self_title_text">\"%1$s\" является частью пакета загрузки</string>
+    <string name="bundle_app_sure_name">Подтвердите установку приложения</string>
+    <string name="bundle_app_sure_no_market_description">Устанавливаемое приложение может являться не тем и быть опасным или мошенническим</string>
+    <string name="bundle_app_sure_no_market_tip">Нажмите здесь для установки \"%1$s\"</string>
+    <string name="bundle_app_sure_title">Это приложение может не являться \"%1$s\"</string>
     <string name="bundle_no_store_app_on_self_desc_text">\"%1$s\" является частью пакета загрузки. Если хотите продолжить загрузку \"%2$s\", нажмите здесь.</string>
     <string name="button_text_back">Назад</string>
     <string name="caller_app">Запрос разрешения от %1$s</string>
@@ -1089,6 +1100,12 @@ ID: %s
     <string name="second_recomment_ad_title">Вместе с &lt;font color=#0BAE73>%1$s&lt;/font> часто устанавливают</string>
     <string name="secure_mode_app_install_verify">Устанавливать непроверенные приложения</string>
     <string name="secure_mode_authority_verification_type">Метод проверки</string>
+    <string name="secure_mode_new_function">Новые функции</string>
+    <string name="secure_mode_new_function_1">Скрытие ID устройства и предотвращение отслеживания</string>
+    <string name="secure_mode_new_function_2">Раздельное хранение информации о каждом приложении</string>
+    <string name="secure_mode_new_function_3">Предотвращение установки ложных приложений</string>
+    <string name="secure_mode_new_function_4">Предотвращение случайного запуска приложений</string>
+    <string name="secure_mode_new_title">Комплексная защита от непроверенных приложений</string>
     <string name="secure_mode_open_app_verify_des">Разрешить установку приложений, которые не были проверены GetApps</string>
     <string name="secure_mode_security_verify">Проверять безопасность</string>
     <string name="secure_verify_close_tip_des">После отключения этой функции все загружаемые приложения не будут проверяться на безопасность. Подтвердите свою личность, чтобы отключить функцию.</string>
@@ -1129,19 +1146,45 @@ ID: %s
     <string name="server_error_msg">Не удалось подключиться к сети для запуска проверки безопасности</string>
     <string name="service_mode">Сервисы</string>
     <string name="service_mode_advantage_app_error_install_subtitle">Предупреждение об установке приложениями других приложений</string>
+    <string name="service_mode_advantage_app_error_install_tip">"Дайте согласие
+на установку других приложений"</string>
     <string name="service_mode_advantage_app_error_install_title">Защита от случайной установки</string>
     <string name="service_mode_advantage_app_security_detection_subtitle">Предотвращение установки небезопасных или вредоносных приложений и вирусов</string>
+    <string name="service_mode_advantage_app_security_detection_tip">"Проверьте 
+безопасность приложений"</string>
     <string name="service_mode_advantage_app_security_detection_title">Проверка безопасности приложений</string>
+    <string name="service_mode_advantage_bottom_tip">Mi Защита</string>
+    <string name="service_mode_advantage_icon_dark_desc">"Не все загружаемые приложения могут быть безопасны.&lt;br>Некоторые из них могут раскрыть ваши личные данные.&lt;br>Или являться мошенническими.&lt;br>Приложение &lt;font color=#569a77>Mi Защита&lt;/font> решает эти проблемы."</string>
+    <string name="service_mode_advantage_icon_desc">"Не все загружаемые приложения могут быть безопасны.&lt;br>Некоторые из них могут раскрыть ваши личные данные.&lt;br>Или являться мошенническими.&lt;br>Приложение &lt;font color=#52E0A6>Mi Защита&lt;/font> решает эти проблемы."</string>
     <string name="service_mode_advantage_icon_title">Преимущества Mi Защиты</string>
     <string name="service_mode_advantage_pay_protection_subtitle">Оценка безопасности платежных сред и выявление рисков</string>
+    <string name="service_mode_advantage_pay_protection_tip">Защитите свои финансы</string>
     <string name="service_mode_advantage_pay_protection_title">Защита платежей</string>
     <string name="service_mode_advantage_risk_app_download_subtitle">Предупреждение о загрузке небезопасного приложения в Браузере</string>
+<!-- ### FROM SOURCE -->
+    <string name="service_mode_advantage_risk_app_download_tip">"\u0009Detect risks
+while downloading apps"</string>
     <string name="service_mode_advantage_risk_app_download_title">Предотвращение небезопасных загрузок</string>
+<!-- ### FROM SOURCE -->
+    <string name="service_mode_advantage_risk_app_forbidden_subtitle">"Mi Protect doesn't allow risky apps to install anything else on your device by default."</string>
+<!-- ### FROM SOURCE -->
+    <string name="service_mode_advantage_risk_app_forbidden_tip">"Avoid
+possible risks"</string>
+<!-- ### FROM SOURCE -->
+    <string name="service_mode_advantage_risk_app_forbidden_title">"Don't allow risky apps to install anything else"</string>
     <string name="service_mode_advantage_risk_app_remind_subtitle">Предупреждение о запуске небезопасного приложения</string>
+<!-- ### FROM SOURCE -->
+    <string name="service_mode_advantage_risk_app_remind_tip">"Learn about
+suspicious activity"</string>
     <string name="service_mode_advantage_risk_app_remind_title">Предупреждение о рисках</string>
+    <string name="service_mode_advantage_risk_app_safe_subtitle">Mi Защита будет уведомлять о приложениях, полученных из ненадежных источников</string>
+    <string name="service_mode_advantage_risk_app_safe_tip">"Проверьте источник
+приложения"</string>
+    <string name="service_mode_advantage_risk_app_safe_title">Предупреждение о ненадежных источниках</string>
     <string name="service_mode_advantage_start">Включить Mi Защиту</string>
     <string name="service_mode_advantage_subtitle">С Mi Защитой вы можете с уверенностью загружать и использовать приложения. Ваши безопасность и приватность - наш главный приоритет.</string>
     <string name="service_mode_advantage_telecom_fraud_protection_subtitle">Распознавание и перехват мошеннических звонков или сообщений и предотвращение мошеннических переводов</string>
+    <string name="service_mode_advantage_telecom_fraud_protection_tip">Включите защиту от мошенников</string>
     <string name="service_mode_advantage_telecom_fraud_protection_title">Защита от мошенничества</string>
     <string name="service_mode_advantage_title">Мы защитим Вас</string>
     <string name="service_mode_app_error_install">Защита от случайной установки</string>
@@ -1163,6 +1206,7 @@ ID: %s
     <string name="settings_security_mode_recent_install_app">Установленные: %1$s</string>
     <string name="settings_security_mode_service_list_title_off_msg">Включите Mi Защиту, чтобы воспользоваться следующими функциями:</string>
     <string name="settings_security_mode_service_list_title_on_msg">Безопасный режим предоставляет следующие возможности</string>
+    <string name="settings_security_mode_service_msg_0">Новые методы борьбы с мошенничеством и защиты приватности</string>
     <string name="settings_security_mode_service_msg_1">Проверка приложений из неизвестных источников перед установкой</string>
     <string name="settings_security_mode_service_msg_2">Контроль приложений и ограничение вредоносной активности</string>
     <string name="settings_security_mode_service_msg_3">Контроль конфиденциальных разрешений</string>
@@ -1172,6 +1216,7 @@ ID: %s
     <string name="settings_security_mode_service_opening_msg_3">Безопасность платежей</string>
     <string name="settings_security_mode_service_opening_msg_4">Защита приватности</string>
     <string name="settings_security_mode_service_opening_msg_5">Защита от мошенничества</string>
+    <string name="settings_security_mode_service_title_0">Установка безопасных приложений</string>
     <string name="settings_security_mode_service_title_1">Проверка приложений</string>
     <string name="settings_security_mode_service_title_2">Контроль действий приложений</string>
     <string name="settings_security_mode_service_title_3">Защита приватности</string>
