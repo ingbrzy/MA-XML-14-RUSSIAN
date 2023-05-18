@@ -1099,7 +1099,6 @@ ID:%s
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
-"</string>
     <string name="update_email_address_dialog_message">Вам необходимо подтвердить свою личность, прежде чем обновлять электронную почту восстановления.</string>
     <string name="update_email_address_dialog_title">Обновление электронной почты для восстановления</string>
     <string name="update_phone_notice">Изменить настройки безопасности</string>
