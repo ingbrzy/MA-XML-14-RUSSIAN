@@ -69,7 +69,7 @@
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Для передачи файлов между устройствами</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
-    <string name="default_boss_terminal_name">Mi Блокнот</string>
+    <string name="default_boss_terminal_name">ПК Xiaomi</string>
     <string name="default_error_msg">Неизвестная ошибка</string>
     <string name="device_max_screen_count_toast">Устройство поддерживает открытие только двух окон одновременно</string>
     <string name="display_max_screen_count_toast">В этой версии можно открыть не более двух окон</string>
@@ -166,7 +166,7 @@
     <string name="login_xiaomi_account_summary_phone">Для подключения к планшету, необходимо использовать один аккаунт на обоих устройствах. Войти в аккаунт Xiaomi?</string>
     <string name="login_xiaomi_account_title">Вход в аккаунт Xiaomi</string>
     <string name="low_battery_notification_action">Включить</string>
-    <string name="low_battery_notification_content">Заряд батареи на %1$s менее %2$d%%. Включите экономию заряда батареи.</string>
+    <string name="low_battery_notification_content">На %1$s осталось менее %2$s заряда батареи</string>
     <string name="low_battery_notification_title">Низкий заряд батареи</string>
     <string name="low_version_dialog_message">Обновите MIUI+ на ПК или загрузите последнюю версию с сайта plus.miui.com</string>
     <string name="low_version_dialog_title">Обновление MIUI+</string>
@@ -305,7 +305,7 @@
     <string name="pad_settings_connect_pad_group">Работа с планшетом</string>
     <string name="pad_settings_connect_pc_group">Работа с ПК</string>
     <string name="pad_settings_connect_phone_group">Работа с устройством</string>
-    <string name="pad_settings_connect_summary1">Загрузите и установите MIUI+ на ПК с сайта www.miui.com</string>
+    <string name="pad_settings_connect_summary1">Откройте Mi Smart Share на ПК и выберите Трансляция. Mi Smart Share можно загрузить на сайте www.miui.com</string>
     <string name="pad_settings_connect_summary2">Отсканируйте QR-код на экране ПК. Для сканирования используйте Сканер, Камеру или Mi Браузер.</string>
     <string name="pad_settings_current_device_tip">Используйте автоподключение к другим устройствам, связанным с вашим аккаунтом Xiaomi</string>
     <string name="pad_settings_feature_characteristics_summary_1">Копируйте текст на мобильном устройстве и вставляйте на ПК, добавляйте изображения, синхронизируйте правки в документах.</string>
