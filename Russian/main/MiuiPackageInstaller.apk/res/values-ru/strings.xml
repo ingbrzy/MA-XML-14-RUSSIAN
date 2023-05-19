@@ -1161,21 +1161,16 @@ ID: %s
     <string name="service_mode_advantage_pay_protection_tip">Защитите свои финансы</string>
     <string name="service_mode_advantage_pay_protection_title">Защита платежей</string>
     <string name="service_mode_advantage_risk_app_download_subtitle">Предупреждение о загрузке небезопасного приложения в Браузере</string>
-<!-- ### FROM SOURCE -->
-    <string name="service_mode_advantage_risk_app_download_tip">"\u0009Detect risks
-while downloading apps"</string>
+    <string name="service_mode_advantage_risk_app_download_tip">"\u0009Включите проверку
+приложений при загрузке"</string>
     <string name="service_mode_advantage_risk_app_download_title">Предотвращение небезопасных загрузок</string>
-<!-- ### FROM SOURCE -->
-    <string name="service_mode_advantage_risk_app_forbidden_subtitle">"Mi Protect doesn't allow risky apps to install anything else on your device by default."</string>
-<!-- ### FROM SOURCE -->
-    <string name="service_mode_advantage_risk_app_forbidden_tip">"Avoid
-possible risks"</string>
-<!-- ### FROM SOURCE -->
-    <string name="service_mode_advantage_risk_app_forbidden_title">"Don't allow risky apps to install anything else"</string>
+    <string name="service_mode_advantage_risk_app_forbidden_subtitle">Mi Защита по умолчанию запрещает небезопасным приложениям выполнять установку</string>
+    <string name="service_mode_advantage_risk_app_forbidden_tip">"Включите защиту
+от возможных рисков"</string>
+    <string name="service_mode_advantage_risk_app_forbidden_title">Запрет небезопасным приложениям выполнять установку</string>
     <string name="service_mode_advantage_risk_app_remind_subtitle">Предупреждение о запуске небезопасного приложения</string>
-<!-- ### FROM SOURCE -->
-    <string name="service_mode_advantage_risk_app_remind_tip">"Learn about
-suspicious activity"</string>
+    <string name="service_mode_advantage_risk_app_remind_tip">"Включите предупреждение
+о подозрительной активности"</string>
     <string name="service_mode_advantage_risk_app_remind_title">Предупреждение о рисках</string>
     <string name="service_mode_advantage_risk_app_safe_subtitle">Mi Защита будет уведомлять о приложениях, полученных из ненадежных источников</string>
     <string name="service_mode_advantage_risk_app_safe_tip">"Проверьте источник
