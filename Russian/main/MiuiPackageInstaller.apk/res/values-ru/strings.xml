@@ -1082,7 +1082,7 @@ ID: %s
     <string name="safe_mode_close_tip">Отключение безопасного режима</string>
     <string name="safe_mode_close_tip_des">После отключения безопасного режима тестирование устанавливаемых приложений на безопасность будет недоступно. Отключить?</string>
     <string name="safe_mode_close_tip_des_once">После отключения этой функции будет доступна установка приложений, которые не прошли тесты безопасности Xiaomi. Можно однократно разрешить установку приложения, если доверяете ему. Включённый режим безопасности поможет избежать угроз безопасности в дальнейшем.</string>
-    <string name="safe_mode_in_service">Безопасный режим включён</string>
+    <string name="safe_mode_in_service">Безопасный режим запущен</string>
     <string name="safe_mode_introduce_close_tip">Внимание</string>
     <string name="safe_mode_introduce_close_tip_des">Для обеспечения приватности и безопасности не отключайте Mi Защиту</string>
     <string name="safe_mode_tip_title_off_msg">Безопасный режим отключён</string>
