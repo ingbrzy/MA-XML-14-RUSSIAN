@@ -155,6 +155,8 @@
 2. Нажмите и удерживайте кнопку на чехле.
 3. Завершите сопряжение на целевом устройстве."</string>
     <string name="circulate_headset_back_to_box_desc_err_308">Подключите наушники к ТВ</string>
+    <string name="circulate_headset_back_to_box_desc_err_310">"1. Нажмите кнопку питания на пульте дистанционного управления телевизором, чтобы отключить динамики.
+2. Попробуйте подключить наушники снова, как только загорится экран."</string>
     <string name="circulate_headset_back_to_box_desc_pad">"1. Поместите оба наушника в чехол.
 2. Нажмите и удерживайте кнопку на чехле.
 3. Завершите сопряжение в настройках Bluetooth или с помощью всплывающего диалогового окна на устройстве."</string>
@@ -167,9 +169,18 @@
     <string name="circulate_headset_back_to_box_subtitle">Не удалось автоматически подключить наушники. Подключите их вручную на целевом устройстве.</string>
     <string name="circulate_headset_back_to_box_title">Подключите наушники</string>
     <string name="circulate_headset_back_to_box_title_err_308">Подключение наушников</string>
+    <string name="circulate_headset_back_to_box_title_err_310">Отключите динамики телевизора</string>
     <string name="circulate_headset_back_to_box_title_pad">Подключение наушников к этому устройству</string>
     <string name="circulate_headset_back_to_box_title_phone">Подключение наушников к этому устройству</string>
     <string name="circulate_headset_back_to_box_title_tv">Подключение наушников</string>
+    <string name="circulate_headset_control_anc_clear">Прозрачность</string>
+    <string name="circulate_headset_control_anc_disable_hint">Наушники подключены к двум устройствам. Регулировка громкости доступна только с этого устройства.</string>
+    <string name="circulate_headset_control_anc_noise_cancel">Шумоподавление</string>
+    <string name="circulate_headset_control_anc_off">Отключено</string>
+    <string name="circulate_headset_control_battery_case">Кейс</string>
+    <string name="circulate_headset_control_battery_left">Л</string>
+    <string name="circulate_headset_control_battery_right">П</string>
+    <string name="circulate_headset_control_more_settings">Доп. настройки</string>
     <string name="circulate_headset_duplicate_cancel">Отмена</string>
     <string name="circulate_headset_duplicate_dialog_message">К %1$s подключен другой комплект наушников. Заменить на этот комплект?</string>
     <string name="circulate_headset_duplicate_dialog_title">Замена наушников, подключенных к %1$s</string>
@@ -179,6 +190,8 @@
     <string name="circulate_headset_error_default">Таймаут соединения</string>
     <string name="circulate_headset_error_device_not_support">Не удалось подключить наушники к этому устройству</string>
     <string name="circulate_headset_error_headset_not_support">Не удалось подключить наушники к этому ПК</string>
+    <string name="circulate_headset_error_headset_not_worn">Вставьте оба наушника и повторите попытку</string>
+    <string name="circulate_headset_error_headset_not_worn_both">Вставьте оба наушника и повторите попытку</string>
     <string name="circulate_headset_error_remote_host_bluetooth_unenable">"Включите Bluetooth на ТВ
 и войдите в аккаунт Xiaomi"</string>
     <string name="circulate_headset_error_self_upgrade">Не удалось выполнить это действие. Обновите Mi Smart Hub.</string>
@@ -623,6 +636,10 @@
     <string name="notify_wifiap_dialog_msg">Чтобы отсканировать код и настроить сеть, сначала отключите точку доступа.</string>
     <string name="notify_wifiap_dialog_negative">Понятно</string>
     <string name="notify_wifiap_dialog_title">Настройка сети</string>
+    <string name="onehop_mirror_guide_message_button">Понятно</string>
+    <string name="onehop_mirror_guide_message_text_1">Трансляция экрана устройства на ПК одним касанием</string>
+    <string name="onehop_mirror_guide_message_text_2">Выберите фото, видео и другие файлы из Галереи или Проводника для передачи на ПК</string>
+    <string name="onehop_mirror_guide_message_title">Mi Smart Hub</string>
     <string name="open_game_accelerate">Включить Ускорение игр</string>
     <string name="p2p_location_des">Для подключения  устройства к внешним мониторам</string>
     <string name="paipai_connect_btn_text">Готово</string>

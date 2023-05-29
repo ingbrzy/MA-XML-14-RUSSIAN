@@ -166,7 +166,8 @@
     <string name="login_xiaomi_account_summary_phone">Для подключения к планшету, необходимо использовать один аккаунт на обоих устройствах. Войти в аккаунт Xiaomi?</string>
     <string name="login_xiaomi_account_title">Вход в аккаунт Xiaomi</string>
     <string name="low_battery_notification_action">Включить</string>
-    <string name="low_battery_notification_content">На %1$s осталось менее %2$s заряда батареи</string>
+    <string name="low_battery_notification_content">Уровень заряда на %1$s менее %2$s</string>
+    <string name="low_battery_notification_content_default">Уровень заряда менее %1$s</string>
     <string name="low_battery_notification_title">Низкий заряд батареи</string>
     <string name="low_version_dialog_message">Обновите MIUI+ на ПК или загрузите последнюю версию с сайта plus.miui.com</string>
     <string name="low_version_dialog_title">Обновление MIUI+</string>
@@ -260,7 +261,11 @@
     <string name="nfc_login">Вход</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan">Для подключения других устройств, необходимо включить Wi-Fi и Bluetooth на этом устройстве. Включить?</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">Для подключения других устройств, необходимо включить Wi-Fi и Bluetooth на этом устройстве. Включить?</string>
+    <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc">Не удалось подключиться к ПК. Убедитесь, что Wi-Fi и Bluetooth включены на обоих устройствах.</string>
+    <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc_china">Не удалось подключиться к ПК. Убедитесь, что Wi-Fi и Bluetooth включены на обоих устройствах.</string>
     <string name="nfc_no_xiaomi_account">Для передачи файлов войдите в ту же учетную запись Xiaomi, которую используете на планшете</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">Не удалось подключиться к ПК. Убедитесь, что Wi-Fi и Bluetooth включены на обоих устройствах, и что на ПК запущен MIUI+.</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">Не удалось подключиться к ПК. Убедитесь, что Wi-Fi и Bluetooth включены на обоих устройствах, и что на ПК запущен MIUI+.</string>
     <string name="nfc_wifi_and_bluetooth">Включите Wi-Fi и Bluetooth</string>
     <string name="nfc_wifi_and_bluetooth_china">Включите Wi-Fi и Bluetooth</string>
     <string name="night">Вечер</string>

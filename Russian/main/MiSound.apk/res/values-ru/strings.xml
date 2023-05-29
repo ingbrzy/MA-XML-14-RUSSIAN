@@ -68,6 +68,7 @@
     <string name="effect_selection">Звуковые эффекты</string>
     <string name="effect_virtual_surround">Виртуальный иммерсивный звук</string>
     <string name="effect_virtual_surround_summary">Увеличение глубины звука в наушниках при воспроизведении аудио и видео (функция не работает при воспроизведении %.1f аудио)</string>
+    <string name="effect_virtual_surround_summary_spk">Увеличение глубины звука при воспроизведении аудио и видео</string>
     <string name="end_wireless_transmission">Остановить</string>
     <string name="eq_auto">Мой пресет</string>
     <string name="eq_blues">Блюз</string>

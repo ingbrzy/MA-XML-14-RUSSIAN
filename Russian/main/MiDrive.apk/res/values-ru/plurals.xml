@@ -44,6 +44,11 @@
         <item quantity="one">Не удалось загрузить %1$d файл</item>
         <item quantity="few">Не удалось загрузить %1$d файла</item>
     </plurals>
+    <plurals name="download_notification_wait_network">
+        <item quantity="other">Ожидание загрузки. Осталось %1$s файлов.</item>
+        <item quantity="one">Ожидание загрузки. Осталось %1$s файл.</item>
+        <item quantity="few">Ожидание загрузки. Осталось %1$s файла.</item>
+    </plurals>
     <plurals name="downloading_info_for_sys_title">
         <item quantity="other">Загрузка… Осталось %1$d файлов (%2$s%%)</item>
         <item quantity="one">Загрузка… Остался %1$d файл (%2$s%%)</item>
@@ -126,6 +131,11 @@
         <item quantity="other">Не удалось выгрузить %1$d файлов</item>
         <item quantity="one">Не удалось выгрузить %1$d файл</item>
         <item quantity="few">Не удалось выгрузить %1$d файла</item>
+    </plurals>
+    <plurals name="upload_notification_wait_network">
+        <item quantity="other">Ожидание выгрузки. Осталось %1$s файлов.</item>
+        <item quantity="one">Ожидание выгрузки. Осталось %1$s файл.</item>
+        <item quantity="few">Ожидание выгрузки. Осталось %1$s файла.</item>
     </plurals>
     <plurals name="uploading_info_for_sys_title">
         <item quantity="other">Выгрузка… Осталось %1$d файлов (%2$s%%)</item>

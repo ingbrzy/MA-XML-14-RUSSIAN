@@ -652,6 +652,8 @@
     <string name="operation_compress">Добавить в архив</string>
     <string name="operation_compressing">Архивация…</string>
     <string name="operation_copy">Копировать</string>
+    <string name="operation_copy_clipboard">Копировать в буфер обмена</string>
+    <string name="operation_copy_local">Копировать в папку</string>
     <string name="operation_create_folder">Новая папка</string>
     <string name="operation_create_folder_message">Введите имя папки</string>
     <string name="operation_create_folder_name_conflict">Не удалось создать папку. Папка с таким именем уже существует.</string>
@@ -989,6 +991,7 @@
     <string name="title_select_volume">Выберите папку</string>
     <string name="to_open">Настройки</string>
     <string name="to_setting">Настройки</string>
+    <string name="toast_copy_clipboard">Добавлено в буфер обмена</string>
     <string name="toast_file_not_can_read">Нет приложения для открытия этого файла</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>

@@ -33,6 +33,8 @@
     <string name="accessible_rect">Прямоугольник</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
+    <string name="annotation_open">Показать инструменты</string>
+    <string name="annotation_stow">Скрыть инструменты</string>
     <string name="app_name">Скриншот</string>
     <string name="asus">Asus</string>
     <string name="asus_phone">Asus</string>
@@ -264,6 +266,10 @@
     <string name="photo_font_download_failed_for_notwork">Не удалось загрузить. Подключитесь к сети и повторите попытку.</string>
     <string name="photo_save_to_msg">Сохранено в %s</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
+    <string name="privacy_mosaic_result_done">Вывод личной информации заблокирован</string>
+    <string name="privacy_mosaic_result_fail">Не удалось заблокировать вывод личной информации. Попробуйте еще раз.</string>
+    <string name="privacy_mosaic_result_none">Личная информация не найдена</string>
+    <string name="privacy_mosaic_tip">Нажмите, чтобы заблокировать вывод личной информации</string>
     <string name="realme">realme</string>
     <string name="realme_phone">realme</string>
     <string name="redmi_10x">Redmi 10X</string>
@@ -347,6 +353,9 @@
     <string name="screenshot_save">Сохранить</string>
     <string name="screenshot_send">Отправить</string>
     <string name="screenshot_thumbnail">Миниатюра скриншота</string>
+    <string name="scroll_annotation">Прокрутка и комментирование</string>
+    <string name="scroll_annotation_btn_quit">Выход</string>
+    <string name="scroll_annotation_quit_dialog_picture_msg">Сохранить комментарии?</string>
     <string name="search_menu_title">Поиск</string>
     <string name="send">Отправить</string>
     <string name="send_files_by">Отправить через</string>

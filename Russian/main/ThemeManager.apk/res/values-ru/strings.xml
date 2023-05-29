@@ -103,6 +103,7 @@
     <string name="apply_not_support_aod">Активный экран не поддерживается на этом устройстве</string>
     <string name="apply_not_support_in_second_space">Не удалось применить этот компонент во втором пространстве</string>
     <string name="apply_not_support_maml_aod">Не удалось совместить Активный экран с темой на устройстве</string>
+    <string name="apply_not_support_video_wallpaper_warning">Видео 4K, 8K и Dolby нельзя установить в качестве видеообоев</string>
     <string name="apply_sensor_video_wallpaper_dialog_message">Обои будут установлены на внутренний и внешний экраны блокировки и на рабочий стол</string>
     <string name="apply_succeed">Применено</string>
     <string name="apply_success_not_enable_aod">Включите Активный экран в Настройках</string>

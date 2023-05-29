@@ -43,6 +43,7 @@
     <string name="actionbar_close_description">Закрыть</string>
     <string name="actionbar_home_description">Назад</string>
     <string name="add_account_desc">Синхронизировать заметки с вашим Xiaomi аккаунтом?</string>
+    <string name="added_to_clipboard">Успешно скопировано</string>
     <string name="afternoon">После полудня</string>
     <string name="alarm_bar_title">Напоминание</string>
     <string name="alert_action_edit_anyway">Продолжить</string>
@@ -93,6 +94,7 @@
     <string name="chip_text">Текст</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
+    <string name="clip_resource_deleted">Ресурс больше не доступен</string>
     <string name="close">Закрыть</string>
     <string name="cloud_service_state_open_reminder">Включите синхронизацию с облаком</string>
     <string name="cloud_service_state_open_reminder_note_and_todo">Включите синхронизацию с облаком</string>
