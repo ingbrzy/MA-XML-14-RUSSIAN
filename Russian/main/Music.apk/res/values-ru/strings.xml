@@ -91,6 +91,8 @@
     <string name="action_item_play_all">Перемешать все</string>
     <string name="action_item_play_next">Воспроизвести позже</string>
     <string name="action_item_play_video">Воспроизвести</string>
+    <string name="action_item_podcast">Сведения о подкасте</string>
+    <string name="action_item_podcast_speed">Скорость воспроизведения</string>
     <string name="action_item_remove">Убрать</string>
     <string name="action_item_remove_from_favorite">Удалить из избранных</string>
     <string name="action_item_share">Отправить</string>
@@ -150,6 +152,7 @@
     <string name="app_permission_use_group_storage_desc">Для поиска и воспроизведения треков на устройстве</string>
     <string name="apply_for_the_following_permissions">Приложению необходимы следующие разрешения:</string>
     <string name="apply_permissions_greater_than_pie">Разрешение можно предоставить в Настройки > Приложения > Разрешения > Разрешения приложений > Хранилище > Музыка</string>
+    <string name="apply_permissions_greater_than_tiramisu">Разрешение можно предоставить в Настройки > Приложения > Разрешения > Музыка и аудио/Фото и видео > Музыка.</string>
     <string name="apply_permissions_less_than_pie">Разрешение можно предоставить в Настройки > Приложения > Разрешения > Разрешения приложений  > Доступ к файлам в хранилище > Музыка</string>
     <string name="apply_permissions_tips_content">Разрешите приложению доступ к файлам для поиска музыки на устройстве</string>
     <string name="artist">Исполнители</string>
@@ -178,6 +181,7 @@
     <string name="autoplay_is_off">Автовоспроизведение отключено</string>
     <string name="autoplay_is_on">Автовоспроизведение включено</string>
     <string name="available_playlist_name_format">Новый плейлист %d</string>
+    <string name="avatar">Фото профиля</string>
     <string name="avoid_to_use_traffic_summary">Загружать онлайн музыку только по сети Wi-Fi</string>
     <string name="avoid_to_use_traffic_title">Предупреждать при использовании мобильного интернета</string>
     <string name="back">Выход</string>
@@ -558,6 +562,9 @@ ID: %s
     <string name="exo_download_downloading">Загрузка…</string>
     <string name="exo_download_failed">Ошибка загрузки</string>
     <string name="exo_download_notification_channel_name">Загрузки</string>
+    <string name="exo_download_paused">Скачивание приостановлено</string>
+    <string name="exo_download_paused_for_network">Ожидание подключения к сети</string>
+    <string name="exo_download_paused_for_wifi">Ожидание подключения к Wi-Fi</string>
     <string name="exo_download_removing">Удаление загрузок…</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_media_action_repeat_all_description">Повторить все</string>
@@ -683,6 +690,8 @@ ID: %s
     <string name="headset_and_audio_effect_category">Звуковые эффекты</string>
     <string name="headset_and_audio_effect_summary">Наушники и настройки звука</string>
     <string name="headset_and_audio_effect_title">Звуковые эффекты</string>
+    <string name="hgm_failed_to_connect_hint">Проверьте настройки сети и повторите попытку. Если проблема заключается в ошибке сервера hungama, мы исправим ее как можно скорее.</string>
+    <string name="hgm_network_request_error_toast">Не удалось подключиться к серверам hungama. Повторите попытку.</string>
     <string name="hgm_vip_btn_desc">Начните пробный период</string>
     <string name="hgm_vip_high_quality">Загрузки в высоком качестве</string>
     <string name="hgm_vip_no_ads">Без рекламы и ограничений</string>
@@ -698,6 +707,7 @@ ID: %s
     <string name="home_tab_local">Моя музыка</string>
     <string name="home_tab_more_music">Ещё</string>
     <string name="home_tab_online">Онлайн музыка</string>
+    <string name="home_tab_podcast">Подкасты</string>
     <string name="home_tab_recommend">Онлайн</string>
     <string name="home_tab_search">Поиск</string>
     <string name="home_tab_yandex">Яндекс Музыка</string>
@@ -834,9 +844,19 @@ ID: %s
     <string name="loading_hint">Подождите…</string>
     <string name="loading_reached_the_bottom">"Больше ничего нет."</string>
     <string name="loading_text">Подождите…</string>
+    <string name="local_download_download">Скачать</string>
+    <string name="local_download_hint">Перед загрузкой включите Wi-Fi</string>
+    <string name="local_download_item">Скачать бесплатно</string>
+    <string name="local_download_title">Выберите треки для загрузки</string>
+    <string name="local_download_toast">Загрузка…</string>
+    <string name="local_download_toast_notify">Выполняется загрузка. Прогресс загрузки доступен в Шторке уведомлений.</string>
     <string name="local_header_title">Локальные</string>
     <string name="local_music">Локальные</string>
     <string name="local_music_is_not_available">На вашем устройстве нет треков.</string>
+    <string name="local_out_dialog_cancel">Отмена</string>
+    <string name="local_out_dialog_desc">Вы собираетесь открыть другое приложение, которое не связано с Mi Музыкой.</string>
+    <string name="local_out_dialog_ok">OK</string>
+    <string name="local_out_dialog_title">Выход из Mi Музыки</string>
     <string name="local_page_album_more">Посмотреть все</string>
     <string name="local_page_artist_more">Больше песен %s</string>
     <string name="local_page_playlist">Плейлисты</string>
@@ -1049,6 +1069,8 @@ ID: %s
     <string name="my_playlist_set_to_public">Опубликовать</string>
     <string name="nav_app_bar_navigate_up_description">Переход вверх</string>
     <string name="nav_app_bar_open_drawer_description">Открыть панель навигации</string>
+    <string name="need_to_close">Свернуть</string>
+    <string name="need_to_show">Развернуть</string>
     <string name="network_disable">Не удалось подключиться к сети</string>
     <string name="network_error_and_retry">Не удалось подключиться, нажмите для повтора</string>
     <string name="network_error_info">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
@@ -1605,6 +1627,8 @@ ID: %s
     <string name="share_song">Отправить</string>
     <string name="share_text_list">"Плейлист Mi Музыка: "</string>
     <string name="share_text_song">"Трек Mi Музыка: "</string>
+    <string name="shortcut_get">Просмотр</string>
+    <string name="shortcut_success">Готово. Добавлено на Рабочий стол.</string>
     <string name="show_float_first_hint">Свернуть</string>
     <string name="show_more">Показать ещё %s</string>
     <string name="shuffle_music">В случайном порядке</string>
@@ -1617,6 +1641,7 @@ ID: %s
     <string name="signout_popup_title_nopassword">Внимание</string>
     <string name="similar_albums">Похожие альбомы</string>
     <string name="similar_playlists">Похожие плейлисты</string>
+    <string name="similar_podcasts">Похожие подкасты</string>
     <string name="similar_songs">Похожие треки</string>
     <string name="similar_videos">Похожие видео</string>
     <string name="skip">Пропустить</string>
@@ -1853,7 +1878,7 @@ ID: %s
     <string name="update_now">ОБНОВИТЬ</string>
     <string name="update_phone_notice">Измените настройки безопасности</string>
     <string name="update_popup_button_yes">Обновить</string>
-    <string name="upgrade_music">Обновите приложение Музыка</string>
+    <string name="upgrade_music">Обновите приложение Mi Музыка</string>
     <string name="upgrade_music_message">Перезапустите для обновления.</string>
     <string name="upgrading_in_backstage">Обновление в фоновом режиме…</string>
     <string name="upload_error_log">Загрузить журнал</string>
