@@ -316,7 +316,7 @@
     <string name="month_september_shortest">Сен</string>
     <string name="more">Ещё</string>
     <string name="morning">Утро</string>
-    <string name="msim_select_default_last">Использовалась недавно</string>
+    <string name="msim_select_default_last">Недавняя</string>
     <string name="msim_select_default_time_left">(%d сек.)</string>
     <string name="multi_call_manager_other_calls">Другие вызовы (%1$d)</string>
     <string name="night">Вечер</string>
