@@ -500,9 +500,9 @@
     <string name="hints_garbage_cleanup_result_safe">Всё в порядке</string>
     <string name="hints_garbage_handle_item_content">Файлов: %1$d | %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Пусто</string>
-    <string name="hints_installed_app_fewer">Редко использовались</string>
-    <string name="hints_installed_app_near">Недавно использовались</string>
-    <string name="hints_installed_app_never">Не использовались</string>
+    <string name="hints_installed_app_fewer">Редко использовалось</string>
+    <string name="hints_installed_app_near">Использовалось недавно</string>
+    <string name="hints_installed_app_never">Не использовалось</string>
     <string name="hints_installed_apps_header_left">Приложения: %d</string>
     <string name="hints_large_file_header_left">Большие файлы: %d</string>
     <string name="hints_latest_garbage_cleanup_date">Последняя очистка: %d д. назад</string>
