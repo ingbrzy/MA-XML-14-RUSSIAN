@@ -21,6 +21,10 @@
 %1$s
 
 "</string>
+    <string name="wifi_ca_cert_dialog_message_expiration_text">"Срок действия сертификата:
+%1$s
+
+"</string>
     <string name="wifi_ca_cert_dialog_message_hint">"Разрешить подключение к этой сети только если нижеприведенная информация корректна.
 
 "</string>
@@ -36,12 +40,12 @@
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Подпись:
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Отпечаток SHA-256:
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_preT_abort_text">Не подключаться</string>
-    <string name="wifi_ca_cert_dialog_preT_continue_text">Подключиться</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">Отключить</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">Оставить</string>
     <string name="wifi_ca_cert_dialog_preT_message_hint">Сеть %1$s не имеет сертификата</string>
     <string name="wifi_ca_cert_dialog_preT_message_link">Добавление сертификатов</string>
     <string name="wifi_ca_cert_dialog_preT_title">Не удалось проверить эту сеть</string>
