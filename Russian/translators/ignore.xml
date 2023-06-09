@@ -3633,8 +3633,10 @@
     <string name="pa_font_mi_sans_light">sans-serif-light</string>
     <string name="pa_font_mi_sans_regular">sans-serif-regular</string>
     <string name="pa_font_mi_type_semi_bold">mitype-semibold</string>
+    <string name="package_facebook">com.facebook.katana</string>
     <string name="package_mobil_qq">com.tencent.mobileqq</string>
     <string name="package_wechat">com.tencent.mm</string>
+    <string name="package_whatsapp">com.whatsapp</string>
     <string name="page_search_result" formatted="false">%d/%d</string>
     <string name="pairing_ui_package">com.android.settings</string>
     <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>

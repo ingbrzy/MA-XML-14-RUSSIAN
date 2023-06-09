@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>А</item>
         <item>Б</item>
@@ -75,6 +101,13 @@
     <string-array name="large_file_sort_type">
         <item>Размер</item>
         <item>Имя</item>
+    </string-array>
+<!-- ### FROM SOURCE -->
+    <string-array name="package_array_facebook">
+        <item>@string/package_facebook</item>
+        <item>com.facebook.katana</item>
+        <item>com.facebook.orca</item>
+        <item>com.facebook.lite</item>
     </string-array>
     <string-array name="reset_app_sort_type">
         <item>Размер</item>

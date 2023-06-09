@@ -50,6 +50,12 @@
     <string name="back_tap">Функция постукивания</string>
     <string name="back_triple_tap">Тройное постукивание</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
+    <string name="bt_enable_pair_connect_cancel">Отмена</string>
+    <string name="bt_enable_pair_connect_fail">Не удалось подключить. Повторите попытку.</string>
+    <string name="bt_enable_pair_connect_line">Клавиатура Xiaomi Pad</string>
+    <string name="bt_enable_pair_connect_ok">Подключить</string>
+    <string name="bt_enable_pair_connect_succceed">Успешно подключено</string>
+    <string name="bt_enable_pair_connecting">Подключение…</string>
     <string name="builtin_keyboard_settings_title">Физическая клавиатура</string>
     <string name="camera_key_action_app_title">Открыть приложение</string>
     <string name="camera_key_action_category_title">Действия Mi кнопки</string>
@@ -136,6 +142,12 @@
     <string name="intelligence_suppression_summary">Динамическая регулировка размера области у краев экрана для защиты от случайных прикосновений, в зависимости от вашего захвата</string>
     <string name="intelligence_suppression_title">Авто (рекомендуется)</string>
     <string name="item_view_role_description">Вкладка</string>
+    <string name="kddi_long_press_power_guide_assistant_message">Нажмите и удерживайте кнопку питания в течение %s сек, чтобы разбудить Google Ассистента</string>
+    <string name="kddi_long_press_power_guide_assistant_title">Google  Ассистент</string>
+    <string name="kddi_long_press_power_guide_know">Понятно</string>
+    <string name="kddi_long_press_power_guide_settings">Настройки</string>
+    <string name="kddi_long_press_power_guide_shutdown_message">Одновременно нажмите кнопки питания и громкости, чтобы перезагрузить или выключить устройство</string>
+    <string name="kddi_long_press_power_guide_shutdown_title">Выключение устройства</string>
     <string name="key_combination_power_back">\"Питание\" + \"Назад\"</string>
     <string name="key_combination_power_home">\"Питание\" + \"Домой\"</string>
     <string name="key_combination_power_menu">\"Питание\" + \"Меню\"</string>
@@ -161,6 +173,10 @@
     <string name="keyboard_back_light">Подсветка клавиатуры</string>
     <string name="keyboard_back_light_automatic_adjustment">Автонастройка подсветки</string>
     <string name="keyboard_back_light_brightness">Яркость подсветки</string>
+    <string name="keyboard_connect_fail_text">Не удалось подключить клавиатуру</string>
+    <string name="keyboard_connect_lose_text">Потеря соединения с клавиатурой</string>
+    <string name="keyboard_connect_low_electricity_text">Батарея клавиатуры разряжена. Подключите её к источнику питания.</string>
+    <string name="keyboard_connect_success_text">Клавиатура успешно подключена</string>
     <string name="keyboard_cursor_style_title">Стиль курсора</string>
     <string name="keyboard_cursor_title">Курсор</string>
     <string name="keyboard_function_summary_first_line">·Нажмите и удерживайте для отображения ярлыков</string>
@@ -486,6 +502,8 @@
     <string name="stylus_ota_updating">Обновление…</string>
     <string name="stylus_pen_mask_text">Коснитесь экрана для рукописного ввода</string>
     <string name="stylus_primary_key">Первая кнопка</string>
+    <string name="stylus_quick_note_summary">Коснитесь стилусом выключенного экрана, чтобы начать рукописный ввод. Эта функция увеличивает расход батареи.</string>
+    <string name="stylus_quick_note_title">Рукописный ввод при выключенном экране</string>
     <string name="stylus_quick_write">Рукописный ввод</string>
     <string name="stylus_quick_write_summary">Нажмите и удерживайте кнопку рукописного ввода, чтобы написать или сделать рисунок</string>
     <string name="stylus_schematic_diagram">Демо</string>

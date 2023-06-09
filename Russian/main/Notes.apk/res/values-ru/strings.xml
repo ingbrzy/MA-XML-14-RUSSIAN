@@ -587,6 +587,7 @@
     <string name="pad_note_list_not_text_stub">Нет текста</string>
     <string name="pad_todo_create_hint">Добавить задачу</string>
     <string name="password_toggle_content_description">Показать пароль</string>
+    <string name="paste_unsupported_data">Не удалось вставить содержимое</string>
     <string name="pc_action_create_new_folder">Папка</string>
     <string name="pc_action_create_new_mind_note">Ментальная карта</string>
     <string name="pc_action_create_new_normal_note">Заметка</string>

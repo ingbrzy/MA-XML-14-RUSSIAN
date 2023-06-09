@@ -649,6 +649,8 @@
     <string name="menu_open">Открыть</string>
     <string name="menu_text_optimize_manage_1">Ускорение</string>
     <string name="menu_view">Просмотреть в папке</string>
+    <string name="mi_engine_server_host" />
+    <string name="mi_engine_server_host_staging" />
     <string name="midnight">Ночь</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
@@ -661,6 +663,7 @@
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
