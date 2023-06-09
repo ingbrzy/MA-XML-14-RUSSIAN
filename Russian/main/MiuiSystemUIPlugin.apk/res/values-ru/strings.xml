@@ -95,7 +95,7 @@
     <string name="controls_edit_added_subtitle">Перетаскивайте для сортировки</string>
     <string name="controls_edit_added_title">Добавленные</string>
     <string name="controls_edit_done_button">Готово</string>
-    <string name="controls_edit_go_to_app_guide">Открыть</string>
+    <string name="controls_edit_go_to_app_guide">Открыть %s</string>
     <string name="controls_edit_not_added_title">Доступные</string>
     <string name="controls_edit_panel_not_added_title">Доступные устройства</string>
     <string name="controls_edit_panel_save_button">Готово</string>
