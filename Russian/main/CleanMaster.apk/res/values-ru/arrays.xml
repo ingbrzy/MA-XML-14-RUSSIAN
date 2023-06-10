@@ -103,12 +103,6 @@
         <item>Имя</item>
     </string-array>
 <!-- ### FROM SOURCE -->
-    <string-array name="package_array_facebook">
-        <item>@string/package_facebook</item>
-        <item>com.facebook.katana</item>
-        <item>com.facebook.orca</item>
-        <item>com.facebook.lite</item>
-    </string-array>
     <string-array name="reset_app_sort_type">
         <item>Размер</item>
         <item>Частота использования</item>
