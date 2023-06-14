@@ -84,6 +84,7 @@
     <string name="help">Помощь</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="item_view_role_description">Вкладка</string>
+    <string name="lable_sim_not_ready">Меню SIM-карты не готово или не поддерживается</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Выберите AM или PM</string>
     <string name="material_hour_selection">Часы</string>
@@ -199,7 +200,7 @@
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
     <string name="mtrl_timepicker_confirm">ОК</string>
     <string name="night">Вечер</string>
-    <string name="no_sim_card_inserted">Вставьте SIM-карту для входа в меню.</string>
+    <string name="no_sim_card_inserted">Вставьте SIM-карту для входа в меню</string>
     <string name="noon">Полдень</string>
     <string name="not_set">Не задано</string>
     <string name="password_toggle_content_description">Показать пароль</string>
@@ -239,11 +240,11 @@
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="stk_app_state">Состояние приложения</string>
     <string name="stk_channel_name">Сообщения мобильных сервисов</string>
-    <string name="stk_dialog_accept">ДА</string>
-    <string name="stk_dialog_reject">НЕТ</string>
+    <string name="stk_dialog_accept">Да</string>
+    <string name="stk_dialog_reject">Нет</string>
     <string name="stk_dialog_title">Меню SIM-карты</string>
-    <string name="stk_ic_remove_content">После удаления ярлыка с рабочего стола, Инструменты USIM будут доступны в Настройках</string>
-    <string name="stk_ic_remove_title">Удалить Инструменты USIM с рабочего стола?</string>
+    <string name="stk_ic_remove_content">После удаления ярлыка с рабочего стола, меню USIM-карты будут доступно в Настройках</string>
+    <string name="stk_ic_remove_title">Удалить ярлык?</string>
     <string name="stk_intent_permission">Предоставьте разрешения</string>
     <string name="stk_no_service">Сервис недоступен</string>
     <string name="sunday">Воскресенье</string>

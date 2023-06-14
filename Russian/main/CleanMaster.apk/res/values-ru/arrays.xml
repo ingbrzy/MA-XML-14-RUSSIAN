@@ -102,7 +102,6 @@
         <item>Размер</item>
         <item>Имя</item>
     </string-array>
-<!-- ### FROM SOURCE -->
     <string-array name="reset_app_sort_type">
         <item>Размер</item>
         <item>Частота использования</item>

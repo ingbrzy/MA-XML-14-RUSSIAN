@@ -9988,7 +9988,7 @@ UT-интерфейс: %5$s"</string>
     <string name="terms_title">Условия использования</string>
     <string name="testing">Проверка</string>
     <string name="testing_phone_info">Информация о телефоне&#160;</string>
-    <string name="testing_sim_toolkit">Инструменты SIM-карты</string>
+    <string name="testing_sim_toolkit">Меню SIM-карты</string>
     <string name="testing_usage_stats">Статистика использования</string>
     <string name="testing_wifi_info">Информация о Wi-Fi</string>
     <string name="tether_and_hotspot_title">Модем и точка доступа</string>
