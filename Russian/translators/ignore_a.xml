@@ -1076,6 +1076,7 @@
     <string-array name="owner_relation_value"></string-array>
     <string-array name="pa_day_time_space"></string-array>
     <string-array name="pa_express_sending_providers"></string-array>
+    <string-array name="package_array_facebook"></string-array>
     <string-array name="package_static_white_list"></string-array>
     <string-array name="package_static_white_list_base"></string-array>
     <array name="package_static_white_list_lite" />
