@@ -319,6 +319,11 @@
 Чтобы предоставить разрешение,
 нажмите \"%1$s\", затем выберите \"%2$s\"."</string>
     <string name="new_saf_permission_dialog_grant_permission_immediately">Далее</string>
+    <string name="new_search_alll_records_hint">Поиск всех записей</string>
+    <string name="new_search_app_records_hint">Поиск записей приложения</string>
+    <string name="new_search_call_records_hint">Поиск записей вызовов</string>
+    <string name="new_search_fm_records_hint">Поиск радиозаписей</string>
+    <string name="new_search_recorder_records_hint">Поиск в Диктофоне</string>
     <string name="night">Вечер</string>
     <string name="no_content">Ничего нет</string>
     <string name="no_file">Нет записей</string>

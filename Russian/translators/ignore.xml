@@ -3652,6 +3652,13 @@
     <string name="passport_debug_china_successfully_got_phone_from_sim_activate_with_count">国内:SIM卡激活取号成功(成功%s张)</string>
     <string name="passport_debug_international_failed_to_get_phone_from_sim_activate">国际:SIM卡激活取号失败</string>
     <string name="passport_debug_international_successfully_got_phone_from_sim_activate_with_count">国际:SIM卡激活取号成功(成功%s张)</string>
+    <string name="passport_facebook_application_id">2263965750590514</string>
+    <string name="passport_facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
+    <string name="passport_google_application_id">29336734752-hkhmuft60qa4qn1ual7etmp6pfo0ib54.apps.googleusercontent.com</string>
+    <string name="passport_qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
+    <string name="passport_wechat_application_id">wxbf03a31f4135dd16</string>
+    <string name="passport_wechat_scope">snsapi_userinfo</string>
+    <string name="passport_wechat_state">passport_weixin_sns_auth_state</string>
     <string name="password">Пароль</string>
     <string name="path_password_eye"> </string>
     <string name="path_password_eye_mask_strike_through"> </string>

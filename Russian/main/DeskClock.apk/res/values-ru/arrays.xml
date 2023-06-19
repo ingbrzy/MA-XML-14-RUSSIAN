@@ -162,6 +162,15 @@
         <item>Каждый день</item>
         <item>Рабочие дни</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>Понедельник-пятница</item>
+        <item>Каждый день</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>Каждый день</item>
+        <item>Понедельник-пятница</item>
+        <item>По выбору</item>
+    </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>Каждый день</item>
         <item>Понедельник-пятница</item>

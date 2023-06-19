@@ -157,6 +157,7 @@
     <string-array name="bearer_values"></string-array>
     <string-array name="beauty_level_list"></string-array>
     <integer-array name="bedtime_repeat_values"></integer-array>
+    <integer-array name="bedtime_repeat_values_international"></integer-array>
     <string-array name="big_screen_layouts"></string-array>
     <array name="big_thunder_1"></array>
     <array name="big_thunder_2"></array>

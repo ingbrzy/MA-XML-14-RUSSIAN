@@ -137,6 +137,8 @@
     <string name="ew_detail_receive_time_title">Начало</string>
     <string name="ew_detail_receive_warn_time_message">%s сек.</string>
     <string name="ew_detail_receive_warn_time_title">Время до начала</string>
+    <string name="ew_monitor_slogan">"Присоединяйтесь к программе
+мониторинга землетрясений"</string>
     <string name="ew_save_title">Сохранение</string>
     <string name="ew_share_logo_title">Предупреждение о землетрясении</string>
     <string name="ew_share_save_tips">Сохранено в %s</string>
@@ -269,6 +271,9 @@
     <string name="gb_pannel_control_mode_high_quality">Высокое качество</string>
     <string name="gb_pannel_control_mode_normal">По умолчанию</string>
     <string name="gb_pannel_control_mode_power_saving">Экономия заряда</string>
+    <string name="gb_web_panel_failure_retry">Не удалось загрузить. Повторите попытку.</string>
+    <string name="gb_web_panel_game_loading">Подождите…</string>
+    <string name="gb_web_panel_network_exception">Рекомендации игр недоступны из-за сетевой ошибки. Проверьте настройки сети и повторите попытку.</string>
     <string name="gb_webwindow_schemedialog_accept">Открыть</string>
     <string name="gb_webwindow_schemedialog_cancel">Отмена</string>
     <string name="gb_webwindow_schemedialog_title">Открыть Ускорение игр?</string>
@@ -325,6 +330,7 @@
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -474,6 +480,7 @@
     <string name="pc_activity_title">Оптимизация батареи</string>
     <string name="pc_entered_extreme_mode">Включён режим гибернации</string>
     <string name="pc_entered_extreme_mode_summary">Устройство разряжено. Включён режим гибернации, приложения работают в фоновом режиме без возможности отправки уведомлений.</string>
+    <string name="pc_entered_extreme_mode_summary2">Устройство почти разряжено. В режиме гибернации вы не будете получать уведомления от приложений, работающих в фоновом режиме.</string>
     <string name="pc_extreme_exit_and_power_off">Выход</string>
     <string name="pc_extreme_mode_bg_toast">В режиме гибернации приложения работают в фоновом режиме без возможности отправки уведомлений</string>
     <string name="pc_extreme_mode_exit_risk_title">Внимание</string>

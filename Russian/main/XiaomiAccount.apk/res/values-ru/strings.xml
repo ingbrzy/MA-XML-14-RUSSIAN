@@ -425,6 +425,7 @@ ID:%s
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -709,6 +710,7 @@ ID:%s
     <string name="passport_imei_permission_denied_message">Разрешите доступ к IMEI вашего устройства. Для обеспечения безопасности, Xiaomi аккаунт использует идентификацию с использованием IMEI устройства, на котором вы регистрируетесь.</string>
     <string name="passport_imei_permission_denied_title">Доступ к IMEI</string>
     <string name="passport_input_captcha_hint">Введите код с картинки</string>
+    <string name="passport_input_email_vcode_hint">Введите код</string>
     <string name="passport_input_password_for_login">Этот номер связан с существующим аккаунтом, введите пароль</string>
     <string name="passport_input_password_hint">Введите пароль</string>
     <string name="passport_input_phone_hint">Введите номер телефона</string>
@@ -772,6 +774,7 @@ ID:%s
     <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> символов, не менее <xliff id="min_pwd_type" refersto="2">%3$d</xliff> символов следующих типов: буквы, цифры, специальные символы</string>
     <string name="passport_pwd_generate_failure">Не удалось создать пароль</string>
     <string name="passport_pwd_generating">Создание пароля…</string>
+    <string name="passport_qq_application_id" />
     <string name="passport_qq_login_btn_content_description">Вход через QQ</string>
     <string name="passport_querying_phone_info">Запрос данных аккаунта…</string>
     <string name="passport_quick_login">Войти</string>
@@ -908,6 +911,7 @@ ID:%s
     <string name="passport_user_password_hint">Пароль</string>
     <string name="passport_user_reg_region">Страна/Регион</string>
     <string name="passport_user_reg_region_warning">Вы не сможете изменить свою страну/регион после создания аккаунта.</string>
+    <string name="passport_vcode_email_send_prompt"><Data>Проверочный код отправлен на &lt;a href=>&lt;xliff:g id=email_address>%s&lt;/xliff:g>&lt;/a></Data></string>
     <string name="passport_vcode_notification_title">Проверка авторизации не завершена</string>
     <string name="passport_vcode_prompt_long">Введите код подтверждения</string>
     <string name="passport_vcode_sms_send_prompt">Отправить код подтверждения на %s</string>
@@ -917,7 +921,9 @@ ID:%s
     <string name="passport_verifying_activator_phone">Проверка номера телефона…</string>
     <string name="passport_wait_for_sms_prompt">Начать сначала? Время отправки кода подтверждения может составлять до 10 минут.</string>
     <string name="passport_wechat_not_install">Сначала установите WeChat</string>
+    <string name="passport_weibo_application_id" />
     <string name="passport_weibo_login_btn_content_description">Вход через Weibo</string>
+    <string name="passport_weibo_redirect_uri" />
     <string name="passport_weixin_login_btn_content_description">Вход через WeChat</string>
     <string name="passport_wrong_captcha">Код введен неверно</string>
     <string name="passport_wrong_phone_number_format">Неверный формат номера телефона</string>

@@ -1054,6 +1054,7 @@ mm"</string>
     <string name="passport_identification_expired">Код устарел, начните сначала</string>
     <string name="passport_input_captcha_hint">Введите код с картинки</string>
     <string name="passport_input_email_address_notice">Этот адрес электронной почты будет использоваться для подтверждения вашего аккаунта</string>
+    <string name="passport_input_email_vcode_hint">Введите код</string>
     <string name="passport_input_password_hint">Введите пароль</string>
     <string name="passport_input_phone_hint">Введите номер телефона</string>
     <string name="passport_input_phone_number_hint">Введите номер телефона</string>

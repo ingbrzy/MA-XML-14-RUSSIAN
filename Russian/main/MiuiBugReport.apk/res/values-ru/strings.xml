@@ -587,6 +587,7 @@ ID: %s
     <string name="morning">Утро</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="multi_graph_more">Всего объектов: %d</string>
+    <string name="net_daig_network_repair">Восстановление сети</string>
     <string name="net_diag_cancel">Отмена</string>
     <string name="net_diag_continue">Продолжить</string>
     <string name="net_diag_dialog_msg">Тестирование сети может помочь обнаружить проблемы и улучшить соединение. Выполнить тестирование?</string>
@@ -601,9 +602,15 @@ ID: %s
     <string name="net_diag_entry_network_protocol">Сетевой протокол</string>
     <string name="net_diag_entry_network_rssi">Качество сигнала</string>
     <string name="net_diag_entry_router_topology">Маршрутизация</string>
+    <string name="net_diag_fix_guide_window_msg">Произошла сетевая ошибка. Нажмите для устранения неполадок.</string>
+    <string name="net_diag_fixing">Восстановление сети. Это может занять около минуты.</string>
     <string name="net_diag_header_internet">Интернет</string>
     <string name="net_diag_header_router">Роутер</string>
     <string name="net_diag_header_this_device">Это устройство</string>
+    <string name="net_diag_repair_msg">Во время этого процесса Wi-Fi будет отключен, затем снова подключен. Продолжить?</string>
+    <string name="net_diag_repair_msg_china">Во время этого процесса Wi-Fi будет отключен, затем снова подключен. Продолжить?</string>
+    <string name="net_diag_repair_static_ip_msg">Во время этого процесса может произойти сброс сетевых конфигураций. Продолжить?</string>
+    <string name="net_diag_repair_title">Восстановление сети</string>
     <string name="net_diag_title">Тестирование сети</string>
     <string name="net_diag_toast_cellular_data">Для проверки сети отключите мобильный интернет</string>
     <string name="net_diag_toast_other_networks">Для проверки сети подключитесь к Wi-Fi и отключитесь от других сетей</string>

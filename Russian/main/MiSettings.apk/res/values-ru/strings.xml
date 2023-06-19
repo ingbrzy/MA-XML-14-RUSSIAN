@@ -270,6 +270,8 @@
     <string name="focus_time_exception_tip">Системное время изменилось. Режим медитации выключен.</string>
     <string name="follow_apps_settings">Используются настройки приложения</string>
     <string name="follow_sim1">Применить настройки SIM (слот 1)</string>
+    <string name="footer_max_fps" formatted="false">"
+%d. Частота обновления может быть настроена до %s Гц для поддерживаемых приложений и игр."</string>
     <string name="force_rest">Обязательные перерывы</string>
     <string name="force_rest_summary">Делать обязательные перерывы при достижении лимита сессии</string>
     <string name="force_rest_time">Длительность перерыва</string>
@@ -381,6 +383,7 @@
     <string name="marabou_stork">Африканский марабу</string>
     <string name="marabou_stork_info">Аист марабу - массивная птица, часто питается падалью</string>
     <string name="masked_palm_civet">Гималайская цивета</string>
+    <string name="max_fps_string">До %s Гц</string>
     <string name="medium_tree_finch">Большой древесный вьюрок</string>
     <string name="midnight">Ночь</string>
     <string name="miuix_access_state_desc">Выбрано</string>
@@ -397,6 +400,7 @@
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -633,6 +637,7 @@
     <string name="stop_app_timer_tip">Все данные, разрешения и индивидуальные настройки, включая синхронизированные с облаком, после отключения функции будут удалены.</string>
     <string name="stop_summary">После отключения функции, вся статистика и    данные будут удалены</string>
     <string name="suggestion">Обратная связь</string>
+    <string name="summary_max_fps_for_intelligent">Динамическая настройка частоты обновления до %s Гц на основе сценариев баланса производительности и экономии заряда</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
