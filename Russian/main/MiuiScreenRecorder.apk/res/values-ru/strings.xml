@@ -31,7 +31,7 @@
     <string name="afternoon">После полудня</string>
     <string name="app_name">Запись экрана</string>
     <string name="app_notification_channel_record_complete">Уведомления о завершенных записях</string>
-    <string name="app_notification_info">Запись экрана работает в фоновом режиме</string>
+    <string name="app_notification_info">Идёт запись экрана…</string>
     <string name="app_notification_record_complete">"Запись экрана сохранена в Галерее.
 Нажмите для просмотра."</string>
     <string name="app_notification_record_saved">"Запись сохранена.

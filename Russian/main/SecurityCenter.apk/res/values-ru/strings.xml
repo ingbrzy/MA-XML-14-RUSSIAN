@@ -734,8 +734,8 @@
     <string name="apps_item_sign_install_button_text">Заменить</string>
     <string name="apps_item_sms_default_set_success">Настройка завершена</string>
     <string name="apps_item_sms_reset_button_text">Сброс настроек</string>
-    <string name="apps_item_sms_title">Настройки сообщений по умолчанию</string>
-    <string name="apps_item_summary_sms">%s имеет доступ к вашим сообщениям, это может привести к проблемам безопасности</string>
+    <string name="apps_item_sms_title">Приложение по умолчанию изменено</string>
+    <string name="apps_item_summary_sms">%s теперь управляет SMS-сообщениями. Для стабильной и безопасной работы рекомендуется использовать системное приложение MIUI.</string>
     <string name="apps_item_summary_system_rooted">Разрешён ROOT-доступ. Восстановите настройки по умолчанию чтобы избежать угроз безопасности.</string>
     <string name="apps_item_summary_system_update">В новой версии были исправлены некоторые ошибки, платежи стали более безопасными</string>
     <string name="apps_item_title_system">Обновление системы</string>
@@ -3213,7 +3213,7 @@ Xiaomi не обещает и не гарантирует точность, до
 
 3. Сигнал сети может быть слабым в текущем расположении."</string>
     <string name="network_operator_exception_summary">Ошибка активации SIM карты. Убедитесь, что карта установлена правильно, и ваш тариф активирован мобильным оператором.</string>
-    <string name="network_permission_exception_tips">Невозможно использовать мобильный интернет для подключения к сети</string>
+    <string name="network_permission_exception_tips">Для нормальной работы этой функции нужен мобильный интернет</string>
     <string name="network_roaming_exception_tips">Невозможно использовать мобильный интернет для подключения к сети в роуминге.</string>
     <string name="network_route_exception_detail">"Возможно, проблема в роутере, к которому вы подключены:
 
@@ -3462,7 +3462,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="optimize_result_summary_sucurity_risk">Некоторые функции безопасности отключены. Включите их, чтобы сделать устройство более безопасным:</string>
     <string name="optimize_result_summary_system_default_settings">Используйте системные приложения MIUI для повышения уровня стабильности и безопасности системы</string>
     <string name="optimize_result_title_sucurity_risk">Найдены угрозы безопасности</string>
-    <string name="optimize_result_title_system_default_settings">Настройки по умолчанию были изменены</string>
+    <string name="optimize_result_title_system_default_settings">Системные настройки по умолчанию изменены</string>
     <string name="optimize_result_title_uninstall_apps">Удаление приложений</string>
     <string name="optimize_result_toast_system_default_settings">Настройки по умолчанию восстановлены</string>
     <string name="optimize_result_toast_system_no_item_selected">Ничего не выбрано</string>
@@ -5373,12 +5373,12 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="suggest_to_use_mi_sim">Используйте Mi Sim, чтобы избежать дополнительных расходов.</string>
     <string name="summary_app_lock_disable">Обезопасьте ваши данные с Защитой приложений</string>
     <string name="summary_app_update_new">Обновите приложения для доступа к новым функциям</string>
-    <string name="summary_auto_update">MIUI подберет наиболее подходящее время для загрузки и установки обновлений.</string>
+    <string name="summary_auto_update">MIUI выберет наиболее подходящее время для загрузки и установки обновлений.</string>
     <string name="summary_background_connection">Вы ограничили фоновые подключения для этого приложения.</string>
     <string name="summary_block_calls_from_cantacts">Вызовы от контактов заблокированы.</string>
     <string name="summary_block_calls_from_strangers">Вызовы от незнакомых заблокированы.</string>
     <string name="summary_cleaner_cloudscan">Загружать имена папок на сервер и проверять на наличие мусора</string>
-    <string name="summary_cloud_account">Получите максимум от своего устройства</string>
+    <string name="summary_cloud_account">Все сервисы Xiaomi</string>
     <string name="summary_cloud_service">Синхронизация фото, контактов и других данных на всех устройствах</string>
     <string name="summary_cloud_space_almost_full">Добавьте место</string>
     <string name="summary_cloud_space_full">Получите больше места в облачном хранилище, а также доступ к новым функциям</string>

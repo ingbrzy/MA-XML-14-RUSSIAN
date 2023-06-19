@@ -355,7 +355,7 @@ ID:%s
     <string name="in_progress">Обработка…</string>
     <string name="inconsistent_pwd">Пароли не совпадают</string>
     <string name="indeterminate">Не выбрано</string>
-    <string name="input_email_address_notice">Этот адрес электронной почты будет использоваться для подтверждения вашего аккаунта</string>
+    <string name="input_email_address_notice">Электронное письмо с кодом подтверждения будет отправлено на указанный адрес</string>
     <string name="input_new_pwd">Введите новый пароль</string>
     <string name="io_error_title">Проверьте свою сеть</string>
     <string name="item_view_role_description">Вкладка</string>
@@ -1064,8 +1064,8 @@ ID:%s
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
     <string name="system_ad">Реклама в системных приложениях</string>
-    <string name="system_ad_list">Посмотреть похожие приложения.</string>
-    <string name="system_ad_summary">"Включите эту функцию для показа небольшого количества рекламы в системных приложениях. Эти объявления помогают нам развивать и улучшать наши продукты и услуги. Вы можете отключить эту функцию в любое время. Спасибо за поддержку! "</string>
+    <string name="system_ad_list">Похожие приложения</string>
+    <string name="system_ad_summary">Включите эту функцию для показа небольшого количества рекламы в системных приложениях. Эти объявления помогают нам развивать и улучшать наши продукты и услуги. Вы можете отключить эту функцию в любое время.</string>
     <string name="system_ad_switch">Реклама в системных приложениях</string>
     <string name="system_ad_switch_failed">ошибка</string>
     <string name="system_error_info">Система занята. Попробуйте позже.</string>

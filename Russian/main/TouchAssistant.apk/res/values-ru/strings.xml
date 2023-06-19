@@ -264,7 +264,7 @@
     <string name="the_valentines_day">День святого Валентина</string>
     <string name="the_water_lantern_festival">Фестиваль водных фонарей</string>
     <string name="theme_manager_not_supported">Тема не поддерживается.</string>
-    <string name="three_seconds_auto_hide">Скрывать после 3 секунд бездействия</string>
+    <string name="three_seconds_auto_hide">Скрыть после %d сек. бездействия</string>
     <string name="thursday">Четверг</string>
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>

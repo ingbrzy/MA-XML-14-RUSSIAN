@@ -38,12 +38,14 @@
         <item quantity="one">Добавлено %d фото из облака, для просмотра отключите \"Только локальные альбомы\".</item>
     </plurals>
     <plurals name="add_to_album_failed_with_reason_and_count">
-        <item quantity="other">Ошибка добавления %2$d файлов в альбом. %1$s.</item>
-        <item quantity="one">Ошибка добавления %2$d файла в альбом. %1$s.</item>
+        <item quantity="other">" %2$d файлов не могут быть добавлены в альбом. %1$s."</item>
+        <item quantity="one">" %2$d файл не могут быть добавлены в альбом. %1$s."</item>
+        <item quantity="few">" %2$d файла не могут быть добавлены в альбом. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
-        <item quantity="other">Ошибка добавления %2$d файлов в приватный альбом. %1$s.</item>
-        <item quantity="one">Ошибка добавления %2$d файла в приватный альбом. %1$s.</item>
+        <item quantity="other">%2$d файлов не могут быть добавлены в приватный альбом. %1$s.</item>
+        <item quantity="one">%2$d файл не могут быть добавлены в приватный альбом. %1$s.</item>
+        <item quantity="few">%2$d файла не могут быть добавлены в приватный альбом. %1$s.</item>
     </plurals>
     <plurals name="age_day">
         <item quantity="other">%d дней</item>

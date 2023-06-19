@@ -174,11 +174,11 @@
         <item quantity="few">%1$d секунды</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_fast">
-        <item quantity="other">%s ч. вперед</item>
-        <item quantity="one">%s ч. вперед</item>
+        <item quantity="other">+%s ч.</item>
+        <item quantity="one">+%s ч.</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_slow">
-        <item quantity="other">%s ч. назад</item>
-        <item quantity="one">%s ч. назад</item>
+        <item quantity="other">-%s ч.</item>
+        <item quantity="one">-%s ч.</item>
     </plurals>
 </resources>

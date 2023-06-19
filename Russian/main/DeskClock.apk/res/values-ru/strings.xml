@@ -166,7 +166,7 @@
     <string name="delete_selected_timer_item">Удалить выбранный таймер?</string>
     <string name="delete_timer_item_title">Удалить таймер</string>
     <string name="delete_timezone_title">Удаление часового пояса</string>
-    <string name="deskclock_sleep_no_disturbance">Часы - Управление режимом сна - Режим \"Не беспокоить\"</string>
+    <string name="deskclock_sleep_no_disturbance">Часы > Управление режимом сна > Режим \"Не беспокоить\"</string>
     <string name="device_sounds">Мелодии на устройстве</string>
     <string name="dialog_confirm_abort">Отменить изменения?</string>
     <string name="dialog_legal_off_day">Используются будильники для праздничных дней. Для правильной работы приложению требуется подключение к интернету. Используя это приложение, вы принимаете Пользовательское соглашение и Политику конфиденциальности.</string>
