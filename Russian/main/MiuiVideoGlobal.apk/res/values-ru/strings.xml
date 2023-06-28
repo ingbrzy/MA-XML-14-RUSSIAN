@@ -1120,6 +1120,13 @@ ID: %s
     <string name="member">VIP</string>
     <string name="message_notify">Уведомление о новом сообщении</string>
     <string name="mgmi_ad_mid_wait">Сделайте перерыв</string>
+    <string name="mgmi_adform_dsc">Реклама·%s</string>
+    <string name="mgmi_apk_download_finish_title">Ваши приложения</string>
+    <string name="mgmi_apk_download_no_permission_title">Разрешите доступ к внутреннему хранилищу</string>
+    <string name="mgmi_banner_feed_pop">Вы будете видеть меньше рекламы этого типа</string>
+    <string name="mgmi_banner_pop_close">Закрыть</string>
+    <string name="mgmi_banner_pop_fire">Комментарии</string>
+    <string name="mgmi_boot_ad_skip">Пропустить</string>
     <string name="mi_video">Mi Видео</string>
     <string name="mi_video_pip_mode">Картинка в картинке</string>
     <string name="midnight">Ночь</string>
@@ -2247,7 +2254,10 @@ ID: %s
     <string name="yandex_ads_internal_instream_ad_position">%1$d из %2$d</string>
     <string name="yandex_ads_internal_instream_advertiser_social">Социальная реклама</string>
     <string name="yandex_ads_internal_instream_advertiser_yandex">Реклама</string>
+    <string name="yandex_ads_internal_instream_call_to_action">Перейти ➔</string>
     <string name="yandex_ads_internal_instream_skip">Пропустить</string>
+    <string name="yandex_ads_internal_instream_sponsored_social">СОЦИАЛЬНАЯ РЕКЛАМА</string>
+    <string name="yandex_ads_internal_instream_sponsored_yandex">РЕКЛАМА</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_close">Закрыть</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">Досмотреть</string>
     <string name="yandex_ads_internal_rewarded_close_verification_text">Если закрыть рекламу до окончания таймера, награда за просмотр не будет начислена</string>

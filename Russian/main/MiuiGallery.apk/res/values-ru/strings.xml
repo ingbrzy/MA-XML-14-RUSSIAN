@@ -2697,6 +2697,7 @@ ID: %s
     <string name="search_syncing">Синхронизация данных, возвращайтесь позже</string>
     <string name="search_title_album">Альбом</string>
     <string name="search_title_app_screenshot">Скриншоты</string>
+    <string name="search_title_daily">Время</string>
     <string name="search_title_history">История поиска</string>
     <string name="search_title_location">Места</string>
     <string name="search_title_more">Ещё</string>
