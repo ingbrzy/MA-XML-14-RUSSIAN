@@ -104,6 +104,7 @@
     <string name="add_to_secret_successful">Добавлено в приватный альбом</string>
     <string name="add_to_share_album_not_delete">Нельзя удалить фото из общего альбома</string>
     <string name="add_to_trust_device">Это доверенное устройство</string>
+    <string name="added_to_clipboard_toast">Успешно скопировано</string>
     <string name="added_to_favorites">Добавлено в Избранные</string>
     <string name="added_to_favorites_desc">Добавлено в Избранные</string>
     <string name="added_to_favorites_tip">Добавлено в альбом \"Избранные\"</string>
@@ -1371,6 +1372,9 @@ ID: %s
     <string name="image_selection_title">Отмечать лучшие фото</string>
     <string name="image_with_time">Фото снято в %s</string>
     <string name="image_with_time_and_location">Фото снято в %1$s. Место: %2$s.</string>
+    <string name="immersion_menu_all_photos">Все фото</string>
+    <string name="immersion_menu_camera_photos">Камера</string>
+    <string name="immersion_menu_photo_switch_notice">Нажмите для отображения \"Все фото\" или \"Камера\"</string>
     <string name="impunity_declaration_settings">Запрашивать доступ в интернет</string>
     <string name="impunity_declaration_summary">Запрос доступа к интернету при каждом запуске приложения</string>
     <string name="initializing_cloud">Инициализация…</string>
@@ -1453,7 +1457,7 @@ ID: %s
     <string name="loading_members">Загрузка пользователей…</string>
     <string name="loading_processing_tip">Обработка фото…</string>
     <string name="loading_suspend">Загрузка возобновится после подключения к Wi-Fi</string>
-    <string name="loading_text_format" formatted="false">Удаление личной информации из фото (%d/%d)…</string>
+    <string name="loading_text_format">Удаление личной информации…</string>
     <string name="loading_video">Загрузка видео…</string>
     <string name="loading_video_compress_lib">Загрузка плагина сжатия видео…</string>
     <string name="loading_video_fail_sync_without_network">Подключитесь к сети для загрузки данных</string>
@@ -1942,6 +1946,7 @@ ID: %s
     <string name="operation_back">Назад</string>
     <string name="operation_cast_connected_format">Трансляция - %s</string>
     <string name="operation_cast_connecting_format">Подключение к %s</string>
+    <string name="operation_copy_to_clipboard">Копировать</string>
     <string name="operation_delete">Удалить</string>
     <string name="operation_delete_all_albums_from_rubbish_page_tip">Вы не сможете восстановить альбомы после удаления. Удалить?</string>
     <string name="operation_detail">Подробности</string>
@@ -2987,6 +2992,7 @@ ID: %s
     <string name="special_type_portrait">AI портретная светопись</string>
     <string name="special_type_raw">RAW</string>
     <string name="special_type_real_8k">8K</string>
+    <string name="special_type_ultra_raw">Ультра RAW</string>
     <string name="special_type_wide_angle">AI ультра-широкий угол</string>
     <string name="start_debug">Отладка Галереи</string>
     <string name="start_to_use_face_albumset">Начать использование</string>
@@ -3341,6 +3347,33 @@ ID: %s
     <string name="tran_notification_succeeded_title">Фото и видео перенесены</string>
     <string name="tran_notification_update_msg">%1$d/%2$d | %3$d%%</string>
     <string name="tran_notification_update_title">Перенос фото и видео…</string>
+    <string name="transfer_banner_btn_check_and_migrate">Перенос файлов</string>
+    <string name="transfer_banner_btn_check_and_migrate_1">Перенос файлов</string>
+    <string name="transfer_banner_btn_check_download_status">Посмотреть прогресс</string>
+    <string name="transfer_banner_btn_download_complete">Игнорировать</string>
+    <string name="transfer_banner_btn_go_to_download">Загрузить</string>
+    <string name="transfer_banner_btn_title_cancel_reminder">Больше не показывать</string>
+    <string name="transfer_banner_btn_view_detail">Подробнее</string>
+    <string name="transfer_banner_btn_view_migrate_data">Резервные копии</string>
+    <string name="transfer_banner_msg_download_complete">Вы запросили загрузку облачных данных. Просмотр и управление загруженными файлами будут доступны после завершения загрузки.</string>
+    <string name="transfer_banner_msg_migrate_complete">Файлы перенесены в Google Фото. Просмотрите и загрузите несинхронизированные резервные копии пока они доступны.</string>
+    <string name="transfer_banner_msg_migrate_download_progress">Подготовка загрузки…</string>
+    <string name="transfer_banner_msg_migrate_download_success">Доступна загрузка запрошенных облачных данных. Ссылка для скачивания действительна в течение %d дней.</string>
+    <string name="transfer_banner_msg_migrate_tips">Перенесите несинхронизированные файлы до %1$s, чтобы не потерять их</string>
+    <string name="transfer_dialog_btn_cancel">Отмена</string>
+    <string name="transfer_dialog_btn_cancle_deal">Не сейчас</string>
+    <string name="transfer_dialog_btn_check_download_status">Посмотреть прогресс</string>
+    <string name="transfer_dialog_btn_migrate">Несинхронизированные файлы</string>
+    <string name="transfer_dialog_btn_open_google_View_backup">Резервные копии</string>
+    <string name="transfer_dialog_btn_open_google_backup">Включить</string>
+    <string name="transfer_dialog_btn_view_cloud">Файлы в облаке</string>
+    <string name="transfer_dialog_consistent_msg">Службы синхронизации Xiaomi Cloud заменены резервным копированием в Google Фото. Все фото и видео, ранее хранившиеся в Xiaomi Cloud, синхронизированы с этим устройством. Теперь можно включить резервное копирование в Google Фото, чтобы продолжить хранение файлов в облаке.</string>
+    <string name="transfer_dialog_download_complete_msg">Службы синхронизации Xiaomi Cloud заменены резервным копированием в Google Фото. Некоторые ваши фото и видео не были синхронизированы с этим устройством и больше не будут отображаться. Вами уже запрошена загрузка облачных данных, включающих эти файлы. Просмотр и управление этими фото и видео будут доступны на устройстве, на котором запрошена загрузка.</string>
+    <string name="transfer_dialog_migrate_complete_msg">Ваши фото и видео перенесены в Google Фото. Все файлы, которые не были синхронизированы с этим устройством, отображаться больше не будут. Вы можете просмотреть эти файлы в своих резервных копиях.</string>
+    <string name="transfer_dialog_migrate_msg">Службы синхронизации Xiaomi Cloud заменены резервным копированием в Google Фото. Все файлы, которые не были синхронизированы с этим устройством, отображаться больше не будут. До %1$s вы можете переместить свои файлы в Google Фото или загрузить на i.mi.com. Оставшиеся в Xiaomi Cloud файлы будут безвозвратно удалены.</string>
+    <string name="transfer_dialog_msg_link">Прекращение работы служб синхронизации файлов Галереи и перенос в Google Фото</string>
+    <string name="transfer_dialog_title">Изменение синхронизации</string>
+    <string name="transfer_service_msg">Службы синхронизации Xiaomi Cloud заменены резервным копированием в Google Фото. Загрузка несинхронизированных файлов больше недоступна.</string>
     <string name="transfer_status_banner_msg_complete">Файлы перенесены</string>
     <string name="transfer_status_banner_msg_need_retry">Перенос прерван. Попробуйте еще раз или посетите i.mi.com для загрузки файлов вручную.</string>
     <string name="transfer_status_banner_msg_no_space">Перенос приостановлен. Недостаточно места в аккаунте Google. Обновите план хранения, чтобы продолжить.</string>
@@ -3421,6 +3454,7 @@ ID: %s
     <string name="update_network_error">Проверьте настройки сети и повторите попытку</string>
     <string name="update_new_version">Доступно обновление</string>
     <string name="update_title">Доступна версия %s</string>
+    <string name="upload_progress_message">Службы синхронизации Xiaomi Cloud заменены резервным копированием в Google Фото. Потребуется некоторое время для проверки файлов, хранящихся на этом устройстве и в облаке, чтобы убедиться, что вы не потеряли ничего важного. Не выходите из Галереи, пока проверка не будет завершена.</string>
     <string name="user_agree">Принимаю</string>
     <string name="user_agreement2">Условия использования</string>
     <string name="user_agreement4">Политика конфиденциальности</string>

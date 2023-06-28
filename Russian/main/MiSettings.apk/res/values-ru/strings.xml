@@ -311,7 +311,7 @@
     <string name="guard_item_app_title">Управление приложениями</string>
     <string name="guard_item_browser_summary">Контроль доступа к приложениям и контенту</string>
     <string name="guard_item_browser_title">Ограничения</string>
-    <string name="guard_item_call_summary">Разрешить звонки только определенным контактам</string>
+    <string name="guard_item_call_summary">Разрешить звонки только определённым контактам</string>
     <string name="guard_item_call_title">Связь</string>
     <string name="guard_item_eye_protect_summary">Контроль осанки</string>
     <string name="guard_item_eye_protect_title">Комфорт для глаз</string>

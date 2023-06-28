@@ -80,7 +80,7 @@
     <string name="accessibility_autoclick_delay_preference_title">Задержка перед нажатием</string>
     <string name="accessibility_autoclick_description">Если используется мышь, можно настроить курсор на автоматическое выполнение действий, когда он перестает двигаться на определённое время.</string>
     <string name="accessibility_autoclick_footer_learn_more_content_description">Подробнее об автонажатии (время задержки)…</string>
-    <string name="accessibility_autoclick_intro_text">Вы можете настроить подключенную мышь так, чтобы кнопка нажималась автоматически, когда курсор остановится на определенное время.</string>
+    <string name="accessibility_autoclick_intro_text">Вы можете настроить подключенную мышь так, чтобы кнопка нажималась автоматически, когда курсор остановится на определённое время.</string>
     <string name="accessibility_autoclick_long_summary">1 сек.</string>
     <string name="accessibility_autoclick_long_title">Длинное</string>
     <string name="accessibility_autoclick_longer_desc">Длиннее</string>
@@ -1329,7 +1329,7 @@
     <string name="battery_tip_early_heads_up_title">Включение экономии заряда</string>
     <string name="battery_tip_high_usage_summary">Просмотр приложений с повышенным расходом заряда.</string>
     <string name="battery_tip_high_usage_title">Повышенный расход заряда батареи</string>
-    <string name="battery_tip_limited_temporarily_dialog_msg">В определенных условиях, например при высокой температуре окружающей среды и продолжительной зарядке, система может установить ограничение %1$s для уровня заряда, чтобы продлить срок службы батареи.\n\nКогда условия нормализуются, телефон будет заряжаться как обычно.</string>
+    <string name="battery_tip_limited_temporarily_dialog_msg">В определённых условиях, например при высокой температуре окружающей среды и продолжительной зарядке, система может установить ограничение %1$s для уровня заряда, чтобы продлить срок службы батареи.\n\nКогда условия нормализуются, телефон будет заряжаться как обычно.</string>
     <string name="battery_tip_limited_temporarily_dialog_resume_charge">Продолжить зарядку</string>
     <string name="battery_tip_limited_temporarily_summary">Это сделано для защиты вашей батареи. Подробнее…</string>
     <string name="battery_tip_limited_temporarily_title">Зарядка временно ограничена</string>

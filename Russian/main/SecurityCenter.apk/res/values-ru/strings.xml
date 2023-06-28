@@ -139,6 +139,12 @@
     <string name="ad_btn_default_text">Подробнее</string>
     <string name="ad_floating_window_title">Закройте плавающее окно для разблокировки</string>
     <string name="ad_split_screen_title">Выйдите из режима разделения экрана</string>
+    <string name="ad_text_adx">Реклама</string>
+    <string name="ad_text_btn_download">Установить</string>
+    <string name="ad_text_develop">Разработчик: %1$s</string>
+    <string name="ad_text_permission">Разрешения</string>
+    <string name="ad_text_privacy">Конфиденциальность</string>
+    <string name="ad_text_version">Версия: %1$s</string>
     <string name="ad_update_time">Последнее обновление: %s</string>
     <string name="ad_update_time_unKnown">Последнее обновление: неизвестно</string>
     <string name="adb_install_no_network">Подключитесь к сети и повторите попытку</string>
@@ -181,6 +187,7 @@
     <string name="alert_back_milink_hangup_tips_content_vb">"Трансляция не будет прервана, пока экран отключён и приложение работает в фоновом режиме. Чтобы включить экран, нажмите кнопку питания."</string>
     <string name="all_address_choose_hint">Все номера в этой провинции</string>
     <string name="allow_all">Разрешить всем</string>
+    <string name="allow_onetime">Разрешить однократно</string>
     <string name="already_close_gamebooster">Ускорение игр отключено</string>
     <string name="anti_disturb_msg_detail">Отключить все уведомления, кроме входящих вызовов</string>
     <string name="anti_disturb_msg_title">Режим \"Не беспокоить\"</string>
@@ -449,6 +456,15 @@
     <string name="app_install_intercept">Блокировать установку</string>
     <string name="app_install_tips_go_to">Открыть</string>
     <string name="app_install_tips_install_success">Установка %1$s завершена</string>
+    <string name="app_management_for_chain_start">Блокировать открытие приложений</string>
+    <string name="app_management_for_chain_start_desc">Запретить этому приложению подключение к другим приложениям или их открытие</string>
+    <string name="app_management_for_device_id">Скрывать идентификаторы и предотвращать отслеживание</string>
+    <string name="app_management_for_device_id_desc">Запретить этому приложению доступ к номеру телефона и личной информации</string>
+    <string name="app_management_for_independent_storage">Изолировать кэшированные данные</string>
+    <string name="app_management_for_independent_storage_desc">Разрешить этому приложению доступ только к своим файлам и данным</string>
+    <string name="app_management_for_install">Блокировать загрузку приложений</string>
+    <string name="app_management_for_install_desc">Запретить этому приложению загрузку или установку других приложений</string>
+    <string name="app_management_measures">Управление приложениями</string>
     <string name="app_manager_advanced_setting">Расширенные настройки</string>
     <string name="app_manager_allow">Да</string>
     <string name="app_manager_anomaly_analysis">Анализ проблем сторонних приложений</string>
@@ -559,6 +575,7 @@
     <string name="app_manager_tab_manager">Управление</string>
     <string name="app_manager_thumbnail_blur_summary">Размывать миниатюру приложения в Недавних</string>
     <string name="app_manager_thumbnail_blur_title">Размытие миниатюры</string>
+    <string name="app_manager_thumbnail_shield_summary">Маскировать превью приложений в Недавних</string>
     <string name="app_manager_title">Приложения</string>
     <string name="app_manager_to_appstore">Откройте для себя новые приложения</string>
     <string name="app_manager_total_size">Всего</string>
@@ -581,6 +598,7 @@
     <string name="app_name_pad">Безопасность</string>
     <string name="app_name_phone">Безопасность</string>
     <string name="app_name_securitycenter">Безопасность</string>
+    <string name="app_name_securitycenter_new">Безопасность</string>
     <string name="app_not_installed_toast">Приложение не найдено</string>
     <string name="app_perm_manager_service">Разрешения</string>
     <string name="app_permission_use_group_calendar">Календарь</string>
@@ -902,6 +920,7 @@
     <string name="auto_task_voice_dialog_alarm_title">Будильники</string>
     <string name="auto_task_voice_dialog_call_title">Вызовы, уведомления, напоминания</string>
     <string name="auto_task_voice_dialog_media_title">Музыка, игры, медиа</string>
+    <string name="autostart_now_tip">"\"%1$s\" запрещён запуск \"%2$s\" "</string>
     <string name="back_app_name">Вернуться в Защиту приложений</string>
     <string name="back_description_securitycenter">Назад</string>
     <string name="back_modifypassword">Вернуться к изменению способа защиты</string>
@@ -1081,6 +1100,7 @@
     <string name="blacklist_prefix_add_hint">Все номера с этим префиксом будут добавлены в чёрный список</string>
     <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
     <string name="block_phone_number">Вызовы: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+    <string name="blur_location_title">Пониженная точность</string>
     <string name="boost_done">Успешно ускорено</string>
     <string name="boost_stop">Отключить ускорение</string>
     <string name="booster_immediately">Ускорить</string>
@@ -1216,6 +1236,7 @@
     <string name="cetus_invisible_mode_warn_location">Режим инкогнито. Разрешение использовать геолокацию приостановлено.</string>
     <string name="cetus_invisible_mode_warn_open">Режим инкогнито. Разрешения использовать геолокацию, микрофон и камеру будут приостановлены. Включить режим?</string>
     <string name="cetus_invisible_mode_warn_record_audio">Режим инкогнито. Разрешение использовать микрофон приостановлено.</string>
+    <string name="chainstart_desc_for_exemption">Непроверенное приложение \"%1$s\" запускает \"%2$s\". Будьте осторожны при совершении платежей.</string>
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="charge_high_temp_warning_dialog_ok">Понятно</string>
@@ -1304,11 +1325,13 @@
     <string name="cs_func_toast_headset">Отключите гарнитуру, чтобы использовать эту функцию</string>
     <string name="cs_func_toast_light">Переключитесь на фронтальную камеру, чтобы использовать эту функцию</string>
     <string name="cs_func_toast_pickup">Переключитесь на видеовызов, чтобы использовать эту функцию</string>
+    <string name="cs_pickup_denoise_desc">Уменьшать шум входящего звука при использовании динамиков или наушников</string>
+    <string name="cs_pickup_denoise_title">Шумоподавление</string>
     <string name="cs_pickup_multi_desc">Звук улавливается с углом охвата %d градусов</string>
     <string name="cs_pickup_multi_title">Несколько участников</string>
     <string name="cs_pickup_single_desc">Звук улавливается только перед экраном</string>
     <string name="cs_pickup_single_title">Один участник</string>
-    <string name="cs_pickup_surround_desc">Использовать ИИ для уменьшения шума для получения четкого звука</string>
+    <string name="cs_pickup_surround_desc">Использовать ИИ для уменьшения шума и получения четкого звука</string>
     <string name="cs_pickup_surround_title">Шумоподавление микрофона</string>
     <string name="cs_title_pickup">Шумоподавление</string>
     <string name="cs_title_smart_subtitle">Транскрипция субтитров</string>
@@ -1323,6 +1346,7 @@
     <string name="cta_dialog_positive">Принять</string>
     <string name="cta_dialog_title">Доступ в интернет</string>
     <string name="cta_main_purpose">Добро пожаловать в Безопасность! Приложение и его модули (включая компоненты безопасности MIUI, системные службы и Joyose) можно использовать для освобождения места на устройстве, поиска и нейтрализации вирусов, оптимизации производительности и экономии заряда, управления приложениями и многого другого. Во время установки приложений или совершения платежей, компоненты безопасности MIUI будут осуществлять проверку безопасности, используя подключение к интернету.</string>
+    <string name="cta_main_purpose_new">Добро пожаловать в Безопасность! Приложение и его модули (включая компоненты безопасности MIUI, службы приложения и системы, а также Joyose) можно использовать для освобождения места на устройстве, поиска и нейтрализации вирусов, оптимизации производительности и экономии заряда, управления приложениями и многого другого. Во время установки приложений и совершения платежей, компоненты безопасности MIUI будут подключаться к интернету и осуществлять проверку безопасности.</string>
     <string name="cta_settings">Разрешить доступ в интернет и геолокацию</string>
     <string name="current_network_state_not_need_diagnose">Интернет-соединение работает нормально.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Для использования черного списка и вызова экстренных контактов для предупреждения о землетрясении</string>
@@ -1537,6 +1561,8 @@
     <string name="doze_optimization_title">Оптимизация сенсорного управления</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
+    <string name="dynamic_performance_optimization_summary">Динамическая регулировка разрешения во время игровых сессий для производительности</string>
+    <string name="dynamic_performance_optimization_title">Динамическая регулировка</string>
     <string name="early_morning">Утро</string>
     <string name="edit_new_task_name">Имя задачи</string>
     <string name="edit_phone_num">Номер телефона SIM-карты</string>
@@ -2073,7 +2099,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="function_gwsd_title">Запрет прерывания соединения</string>
     <string name="function_oncall_not_close_network">Запрет прерывания вызовов</string>
     <string name="function_oncall_not_close_network_detail">"О функции:
-%1$d. Функция позволяет оставаться в сети во время игровых сессий, не отвлекаясь на входящие вызовы, когда устройство подключено к определенным сетям 5G.
+%1$d. Функция позволяет оставаться в сети во время игровых сессий, не отвлекаясь на входящие вызовы, когда устройство подключено к определённым сетям 5G.
 %2$d. Если ни одна из SIM-карт не подключена к сети 5G, входящие вызовы будут автоматически отклоняться основной SIM-картой.
 %3$d. Функция поддерживается только в материковом Китае.
 %4$d. Функция работает только в сетях 5G-SA."</string>
@@ -2430,6 +2456,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_turbo_wonder_subtitle">Запись ключевых моментов</string>
     <string name="gb_vision_enhance">Улучшенные визуальные эффекты</string>
     <string name="gb_vision_enhance_desc">Улучшение качества изображения и производительности</string>
+    <string name="gb_vision_enhance_frme_insertion_tips">"Умная частота кадров
+%d кадр/сек"</string>
     <string name="gb_vision_enhance_smart_frame_insertion">Умная частота кадров</string>
     <string name="gb_vision_enhance_smart_frame_insertion_desc">Авторегулировка частоты кадров для более плавной картинки</string>
     <string name="gb_vision_enhance_super_resolution">Суперразрешение</string>
@@ -2743,6 +2771,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="input_aviable_traffic">Лимит трафика</string>
     <string name="input_celluar_data_quota_hint">Введите лимит трафика</string>
     <string name="input_cellular_data_warn_hint">Введите порог предупреждения о трафике</string>
+    <string name="input_hint_search_app">Поиск приложений</string>
     <string name="input_password_hint_text">Введите пароль</string>
     <string name="input_phone_num_hint">Номер телефона SIM-карты</string>
     <string name="input_title">Ввод</string>
@@ -3483,6 +3512,14 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="other_milink_connect">Невозможно начать трансляцию. Идёт другая трансляция.</string>
     <string name="other_operator_name_virtual_operator">Другие виртуальные операторы</string>
     <string name="over_package_reminder_type">При исчерпании лимита трафика</string>
+    <string name="overlay_permission_dialog_comment">Разрешите приложению Безопасность отображение поверх других приложений</string>
+    <string name="overlay_permission_dialog_comment_pad">Разрешите приложению Безопасность отображение поверх других приложений</string>
+    <string name="overlay_permission_dialog_comment_security_service">Разрешите \"Инструментам безопасности\" отображение поверх других приложений. Разрешение можно предоставить в Настройках.</string>
+    <string name="overlay_permission_dialog_message">Для нормальной работы приложению Безопасность необходимы разрешения</string>
+    <string name="overlay_permission_dialog_message_pad">Для нормальной работы приложению Безопасность необходимы разрешения</string>
+    <string name="overlay_permission_dialog_message_security_service">Для нормальной работы приложению Безопасность необходимы определённые разрешения</string>
+    <string name="overlay_permission_dialog_open">Настройки</string>
+    <string name="overlay_permission_dialog_title">Предоставьте разрешения</string>
     <string name="package_change_notification_summary">Нажмите для просмотра.</string>
     <string name="package_change_notification_title">Автоматическая регулировка лимита</string>
     <string name="package_setted_error_notification_summary">Нажмите для просмотра.</string>
@@ -4203,6 +4240,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_understanding_privacy">Действия</string>
     <string name="pp_virtual_identity_manager">Виртуальный ID</string>
     <string name="pp_virtual_identity_summary">Вместо реального идентификатора приложениям будет предоставлен виртуальный ID (OAID). Это защитит конфиденциальность и позволит контролировать отслеживание приложениями ваших действий и предпочтений.</string>
+    <string name="precise_location_title">Максимальная точность</string>
     <string name="pref_about_traffic_title">Общие настройки</string>
     <string name="pref_adjust_data_usage">Шаблон сообщения оператора</string>
     <string name="pref_adjust_data_usage_summary">После изменения шаблона калибровки MIUI будет использовать его для получения статистики от оператора</string>
@@ -4541,6 +4579,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_thumbnail_blur_search_empty">Ничего не найдено</string>
     <string name="privacy_thumbnail_blur_title">Размытие миниатюры</string>
     <string name="privacy_thumbnail_blur_top_tip">Выберите приложения, для которых будет включено размытие миниатюры в Недавних</string>
+    <string name="privacy_thumbnail_shield_title">Маскирование превью</string>
+    <string name="privacy_thumbnail_shield_top_tip">Маскировать превью приложений в Недавних</string>
     <string name="privacy_type_open">Вкл.</string>
     <string name="privacy_update_dialog_content_1">Обновлена Политика конфиденциальности \"%s\":</string>
     <string name="privacy_update_dialog_content_2"><Data>Прежде чем продолжить, прочтите и примите обновленную &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a>.</Data></string>
@@ -4914,6 +4954,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sim_lock_start_summary">Функция защищает от возможных рисков в случае утери SIM-карты.</string>
     <string name="sim_lock_start_title">Защита SIM</string>
     <string name="sim_lock_toast_no_sim">Установите SIM-карту</string>
+    <string name="sim_lock_verify_time_out">Время проверки истекло. Повторите попытку.</string>
     <string name="sim_not_ready_toast">SIM-карта не готова</string>
     <string name="sim_state_exception_summary">Статус SIM карты свидетельствует о возможных проблемах SIM карты.</string>
     <string name="sip_phone">SIP телефон</string>
@@ -5192,6 +5233,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="st_msg_stranger_group">Блокировать сообщения от незнакомых</string>
     <string name="st_settings_name">Настройки антиспама</string>
     <string name="st_share_settings">Общие настройки с SIM1</string>
+    <string name="st_sms_intercept_oversea">Международное SMS</string>
     <string name="st_sub_title_customize_mode_name">Название</string>
     <string name="st_sub_title_whiteblack_list_group">Списки блокировки</string>
     <string name="st_sum_call_wait">Сообщение об отсутствии также будет воспроизводиться как сигнал \"Занято\"</string>

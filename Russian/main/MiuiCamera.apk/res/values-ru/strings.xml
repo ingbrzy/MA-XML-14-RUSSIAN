@@ -1278,7 +1278,7 @@
     <string name="module_name_vlog">ВЛОГ</string>
     <string name="moiton_detection_960_fps_video_tip" formatted="false">Видео %1d кадр/сек может быть длиной до %2d сек.</string>
     <string name="moiton_detection_tip">Обнаружение движения… Держите устройство неподвижно.</string>
-    <string name="moiton_detection_video_3840fps_3840">%d  кадр/сек</string>
+    <string name="moiton_detection_video_3840fps_3840">%d кадр/сек</string>
     <string name="moiton_detection_video_electric_quantity_tip">Зарядите устройство, чтобы использовать эту функцию</string>
     <string name="moiton_detection_video_temperature_stop_tip">Устройство перегрелось. Запись прекратится через %d секунд.</string>
     <string name="moiton_detection_video_temperature_tip">Охладите устройство, чтобы использовать эту функцию</string>
