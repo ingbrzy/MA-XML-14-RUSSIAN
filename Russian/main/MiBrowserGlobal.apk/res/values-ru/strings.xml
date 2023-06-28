@@ -584,6 +584,7 @@
     <string name="connection_lost">Отключено</string>
     <string name="consume">Исходящие</string>
     <string name="content_collection_done">Добавлено в избранное</string>
+    <string name="content_recommend">Рекомендуемое</string>
     <string name="context_menu_add_to_desk_id">Добавить на Рабочий стол</string>
     <string name="context_menu_orientation_portrait_swap_id">Повернуть экран</string>
     <string name="contextmenu_add_contact">Добавить контакт</string>
@@ -854,6 +855,7 @@ ID:%s
     <string name="download_sdcard_busy_dlg_title">SD-карта недоступна</string>
     <string name="download_sdcard_no_space">Ошибка загрузки. Недостаточно места.</string>
     <string name="download_secure_download_in_xiaomi_market">Загрузить из GetApps</string>
+    <string name="download_select_dir">Выберите другую папку</string>
     <string name="download_status_failed">Ошибка загрузки</string>
     <string name="download_status_pending">Ожидание</string>
     <string name="download_title">Загрузки</string>
@@ -974,6 +976,7 @@ ID:%s
     <string name="exo_track_unknown">Неизвестный трек</string>
     <string name="expand_article">Посмотреть полностью</string>
     <string name="expand_button_title">Дополнительно</string>
+    <string name="expand_more">Показать еще</string>
     <string name="experience_improve">Программа улучшения качества</string>
     <string name="exported">Экспортировать</string>
     <string name="exposed_dropdown_menu_content_description">Показать раскрывающееся меню</string>
@@ -1792,6 +1795,9 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="nav_bottom_bar_close_description">Закрыть</string>
     <string name="nav_bottom_bar_new_tab">Новая вкладка</string>
     <string name="nav_close_index_tab">Удалить элемент %d</string>
+    <string name="nav_hint_sub_title">Откройте новое окно, чтобы начать просмотр.</string>
+    <string name="nav_hint_title">Здесь ничего нет</string>
+    <string name="nav_incognito_sub_title">В режиме инкогнито Mi Браузер не будет сохранять историю просмотра, данные веб-сайтов, файлы cookie и информацию, которую вы заполняете.</string>
     <string name="nav_launch_title">Попробуйте использовать следующие приложения</string>
     <string name="nav_lunch_duokan">Открытие Duokan…</string>
     <string name="nav_screen_container_tab_incognito">Инкогнито</string>
@@ -2042,6 +2048,10 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="pay_now">Оплатить</string>
     <string name="pay_success_toast">Оплачено</string>
     <string name="payment_method">Способы оплаты</string>
+    <string name="pdf_confirm">OK</string>
+    <string name="pdf_failed_message">Не удалось создать смарт-конспект</string>
+    <string name="pdf_retry">Повторите попытку</string>
+    <string name="pdf_summary">Конспект</string>
     <string name="per_month">В месяц</string>
     <string name="permission_agree_service">Я принимаю все нижеприведенные положения и условия.</string>
     <string name="permission_alert_window">Чтобы использовать эту функцию, разрешите всплывающие окна.</string>
@@ -2451,6 +2461,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="regid">RegId (нажмите для экспорта)</string>
     <string name="release_to_refresh">Отпустите для обновления</string>
     <string name="relevant_recommendations">Рекомендуемые</string>
+    <string name="remember_my_choice">Запомнить выбор</string>
     <string name="remember_passwords_confirm_message">Отключение этой функции может повлиять на использование.</string>
     <string name="remote_config">Удаленная конфигурация (нажмите для экспорта)</string>
     <string name="remove_bookmark">Удалить закладку</string>
@@ -2717,6 +2728,8 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="small_video_native_tab">Короткие видео</string>
     <string name="small_video_net_error">Ошибка соединения</string>
     <string name="small_video_no_more_date">Нет данных</string>
+    <string name="smart_subtitle">Сгенерированный ИИ конспект содержания статьи для быстрого доступа к основным моментам.</string>
+    <string name="smart_summary">Смарт-конспект</string>
     <string name="sms_send_success">Отправлено</string>
     <string name="snapshot">Локальные</string>
     <string name="snapshot_failed">Ошибка сохранения страницы</string>
@@ -3246,6 +3259,21 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_subscribe_tips_3">Наслаждайтесь высокой скоростью</string>
     <string name="vpn_used_all_free_data_toast">Трафик закончился. Оформите подписку, чтобы продолжить.</string>
     <string name="vpn_used_all_toast">Трафик закончился</string>
+    <string name="weather_card_aqi">ИКВ</string>
+    <string name="weather_card_baro">Давление</string>
+    <string name="weather_card_dew_pt">Точка росы</string>
+    <string name="weather_card_feel">Ощущается как %s</string>
+    <string name="weather_card_rh">Влажность</string>
+    <string name="weather_card_vis">Видимость</string>
+    <string name="weather_card_wind_direction_east">Восточный</string>
+    <string name="weather_card_wind_direction_north">Северный</string>
+    <string name="weather_card_wind_direction_northeast">Северо-восточный</string>
+    <string name="weather_card_wind_direction_northwest">Северо-западный</string>
+    <string name="weather_card_wind_direction_south">Южный</string>
+    <string name="weather_card_wind_direction_southeast">Юго-восточный</string>
+    <string name="weather_card_wind_direction_southwest">Юго-западный</string>
+    <string name="weather_card_wind_direction_west">Западный</string>
+    <string name="weather_card_wind_spd">Скорость ветра</string>
     <string name="weather_location_confirm_message">Отключение этой функции может повлиять на работу браузера.</string>
     <string name="web_ad_clear_dialog_cancel">Отмена</string>
     <string name="web_ad_clear_dialog_confirm">Удалить</string>

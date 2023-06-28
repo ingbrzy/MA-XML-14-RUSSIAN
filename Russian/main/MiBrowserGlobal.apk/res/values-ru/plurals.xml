@@ -65,6 +65,12 @@
         <item quantity="one">%d монета</item>
         <item quantity="few">%d монеты</item>
     </plurals>
+    <plurals name="count_likes">
+        <item quantity="other">%s оценок</item>
+        <item quantity="one">%s оценка</item>
+        <item quantity="few">%s оценки</item>
+        <item quantity="many">%s оценок</item>
+    </plurals>
     <plurals name="days_ago">
         <item quantity="other">%1$d дней назад</item>
         <item quantity="one">%1$d день назад</item>
