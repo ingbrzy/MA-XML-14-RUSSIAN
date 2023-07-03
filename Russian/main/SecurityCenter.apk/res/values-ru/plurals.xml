@@ -442,10 +442,18 @@
         <item quantity="one">%d приложение без автозапуска</item>
         <item quantity="few">%d приложения без автозапуска</item>
     </plurals>
+    <plurals name="hints_auto_start_disable_title_global">
+        <item quantity="other">%d приложениям запрещён запуск в фоновом режиме</item>
+        <item quantity="one">%d приложению запрещён запуск в фоновом режиме</item>
+    </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d приложений с автозапуском</item>
         <item quantity="one">%d приложение с автозапуском</item>
         <item quantity="few">%d приложения с автозапуском</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title_global">
+        <item quantity="other">%d приложениям разрешён запуск в фоновом режиме</item>
+        <item quantity="one">%d приложению разрешён запуск в фоновом режиме</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
         <item quantity="other">%d приложений без ROOT-доступа</item>

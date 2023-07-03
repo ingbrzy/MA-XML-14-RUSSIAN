@@ -245,6 +245,8 @@
     <string name="close_multi_finger_slide_summary">Жесты тремя или четырьмя пальцами будут игнорироваться в некоторых сценариях (например, при воспроизведении видео или в играх).</string>
     <string name="close_multi_finger_slide_title">Игнорирование жестов</string>
     <string name="cloud_app_restore_title">Ожидание</string>
+    <string name="color_group">Группировка по цвету</string>
+    <string name="color_group_anim">Анимация в цветовых категориях</string>
     <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
     <string name="common_home_search_delete">Удаление панели поиска</string>
     <string name="common_home_search_delete_cancle">Отмена</string>
@@ -349,6 +351,7 @@
     <string name="failed_to_drop">Не удалось переместить</string>
     <string name="failed_to_drop_widget_invalid">Недопустимый виджет</string>
     <string name="failed_to_load_image">Размер изображения слишком мал</string>
+    <string name="find_app_by_color">Группировка иконок по цвету для быстрого поиска приложений</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
@@ -391,6 +394,8 @@
     <string name="free_style_enter_tip">Проведите двумя пальцами сверху вниз для перехода в Mi Space</string>
     <string name="free_style_exit_tip">Проведите двумя пальцами снизу вверх для возврата на рабочий стол</string>
     <string name="free_style_londing_text">Подождите…</string>
+    <string name="free_style_title">Mi Space</string>
+    <string name="free_style_unavailable_message">Mi Space больше не поддерживается в этой версии. Однако вы можете продолжать использовать эту тему.</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>

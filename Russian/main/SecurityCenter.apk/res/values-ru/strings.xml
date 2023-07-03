@@ -74,6 +74,7 @@
     <string name="abnormal_consume_type_cpu">Высокая загрузка ЦП</string>
     <string name="abnormal_consume_type_wakelock">Система не переходит в спящий режим</string>
     <string name="about_autostart">Об автозапуске</string>
+    <string name="about_autostart_gloabl">Об автозапуске в фоне</string>
     <string name="ac_enter_applock">Войдите в Защиту приложений</string>
     <string name="ac_firstUseApplock_subTitle">Используйте лучшие средства безопасности</string>
     <string name="ac_firstUseApplock_title">Задайте пароль для защиты приложений</string>
@@ -119,6 +120,7 @@
     <string name="activity_title_antivirus_kddi">Антивирус</string>
     <string name="activity_title_apps_manager">Приложения</string>
     <string name="activity_title_auto_start_manager">Автозапуск</string>
+    <string name="activity_title_auto_start_manager_global">Автозапуск в фоне</string>
     <string name="activity_title_create_shortcut">Ярлыки</string>
     <string name="activity_title_garbage_cleanup">Очистка</string>
     <string name="activity_title_license_manager">Разрешения</string>
@@ -1448,6 +1450,7 @@
     <string name="dialog_change_package_type_summary">Изменение типа тарифа приведет к сбросу всех настроек передачи данных (например, лимитов трафика) до их значений по умолчанию. Изменить тип тарифа?</string>
     <string name="dialog_change_package_type_title">Изменение типа тарифа</string>
     <string name="dialog_msg_auto_start_declare">Некоторые приложения могут некорректно сообщать, что система не разрешила их запуск. Проверьте разрешения, выданные отдельным приложениям, в разделе Настройки &gt; Приложения.</string>
+    <string name="dialog_msg_auto_start_declare_global">Некоторые приложения могут некорректно сообщать, что MIUI не разрешила их запуск. Проверьте разрешения, выданные отдельным приложениям, в Настройках.</string>
     <string name="dialog_msg_create_icon_content">Добавить ярлык на рабочий стол?</string>
     <string name="dialog_msg_create_icon_not_remain_anymore">Больше не показывать</string>
     <string name="dialog_msg_delete_icon_content">Приложение Безопасность позволяет очищать мусор на устройстве, находить и обезвреживать вирусы, экономить заряд батареи, управлять разрешениями и многое другое.</string>
@@ -1484,6 +1487,7 @@
     <string name="dialog_skt_roaming_warning_title">Соглашение интернет-роуминга</string>
     <string name="dialog_title_attention">Внимание</string>
     <string name="dialog_title_auto_start_declare">Об автозапуске</string>
+    <string name="dialog_title_auto_start_declare_global">Об автозапуске в фоне</string>
     <string name="dialog_title_stop_virus_scan">Остановка проверки</string>
     <string name="disable_air_mode">Сначала отключите режим полёта</string>
     <string name="disable_sensitive_permissions">Конфиденциальные разрешения ограничены</string>
@@ -3566,6 +3570,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_battery_history_total_consumption_title">Энергопотребление</string>
     <string name="pc_battery_history_usetime_title">Активный режим</string>
     <string name="pc_close_notifi_action">Отключить</string>
+    <string name="pc_continuity_has_open_save_mode_notifi_sumary">Экономия заряда будет отключена, когда %1$s будет %2$s или при полном заряде</string>
+    <string name="pc_continuity_has_open_save_mode_notifi_title">Включение экономии заряда на %s</string>
+    <string name="pc_continuity_open_save_mode_notifi_sumary">Заряд %1$s менее %2$s. Включите экономию заряда, чтобы добавить %3$s %4$s.</string>
+    <string name="pc_continuity_open_save_mode_notifi_title">Батарея %s разряжена</string>
     <string name="pc_emergency_call">SOS</string>
     <string name="pc_endurance_calculation">Вычисление…</string>
     <string name="pc_entered_extreme_mode">Включён режим гибернации</string>

@@ -270,6 +270,8 @@
     <string name="privacy_mosaic_result_fail">Не удалось заблокировать вывод личной информации. Попробуйте еще раз.</string>
     <string name="privacy_mosaic_result_none">Личная информация не найдена</string>
     <string name="privacy_mosaic_tip">Нажмите, чтобы заблокировать вывод личной информации</string>
+    <string name="privacy_mosaic_tip_long">Скриншоты с прокруткой не поддерживаются</string>
+    <string name="privacy_mosaic_tip_partial">Частичные скриншоты не поддерживаются</string>
     <string name="realme">realme</string>
     <string name="realme_phone">realme</string>
     <string name="redmi_10x">Redmi 10X</string>

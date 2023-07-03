@@ -733,6 +733,7 @@
     <string name="sender_finish_title">Успешно передано</string>
     <string name="sender_scanning_code">Поместите изображение в рамку</string>
     <string name="sender_scanning_connecting">Подключение к новому устройству…</string>
+    <string name="set_app_suspend">Выполняется резервное копирование этого приложения. Дождитесь завершения и повторите попытку.</string>
     <string name="set_new_device_account">Синхронизация с Xiaomi аккаунтом</string>
     <string name="set_new_device_lock">Настройка защиты</string>
     <string name="set_new_device_more">Дополнительные системные настройки…</string>

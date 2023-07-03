@@ -60,6 +60,10 @@
         <item quantity="other">&lt;Data>Устройство слишком горячее.&lt;br>Приложение будет закрыто через &lt;font color=#FFCE16>&lt;b>%1$d сек.&lt;/b>&lt;/font> Текущий прогресс автоматически сохранён.&lt;/Data></item>
         <item quantity="one">&lt;Data>Устройство слишком горячее.&lt;br>Приложение будет закрыто через &lt;font color=#FFCE16>&lt;b>%1$d сек.&lt;/b>&lt;/font> Текущий прогресс автоматически сохранён.&lt;/Data></item>
     </plurals>
+    <plurals name="exit_version_hint">
+        <item quantity="other">&lt;Data>"Версия приложения Камера несовместима с вашим устройством.&lt;br>Приложение закроется через &lt;font color=#FFCE16>&lt;b>%1$d сек.&lt;/b>&lt;/font>. Удалите обновления и повторите попытку."&lt;/Data></item>
+        <item quantity="one">&lt;Data>"Версия приложения Камера несовместима с вашим устройством.&lt;br>Приложение закроется через &lt;font color=#FFCE16>&lt;b>%1$d сек.&lt;/b>&lt;/font>. Удалите обновления и повторите попытку."&lt;/Data></item>
+    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d мин.</item>
         <item quantity="one">%1$d мин.</item>
