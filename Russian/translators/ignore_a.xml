@@ -589,6 +589,7 @@
     <string-array name="control_center_independent_tiles_wifi"></string-array>
     <array name="coolsound_area_bg"></array>
     <string-array name="coolsound_area_mash_up"></string-array>
+    <string-array name="coolsound_area_mash_up_names"></string-array>
     <string-array name="coolsound_dynamic_source_calendar"></string-array>
     <string-array name="coolsound_dynamic_source_notification"></string-array>
     <array name="coolsound_nature_area"></array>

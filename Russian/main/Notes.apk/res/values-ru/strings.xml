@@ -259,8 +259,11 @@
     <string name="fmt_time_second">"s'с'"</string>
     <string name="fmt_time_second_millis">"s.S'с'"</string>
     <string name="folder_exist">Папка с таким именем уже существует</string>
+    <string name="folder_note">Папки</string>
     <string name="folder_operation_delete">Удалить</string>
     <string name="folder_operation_rename">Переименовать</string>
+    <string name="folder_other">Другие</string>
+    <string name="foler_pinned">Закреплённые</string>
     <string name="force_touch_menu_add">Заметка</string>
     <string name="format_move_note_out_folder">Заметка перемещена</string>
     <string name="format_move_note_to_folder">Перемещено в %1$s</string>
@@ -529,6 +532,7 @@
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
     <string name="network_error_info">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
+    <string name="new_alert_title_delete">Удаление заметок</string>
     <string name="new_app_name">Заметки</string>
     <string name="new_audio_create_cancel_talkback_des">Отменено</string>
     <string name="new_audio_create_done_talkback_des">Создано</string>
@@ -536,6 +540,7 @@
     <string name="new_audio_create_talkback_des">Коснитесь, чтобы создать текстовую заметку. Нажмите и удерживайте для создания голосовой заметки. Отпустите для остановки записи и создания заметки, или сдвиньте вверх для отмены.</string>
     <string name="new_data_empty_note">Ничего нет</string>
     <string name="new_lite_audio_create_talkback_des">Нажмите, чтобы создать заметку</string>
+    <string name="new_sync_desc_state_disable">Включите облачную синхронизацию для заметок, задач и прочего</string>
     <string name="night">Вечер</string>
     <string name="no_network">Не удалось подключиться к сети</string>
     <string name="noon">Полдень</string>

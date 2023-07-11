@@ -141,6 +141,8 @@
     <string name="noon">Полдень</string>
     <string name="open_app">Открыть приложение</string>
     <string name="prompt">Запрос на подключение</string>
+    <string name="sanitized_vpn_label">%1$s ( %2$s)</string>
+    <string name="sanitized_vpn_label_with_ellipsis">%1$s… ( %2$s)</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
