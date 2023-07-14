@@ -116,6 +116,7 @@
     <string name="invisible_mode_dialog_title">Режим инкогнито</string>
     <string name="keywords_search_compass">Компас;Калибровка компаса;Давление;Высота;Широта;Долгота;MIUI Компас;Приложение компас;Направление;Атмосферное давление;Какая высота</string>
     <string name="latitude">ШИРОТА</string>
+    <string name="live_action">Предпросмотр в реальном времени</string>
     <string name="location_east">ДОЛГОТА (В)</string>
     <string name="location_enable">Разрешить</string>
     <string name="location_enable_later">Позже</string>
@@ -124,6 +125,8 @@
     <string name="location_not_enabled_summary">Разрешите приложению Компас использовать геолокацию для отображения координат и высоты.</string>
     <string name="location_not_enabled_summary_no_pressure_sensor">Разрешите приложению Компас использовать геолокацию для отображения ваших текущих координат.</string>
     <string name="location_not_enabled_title">Геолокация</string>
+    <string name="location_permission_tip_one">Нажмите, чтобы предоставить разрешение использовать геолокацию для просмотра широты, долготы, атмосферного давления и высоты над уровнем моря</string>
+    <string name="location_permission_tip_two">Нажмите, чтобы предоставить разрешение использовать геолокацию для просмотра широты и долготы</string>
     <string name="location_south">ШИРОТА (Ю)</string>
     <string name="location_west">ДОЛГОТА (З)</string>
     <string name="longitude">ДОЛГОТА</string>
@@ -198,7 +201,13 @@
     <string name="month_september_shortest">Сен</string>
     <string name="more">Ещё</string>
     <string name="morning">Утро</string>
+    <string name="network_dialog_message">Приложению Компас необходимо подключение к интернету для доступа к более точным данным о высоте. Разрешить?</string>
+    <string name="network_dialog_negative">Отмена</string>
+    <string name="network_dialog_positive">Разрешить</string>
+    <string name="network_dialog_title">Предоставьте разрешения</string>
     <string name="new_cta_app_purpose">Отображение направления и координат</string>
+    <string name="new_cta_app_purpose_one">Добро пожаловать в приложение Компас! Вы можете использовать его для определения сторон света, получения широты, долготы, атмосферного давления и высоты. Для работы приложения необходимо подключение к интернету.</string>
+    <string name="new_cta_app_purpose_two">Добро пожаловать в приложение Компас! Вы можете использовать его для определения сторон света, получения широты и долготы. Для работы приложения необходимо подключение к интернету.</string>
     <string name="new_cta_v2_app_purpose">Отображение направления, координат, атмосферного давления и текущей высоты</string>
     <string name="new_permission_camera_desc">Для предпросмотра в реальном времени</string>
     <string name="new_permission_location_desc">Для отображения координат</string>
@@ -207,7 +216,7 @@
     <string name="not_allowed">Не предоставлено</string>
     <string name="not_set">Не задано</string>
     <string name="open_camera">Разрешить</string>
-    <string name="open_perm_msg">Приложению Компас требуется разрешение использовать геолокацию и камеру. Это необходимо для определения координат и просмотра в режиме реального времени. Разрешить?</string>
+    <string name="open_perm_msg">Приложению Компас требуется разрешение использовать геолокацию и камеру для определения координат и предпросмотра в реальном времени. Разрешить?</string>
     <string name="open_perm_msg_no_camera">Приложению Компас требуется разрешение использовать геолокацию для определения координат. Разрешить?</string>
     <string name="open_perm_title">Предоставьте разрешения</string>
     <string name="pageIndicator">%1$s. %2$s.</string>
@@ -312,6 +321,8 @@
     <string name="unit_degree">Градусы</string>
     <string name="using_camera_confirm_cancel">Выход</string>
     <string name="using_camera_confirm_ok">Разрешить</string>
+    <string name="v2_permission_location_desc_one">Для отображения широты, долготы, высоты и атмосферного давления</string>
+    <string name="v2_permission_location_desc_two">Для отображения широты и долготы</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="wednesday">Среда</string>
