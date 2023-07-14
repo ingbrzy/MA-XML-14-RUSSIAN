@@ -375,6 +375,7 @@
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="path_soundrecorder_setting">Системные приложения/Диктофон</string>
     <string name="pause">Пауза</string>
+    <string name="pause_status_focus_notification">Приостановлено</string>
     <string name="pay_error_cancel">Платеж отменен</string>
     <string name="pay_error_null">Не удалось завершить платеж. Проверьте свой аккаунт.</string>
     <string name="pay_error_unknown">Неизвестная ошибка</string>
@@ -502,6 +503,7 @@
     <string name="recording_quality_high">Высокое качество</string>
     <string name="recording_quality_low">Низкое качество</string>
     <string name="recording_quality_standard">Стандартное качество</string>
+    <string name="recording_status_focus_notification">Запись</string>
     <string name="recording_stopped">Запись остановлена</string>
     <string name="recovery">Восстановление</string>
     <string name="recovery_failed_dialog_button">Понятно</string>
@@ -594,6 +596,7 @@
     <string name="status_bar_back">Вернуться в диктофон</string>
     <string name="status_bar_recording">Запись…</string>
     <string name="status_bar_recording_pause">Пауза</string>
+    <string name="stop_status_focus_notification">Завершено</string>
     <string name="storage_permission_dialog_title">Разрешите доступ к хранилищу</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>

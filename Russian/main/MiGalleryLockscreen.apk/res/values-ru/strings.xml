@@ -219,6 +219,8 @@
     <string name="declaration_title">Условия и положения</string>
     <string name="delete_pic">Удалить</string>
     <string name="deny_des">Приложению для нормальной работы необходим доступ к Галерее.</string>
+    <string name="detail_ad_download_btn">Загрузить</string>
+    <string name="detail_ad_open_btn">Открыть</string>
     <string name="detail_ad_type_ad">Объявления</string>
     <string name="detail_ad_type_close_ad">Закрыть</string>
     <string name="detail_ad_type_video">Популярные видео</string>
@@ -490,6 +492,7 @@ mm"</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>

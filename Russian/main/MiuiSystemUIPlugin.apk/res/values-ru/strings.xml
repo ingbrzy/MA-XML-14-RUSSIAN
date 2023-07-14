@@ -457,6 +457,8 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
+    <string name="super_volume_text">200%</string>
+    <string name="super_volume_toast">Усиление громкости включено</string>
     <string name="switch_bar_off">Откл</string>
     <string name="switch_bar_on">Вкл</string>
     <string name="system_update">Обновление системы</string>

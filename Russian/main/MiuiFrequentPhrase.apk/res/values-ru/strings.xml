@@ -206,6 +206,10 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
+    <string name="super_clipboard_alert_dialog_cancel_button">Отмена</string>
+    <string name="super_clipboard_alert_dialog_sure_button">ОК</string>
+    <string name="super_clipboard_send_file">Вставить файл из буфера обмена?</string>
+    <string name="super_clipboard_send_image">Вставить изображение из буфера обмена?</string>
     <string name="sync_phrase_label">Частые фразы</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
