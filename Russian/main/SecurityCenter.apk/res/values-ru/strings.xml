@@ -249,7 +249,7 @@
     <string name="antivirus_third_privacy_title">Политика конфиденциальности третьих лиц</string>
     <string name="antivirus_toast_already_update">Обновление не требуется</string>
     <string name="antivirus_toast_network_unavailable">Ошибка подключения к сети</string>
-    <string name="antivirus_toast_update_failed">Ошибка обновления</string>
+    <string name="antivirus_toast_update_failed">Повторите попытку позже</string>
     <string name="antivirus_toast_update_success">Обновление завершено</string>
     <string name="antivirus_toast_updating">Обновление сигнатур…</string>
     <string name="antivirus_update_btn_contiue">Продолжить</string>
@@ -929,7 +929,7 @@
     <string name="back_sound_data">Включите передачу данных и повторите попытку.</string>
     <string name="back_sound_fail">Ошибка. Настройки оператора изменены. Установите текущую SIM карту в качестве карты данных, подключитесь к сети и повторите попытку.</string>
     <string name="back_sound_success">Настройка завершена</string>
-    <string name="back_sound_support">Сеть вашего оператора не поддерживает эту настройку.</string>
+    <string name="back_sound_support">Отключите Wi-Fi</string>
     <string name="background_restrict_app_dialog_message">Ограничение фонового подключения для этого приложения может привести к тому, что приложение не сможет нормально работать, получать сообщения, загружать данные и т.д. Ограничить подключение?</string>
     <string name="background_traffic">Фоновый: %s</string>
     <string name="backsound_set_hint">Установить сообщение об отсутствии на \"%s\"?</string>

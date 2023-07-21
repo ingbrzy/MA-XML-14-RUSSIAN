@@ -225,7 +225,7 @@
     <string name="cate_order_reset">Сброс</string>
     <string name="category_already_exists">Категория уже существует</string>
     <string name="category_cannot_empty">Введите название категории</string>
-    <string name="category_choose_no_app_select_tip">Добавьте приложение</string>
+    <string name="category_choose_no_app_select_tip">Каждая категория должна содержать как минимум %d приложение</string>
     <string name="category_drawer_name_hint">Введите название категории</string>
     <string name="category_edit_back_confirm_dialog_content">Сохранить изменения?</string>
     <string name="category_edit_back_confirm_dialog_negative_button">Отмена</string>
@@ -876,8 +876,8 @@
     <string name="request_permission_title">Предоставьте разрешения</string>
     <string name="reset_cate_tip_content">Будут восстановлены категории по умолчанию. Продолжить?</string>
     <string name="reset_cate_tip_title">Сброс категорий</string>
-    <string name="reset_description_first_time">Вы можете восстановить рабочий стол с %1$s в течение 2 часов</string>
-    <string name="reset_description_others">Вы можете восстановить рабочий стол с %1$s</string>
+    <string name="reset_description_first_time">Вы можете восстановить рабочий стол из %2$s в течение %1$d ч.</string>
+    <string name="reset_description_others">Вы можете восстановить рабочий стол из %1$s</string>
     <string name="reset_fail">Восстановление не удалось</string>
     <string name="reset_scene_prompt">Порядок приложений и ярлыков на рабочем столе будет сброшен</string>
     <string name="reset_title">Восстановить</string>
