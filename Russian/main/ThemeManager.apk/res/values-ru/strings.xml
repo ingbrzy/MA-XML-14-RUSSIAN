@@ -60,6 +60,8 @@
     <string name="ad_download_resume">Продолжить</string>
     <string name="ad_downloading_tip">Идёт загрузка. Вы можете посмотреть прогресс в шторке уведомлений.</string>
     <string name="ad_experience_now">Открыть</string>
+    <string name="ad_in_downloading">Загрузка</string>
+    <string name="ad_in_installing">Установка</string>
     <string name="ad_tag_text_1">Популярное</string>
     <string name="ad_tag_text_2">Тренд</string>
     <string name="add">Добавить</string>

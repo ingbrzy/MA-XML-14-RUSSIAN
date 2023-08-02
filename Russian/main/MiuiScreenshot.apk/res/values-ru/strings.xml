@@ -346,6 +346,8 @@
     <string name="screen_talkback_shape">Фигура</string>
     <string name="screen_talkback_small">Очень маленький</string>
     <string name="screen_talkback_text">Текст</string>
+    <string name="screenshot_detected_multiple_template">Скриншот найден несколькими приложениями, включая %1$s</string>
+    <string name="screenshot_detected_template">Скриншот найден приложением %1$s</string>
     <string name="screenshot_edit">Изменить</string>
     <string name="screenshot_failed_in_landscape_mode">Скриншоты с прокруткой в альбомном режиме не поддерживаются</string>
     <string name="screenshot_failed_to_capture_title">Скриншот запрещён</string>

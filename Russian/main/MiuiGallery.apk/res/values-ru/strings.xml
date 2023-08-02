@@ -2103,6 +2103,7 @@ ID: %s
     <string name="passport_user_id_hint">Email/номер телефона/ID аккаунта Xiaomi</string>
     <string name="passport_user_id_intro">Введите пароль для %1$s</string>
     <string name="passport_user_password_hint">Пароль</string>
+    <string name="passport_vcode_what_app_send_prompt">Код подтверждения WhatsApp будет отправлен на номер для восстановления (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_wechat_not_install">Сначала установите WeChat</string>
     <string name="passport_wrong_captcha">Код введен неверно</string>
     <string name="passport_wrong_phone_number_format">Неверный формат номера телефона</string>
@@ -2559,7 +2560,7 @@ ID: %s
     <string name="rename_fail_msg">Не удалось переименовать</string>
     <string name="rename_from_contact">Использовать имя контакта</string>
     <string name="request_agree">Разрешить</string>
-    <string name="request_camera_permission_message">"Мы будем защищать вашу личную информацию в соответствии с действующими законами и правилами. Этому приложению для нормальной работы требуются следующие разрешения:&lt;br>&lt;br>&lt;b>Доступ к камере (для установки фото профиля)&lt;/b>&lt;br>&lt;br>Если вы не предоставите такие разрешения, вы не сможете использовать некоторые функции этого приложения, однако его базовая функциональность будет по-прежнему доступна. Вы всегда можете ограничить разрешения или отозвать свое разрешение в Настройках."</string>
+    <string name="request_camera_permission_message">"Мы будем защищать вашу личную информацию в соответствии с действующими законами и правилами. Для нормальной работы приложению требуется следующее разрешение:&lt;br>&lt;br>&lt;b>Доступ к камере (для установки фото профиля)&lt;/b>&lt;br>&lt;br>В случае отказа предоставить разрешение, вы не сможете использовать некоторые функции этого приложения, однако основной функционал останется доступен. Ограничить или отозвать разрешение можно в любое время в Настройках."</string>
     <string name="request_cancel">Отмена</string>
     <string name="request_error_invalid_token">Не удалось проверить</string>
     <string name="request_error_network">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>

@@ -107,6 +107,7 @@
     <string name="cancel_moving_dialog_message">Прекратить импорт сейчас?</string>
     <string name="cancel_moving_dialog_title">Прекратить импорт</string>
     <string name="cancel_tranfer">Отмена</string>
+    <string name="cannot_use_mi_huanji_bacause_of_downloader">\"%s\" установлен в качестве службы резервного копирования. Удалите его и перезагрузите устройство, чтобы использовать Mi Mover.</string>
     <string name="cannot_use_mi_huanji_bacause_of_qqdownloader">QQ Downloader установлен в качестве службы резервного копирования. Удалите его и перезагрузите устройство, чтобы использовать Mi Mover.</string>
     <string name="cannot_use_mi_huanji_button">Понятно</string>
     <string name="cannot_use_mi_huanji_summary">Похоже, MIUI сейчас выполняет резервное копирование. Остановите текущее резервное копирование или перезагрузите устройство, чтобы Mi Mover мог начать передачу.</string>
@@ -649,7 +650,9 @@
     <string name="receiver_finish_detail_button">Подробности</string>
     <string name="receiver_finish_detail_fail">Не удалось передать</string>
     <string name="receiver_finish_detail_success">Переданные данные</string>
+    <string name="receiver_finish_not_transferred">Не передано</string>
     <string name="receiver_finish_title">Все готово!</string>
+    <string name="receiver_finish_transferred">Передано</string>
     <string name="receiver_video_summary">Разблокируйте свое старое устройство, нажмите \"Перенести\" и отсканируйте это изображение</string>
     <string name="receiver_video_title">Перенос со старого устройства</string>
     <string name="recent_one_year">За 1 год</string>

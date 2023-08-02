@@ -142,4 +142,9 @@
         <item quantity="one">%d минута</item>
         <item quantity="few">%d минуты</item>
     </plurals>
+    <plurals name="transfer_failed_summary">
+        <item quantity="other">Не удалось передать %d файлов</item>
+        <item quantity="one">Не удалось передать %d файл</item>
+        <item quantity="few">Не удалось передать %d файла</item>
+    </plurals>
 </resources>
