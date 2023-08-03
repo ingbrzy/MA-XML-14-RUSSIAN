@@ -1347,7 +1347,7 @@ ID:%s
     <string name="material_timepicker_select_time">Установите время</string>
     <string name="material_timepicker_text_input_mode_description">Ввод времени в текстовом режиме</string>
     <string name="memory_clear_nothing_result">Очистка памяти не требуется</string>
-    <string name="memory_clear_result">%1$sБ очищено</string>
+    <string name="memory_clear_result">%1$s Б очищено</string>
     <string name="menu_new">Добавить</string>
     <string name="metre">м</string>
     <string name="mi_agenda">Мероприятия</string>
