@@ -1686,6 +1686,10 @@ mm"</string>
     <string name="wallpaper_settings_page_title">Обои</string>
     <string name="wallpaper_share_alert">Произошла ошибка. Повторите попытку позже.</string>
     <string name="wallpaper_static">Статические</string>
+    <string name="warning_miui_optimization_closed_dialog_agree">Настройки</string>
+    <string name="warning_miui_optimization_closed_dialog_disagree">Применить</string>
+    <string name="warning_miui_optimization_closed_dialog_message">На устройстве не включена оптимизация MIUI, без этого данная тема не будет работать должным образом. Всё равно применить тему или включить оптимизацию MIUI в Настройках?</string>
+    <string name="warning_miui_optimization_closed_dialog_title">Внимание</string>
     <string name="warning_subscribe_wallpaper_group_content">Включено слайд-шоу для рабочего стола. Будут добавлены %1$s.</string>
     <string name="wechat_not_found">Установите WeChat</string>
     <string name="wednesday">Среда</string>

@@ -2337,6 +2337,7 @@
     <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
     <string name="empty">" "</string>
     <string name="empty_activity_title">" "</string>
+    <string name="encrypt_app_aes_key">cRCaZZvSn73In2mMPjjFHeE0sEcfyB6h</string>
     <string name="enumeration_delimiter">" | "</string>
     <string name="error_message_respond_revert_01">@string/error_message_account_or_password</string>
     <string name="error_message_respond_revert_02">@string/error_message_account_or_password</string>

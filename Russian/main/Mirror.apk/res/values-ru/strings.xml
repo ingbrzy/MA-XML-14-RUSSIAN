@@ -453,6 +453,9 @@
     <string name="settings_how_use">Подключение</string>
     <string name="settings_log_options">Журнал</string>
     <string name="settings_more_help">Помощь</string>
+    <string name="settings_nfc_transfer_desc1">"·Поднесите устройство, на котором выполнен вход в учётную запись Xiaomi, к NFC-модулю другого устройства, чтобы поделиться содержимым экрана или передать файлы, выбранные в Проводнике или Галерее."</string>
+    <string name="settings_nfc_transfer_desc2">·Список совместимых устройств: %s</string>
+    <string name="settings_nfc_transfer_title">Передача через NFC</string>
     <string name="settings_pad">Планшет</string>
     <string name="settings_pad_handoff_title">Автоподключение</string>
     <string name="settings_pc">ПК</string>

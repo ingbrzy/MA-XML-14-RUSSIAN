@@ -184,6 +184,7 @@
     <string name="exception_param_error">Произошла ошибка. Повторите попытку позже.</string>
     <string name="exception_rename_conflict">Не удалось переименовать. Файл с таким именем уже существует.</string>
     <string name="exception_rename_illegal_char">Имя файла не может содержать специальные символы</string>
+    <string name="exception_share_file">Не удалось загрузить. Повторите попытку позже.</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="fab_menu_sort">Сортировка</string>
     <string name="file_info_created">"Загружено:"</string>
@@ -271,6 +272,7 @@
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>

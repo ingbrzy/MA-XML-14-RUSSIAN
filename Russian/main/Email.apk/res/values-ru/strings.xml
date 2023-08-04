@@ -319,7 +319,8 @@
     <string name="auto_remind_discribe_text">Включите для автоматического получения напоминаний</string>
     <string name="auto_remind_text">Автоматические напоминания</string>
     <string name="auto_remind_unbind">Отключить</string>
-    <string name="auto_sync_off">Автоматическая синхронизация выключена.</string>
+    <string name="auto_start_open_prompt">Разрешите автозапуск приложения для синхронизации электронной почты. Разрешение можно предоставить в Настройках.</string>
+    <string name="auto_sync_off">Автосинхронизация отключена</string>
     <string name="automatic_remind_text">Напомнить автоматически</string>
     <string name="bContact_list_search_hint">Поиск заблокированных контактов</string>
     <string name="b_contacts">Чёрный список</string>
@@ -356,6 +357,7 @@
     <string name="calendar_skip_no_account_alert">Аккаунт не найден</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_action">Отмена</string>
+    <string name="cancel_edit">Завершить</string>
     <string name="cancel_pop3_attchemt_downloading">Не удается отменить текущие загрузки для вложений в аккаунтах POP3</string>
     <string name="cant_move_or_change_labels">Не удалось переместить сообщения, так как они находятся в разных аккаунтах.</string>
     <string name="cc">Копия</string>
@@ -582,6 +584,7 @@
     <string name="drive_card_code">Код доступа: </string>
     <string name="drive_card_tips">%s поделился файлами в облаке</string>
     <string name="drive_card_title">URL-адрес облака</string>
+    <string name="drop_sign_operation">Завершить редактирование и отменить все изменения?</string>
     <string name="dtend">Конец</string>
     <string name="dtstart">Начало</string>
     <string name="due">В срок</string>
@@ -1256,6 +1259,7 @@
     <string name="open_pdf_error">Не удалось открыть PDF-файл. Установите приложение для просмотра PDF и повторите попытку.</string>
     <string name="operation_settging">Действия</string>
     <string name="optimization_suggestion">Обратная связь</string>
+    <string name="other_pdf_open">Открыть в…</string>
     <string name="others_mail">Другое</string>
     <string name="others_mail_des">Личные или корпоративные почтовые сервисы</string>
     <string name="outbox_alert_button_no_resend">Не отправлять</string>
@@ -1319,6 +1323,7 @@
     <string name="pdf_has_signature_prompt_confirm">Подписанная копию</string>
     <string name="pdf_has_signature_prompt_message">Вложение содержит подписанную копию. Открыть?</string>
     <string name="pdf_save_error">Не удалось преобразовать в PDF. Сообщение слишком длинное.</string>
+    <string name="pdf_save_local">"Сохранено на устройстве: "</string>
     <string name="pdf_save_no_body">Дождитесь полной загрузки сообщения перед преобразованием в PDF</string>
     <string name="pdf_save_to">"Сохранено в "</string>
     <string name="pdf_signature_add">Добавить новую подпись</string>
@@ -1362,6 +1367,7 @@
     <string name="photo_load_failed">Не удалось загрузить изображение</string>
     <string name="pl_select_age">Укажите возраст</string>
     <string name="please_fill_in_your_mailbox_information2">Введите данные</string>
+    <string name="please_save_sign_first">Сохраните подпись</string>
     <string name="pls_parse_bill_discribe">"Анализируйте счета и информацию о поездках в вашей почте
 для получения напоминаний о платежах и поездках"</string>
     <string name="policy_app_blacklist">Запретить выбранные приложения</string>
@@ -1558,6 +1564,7 @@
     <string name="save_draft_failed">Черновик не сохранён</string>
     <string name="save_power_summary">Настройка синхронизации для экономии заряда батареи</string>
     <string name="save_power_title">Экономия заряда батареи</string>
+    <string name="save_sign_pdf">Сохранить на устройстве</string>
     <string name="save_this_new_signature">Сохранить новую подпись?</string>
     <string name="saved">"Загружено: %s | "</string>
     <string name="saving">Сохранение…</string>
@@ -1820,14 +1827,14 @@
     <string name="train_card_title_change_arrival">Место назначения успешно изменено</string>
     <string name="train_card_title_refund">Билет успешно аннулирован</string>
     <string name="train_travel_refund_info" formatted="false">Комиссия за возврат ¥%s，возврат ¥%s</string>
-    <string name="translated_text_too_long">Преведённый текст слишком длинный</string>
+    <string name="translated_text_too_long">Текст слишком длинный</string>
     <string name="translation_loading">Подождите…</string>
     <string name="translation_no_result">Нет результатов</string>
     <string name="translation_pronunciation_am">AmE</string>
     <string name="translation_pronunciation_cn">Пиньинь</string>
     <string name="translation_pronunciation_en">BrE</string>
     <string name="translation_pronunciation_other">Машинный</string>
-    <string name="translation_query_failure">Не удалось найти результаты</string>
+    <string name="translation_query_failure">Ничего не найдено</string>
     <string name="translation_technology_support">Техническая поддержка предоставляется iciba.com</string>
     <string name="trash_folder_selection_title">Выберите корзину на сервере для \"%s\"</string>
     <string name="trigger_before_day">За %d д.</string>
