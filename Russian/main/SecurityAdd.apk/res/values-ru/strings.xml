@@ -98,7 +98,7 @@
     <string name="delete_space_loading">Удаление детского пространства…</string>
     <string name="dialog_market_score_cancel">Отмена</string>
     <string name="dialog_market_score_dislike">Отзыв</string>
-    <string name="dialog_market_score_like">5 звезд!</string>
+    <string name="dialog_market_score_like">Пять звезд!</string>
     <string name="dialog_market_score_positive_button">Отзыв</string>
     <string name="dialog_market_score_submit">Отправить</string>
     <string name="dialog_market_score_subtitle_step1">Нажмите, чтобы оценить приложение.</string>
