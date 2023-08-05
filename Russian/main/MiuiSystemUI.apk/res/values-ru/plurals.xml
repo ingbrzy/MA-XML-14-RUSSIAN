@@ -101,14 +101,14 @@
         <item quantity="few">Неверный PUK-код, осталось %d попытки</item>
     </plurals>
     <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Вы не вводили пароль более %d часов. Введите пароль.</item>
-        <item quantity="one">Вы не вводили пароль более %d часа. Введите пароль.</item>
-        <item quantity="few">Вы не вводили пароль более %d часов. Введите пароль.</item>
+        <item quantity="other">Вы не подтверждали защиту более %d часов. Подтвердите защиту.</item>
+        <item quantity="one">Вы не подтверждали защиту более %d часа. Подтвердите защиту.</item>
+        <item quantity="few">Вы не подтверждали защиту более %d часов. Подтвердите защиту.</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Вы не вводили графический ключ более %d часов. Введите графический ключ.</item>
-        <item quantity="one">Вы не вводили графический ключ более %d часа. Введите графический ключ.</item>
-        <item quantity="few">Вы не вводили графический ключ более %d часов. Введите графический ключ.</item>
+        <item quantity="other">Вы не подтверждали защиту более %d часов. Подтвердите защиту.</item>
+        <item quantity="one">Вы не подтверждали защиту более %d часа. Подтвердите защиту.</item>
+        <item quantity="few">Вы не подтверждали защиту более %d часов. Подтвердите защиту.</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Заряда хватит на %d ч.</item>
