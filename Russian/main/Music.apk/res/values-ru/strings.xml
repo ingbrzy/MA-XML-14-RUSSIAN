@@ -1689,6 +1689,7 @@ ID: %s
     <string name="song_offline">Этот трек больше не доступен.</string>
     <string name="song_picker_complete">Готово</string>
     <string name="song_quality_category">Музыка</string>
+    <string name="song_swipe_navigation">Проведите влево или вправо для переключения трека</string>
     <string name="songgroup_pick_album">Альбомы</string>
     <string name="songgroup_pick_playlist">Плейлисты</string>
     <string name="sort_by_name">Название</string>

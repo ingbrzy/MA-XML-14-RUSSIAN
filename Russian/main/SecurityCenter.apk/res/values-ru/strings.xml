@@ -1570,6 +1570,7 @@
     <string name="domestic_roaming_setting">Национальный роуминг</string>
     <string name="dont_bore">Не позволяйте кнопкам и уведомлениям отвлекать вас</string>
     <string name="download">Загружено</string>
+    <string name="download_tvm_title">Плагин Phone Key Component</string>
     <string name="downloading">Загрузка</string>
     <string name="doze_optimization_summary">Улучшение реакции и чувствительности касания</string>
     <string name="doze_optimization_title">Оптимизация сенсорного управления</string>
@@ -2800,6 +2801,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="install_sucess">Установка %s завершена</string>
     <string name="install_text">Установить</string>
     <string name="install_title">Установка через USB</string>
+    <string name="install_tvm_component_desc">Для обеспечения безопасности транзакций установите плагин Phone Key Component</string>
+    <string name="install_tvm_component_title">Установка плагина Phone Key Component</string>
     <string name="install_type_instant">Приложение с мгновенным запуском</string>
     <string name="installing">Установка</string>
     <string name="international_Ad">Реклама</string>
@@ -5412,8 +5415,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="storage_entry_file">Файлы</string>
     <string name="storage_entry_other">Другое</string>
     <string name="storage_entry_setting">Настройки</string>
-    <string name="storage_fbo_clear">Обновление хранилища FBO</string>
-    <string name="storage_fbo_des">Внутреннее хранилище фрагментировано, это может значительно замедлять работу устройства. Обновление хранилища FBO работает автоматически, когда устройство не используется, дефрагментируя файлы для уменьшения задержек.</string>
+    <string name="storage_fbo_clear">Обновление хранилища</string>
+    <string name="storage_fbo_des">Внутреннее хранилище фрагментировано, это может значительно замедлять работу устройства. Обновление хранилища работает автоматически, когда устройство не используется, дефрагментируя файлы для уменьшения задержек.</string>
     <string name="storage_fbo_number_tip">Объединено на %1$s</string>
     <string name="storage_fbo_tools">Оптимизация хранилища</string>
     <string name="storage_file_delete_tip">Удалить выбранные файлы навсегда? Некоторые из них могут быть загружены снова при необходимости.</string>
@@ -6073,6 +6076,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
     <string name="turn_off_auto_correction">Отключение автоматической синхронизации</string>
+    <string name="tvm_install_failed">Не удалось установить плагин</string>
+    <string name="tvm_install_successed">Плагин установлен</string>
+    <string name="tvm_version_too_low">Обновите плагин Phone Key Component</string>
     <string name="two_address_choose_hint">%1$s и %2$s</string>
     <string name="type_face_condition_summary">Настройка размера и толщины шрифта</string>
     <string name="unable_connect_internet">Нет доступа в интернет</string>
@@ -6103,6 +6109,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="untrust_app_perm_title">Неизвестный источник</string>
     <string name="untrust_app_perm_warn">Приложение получено из неизвестного источника и может представлять угрозу безопасности и конфиденциальности. Предоставляйте нижеперечисленные разрешения только после тщательного рассмотрения и по необходимости.</string>
     <string name="updating_diagnostic_botton">Анализ данных…</string>
+    <string name="upgrade_tvm_component_desc">Для обеспечения безопасности транзакций обновите плагин Phone Key Component</string>
+    <string name="upgrade_tvm_component_title">Обновление плагина Phone Key Component</string>
     <string name="usage_sorted_activity_lable">Расход трафика</string>
     <string name="usage_sorted_empty_text">Пусто</string>
     <string name="usage_sorted_loading_text">Подождите…</string>
@@ -6242,6 +6250,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="virus_app_type_uninstalled">APK</string>
     <string name="virus_app_verison_text">Версия: %s</string>
     <string name="virus_auto_update_engine">Обновлять автоматически: %s</string>
+    <string name="virus_auto_update_engine_1">Обновлять определения автоматически</string>
     <string name="virus_clear_dialog_title">Удаление вредоносных приложений</string>
     <string name="virus_detail_app">Содержит вирусы</string>
     <string name="virus_detail_split_line_text"> | </string>

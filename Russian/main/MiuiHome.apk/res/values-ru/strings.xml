@@ -257,6 +257,7 @@
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Клоны приложений будут удалены вместе с основными.</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">Клон приложения будет удалён вместе с основным.</string>
     <string name="confirm_uninstall_dialog_title">Клоны приложений будут удалены</string>
+    <string name="content_center">Контент-центр</string>
     <string name="content_description_button_add">Нажмите для добавления</string>
     <string name="content_description_button_disable">Больше нет места</string>
     <string name="content_description_button_remove">Нажмите для удаления</string>
@@ -472,6 +473,11 @@
     <string name="in_app_result_by">Результаты предоставлены</string>
     <string name="install">Установить</string>
     <string name="intelligent_exposed_button_summary_text">Предлагать рекомендации, основанные на статистике использования приложений, для выделения приложений в увеличенных папках</string>
+    <string name="international_home_pull_down_content">Свайп вниз на рабочем столе для поиска на устройстве и в интернете</string>
+    <string name="international_home_pull_down_sub_content">Переключить жест на открытие Центра управления можно в меню Настройки > Главный экран > Свайп вниз на рабочем столе</string>
+    <string name="international_home_pull_down_up_btn_get">ОК</string>
+    <string name="international_home_pull_up_content">Свайп вверх на рабочем столе для открытия Контент-центра</string>
+    <string name="international_home_pull_up_sub_content">Чтобы открыть поиск, используйте свайп вниз от середины рабочего стола</string>
     <string name="invalid_contact_shortcut">Недопустимый контакт</string>
     <string name="is_setting_wallpaper_message">Установка обоев…</string>
     <string name="is_system_wallpaper_message">Нельзя удалить системные обои</string>
