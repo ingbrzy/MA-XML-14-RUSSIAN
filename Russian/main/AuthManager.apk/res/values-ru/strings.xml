@@ -161,8 +161,8 @@
     <string name="app_name">Разрешения</string>
     <string name="background_location_access_reminder_notification_content">У приложения есть постоянное разрешение использовать геолокацию. Нажмите для изменения разрешения.</string>
     <string name="background_location_access_reminder_notification_title">Приложение %s использовало геолокацию</string>
-    <string name="blur_location_is_on_tip">Для приложения %1$s включена пониженная точность геолокации. Включить точную геолокацию?</string>
-    <string name="blur_location_now_tip">Включена пониженная точность геолокации</string>
+    <string name="blur_location_is_on_tip">Для приложения %1$s включена геолокация пониженной точности. Включить точную геолокацию?</string>
+    <string name="blur_location_now_tip">Включена геолокация пониженной точности</string>
     <string name="blur_location_title">Пониженная точность</string>
     <string name="carwith_grant_permission_tips_when_lock">Сначала разблокируйте устройство</string>
     <string name="cetus_invisible_mode_notice_audio">Режим инкогнито: микрофон недоступен</string>
@@ -187,6 +187,7 @@
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="default_permission_description">выполнение неизвестных действий</string>
+    <string name="deny_fine_keep_blur_location">Пониженная точность</string>
     <string name="early_morning">Утро</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
@@ -478,6 +479,8 @@
     <string name="thursday">Четверг</string>
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>
+    <string name="tilte_request_coarse_location">Разрешить %1$s использовать геолокацию пониженной точности?</string>
+    <string name="tilte_request_fine_location">Разрешить %1$s использовать точную геолокацию или оставить геолокацию пониженной точности? </string>
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>

@@ -580,6 +580,7 @@
     <string name="superpower_system">Рекомендуемые</string>
     <string name="superpower_third">Сторонние приложения</string>
     <string name="superpower_toast_app_select_full">Можно добавить до 6 часто используемых приложений</string>
+    <string name="superpower_toast_app_select_full_new">Можно добавить до %d часто используемых приложений</string>
     <string name="switch_kid_mode">Переключиться на детское пространство</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>

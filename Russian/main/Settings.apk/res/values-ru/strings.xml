@@ -1643,6 +1643,8 @@
     <string name="bluetooth_hearingaid_right_pairing_message">Подключение правого слухового аппарата…</string>
     <string name="bluetooth_hid_profile_summary_connected">Подключено к устройству ввода</string>
     <string name="bluetooth_hid_profile_summary_use_for">Использовать для ввода</string>
+    <string name="bluetooth_inband_ringing">Разрешить встроенные рингтоны</string>
+    <string name="bluetooth_inband_ringing_summary">Разрешить воспроизведение рингтонов через наушники Bluetooth. Функция может использоваться когда подключено только одно устройство и может быть несовместима с некоторыми устройствами.</string>
     <string name="bluetooth_incoming_pairing_msg">"Запрос от: 
 %1$s 
 
@@ -11622,6 +11624,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_tether_enabled_subtext">Точка доступа %1$s активна</string>
     <string name="wifi_tether_enabled_summary">Точка доступа %1$s</string>
     <string name="wifi_tether_failed_subtext">Ошибка подключения</string>
+    <string name="wifi_tether_high_temperature_toast">Функция временно недоступна при режиме защиты от перегрева</string>
     <string name="wifi_tether_setting_title">Основные настройки</string>
     <string name="wifi_tether_settings_title">Точка доступа Wi-Fi</string>
     <string name="wifi_tether_starting">Включение точки доступа…</string>

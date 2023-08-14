@@ -520,6 +520,7 @@
     <string name="inactive_app_active_summary">Активно. Нажмите для отключения.</string>
     <string name="inactive_app_inactive_summary">Неактивно. Нажмите для включения.</string>
     <string name="inactive_apps_title">Неактивные приложения</string>
+    <string name="information_go_to_fitness">Соответствующие настройки можно найти в Mi Фитнес</string>
     <string name="install_all_deferred">Установить все отложенные модули</string>
     <string name="install_all_features_now">Установить все функции</string>
     <string name="install_other_apps">Ненадёжные источники</string>
@@ -598,7 +599,7 @@
     <string name="mi_key_find_mikey">Найти Mi Key</string>
     <string name="mi_key_find_phone">Поиск устройства</string>
     <string name="mi_key_open_camera">Открыть камеру</string>
-    <string name="mi_key_summary_find_phone">Нажмите и удерживайте Mi Key пока не прозвучит сигнал</string>
+    <string name="mi_key_summary_find_phone">Зажмите Mi Key пока не прозвучит сигнал</string>
     <string name="mi_key_summary_open_camera">Нажмите Mi Key дважды, чтобы открыть камеру</string>
     <string name="mi_key_summary_take_photo">Нажмите Mi Key, чтобы сделать фото</string>
     <string name="mi_key_take_photo">Сфотографировать</string>

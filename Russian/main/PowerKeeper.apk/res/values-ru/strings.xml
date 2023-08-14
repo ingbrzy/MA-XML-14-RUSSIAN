@@ -54,6 +54,7 @@
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
     <string name="cloud_addr_info">Облачная информация</string>
+    <string name="cloud_allow_change_addr">Изменить статус автосинхронизации с облаком</string>
     <string name="cloud_china_addr">Обновить данные китайского сервера</string>
     <string name="cloud_international_addr">Обновить данные международного сервера</string>
     <string name="cloud_russion_addr">Обновить данные российского сервера</string>
@@ -74,6 +75,7 @@
     <string name="confirm">OK</string>
     <string name="connect_intranet_hint">Подключитесь к интранету</string>
     <string name="copy">Копировать</string>
+    <string name="current_allow_sync_is">Автообновление облака:</string>
     <string name="current_cloud_addr_is">Адрес сервера облачного управления:</string>
     <string name="dark_mode">Тёмный режим</string>
     <string name="dark_mode_summary">Использовать тёмную цветовую палитру для экономии заряда</string>

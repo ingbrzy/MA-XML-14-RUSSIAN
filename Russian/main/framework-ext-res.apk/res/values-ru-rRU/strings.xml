@@ -192,6 +192,14 @@
     <string name="freeform_exchange_tip">Откройте плавающее окно в полноэкранном режиме</string>
     <string name="freeform_exchange_tip2">Перетащите в угол для отмены</string>
     <string name="freeform_exchange_tip3">Откройте плавающее окно в полноэкранном режиме</string>
+    <string name="freeform_guide_tip_dock">Перетащите приложение в центр экрана, чтобы открыть его в плавающем окне.</string>
+    <string name="freeform_guide_tip_down">Чтобы закрыть плавающее окно, зажмите панель действий, затем смахните вверх</string>
+    <string name="freeform_guide_tip_drag">Чтобы изменить размер окна, зажмите его угол и перетащите.</string>
+    <string name="freeform_guide_tip_notification">Чтобы открыть плавающее окно, зажмите панель действий, затем потяните вниз</string>
+    <string name="freeform_guide_tip_pin">Чтобы свернуть окно, зажмите панель действий, затем быстро перетащите к краю экрана</string>
+    <string name="freeform_guide_tip_pin_up">Перетащите свернутое окно, чтобы восстановить его</string>
+    <string name="freeform_guide_tip_sidebar">Проведите наружу, чтобы открыть боковую панель</string>
+    <string name="freeform_guide_tip_top">Чтобы переместить окно, зажмите панель действий, затем перетащите его</string>
     <string name="frenchchic">Французский шик</string>
     <string name="frequent_email">Email</string>
     <string name="frequent_phrases">Частые фразы</string>
@@ -318,7 +326,7 @@
     <string name="long_press_menu_key">Долгое нажатие \"Меню\"</string>
     <string name="long_press_menu_key_when_lock">Долгое нажатие \"Меню\" на экране блокировки</string>
     <string name="long_press_power_key">Долгое нажатие \"Питание\"</string>
-    <string name="long_press_power_key_half_second">Нажмите и удерживайте кнопку питания %s сек.</string>
+    <string name="long_press_power_key_half_second">Зажмите кнопку питания на %s сек.</string>
     <string name="long_press_volume_down">Долгое нажатие \"Уменьшение громкости\"</string>
     <string name="magic_window_toast">Включено разделение экрана</string>
     <string name="makewishes">Пожелание</string>
