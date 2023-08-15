@@ -192,9 +192,9 @@
     <string name="freeform_exchange_tip">Откройте плавающее окно в полноэкранном режиме</string>
     <string name="freeform_exchange_tip2">Перетащите в угол для отмены</string>
     <string name="freeform_exchange_tip3">Откройте плавающее окно в полноэкранном режиме</string>
-    <string name="freeform_guide_tip_dock">Перетащите приложение в центр экрана, чтобы открыть его в плавающем окне.</string>
+    <string name="freeform_guide_tip_dock">Перетащите приложение в центр экрана, чтобы открыть его в плавающем окне</string>
     <string name="freeform_guide_tip_down">Чтобы закрыть плавающее окно, зажмите панель действий, затем смахните вверх</string>
-    <string name="freeform_guide_tip_drag">Чтобы изменить размер окна, зажмите его угол и перетащите.</string>
+    <string name="freeform_guide_tip_drag">Чтобы изменить размер окна, зажмите его угол и перетащите</string>
     <string name="freeform_guide_tip_notification">Чтобы открыть плавающее окно, зажмите панель действий, затем потяните вниз</string>
     <string name="freeform_guide_tip_pin">Чтобы свернуть окно, зажмите панель действий, затем быстро перетащите к краю экрана</string>
     <string name="freeform_guide_tip_pin_up">Перетащите свернутое окно, чтобы восстановить его</string>
