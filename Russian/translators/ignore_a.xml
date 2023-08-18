@@ -277,6 +277,9 @@
     <integer-array name="color_mode_ids"></integer-array>
     <array name="color_pick_view_colors"></array>
     <string-array name="color_value"></string-array>
+    <string-array name="com.google.firebase.crashlytics.build_ids_arch"></string-array>
+    <string-array name="com.google.firebase.crashlytics.build_ids_build_id"></string-array>
+    <string-array name="com.google.firebase.crashlytics.build_ids_lib"></string-array>
     <array name="combined_view_account_colors"></array>
     <array name="common_nicknames" />
     <string-array name="common_password_business_clickable_default"></string-array>

@@ -1880,6 +1880,8 @@ ID:%s
     <string name="pa_filter_title">Другие виджеты</string>
     <string name="pa_finish">Готово</string>
     <string name="pa_get_installed_app_permission_description">Для установки приложений и добавления виджетов</string>
+    <string name="pa_global_search_description">Поиск</string>
+    <string name="pa_global_search_hint">Поиск…</string>
     <string name="pa_guide_dialog_desc">Нажмите и удерживайте виджет, чтобы чтобы переместить его. Нажмите \"+\", чтобы добавить виджет.</string>
     <string name="pa_guide_dialog_sure">Понятно</string>
     <string name="pa_guide_dialog_title">Посетите магазин виджетов</string>

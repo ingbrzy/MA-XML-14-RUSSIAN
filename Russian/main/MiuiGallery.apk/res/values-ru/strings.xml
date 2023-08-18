@@ -697,6 +697,7 @@
     <string name="creativity_title">Творчество</string>
     <string name="crop_label">Кадрированные фото</string>
     <string name="cta_agreement_declare"><Data>Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочтите и примите наши &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> перед использованием этого приложения.</Data></string>
+    <string name="cta_hybrid_feedback_network_declare">Для поиска решения наиболее распространенных проблем, разрешите приложению подключение к сети</string>
     <string name="cta_network_declare">Для синхронизации фото и видео с Xiaomi Cloud приложению требуется подключение к интернету.</string>
     <string name="cta_screenthrow_declare">Для трансляции содержимого экрана на внешние мониторы приложению требуется подключение к интернету</string>
     <string name="custom_select_title_deselect_all">Снять выбор</string>
@@ -2370,6 +2371,7 @@ ID: %s
     <string name="picker_title_specify_format">Выберите %d фото</string>
     <string name="picker_title_specify_format_one">Выберите %d фото</string>
     <string name="picker_title_unlimit">Выберите фото</string>
+    <string name="picture_not_support_privacy_watermark">Не удалось добавить водяные знаки. Изображение слишком маленькое.</string>
     <string name="places_album_empty_title">Фото можно отсортировать по месту съёмки</string>
     <string name="play_gif_desc">Воспроизвести GIF</string>
     <string name="play_video_desc">Воспроизвести видео</string>
@@ -2655,6 +2657,7 @@ ID: %s
     <string name="search_clear_histories">Очистить</string>
     <string name="search_connection_error">Не удалось подключиться к сети</string>
     <string name="search_connection_error_and_set">Нажмите для проверки настроек</string>
+    <string name="search_domestic_edit_hint">Поиск фото и видео</string>
     <string name="search_edit_hint">Поиск файлов или альбомов</string>
     <string name="search_empty_title">Поиск фото с конкретными людьми, местами и объектами</string>
     <string name="search_error">Произошла ошибка</string>
