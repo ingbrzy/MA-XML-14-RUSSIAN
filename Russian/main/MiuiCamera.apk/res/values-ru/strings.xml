@@ -146,6 +146,8 @@
     <string name="accessibility_live_reverse_button">Удалить предыдущий клип</string>
     <string name="accessibility_live_speed_panel_on">Панель скорости</string>
     <string name="accessibility_lock_focus_success">Фокус успешно зафиксирован</string>
+    <string name="accessibility_macro_off">Макро отключён</string>
+    <string name="accessibility_macro_on">Макро включён</string>
     <string name="accessibility_manually_custom_panel_on">Панель настройки</string>
     <string name="accessibility_menu_indicator_down">Меню: Свернуть</string>
     <string name="accessibility_menu_indicator_up">Меню: Развернуть</string>
@@ -209,6 +211,7 @@
     <string name="accessibility_shutter_resume_button">Возобновление</string>
     <string name="accessibility_shutter_saving_button">Сохранение</string>
     <string name="accessibility_stereo_button">Настройка фокуса</string>
+    <string name="accessibility_street_ev_panel_on">Просмотр значений экспозиции</string>
     <string name="accessibility_super_eis_off">EIS отключён</string>
     <string name="accessibility_super_eis_on">EIS включён</string>
     <string name="accessibility_super_eis_pr_on">EIS PRO включён</string>
@@ -506,6 +509,8 @@
     <string name="ccc_temperature_warning_title">Перегрев устройства</string>
     <string name="center_mark">Метка центра</string>
     <string name="cine_image_modify_layout_content_description">Изменение макета</string>
+    <string name="cinemaster_cancel">Отмена</string>
+    <string name="cinemaster_confirm">Выход</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="clone_adjust">Настройка</string>
     <string name="clone_copy_mode">Стоп-кадр</string>
@@ -557,6 +562,7 @@
     <string name="color_effect_entry_classic">Классика</string>
     <string name="color_effect_entry_cookie">Печенье</string>
     <string name="color_effect_entry_delicacy">Лакомство</string>
+    <string name="color_effect_entry_f_50">F-50</string>
     <string name="color_effect_entry_fade">Блеклый</string>
     <string name="color_effect_entry_fc_400">FC400</string>
     <string name="color_effect_entry_film">Плёнка</string>
@@ -585,7 +591,9 @@
     <string name="color_effect_entry_noraml_cv">Стандарт Leica</string>
     <string name="color_effect_entry_orange">Лайм</string>
     <string name="color_effect_entry_orange_describe">Классический трюк из кино, который делает тёмные области холоднее, а свет - теплее. Фильтр освежит как городские джунгли, так и сцены на природе.</string>
+    <string name="color_effect_entry_p_100f">P100F</string>
     <string name="color_effect_entry_quiet">Покой</string>
+    <string name="color_effect_entry_r_600">R600</string>
     <string name="color_effect_entry_sibopenk">Киберпанк</string>
     <string name="color_effect_entry_soda">Лимонад</string>
     <string name="color_effect_entry_travel">Путешествие</string>
@@ -604,6 +612,7 @@
     <string name="color_enhance_mode">Улучшенные цвета</string>
     <string name="config_name_HDR">HDR</string>
     <string name="config_name_audio_map">Сонограмма</string>
+    <string name="config_name_beauty_mode">Портретный стиль</string>
     <string name="config_name_delay_capture">Таймер</string>
     <string name="config_name_flash">Вспышка</string>
     <string name="config_name_group">Групповое фото</string>
@@ -666,6 +675,7 @@
     <string name="cta_perm_voice_desc">Запись звука во время съёмки видео</string>
     <string name="cta_user_tips"><Data>Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочтите и примите наши &lt;a href =\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href =\"%2$s\">Политику конфиденциальности&lt;/a>.</Data></string>
     <string name="custom_content_unavailable_alert">Невозможно использовать введенный текст. Введите другой текст.</string>
+    <string name="custom_shutter_sound_select">Звук затвора</string>
     <string name="custom_sound_art">Ретро</string>
     <string name="custom_sound_default">По умолчанию</string>
     <string name="custom_sound_modern">Модерн</string>
@@ -726,6 +736,7 @@
     <string name="dialog_privacy_watermark_button_input">Сохранить</string>
     <string name="dialog_privacy_watermark_msg">Введите текст</string>
     <string name="dialog_privacy_watermark_title">Водяной знак</string>
+    <string name="dialog_truecolor_setting_open">Включить</string>
     <string name="dirty_tip_toast">Объектив загрязнен, протрите его.</string>
     <string name="do_not_remind_me">Больше не показывать</string>
     <string name="doc_shortcut_long">Документы</string>
@@ -830,6 +841,56 @@
     <string name="error_fail_to_start_audio_capture">Не удалось включить звуковое управление</string>
     <string name="esp_tip">Предпросмотр на внешнем дисплее</string>
     <string name="evening">После полудня</string>
+    <string name="exo_controls_cc_disabled_description">Включить субтитры</string>
+    <string name="exo_controls_cc_enabled_description">Отключить субтитры</string>
+    <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
+    <string name="exo_controls_fastforward_description">Перемотать вперед</string>
+    <string name="exo_controls_fullscreen_enter_description">Полноэкранный режим</string>
+    <string name="exo_controls_fullscreen_exit_description">Выход из полноэкранного режима </string>
+    <string name="exo_controls_hide">Скрыть элементы управления</string>
+    <string name="exo_controls_next_description">Следующий трек</string>
+    <string name="exo_controls_overflow_hide_description">Скрыть дополнительные настройки</string>
+    <string name="exo_controls_overflow_show_description">Показать дополнительные настройки</string>
+    <string name="exo_controls_pause_description">Приостановить</string>
+    <string name="exo_controls_play_description">Воспроизвести</string>
+    <string name="exo_controls_playback_speed">Скорость</string>
+    <string name="exo_controls_previous_description">Предыдущий трек</string>
+    <string name="exo_controls_repeat_all_description">Повторять все</string>
+    <string name="exo_controls_repeat_off_description">Не повторять</string>
+    <string name="exo_controls_repeat_one_description">Повторять трек</string>
+    <string name="exo_controls_rewind_description">Перемотать назад</string>
+    <string name="exo_controls_seek_bar_description">Прогресс воспроизведения</string>
+    <string name="exo_controls_settings_description">Настройки</string>
+    <string name="exo_controls_show">Показать элементы управления</string>
+    <string name="exo_controls_shuffle_off_description">Отключить перемешивание</string>
+    <string name="exo_controls_shuffle_on_description">Включить перемешивание</string>
+    <string name="exo_controls_stop_description">Остановить</string>
+    <string name="exo_controls_time_placeholder">00:00:00</string>
+    <string name="exo_controls_vr_description">VR-режим</string>
+    <string name="exo_download_completed">Загрузка завершена</string>
+    <string name="exo_download_description">Загрузка</string>
+    <string name="exo_download_downloading">Загрузка…</string>
+    <string name="exo_download_failed">Ошибка загрузки</string>
+    <string name="exo_download_notification_channel_name">Загрузки</string>
+    <string name="exo_download_paused">Загрузки приостановлены</string>
+    <string name="exo_download_paused_for_network">Ожидание сети…</string>
+    <string name="exo_download_paused_for_wifi">Ожидание Wi-Fi…</string>
+    <string name="exo_download_removing">Удаление загрузок…</string>
+    <string name="exo_track_mono">Моно</string>
+    <string name="exo_track_role_alternate">Альтернативный</string>
+    <string name="exo_track_role_closed_captions">Субтитры</string>
+    <string name="exo_track_role_commentary">Комментарий</string>
+    <string name="exo_track_role_supplementary">Дополнительный</string>
+    <string name="exo_track_selection_auto">Авто</string>
+    <string name="exo_track_selection_none">Нет</string>
+    <string name="exo_track_selection_title_audio">Аудио</string>
+    <string name="exo_track_selection_title_text">Текст</string>
+    <string name="exo_track_selection_title_video">Видео</string>
+    <string name="exo_track_stereo">Стерео</string>
+    <string name="exo_track_surround">Объемный звук</string>
+    <string name="exo_track_surround_5_point_1">Система объемного звука 5.1</string>
+    <string name="exo_track_surround_7_point_1">Система объемного звука 7.1</string>
+    <string name="exo_track_unknown">Неизвестный трек</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="extend_time_watermark_2_logo_text">СУПЕРЛУНА</string>
     <string name="eye_light">Блеск глаз</string>
@@ -907,6 +968,7 @@
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
+    <string name="friend_mode_transfer_picture">Передача фотографий…</string>
     <string name="fromkeyguard_not_permission">Разблокируйте устройство для использования этой функции</string>
     <string name="front_camera_hint_text_place">"Снимать селфи будет проще,
 если развернуть устройство"</string>
@@ -916,6 +978,7 @@
     <string name="hand_gesture_open_tip">Для активации таймера съёмки поднимите руку</string>
     <string name="hand_gesture_tip">Cъёмка жестом</string>
     <string name="hdr_tip">HDR</string>
+    <string name="heif_mutex_pixel_hdr_alert">Формат HEIF не поддерживается в режиме Ультра HD</string>
     <string name="hibernate_hint">Коснитесь экрана для запуска камеры</string>
     <string name="hine_hht">"При слабом освещении камера сделает несколько снимков,
 а затем создаст снимок с минимальным уровнем шума."</string>
@@ -1074,6 +1137,7 @@
     <string name="makeup_reset_toast">Эффекты макияжа успешно удалены</string>
     <string name="manual_picture_style">Стиль</string>
     <string name="manual_picture_style_desc_new">Параметры</string>
+    <string name="manual_picture_style_new">Стиль</string>
     <string name="manually_raw_hint">RAW</string>
     <string name="manually_raw_tip">Масштабирование в формате RAW не поддерживается</string>
     <string name="manually_ultra_raw_tip">Масштабирование в формате Ультра RAW не поддерживается</string>
@@ -1223,6 +1287,7 @@
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -1923,7 +1988,10 @@
     <string name="pref_camera_volumekey_function_entry_timer_new">Таймер (%d сек.)</string>
     <string name="pref_camera_volumekey_function_entry_volume">Громкость</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Приближение</string>
+    <string name="pref_camera_volumekey_function_timer_desc">Не работает с видео</string>
     <string name="pref_camera_volumekey_function_title">Функция кнопок громкости</string>
+    <string name="pref_camera_volumekey_function_zoom_desc">Работает только в режимах с масштабированием</string>
+    <string name="pref_camera_watermark_film">Кадр из фильма</string>
     <string name="pref_camera_watermark_leica">Leica</string>
     <string name="pref_camera_watermark_standard">Обычный</string>
     <string name="pref_camera_watermark_title">Дата и время на фото</string>
@@ -2201,6 +2269,7 @@
     <string name="remote_online_unavailable">Устройства поблизости не найдены</string>
     <string name="remote_online_waiting">Ожидание подключения другого устройства…</string>
     <string name="remote_online_whats">Как работает Двойная запись?</string>
+    <string name="reset_manual_picture_style_custom_toast">Параметры сброшены</string>
     <string name="reset_manual_picture_style_new_toast">Параметры сброшены</string>
     <string name="reset_manual_picture_style_toast">Настройки стиля сброшены</string>
     <string name="reset_manually_parameter_confirmed">ОК</string>
@@ -2607,6 +2676,7 @@
     <string name="wait">Подождите…</string>
     <string name="warm_prompt">Внимание</string>
     <string name="watermark_choose_one_tip">Можно применить только один водяной знак к каждой фотографии</string>
+    <string name="watermark_choose_one_tip_film">Можно применить только один водяной знак к каждой фотографии</string>
     <string name="watermark_function_description">О водяных знаках</string>
     <string name="watermark_keep_at_least_one">Выберите хотя бы один вариант</string>
     <string name="watermark_tab_city">Город</string>
