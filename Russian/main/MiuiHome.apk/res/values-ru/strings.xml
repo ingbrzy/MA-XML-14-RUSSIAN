@@ -983,6 +983,7 @@
     <string name="switch_personal_assistant_app_vault">Лента виджетов</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Нет</string>
+    <string name="switch_personal_assistant_summary">Проведите вправо на рабочем столе для открытия Google Discover</string>
     <string name="switch_screen_button_order">Поменять кнопки местами</string>
     <string name="switch_screen_button_order_desc">Поменять местами \"Назад\" и \"Меню\"</string>
     <string name="system_shortcuts_edit">Изменить</string>
@@ -1077,7 +1078,7 @@
     <string name="uninstall_xspace_dialog_title_format">Удалить клон \"%s\"?</string>
     <string name="unknown_artist_name">Неизвестный исполнитель</string>
     <string name="unnamed_folder_name">Папка</string>
-    <string name="unstable_dialog_message">Это устройство зарегистрировано в программе Android 12 Developer Preview. Программа позволяет разработчикам Android и энтузиастам опробовать предварительные версии Android 12. Эта предварительная версия может содержать ошибки и дефекты, которые могут повлиять на нормальное функционирование устройства.</string>
+    <string name="unstable_dialog_message">Это устройство зарегистрировано в программе Android 14 Developer Preview. Программа позволяет разработчикам Android и энтузиастам опробовать предварительные версии Android 14. Эта предварительная версия может содержать ошибки и дефекты, которые могут повлиять на нормальное функционирование устройства.</string>
     <string name="unstable_dialog_title">Программа Android Developer Preview</string>
     <string name="upgrade_remove_small_window_in_recents">Боковую панель можно использовать для открытия приложения в плавающем окне</string>
     <string name="use_theme_screen_cells_title">Разрешить теме изменять сетку экрана</string>

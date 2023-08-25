@@ -39,6 +39,7 @@
     <string name="auto_disable_screenbuttons_ask">Спрашивать</string>
     <string name="auto_disable_screenbuttons_auto">Всегда отключать</string>
     <string name="auto_disable_screenbuttons_cancel">Отмена</string>
+    <string name="auto_disable_screenbuttons_dialog_title">Отключить кнопки навигации для %s?</string>
     <string name="auto_disable_screenbuttons_no">Никогда не отключать</string>
     <string name="auto_disable_screenbuttons_rotation_summary">Кнопки навигации не будут работать в режиме альбомной ориентации устройства</string>
     <string name="auto_disable_screenbuttons_rotation_title">Блокировать кнопки навигации в альбомном режиме</string>
