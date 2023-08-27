@@ -65,6 +65,7 @@
     <string name="config_no_restrict_description">Активность приложения не ограничивается</string>
     <string name="config_no_restrict_title">Без ограничений</string>
     <string name="config_restrict_function_description">Приложение будет закрыто после 10 минут работы в фоне</string>
+    <string name="config_restrict_function_description_new">Приложение будет закрыто после %d мин. работы в фоне</string>
     <string name="config_restrict_function_title">Ограничение работы в фоне</string>
     <string name="config_restrict_running_description">Приложение в фоне будет закрыто для экономии заряда</string>
     <string name="config_restrict_running_title">Запрет работы в фоне</string>

@@ -926,6 +926,7 @@
     <string name="ble_profile_2">ble_profile_mi_key</string>
     <string name="bluetooth_a2dp_audio_route_id">bluetooth_a2dp_audio_route</string>
     <string name="bluetooth_item_single_battery_level">%d%%</string>
+    <string name="bluetooth_map_notification_name">BT_MAP_ADVANCE_SUPPORT</string>
     <string name="bluetooth_open_ok">蓝牙开启成功</string>
     <string name="bluetooth_package">com.android.bluetooth</string>
     <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
@@ -2279,6 +2280,7 @@
     <string name="digit_percent">%</string>
     <string name="digital_clock_dot">:</string>
     <string name="directory_info_divider">"  |  "</string>
+    <string name="disable">disabled</string>
     <string name="discovery_data_constant_part_end">&amp;ref=com.miui.home&amp;senderPackageName=com.miui.home&amp;ext_xxx=com.miui.home &amp;show_cta=true&amp;overlayPosition=1&amp;startDownload=true&amp;showToast=true&amp;extInstallUIType=1</string>
     <string name="display_name">DisplayName</string>
     <string name="display_temperature_default">--℃</string>
@@ -2337,6 +2339,7 @@
     <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
     <string name="empty">" "</string>
     <string name="empty_activity_title">" "</string>
+    <string name="enable">enabled</string>
     <string name="encrypt_app_aes_key">cRCaZZvSn73In2mMPjjFHeE0sEcfyB6h</string>
     <string name="enumeration_delimiter">" | "</string>
     <string name="error_message_respond_revert_01">@string/error_message_account_or_password</string>

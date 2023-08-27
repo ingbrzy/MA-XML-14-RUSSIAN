@@ -54,6 +54,7 @@
     <string name="button_touch">Поместите палец на сенсор</string>
     <string name="can_not_delete_when_calling">Удаление пространства во время вызова запрещено</string>
     <string name="can_not_switch_when_calling">Переключение пространства во время вызова недоступно</string>
+    <string name="can_not_switch_when_extreme_endurance_battery_active">Использование второго пространства недоступно из-за низкого заряда батареи</string>
     <string name="can_not_switch_when_green_kid_active">Переход во второе пространство запрещён родительским контролем</string>
     <string name="can_not_switch_when_green_kid_active_new">Переход во второе пространство недоступен, когда включён Семейный защитник</string>
     <string name="can_not_switch_when_super_power_active">Переключение пространства при максимальной экономии заряда недоступно</string>

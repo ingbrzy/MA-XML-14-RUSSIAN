@@ -91,6 +91,8 @@
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="click_to_restore">Восстановите системные приложения для нормальной работы с MIUI после сброса настроек. Нажмите, чтобы начать.</string>
     <string name="close">Закрыть</string>
+    <string name="com_android_deskclock">Часы</string>
+    <string name="com_android_download_ui">Загрузки</string>
     <string name="com_android_email">Почта</string>
     <string name="com_android_soundrecorder">Диктофон</string>
     <string name="com_mi_globalbrowser">Mi Браузер</string>
@@ -98,12 +100,14 @@
     <string name="com_miui_calculator">Калькулятор</string>
     <string name="com_miui_cleanmaster">Очистка</string>
     <string name="com_miui_compass">Компас</string>
+    <string name="com_miui_gallery">Галерея</string>
     <string name="com_miui_health">Здоровье</string>
     <string name="com_miui_huanji">Mi Mover</string>
     <string name="com_miui_notes">Заметки</string>
     <string name="com_miui_screenrecorder">Запись экрана</string>
     <string name="com_miui_virtualsim">Mi Роуминг</string>
     <string name="com_miui_weather2">Погода</string>
+    <string name="com_xiaomi_calendar">Календарь</string>
     <string name="com_xiaomi_drivemode">Режим вождения</string>
     <string name="com_xiaomi_gamecenter">Игры</string>
     <string name="com_xiaomi_jr">Mi Финансы</string>
