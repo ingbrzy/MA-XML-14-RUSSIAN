@@ -101,6 +101,8 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Приложение пытается запросить ваш номер телефона у оператора связи для входа в систему. Разрешить?</string>
     <string name="HIPS_Perm_operator_shake">Данные акселерометра</string>
     <string name="HIPS_Perm_operator_shake_Desc">Доступ к данным акселерометра для отслеживания ориентации и движения (например, тряски, наклона и вращения)</string>
+    <string name="HIPS_Perm_operator_wall_paper">Службы динамических обоев</string>
+    <string name="HIPS_Perm_operator_wall_paper_Desc">Настройка системных служб динамических обоев</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">Использование NFC</string>
     <string name="HIPS_Perm_process_outgoing_calls">Доступ к телефону</string>
@@ -188,6 +190,7 @@
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="default_permission_description">выполнение неизвестных действий</string>
     <string name="deny_fine_keep_blur_location">Пониженная точность</string>
+    <string name="deny_fine_keep_blur_location_dont_ask_again">Всегда использовать пониженную точность</string>
     <string name="early_morning">Утро</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
@@ -248,6 +251,7 @@
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -322,6 +326,7 @@
     <string name="permdesc_call_phone">Разрешить %1$s совершать вызовы?</string>
     <string name="permdesc_camera">Разрешить %1$s снимать фото и видео?</string>
     <string name="permdesc_get_account">Разрешить %1$s доступ ко всем аккаунтам на этом устройстве?</string>
+    <string name="permdesc_get_installed_apps">Разрешить %1$s доступ к информации об установленных приложениях?</string>
     <string name="permdesc_in_calls">Отслеживать входящие вызовы</string>
     <string name="permdesc_isolate_storage">Разрешить %1$s доступ к фото, видео и аудиофайлам на устройстве?</string>
     <string name="permdesc_location">Разрешить %1$s использовать геолокацию?</string>

@@ -108,7 +108,7 @@
     <string name="alert_redirect_outgoing_call_or_not">Выберите, как сделать этот вызов</string>
     <string name="alert_redirect_outgoing_call_timeout">Вызов не может быть выполнен %1$s. Попробуйте использовать другое приложение для перенаправления вызовов или обратитесь к разработчику за помощью.</string>
     <string name="allow_mock_location">Фиктивные геоданные</string>
-    <string name="allow_mock_location_summary">Разрешить использование фиктивных геоданных</string>
+    <string name="allow_mock_location_summary">Использовать фиктивные геоданные</string>
     <string name="animator_duration_scale_title">Длительность анимации</string>
     <string name="answer_incoming_call">Ответить</string>
     <string name="answering_ends_other_call">Если вы ответите, вызов в %1$s будет завершен</string>

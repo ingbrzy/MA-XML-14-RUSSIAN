@@ -250,7 +250,7 @@
     <string name="all_empty_alert">Укажите параметры нового SIP-аккаунта.</string>
     <string name="allow">Предоставлено</string>
     <string name="allow_mock_location">Фиктивные геоданные</string>
-    <string name="allow_mock_location_summary">Разрешить использование фиктивных геоданных</string>
+    <string name="allow_mock_location_summary">Использовать фиктивные геоданные</string>
     <string name="already_auto">Автовыбор</string>
     <string name="always_enable_mms">Всегда принимать MMS</string>
     <string name="always_enable_mms_summary">Принимать MMS даже при отключённом мобильном интернете</string>
@@ -828,6 +828,7 @@
     <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты не будут работать на устройстве, пока включён этот параметр.</string>
     <string name="confirm_enable_oem_unlock_title">Разрешить заводскую разблокировку?</string>
     <string name="confirm_password_label">Подтвердите пароль</string>
+    <string name="confirm_phone_number">Подтвердите номер телефона</string>
     <string name="confirm_pin2_label">Подтвердите новый PIN2</string>
     <string name="confirm_pin_label">Подтвердите новый PIN</string>
     <string name="connect_disconnect_vibrate_none">Нет</string>
@@ -898,6 +899,7 @@
 
 Использовать мобильный интернет?"</string>
     <string name="data_enabled">Мобильный интернет</string>
+    <string name="data_for_high_temperature_toast">Устройство перегрелось. Функция сейчас недоступна.</string>
     <string name="data_interruption_remind">Соединение нестабильно. Для улучшения соединения разрешите устройству во время VoLTE вызовов использовать мобильный интернет на вторичной SIM-карте.</string>
     <string name="data_interruption_remind_for_t">Соединение нестабильно. Для улучшения соединения разрешите устройству во время VoLTE вызовов использовать мобильный интернет на вторичной SIM-карте.</string>
     <string name="data_plan">Тарифные планы</string>
@@ -1060,6 +1062,12 @@
     <string name="dtmf_tones_title">DTMF-сигналы</string>
     <string name="dual_4g_switch_summary">Разрешить подключение 4G для обоих слотов SIM</string>
     <string name="dual_4g_switch_title">Режим Dual 4G</string>
+    <string name="dual_sim_smart_call_forward_dialog_message">Для корректной работы этой функции на обеих SIM-картах должна быть включена переадресация вызовов. Подробную информацию о вариантах переадресации вызовов и стоимости можно узнать у своего оператора связи.</string>
+    <string name="dual_sim_smart_call_forward_failed">Не удалось настроить</string>
+    <string name="dual_sim_smart_call_forward_failed_cause">Ошибка сети. Попробуйте позже.</string>
+    <string name="dual_sim_smart_call_forward_summary">Переадресация вызовов на другую SIM-карту, если они не могут быть приняты</string>
+    <string name="dual_sim_smart_call_forward_title">Переадресация на другую SIM-карту</string>
+    <string name="dual_sim_smart_call_forward_updating">Подождите…</string>
     <string name="eab_provisioned_switch_string">EAB/Presence Provisioned</string>
     <string name="early_morning">Утро</string>
     <string name="ecm_exit_dialog">Режим экстренного вызова</string>
@@ -1450,6 +1458,8 @@
     <string name="labelCFB">Если номер занят</string>
     <string name="labelCFNL">Если нет авторизации</string>
     <string name="labelCFNRc">Если абонент недоступен</string>
+    <string name="labelCFNRc_message">Вы больше не сможете переадресовывать вызовы на другую SIM-карту</string>
+    <string name="labelCFNRc_title">Внимание</string>
     <string name="labelCFNRy">Если нет ответа</string>
     <string name="labelCFType">Переадресация вызовов</string>
     <string name="labelCFU">Безусловная переадресация</string>
@@ -3018,6 +3028,7 @@ UT-интерфейс: %5$s"</string>
     <string name="vibrating_for_outgoing_call_accepted_title">Вибрация для исходящего вызова</string>
     <string name="vice_card_data_in_use_alert">Возможны дополнительные затраты</string>
     <string name="vice_slot_volte_data_dialog_message"><Data>Текущее сетевое соединение нестабильно. Вы можете использовать автопереключение между SIM-картами с мобильным интернетом. &lt;font color=#ff0000>&lt;b>Использование этой функции может привести к дополнительным тратам&lt;/b>&lt;/font>.</Data></string>
+    <string name="vice_slot_volte_data_dialog_message_ext"><Data>Текущее сетевое соединение нестабильно. Вы можете использовать автопереключение между SIM-картами с мобильным интернетом. &lt;font color=#ff0000>&lt;b>Использование этой функции может привести к дополнительным тратам&lt;/b>&lt;/font>.</Data></string>
     <string name="vice_slot_volte_data_dialog_open">Включить</string>
     <string name="vice_slot_volte_data_switch_prompt">Во время вызовов VoLTE ваше устройство сможет использовать мобильный интернет через вторую SIM-карту. Это может вызвать дополнительные затраты. Обратитесь к вашему оператору связи за информацией о тарифном плане.</string>
     <string name="vice_slot_volte_data_switch_summary">Во время вызовов VoLTE устройство сможет использовать мобильный интернет через вторую SIM-карту</string>

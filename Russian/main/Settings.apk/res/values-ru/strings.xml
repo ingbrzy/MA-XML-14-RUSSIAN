@@ -674,7 +674,7 @@
     <string name="allow_lights_title">Световой индикатор</string>
     <string name="allow_manage_external_storage_description">Разрешите этому приложению читать, изменять и удалять все файлы на этом устройстве или любых подключённых томах накопителей. Если разрешение дано, приложение может получать доступ к файлам без вашего ведома.</string>
     <string name="allow_mock_location">Фиктивные геоданные</string>
-    <string name="allow_mock_location_summary">Разрешить использование фиктивных геоданных</string>
+    <string name="allow_mock_location_summary">Использовать фиктивные геоданные</string>
     <string name="allow_mock_modem">Разрешить имитацию модема</string>
     <string name="allow_mock_modem_summary">Разрешить этому устройству запускать сервис, имитирующий модем, для инструментального теста. Не включайте этот параметр, когда пользуетесь телефоном в обычном режиме.</string>
     <string name="allow_oaid_used">Использовать виртуальный ID</string>
@@ -742,6 +742,8 @@
     <string name="aod_to_close">Выключить</string>
     <string name="ap_connect_failed">ошибка подключения</string>
     <string name="ap_connected_battery_level">" | заряд %1$s"</string>
+    <string name="ap_p2p_dialog_message">Текущее общее подключение Wi-Fi уже используется. Перед включением персональной точки доступа убедитесь, что не используются Wi-Fi Direct, Mi Share, Трансляция или другие службы беспроводной передачи данных.</string>
+    <string name="ap_p2p_dialog_yes">Отключить</string>
     <string name="apn_apn">APN</string>
     <string name="apn_auth_type">Тип аутентификации</string>
     <string name="apn_auth_type_chap">CHAP</string>
@@ -2567,6 +2569,7 @@
     <string name="controls_label">Элементы управления</string>
     <string name="controls_subtitle">Режим энергопотребления</string>
     <string name="convenience_key_category_title">Управление системой</string>
+    <string name="conversation_assistant">Инструменты конференции</string>
     <string name="conversation_category_title">Диалог</string>
     <string name="conversation_notifs_category">Диалог</string>
     <string name="conversation_onboarding_summary">"Как только вы отметите диалог как приоритетный или внесете какие-либо другие изменения, он появятся здесь. 
@@ -3516,6 +3519,8 @@ ID: %s
     <string name="enable_non_resizable_multi_window">Включить неизменяемый масштаб в многооконном режиме</string>
     <string name="enable_non_resizable_multi_window_summary">Открывать приложения с неизменяемым масштабом в многооконном режиме</string>
     <string name="enable_opengl_traces_title">Трассировка OpenGL</string>
+    <string name="enable_preferred_network_type_summary">Просмотр и настройка типа сети в Настройки > SIM-карты и мобильные сети > Настройки SIM-карты</string>
+    <string name="enable_preferred_network_type_title">Предпочтительный тип сети</string>
     <string name="enable_quick_setting">Показывать в быстрых настройках</string>
     <string name="enable_quick_start">Включить быстрый запуск</string>
     <string name="enable_receiving_mms_notification_title">Входящее MMS-сообщение</string>
@@ -3691,6 +3696,7 @@ ID: %s
     <string name="ethernet_tethering_subtext">Раздача интернета с устройства через Ethernet</string>
     <string name="evening">После полудня</string>
     <string name="every_day">Ежедневно</string>
+    <string name="ex_func_find_device">Безопасность - Поиск устройства</string>
     <string name="exceptional_case">Исключения</string>
     <string name="expand_button_title">Дополнительные</string>
     <string name="expand_card_action">Дополнительные карточки</string>
@@ -3701,6 +3707,7 @@ ID: %s
     <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
     <string name="extended_power_menu">Расширенное меню питания</string>
     <string name="extension_function">Дополнительные функции</string>
+    <string name="extension_function_hint">Ярлыки функций больше не будут отображаться в Настройках после отключения</string>
     <string name="exterior">Режим</string>
     <string name="external_auto_rotate_title">Блокировка ориентации внешнего экрана</string>
     <string name="external_code_size_label">На USB-накопителе</string>
@@ -3724,6 +3731,8 @@ ID: %s
     <string name="extra_app_info_summary" />
     <string name="extreme_threats_summary">Получать уведомления о серьезных угрозах жизни и имуществу</string>
     <string name="extreme_threats_title">Серьезные угрозы</string>
+    <string name="eye_gaze_dialog_message">После включения функции \"Отслеживание взгляда\", устройство не будет блокироваться, когда вы смотрите на экран. Данные вашего лица не будут анализироваться и храниться на устройстве или загружаться в облако. Включить?</string>
+    <string name="eye_gaze_dialog_title">Уведомление безопасности</string>
     <string name="eye_gaze_summary">Устройство не будет блокироваться, когда вы смотрите на экран</string>
     <string name="eye_gaze_title">Отслеживание взгляда</string>
     <string name="face_add_max">Максимальное количество лиц, которые можно добавить: %d</string>
@@ -4129,11 +4138,16 @@ ID: %s
     <string name="free_xiaomi_wifi_connect_summary">Подключиться к сети \"%1$s\"</string>
     <string name="freeform_guide_drop_down_to_fullscreen_summary">Потяните панель действий плавающего окна вниз</string>
     <string name="freeform_guide_drop_down_to_fullscreen_title">Полноэкранный режим</string>
+    <string name="freeform_guide_free_drag_summary">Перетаскивание текста, изображений или файлов между окнами поддерживаемых приложений</string>
+    <string name="freeform_guide_free_drag_title">Перетаскивание между окнами</string>
     <string name="freeform_guide_move_summary">Используйте заголовок плавающего окна для перемещения</string>
     <string name="freeform_guide_move_title">Перемещение</string>
     <string name="freeform_guide_move_to_small_freeform_window_summary">Перетащите плавающее окно в угол экрана</string>
     <string name="freeform_guide_move_to_small_freeform_window_title">Сворачивание</string>
     <string name="freeform_guide_multi_window">Многозадачность</string>
+    <string name="freeform_guide_multiple_window_summary">"Нажмите и удерживайте значок приложения в панели, чтобы открыть новое окно.
+*Функция работает в приложениях Заметки, Почта, Браузер и WPS."</string>
+    <string name="freeform_guide_multiple_window_title">Открытие нескольких окон</string>
     <string name="freeform_guide_notification_drop_down_summary">Потяните панель действий уведомления вниз</string>
     <string name="freeform_guide_notification_drop_down_title">Открытие</string>
     <string name="freeform_guide_settings">Плавающие окна</string>
@@ -4349,6 +4363,12 @@ ID: %s
     <string name="gxzw_quick_open_title">Ярлыки</string>
     <string name="gxzw_vibrate_summary">Если не выбрана анимация отпечатка пальца, вибрация срабатывать не будет</string>
     <string name="gxzw_vibrate_title">Вибрация при разблокировке</string>
+    <string name="handle_ota_connect_first">Подключите устройство</string>
+    <string name="handle_ota_finish_fw">Успешно обновлено</string>
+    <string name="handle_ota_update_failed">Не удалось обновить</string>
+    <string name="handle_ota_update_title">Обновление встроенного ПО</string>
+    <string name="handle_ota_updating_firmware">Подождите…</string>
+    <string name="handle_ota_updating_tip">Обновление в фоне…</string>
     <string name="handy_mode">Управление одной рукой</string>
     <string name="handy_mode_enable">Управление одной рукой</string>
     <string name="handy_mode_hint">Управление одной рукой доступно только на внешнем экране.</string>
@@ -4582,6 +4602,7 @@ ID: %s
 Эту функцию можно отключить в \"Настройки > Приложения и уведомления\"."</string>
     <string name="high_power_prompt_title">Разрешить приложению запуск в фоновом режиме?</string>
     <string name="high_power_system">Экономия заряда недоступна</string>
+    <string name="high_temperature_toast">Устройство перегрелось. Функция сейчас недоступна.</string>
     <string name="hint_unadjustable_text">Ручная регулировка цветовой температуры недоступна. Включена авторегулировка.</string>
     <string name="history_details_title">Подробная история</string>
     <string name="history_toggled_on_summary">Здесь будут отображаться недавние и отложенные уведомления</string>
@@ -5957,6 +5978,7 @@ ID: %s
     <string name="miheadset_custom_sound_summary">Настройка звука при использовании наушников</string>
     <string name="miheadset_define_self">Настройка</string>
     <string name="miheadset_disconnect">Отключить</string>
+    <string name="miheadset_disconnect_ble">Отключиться от Bluetooth</string>
     <string name="miheadset_disconnect_device">Отключить устройство?</string>
     <string name="miheadset_double_click_key_mode">Двойное нажатие</string>
     <string name="miheadset_double_click_key_mode_summary">Назначение функции на двойное нажатие</string>
@@ -5966,9 +5988,12 @@ ID: %s
     <string name="miheadset_double_connection_summary">Включение этой функции позволяет отвечать на вызовы или воспроизводить мультимедиа на обоих подключённых устройствах без переключения вручную</string>
     <string name="miheadset_double_press_left">Дважды нажмите на левый наушник</string>
     <string name="miheadset_double_press_right">Дважды нажмите на правый наушник</string>
+    <string name="miheadset_double_tap_temple_when_calling">Дважды нажмите во время вызова</string>
+    <string name="miheadset_double_tap_temple_when_idle">Дважды нажмите вне вызова</string>
     <string name="miheadset_double_toast">Вставьте оба наушника, чтобы использовать эту функцию.</string>
     <string name="miheadset_dual_connect_mode">Подключение к двум устройствам</string>
     <string name="miheadset_dual_connect_mode_summary">Одновременное подключение наушников к двум Bluetooth-устройствам</string>
+    <string name="miheadset_dual_connect_mode_summary_with_hint">Включите для одновременного подключения к двум устройствам Bluetooth. После включения или выключения этой функции снимите очки на %d сек. и снова выполните сопряжение.</string>
     <string name="miheadset_enhanceVoice">Улучшение звучания</string>
     <string name="miheadset_enhence_high">Прибавить высокие частоты</string>
     <string name="miheadset_enhence_low">Прибавить низкие частоты</string>
@@ -6013,10 +6038,12 @@ ID: %s
     <string name="miheadset_key_config_close">Откл.</string>
     <string name="miheadset_key_config_close_summary">Отключить режим шумоподавления и прозрачности</string>
     <string name="miheadset_key_config_gesture_control">Жесты</string>
+    <string name="miheadset_key_config_next_and_previous_music">Переключение треков</string>
     <string name="miheadset_key_config_next_music">Следующий трек</string>
     <string name="miheadset_key_config_noise_control">Режимы шумоподавления</string>
     <string name="miheadset_key_config_noise_control_summary">Нажмите и удерживайте для переключения между режимами шумоподавления</string>
     <string name="miheadset_key_config_noise_summary">Блокировать внешние звуки</string>
+    <string name="miheadset_key_config_none">Нет</string>
     <string name="miheadset_key_config_press_left">Нажмите на левый наушник и удерживайте</string>
     <string name="miheadset_key_config_press_right">Нажмите на правый наушник и удерживайте</string>
     <string name="miheadset_key_config_trans_summary">Не блокировать внешние звуки</string>
@@ -6024,11 +6051,17 @@ ID: %s
     <string name="miheadset_key_config_triple_right">Коснитесь трижды правого наушника</string>
     <string name="miheadset_key_config_volume_down">Уменьшение громкости</string>
     <string name="miheadset_key_config_volume_up">Увеличение громкости</string>
+    <string name="miheadset_key_config_volume_up_down">Регулировка громкости</string>
     <string name="miheadset_keyconfig_click_thrice">Тройное нажатие кнопки</string>
     <string name="miheadset_keyconfig_click_twice">Двойное нажатие кнопки</string>
     <string name="miheadset_keyconfig_press_long">Нажмите и удерживайте кнопку %d сек.</string>
     <string name="miheadset_last_version">Обновление не требуется</string>
     <string name="miheadset_local_ota">Обновить</string>
+    <string name="miheadset_longpress_left_temple">Нажмите и удерживайте левую дужку</string>
+    <string name="miheadset_longpress_right_temple_when_calling">Нажмите и удерживайте правую дужку во время вызова</string>
+    <string name="miheadset_longpress_right_temple_when_idle">Нажмите и удерживайте правую дужку вне вызова</string>
+    <string name="miheadset_longpress_temple_when_calling">Нажмите и удерживайте во время вызова</string>
+    <string name="miheadset_longpress_temple_when_idle">Нажмите и удерживайте вне вызова</string>
     <string name="miheadset_low_latency">Низкая задержка</string>
     <string name="miheadset_manual">Об устройстве</string>
     <string name="miheadset_manual_operation">Вручную</string>
@@ -6040,10 +6073,13 @@ ID: %s
     <string name="miheadset_next">Следующий трек</string>
     <string name="miheadset_notification_summary">Показывать виджет в шторке уведомлений при подключении наушников</string>
     <string name="miheadset_notification_title">Виджет в шторке уведомлений</string>
+    <string name="miheadset_offhook">Отклонить вызов</string>
     <string name="miheadset_ok_device">ОК</string>
     <string name="miheadset_openAnc">Шумоподавление</string>
     <string name="miheadset_openAnc2">Шумоподавление</string>
     <string name="miheadset_open_closeAnc">Шумоподавление вкл/откл</string>
+    <string name="miheadset_phone_connected_hangup">Ответ/завершение вызова</string>
+    <string name="miheadset_phone_play_pause">Воспроизведение/Пауза</string>
     <string name="miheadset_play_pause">Воспроизведение/Пауза</string>
     <string name="miheadset_plus">Прибавить</string>
     <string name="miheadset_preferences">Настройки</string>
@@ -6055,6 +6091,8 @@ ID: %s
     <string name="miheadset_shared_contacts_summary">Для обмена контактами</string>
     <string name="miheadset_single_ear_indicate">Наденьте оба наушника для использования шумоподавления</string>
     <string name="miheadset_singleear_toast">Не поддерживается для одного наушника</string>
+    <string name="miheadset_slide_left_temple_back_forward">Проведите по левой дужке</string>
+    <string name="miheadset_slide_right_temple_back_forward">Проведите по правой дужке</string>
     <string name="miheadset_soft">Мягче</string>
     <string name="miheadset_sound_settings">Аудио</string>
     <string name="miheadset_spatial_audio_off">Откл.</string>
@@ -6088,6 +6126,7 @@ ID: %s
     <string name="miui_bubbles_notification">\"Пузыри\" для диалогов</string>
     <string name="miui_bubbles_notification_status_opened">Вкл.</string>
     <string name="miui_data_usage_menu_metered">Мобильная точка доступа</string>
+    <string name="miui_device_control_description">Показать приложения, поддерживающие управление устройствами умного дома</string>
     <string name="miui_experience_optimization">Включить оптимизацию MIUI</string>
     <string name="miui_face_enroll_risk_warning_btn_cancel">Отмена</string>
     <string name="miui_face_enroll_risk_warning_title_text">Внимание</string>
@@ -6970,7 +7009,10 @@ ID: %s
     <string name="nr_advanced_calling_summary">Использовать 5G для голосовых вызовов</string>
     <string name="nr_advanced_calling_title">Vo5G</string>
     <string name="nrca_need_reset">Перезагрузите устройство для применения изменений</string>
+    <string name="nrca_registered">Зарегистрировано</string>
     <string name="nrca_switch_title">Агрегация несущих 5G</string>
+    <string name="nrca_type_title">Статус агрегации несущих</string>
+    <string name="nrca_unregistered">Не зарегистрировано</string>
     <string name="number_of_device_admins_none">Нет активных приложений</string>
     <string name="oaid_apps_summary">Настройка доступа для отдельных приложений</string>
     <string name="oaid_apps_title">Управление виртуальным ID</string>
@@ -7042,6 +7084,7 @@ ID: %s
     <string name="ota_disable_automatic_update_summary">Применять обновления при перезагрузке устройства</string>
     <string name="otg_button">OTG</string>
     <string name="otg_closed">Откл.</string>
+    <string name="otg_new_tip">Включите OTG, чтобы подключать устройство к другим устройствам с помощью USB. Функция автоматически отключится через %d минут бездействия.</string>
     <string name="otg_opened">Вкл.</string>
     <string name="otg_settings">OTG</string>
     <string name="otg_tip">"USB On-The-Go позволяет USB-накопителям и портативным клавиатурам подключаться к вашему устройству и обмениваться данными.
@@ -8072,6 +8115,10 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_dark_mode_smart_dark_title">Глобальный тёмный режим</string>
     <string name="screen_dark_mode_time_title">Расписание тёмного режима</string>
     <string name="screen_effect">Цветовая схема</string>
+    <string name="screen_effect_adapt_color_summary">Настройка цветов в зависимости от текущего освещения</string>
+    <string name="screen_effect_adapt_color_title">Насыщенность</string>
+    <string name="screen_effect_origin_color_summary">Реалистичные цвета за счёт калибровки</string>
+    <string name="screen_effect_origin_color_title">Оригинальный цвет PRO</string>
     <string name="screen_enhance_engine_ai_note">%d. Функция незначительно увеличивает расход батареи.</string>
     <string name="screen_enhance_engine_ai_note_2">%d. Можно улучшить только изображения из Галереи.</string>
     <string name="screen_enhance_engine_ai_note_3">%d. Функция недоступна, когда выбраны оригинальные цвета или расширенные настройки.</string>
@@ -8822,6 +8869,8 @@ UT-интерфейс: %5$s"</string>
     <string name="send_diagnosis_log">Отправить журнал</string>
     <string name="sending">Отправка…</string>
     <string name="sensor_toggle_description">Для всех приложений и сервисов</string>
+    <string name="sensors_hal_log_summary">Использовать журналирование датчиков HAL</string>
+    <string name="sensors_hal_log_title">Журналы датчиков HAL</string>
     <string name="sensors_off_quick_settings_title">Датчики отключены</string>
     <string name="separate_keyboard">Эргономичная клавиатура</string>
     <string name="separate_keyboard_summary_fold">Разделение клавиатуры перегородкой в центре для более удобного набора текста двумя руками</string>
@@ -10617,6 +10666,7 @@ UT-интерфейс: %5$s"</string>
     <string name="use_otg_file_transfers_summary">Медленная зарядка 500мА и передача файлов</string>
     <string name="use_otg_title">Подключение USB на лету</string>
     <string name="use_personalized_ad_service">Персонализированная реклама</string>
+    <string name="use_personalized_ad_service_for_global">Персонализация рекламы MIUI</string>
     <string name="use_personalized_ad_service_summary">После отключения персонализированной рекламы, вы по-прежнему будете видеть то же количество рекламы, но она будет не столь релевантной, поскольку не будет основываться на ваших предпочтениях.</string>
     <string name="use_personalized_ad_service_summary_for_global">После отключения персонализированной рекламы, вы по-прежнему будете видеть то же количество рекламы в системных приложениях MIUI. Однако реклама от Xiaomi и сторонних платформ будет не столь релевантной, поскольку не будет основываться на ваших предпочтениях.</string>
     <string name="use_privacy_password_immediate">Попробовать</string>
@@ -10839,6 +10889,9 @@ UT-интерфейс: %5$s"</string>
     <string name="volume_category_title">Громкость</string>
     <string name="volume_connectivity_panel_title">Громкость</string>
     <string name="volume_hifi_description">Настройки Hi-Fi</string>
+    <string name="volume_key_launch_camera_0" />
+    <string name="volume_key_launch_camera_1" />
+    <string name="volume_key_launch_camera_2" />
     <string name="volume_label">Громкость</string>
     <string name="volume_launch_camera_summary">Запуск камеры двойным нажатием кнопки \"Уменьшение громкости\"</string>
     <string name="volume_media_description">Музыка, видео, игры и медиафайлы</string>
@@ -11654,6 +11707,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_unspecified">Выберите</string>
     <string name="wifi_update">Обновить</string>
     <string name="wifi_use_system_certs">Использовать системные сертификаты</string>
+    <string name="wifi_validation">Проверка сети…</string>
     <string name="wifi_venue_website_button_text">Открыть сайт</string>
     <string name="wifi_verbose_logging">Подробный журнал Wi-Fi</string>
     <string name="wifi_verbose_logging_summary">При выборе Wi-Fi показывать RSSI для каждого SSID</string>

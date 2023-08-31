@@ -24,11 +24,13 @@
     <string name="HA_DOMAIN">mivideo</string>
     <string name="HA_DOMAIN_TEST">test</string>
     <string name="HA_SERVICE_ID">PLAY</string>
+    <string name="IS_SUPPORT_COMMON_DEVICE_CONFIG">1669262914142</string>
     <string name="IS_SUPPORT_SPACE_SOUND">1652086800</string>
     <string name="L71_AUTO_UPGRADE_FEATURE">20220321</string>
     <string name="L71_MANUAL_AND_SILENT_UPGRADE">20220916</string>
     <string name="MM">mm</string>
     <string name="MOBILE_QQ">mobileqq</string>
+    <string name="REGISTER_CALLBACK_DEVICE">V1.0</string>
     <string name="SINA">sina.</string>
     <string name="SURPPORT_COMPATIBLE_AT_VERSION">V2.4.3.0</string>
     <string name="SURPPORT_EARBUDS_LOG_UPLOAD">V1.1</string>
@@ -2363,6 +2365,7 @@
     <string name="esim_inactive_notification_channel_for_global">eSimInActiveNotificationForGlobal</string>
     <string name="esim_is_activating_notification_channel_for_o2">eSimIsActivatingNotificationForO2</string>
     <string name="event_lunar_month">月</string>
+    <string name="ex_voice_assist">@string/voice_assist</string>
     <string name="exception_network_error_check_network">网络无法连接</string>
     <string name="exception_network_error_retry">网络出错，请稍后再试</string>
     <string name="exception_network_error_wait_retry">网络无法连接,请稍后再试</string>

@@ -442,7 +442,7 @@
     <string name="alarms_and_reminders_title">Будильники и напоминания</string>
     <string name="all_network_unavailable">Нет доступных сетей</string>
     <string name="allow_mock_location">Фиктивные геоданные</string>
-    <string name="allow_mock_location_summary">Разрешить использование фиктивных геоданных</string>
+    <string name="allow_mock_location_summary">Использовать фиктивные геоданные</string>
     <string name="allow_turn_screen_on">Разрешить включение экрана</string>
     <string name="allow_turn_screen_on_description">Разрешить приложению включать экран. Приложение сможет включать экран в любое время без вашего участия.</string>
     <string name="always_use_accessory">Использовать по умолчанию для этого USB аксессуара</string>
@@ -1437,9 +1437,11 @@
     <string name="input_lockscreen_pattern_hint_text">Введите ключ</string>
     <string name="input_lockscreen_pin_hint_text">Введите PIN-код</string>
     <string name="input_password_after_boot_msg">После перезагрузки требуется ввод пароля</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_calling">Переключение пространства во время вызова недоступно</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_calling">Переключение между пространствами во время вызова недоступно</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_active">Переключение между пространствами в режиме гибернации недоступно</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_endurance_battery_zero_active">Переключение между пространствами недоступно из-за низкого заряда батареи</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Переход во второе пространство запрещён родительским контролем</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Переключение пространства при ультраэкономии заряда недоступно</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Переключение между пространствами при ультраэкономии заряда недоступно</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">После перезагрузки необходимо войти в первое пространство</string>
     <string name="input_password_hint_text">Введите пароль</string>
     <string name="input_password_hint_text_v11">Введите пароль</string>
@@ -1897,6 +1899,7 @@ dd.MM"</string>
     <string name="miui_notification_menu_unfold">Отметить как важное</string>
     <string name="miui_notification_slide_menu_msg_ongoing">Отключить постоянные уведомления для \"%1$s\"?</string>
     <string name="miui_notification_slide_menu_ongoing">Отключить постоянные уведомления</string>
+    <string name="miui_restart_button_description">Перезагрузка для улучшения отображения</string>
     <string name="miui_ringer_count_down">Таймер</string>
     <string name="miui_ringer_standard">Без звука</string>
     <string name="miui_ringer_standard_description">Отключить звук для входящих вызовов и уведомлений</string>
@@ -2544,7 +2547,8 @@ mm"</string>
     <string name="quick_settings_cellular_detail_data_usage">Передача данных</string>
     <string name="quick_settings_cellular_detail_data_used">%s использовано</string>
     <string name="quick_settings_cellular_detail_data_warning">%s предупреждение</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Мобильный интернет (WCDMA/LTE) будет отключён. Если Wi-Fi отключён, вы не сможете использовать приложения, которым требуется передача данных. Отправка и получение мультимедийных сообщений будут ограничены.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Мобильный интернет будет отключён. Вы не сможете использовать приложения, которым требуется передача данных, пока не включите Wi-Fi. Отправка и получение MMS по-прежнему будут доступны.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff_wlan">Мобильный интернет будет отключён. Вы не сможете использовать интернет, пока не включите Wi-Fi. Отправка и получение MMS по-прежнему будут доступны.</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">Будет включён мобильный интернет. Это может привести к дополнительным тратам, в зависимости от вашего тарифного плана.</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Отмена</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">ОК</string>
@@ -3187,6 +3191,7 @@ d MMMM"</string>
     <string name="the_valentines_day">День святого Валентина</string>
     <string name="the_water_lantern_festival">Фестиваль водных фонарей</string>
     <string name="theme">Тема</string>
+    <string name="thermal_protection_warning">Устройство перегрелось. Функция сейчас недоступна.</string>
     <string name="thermal_shutdown_dialog_help_text">См. рекомендации</string>
     <string name="thermal_shutdown_dialog_help_url" />
     <string name="thermal_shutdown_dialog_message">"Устройство было отключено из-за перегрева. Сейчас оно работает нормально.

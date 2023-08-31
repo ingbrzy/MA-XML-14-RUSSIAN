@@ -68,6 +68,11 @@
     <string name="freeform_demo_previous_tutorial">Назад</string>
     <string name="freeform_demo_title_finish">Отлично!</string>
     <string name="freeform_demo_title_skip">Пропустить</string>
+    <string name="freeform_guide_free_drag_summary">Перетаскивание текста, изображений или файлов между окнами поддерживаемых приложений</string>
+    <string name="freeform_guide_free_drag_title">Перетаскивание между окнами</string>
+    <string name="freeform_guide_multiple_window_summary">"Нажмите и удерживайте значок приложения в панели, чтобы открыть новое окно.
+*Функция работает в приложениях Заметки, Почта, Браузер и WPS."</string>
+    <string name="freeform_guide_multiple_window_title">Открытие нескольких окон</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Перетащите угол, чтобы свернуть приложение</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Перетащите угол, чтобы свернуть приложение</string>
     <string name="freeform_guide_to_sidehide_summary">Быстро перетащите панель действий плавающего окна к краю экрана</string>
