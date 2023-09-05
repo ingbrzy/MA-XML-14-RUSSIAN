@@ -82,6 +82,7 @@
     <array name="allowed_package_operator" />
     <string-array name="allowlist_hide_entry_in_battery_usage"></string-array>
     <array name="allowlist_hide_summary_in_battery_usage" />
+    <string-array name="altgr_keyboard_layout_list"></string-array>
     <string-array name="always_enabled_app_list"></string-array>
     <string-array name="am_pms"></string-array>
     <string-array name="animation_rate_values"></string-array>
@@ -986,6 +987,7 @@
     <string-array name="miui_feedback_reproductivity"></string-array>
     <string-array name="miui_first_use_dexopt_black_list"></string-array>
     <string-array name="miui_first_use_dexopt_list"></string-array>
+    <string-array name="miui_home_branch_region"></string-array>
     <string-array name="miui_lite_fancy_icon_app"></string-array>
     <string-array name="miui_main_update_mirror_support"></string-array>
     <string-array name="miui_nature_sound_array"></string-array>
@@ -1126,6 +1128,7 @@
     <string-array name="personal__personal_item_title_arr"></string-array>
     <string-array name="phone_call_noise_suppression_values"></string-array>
     <string-array name="phone_type_values"></string-array>
+    <string-array name="poco_branch_region"></string-array>
     <string-array name="poco_device_list"></string-array>
     <array name="policy_exempt_apps" />
     <string-array name="pop_up_activation_box_imsi_entries"></string-array>
@@ -1432,6 +1435,7 @@
     <string-array name="steady_on_screen_time"></string-array>
     <array name="store__web_page_background"></array>
     <array name="store__web_page_background_color"></array>
+    <string-array name="strg_keyboard_layout_list"></string-array>
     <string-array name="stylus_language_entries"></string-array>
     <string-array name="stylus_language_value"></string-array>
     <string-array name="subscreen_timeout_values"></string-array>

@@ -183,6 +183,7 @@
     <string name="keyboard_function_summary_first_line">·Нажмите и удерживайте для отображения ярлыков</string>
     <string name="keyboard_function_summary_second_line">·Для передачи экрана поднесите устройство, авторизованное под той же учетной записью, к области NFC на клавиатуре. Выберите файл или фотографию для передачи между устройствами.</string>
     <string name="keyboard_funtion_key">Функциональная клавиша</string>
+    <string name="keyboard_layout_arabic">Арабская</string>
     <string name="keyboard_layout_default_label">По умолчанию</string>
     <string name="keyboard_layout_dialog_setup_button">Настроить раскладки клавиатуры</string>
     <string name="keyboard_layout_dialog_switch_hint">Для смены нажмите CTRL + Пробел</string>

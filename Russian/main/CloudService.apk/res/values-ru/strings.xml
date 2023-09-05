@@ -1133,6 +1133,11 @@ Xiaomi Cloud для нормальной работы необходимы по�
     <string name="warning_bar_title_sync_off">Синхронизация с Xiaomi Cloud отключена</string>
     <string name="web_sso_login_fail">Необходимо выполнить вход повторно</string>
     <string name="web_sso_login_message">Авторизация…</string>
+    <string name="web_view_auto_login_fail">Не удалось войти. Повторите попытку.</string>
+    <string name="web_view_login_text">Выполняется вход…</string>
+    <string name="web_view_reload_btn_text">Повтор</string>
+    <string name="web_view_reload_description_text">"Не удалось подключиться к сети.
+Проверьте настройки сети и повторите попытку."</string>
     <string name="webview_reload">Повторить</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
