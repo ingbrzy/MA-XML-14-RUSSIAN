@@ -151,6 +151,10 @@
         <item quantity="other">Доступны обновления для %d приложений</item>
         <item quantity="one">Доступно обновление для %d приложения</item>
     </plurals>
+    <plurals name="app_manager_updater_title">
+        <item quantity="other">Обновление %d приложений</item>
+        <item quantity="one">Обновление %d приложения</item>
+    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">%d дней назад</item>
         <item quantity="one">%d день назад</item>

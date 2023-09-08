@@ -802,9 +802,9 @@
     <string name="usage_new_home_avg_usage_day">В среднем в день: %s</string>
     <string name="usage_new_home_category">Категории</string>
     <string name="usage_new_home_classify_manage">Управление категориями</string>
-    <string name="usage_new_home_compare_text1">- на %.2f больше, чем днем ранее</string>
-    <string name="usage_new_home_compare_text2">- на %.2f меньше, чем днем ранее</string>
-    <string name="usage_new_home_compare_text3">- как и днем ранее</string>
+    <string name="usage_new_home_compare_text1">- на %.2f больше, чем днём ранее</string>
+    <string name="usage_new_home_compare_text2">- на %.2f меньше, чем днём ранее</string>
+    <string name="usage_new_home_compare_text3">- как и днём ранее</string>
     <string name="usage_new_home_current_week">эта неделя</string>
     <string name="usage_new_home_dashboard">Сводка</string>
     <string name="usage_new_home_date_day_title">%s | </string>
@@ -818,7 +818,7 @@
     <string name="usage_new_home_show_more_data_summary">Статистика и установка лимита времени экрана</string>
     <string name="usage_new_home_show_more_data_title">Статистика по приложениям</string>
     <string name="usage_new_home_sys_no_limit_summary">Ограничение времени экрана для системных приложений недоступно</string>
-    <string name="usage_new_home_unlock_equals_text">(как и днем ранее)</string>
+    <string name="usage_new_home_unlock_equals_text">(как и днём ранее)</string>
     <string name="usage_new_home_unused">Не использовалось</string>
     <string name="usage_new_home_update">Изменить</string>
     <string name="usage_new_home_usage_detail">Статистика использования</string>

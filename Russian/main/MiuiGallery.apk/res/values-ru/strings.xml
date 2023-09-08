@@ -306,7 +306,7 @@
     <string name="baby_album_sharer_recommand_face">Добавить существующие фото %1$s?</string>
     <string name="baby_album_sharers_page_title">Поделиться с семьей</string>
     <string name="baby_birthday">День рождения</string>
-    <string name="baby_birthday_title">С днем рождения!</string>
+    <string name="baby_birthday_title">С днём рождения!</string>
     <string name="baby_face_desc">Детский альбом</string>
     <string name="baby_lock_wallpaper">Обои экрана блокировки</string>
     <string name="baby_lock_wallpaper_cancelled">Используются обои экрана блокировки по умолчанию</string>

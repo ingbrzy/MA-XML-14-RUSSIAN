@@ -291,6 +291,7 @@
     <integer-array name="config_5g_signal_rsrp_thresholds"></integer-array>
     <array name="config_BrightnessCurvesLux" />
     <string-array name="config_France_Orange_IPV6_array"></string-array>
+    <string-array name="config_OpOngoingPackages"></string-array>
     <string-array name="config_Poland_Orange_IPV6_array"></string-array>
     <array name="config_accessibility_allowed_install_source" />
     <string-array name="config_allowFloatPackages"></string-array>
