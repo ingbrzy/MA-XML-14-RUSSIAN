@@ -2598,7 +2598,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="global_satisfaction_notification_channel">Пользовательский опрос</string>
     <string name="global_satisfaction_notification_subhead">Поделитесь с нами своими впечатлениями</string>
     <string name="global_satisfaction_notification_summary">Расскажите нам, что вы думаете об этом устройстве</string>
-    <string name="global_satisfaction_notification_title">Оцените это устройство</string>
+    <string name="global_satisfaction_notification_title">Поделитесь впечатлениями</string>
     <string name="global_wa_setting_alert_dialog_content">Можно освободить %s</string>
     <string name="global_wa_setting_alert_dialog_title">Очистка WhatsApp</string>
     <string name="gmscore_support_remind">Включите эту функцию, если у вас возникли проблемы с использованием Gmail, Карт Google и других приложений Google. Это немного повысит расход батареи.</string>
@@ -4857,7 +4857,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="security_scan_optimizing">Оптимизация…</string>
     <string name="securityadd_install_fail">Не удалось обновить плагин. Повторите попытку.</string>
     <string name="securityadd_update_tips_cancle">Не сейчас</string>
-    <string name="securityadd_update_tips_message">Обновите плагин службы безопасности, чтобы получить доступ к новейшим игровым функциям. %1$dMB будет загружено.</string>
+    <string name="securityadd_update_tips_message">Обновите плагин службы безопасности, чтобы получить доступ к новейшим игровым функциям. %1$d МБ будет загружено.</string>
     <string name="securityadd_update_tips_now">Обновить</string>
     <string name="securityadd_update_tips_title">Обновление</string>
     <string name="securitycenter_tab_title">Безопасность</string>
