@@ -128,6 +128,9 @@
     <string name="auth_fail_warning">Сессия устарела. Войдите повторно.</string>
     <string name="auto_play_next_off">Автовоспроизведение откл.</string>
     <string name="auto_play_next_on">Автовоспроизведение вкл.</string>
+    <string name="back_recommend_exchange">Просмотр</string>
+    <string name="back_recommend_exit">Выйти</string>
+    <string name="back_recommend_title">Посмотрите другие популярные видео</string>
     <string name="back_to_mainpage">Открыть</string>
     <string name="background_playback_enabled">Включено фоновое воспроизведение</string>
     <string name="before_yestoday">2 дня назад</string>
@@ -784,6 +787,7 @@ ID: %s
     <string name="hello_blank_fragment">Привет пустой фрагмент</string>
     <string name="hidden_channels">Следующие каналы не будут отображаться на главной странице.</string>
     <string name="hide">Скрыть</string>
+    <string name="hide_video_toast">Этот объект был скрыт. Вы можете найти и управлять скрытыми объектами в разделе \"На устройстве\" > \"Папки\" > \"Скрытые объекты\".</string>
     <string name="hint_icon_ad_title">Рекомендация</string>
     <string name="hint_in_mivideo">Посмотрите дополнительные функции в боковой панели</string>
     <string name="history">История</string>
@@ -909,6 +913,7 @@ ID: %s
     <string name="local_hide_folder_dialog_title">Скрытые видео</string>
     <string name="local_hide_folder_setting_goto">Настройки</string>
     <string name="local_hide_folder_setting_tip">Скрытыми видео можно управлять в разделе Профиль > Настройки > Управление скрытыми видео</string>
+    <string name="local_new_user_speed_guide">Нажмите, удерживайте или проведите, чтобы изменить скорость воспроизведения</string>
     <string name="local_play_end_camera_title">Другие видео</string>
     <string name="local_play_end_close_tip">Рекомендации сегодня больше не будут показываться</string>
     <string name="local_play_end_download_drag_up_guide">Нажмите или сделайте свайп для загрузки</string>
@@ -920,6 +925,14 @@ ID: %s
     <string name="local_push_setting_power_tag">Уведомления о локальных видео</string>
     <string name="local_push_title">Популярное сегодня</string>
     <string name="local_push_video_title">Поиск новых локальных видео</string>
+    <string name="local_reset_confirm">Подтвердите код</string>
+    <string name="local_reset_error_dif_info">Новый код не может совпадать со старым</string>
+    <string name="local_reset_error_wrong_info">Коды не совпадают</string>
+    <string name="local_reset_new_password">Введите новый код</string>
+    <string name="local_reset_old_password">Введите текущий код</string>
+    <string name="local_reset_password_done">Цифровой код был изменен</string>
+    <string name="local_reset_password_title">Изменить код</string>
+    <string name="local_reset_tips">Введите %d-значный код</string>
     <string name="local_stretch_zoom_mode">Изображение растянуто</string>
     <string name="local_subtitle_choose_language_text">Язык</string>
     <string name="local_subtitle_exemption_hint">Поиск субтитров на opensubtitle.org</string>
@@ -1280,6 +1293,9 @@ ID: %s
     <string name="music_new_user_dialog_tip">Добро пожаловать в Mi Video! Приложение предоставляет локальный видеоплеер и онлайн-сервисы потоковой передачи музыки и видео.</string>
     <string name="my_favorite_channels">Мои избранные каналы</string>
     <string name="my_feedback_title">Мой отзыв</string>
+    <string name="native_body">Текст</string>
+    <string name="native_headline">Заголовок</string>
+    <string name="native_media_view">Просмотр мультимедиа</string>
     <string name="need_update_app">Обновите Mi Видео для использования всех функций</string>
     <string name="network_connect_info">Ошибка подключения к сети. Проверьте настройки и повторите попытку.</string>
     <string name="network_error_and_retry_tip">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>
@@ -1860,6 +1876,7 @@ ID: %s
     <string name="sign_in_mi_account">Вход c Xiaomi аккаунтом</string>
     <string name="sign_in_progress">Выполняется вход…</string>
     <string name="sign_in_title">Войдите в свой Xiaomi аккаунт</string>
+    <string name="skip_ad">Пропустить</string>
     <string name="slid_fail_message">Не удалось сохранить видео</string>
     <string name="slide_save_message">Создание видео…</string>
     <string name="small_video_cancel_button">Отмена</string>
@@ -2214,6 +2231,7 @@ ID: %s
     <string name="vp_replay">Повтор</string>
     <string name="vp_upcoming_auto_play">Автовоспроизведение</string>
     <string name="vp_upcoming_title">Далее</string>
+    <string name="watermark_label_prefix">AdMob –</string>
     <string name="website_button_add_bookmarks">Добавить закладку</string>
     <string name="wechat_application_id"/>
     <string name="wechat_scope"/>

@@ -144,6 +144,7 @@
     <string name="ad_exit_dialog_message">Установка завершена. Открыть приложение?</string>
     <string name="ad_exit_dialog_open_btn_name">Открыть</string>
     <string name="ad_exit_dialog_title_name">Открытие нового приложения</string>
+    <string name="ad_flag_text">Реклама</string>
     <string name="ad_go_download">Загрузить</string>
     <string name="ad_go_see">Ещё</string>
     <string name="ad_loading_tips_text">Загрузка…</string>
@@ -194,6 +195,10 @@
     <string name="allow">Разрешить</string>
     <string name="allow_current">Разрешить сейчас</string>
     <string name="already_add">%s добавлены на рабочий стол</string>
+    <string name="antivirus_btn_scanned">Проверить</string>
+    <string name="antivirus_desc_no_scanned">Нажмите, чтобы проверить</string>
+    <string name="antivirus_desc_scanned">Все в порядке</string>
+    <string name="antivirus_title">Антивирус</string>
     <string name="app_cache">Кэш</string>
     <string name="app_category_tag_daily_recommendation">Сегодня</string>
     <string name="app_category_tag_editor_recommendation">Выбор редакции</string>
@@ -264,6 +269,13 @@
     <string name="autologin_bar_text">Войти как</string>
     <string name="avatar">Фото профиля</string>
     <string name="back_description">Назад</string>
+    <string name="back_dialog_antivirus_primary_btn">Проверить</string>
+    <string name="back_dialog_health_check_primary_btn">Оптимизировать</string>
+    <string name="back_dialog_storage_content">Используется %1$s хранилища устройства. Очистить?</string>
+    <string name="back_dialog_storage_primary_btn">Очистить</string>
+    <string name="back_dialog_title_antivirus">Антивирус</string>
+    <string name="back_dialog_title_health_check">Оптимизировать устройство</string>
+    <string name="back_dialog_title_storage">Управление хранилищем</string>
     <string name="back_home">Отпустите для возврата</string>
     <string name="batch_download">Скачать</string>
     <string name="batch_download_tip">Обнаружено несколько одновременных загрузок. Заблокировать их?</string>
@@ -327,6 +339,7 @@
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Свайп вверх для закрытия</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="branch_app_suggestion">Рекомендуемые</string>
+    <string name="branch_app_title">Поиск приложений</string>
     <string name="branch_apps">Приложения</string>
     <string name="branch_contacts">Контакты</string>
     <string name="branch_function_search_for_more">Расширенный поиск позволяет осуществлять поиск в Настройках, Контактах, Сообщениях и др.</string>
@@ -335,6 +348,7 @@
     <string name="branch_local_search_settings">Параметры локального поиска</string>
     <string name="branch_new_function">Новая функция</string>
     <string name="branch_search_bar_tips">Поиск приложений и игр</string>
+    <string name="branch_search_guide_pop_search">Поиск</string>
     <string name="branch_search_guide_privacy">Данная функция предоставлена компанией Branch Metrics Inc. Мы можем передавать ей данные о вашем местоположении, поиске и ваш рекламный идентификатор Google. Прежде чем продолжить, ознакомьтесь и согласитесь с их <font color="#B3000000"><a href="http://url1">Условиями использования</a></font> и <font color="#B3000000"><a href="http://url2">Политикой конфиденциальности</a></font>.</string>
     <string name="branch_search_in_browser">Поиск \"%1$s\" в Браузере</string>
     <string name="branch_setting">Настройки</string>
@@ -353,6 +367,16 @@
     <string name="browser_default_setting_confirm">ОК</string>
     <string name="browser_default_setting_content">Быстрый и безопасный просмотр веб-страниц</string>
     <string name="browser_default_setting_title">Установить браузером по умолчанию</string>
+    <string name="browser_wallpaper">Обои</string>
+    <string name="browser_wallpaper_application">Применить</string>
+    <string name="browser_wallpaper_art">Искусство</string>
+    <string name="browser_wallpaper_currently_in_use">Выбрано</string>
+    <string name="browser_wallpaper_landscape">Пейзажи</string>
+    <string name="browser_wallpaper_more_btn">Показать еще</string>
+    <string name="browser_wallpaper_preview">Просмотр</string>
+    <string name="browser_wallpaper_subtitle">Персонализируйте Mi Браузер с помощью обоев.</string>
+    <string name="browser_wallpaper_system_default">По умолчанию</string>
+    <string name="browser_wallpaper_title">Обои</string>
     <string name="btn_agree">Согласиться</string>
     <string name="btn_cancel">Отмена</string>
     <string name="btn_confirm">Понятно</string>
@@ -427,6 +451,7 @@
     <string name="choose_to_signup">Нет, создать новый</string>
     <string name="choosertitle_sharevia">Отправить с помощью</string>
     <string name="clean_cache">Очистить кэш</string>
+    <string name="clean_cache_btn_clean">Очистить</string>
     <string name="clear">Очистить</string>
     <string name="clear_clipboard">Очистить буфер обмена</string>
     <string name="clear_clipboard_confirm">Вы уверены, что хотите полностью очистить буфер обмена?</string>
@@ -615,7 +640,9 @@
     <string name="contextmenu_webpage_translate">Перевод страницы</string>
     <string name="contextmenu_webpage_translation_tips">Новая функция перевода в панели инструментов</string>
     <string name="continue_reading">Продолжить просмотр</string>
+    <string name="continue_watch_video">Продолжить просмотр</string>
     <string name="copy">Копировать</string>
+    <string name="copy_success">Скопировано</string>
     <string name="copy_toast_msg">Ссылка скопирована в буфер обмена.</string>
     <string name="copy_url">Копировать URL</string>
     <string name="core_functions_of_browser">Быстрый доступ к основным функциям</string>
@@ -697,6 +724,11 @@
     <string name="diagnosis_log_sent_format">"Журналы успешно отправлены.
 ID:%s
 Отправьте этот код руководителю."</string>
+    <string name="dialog_ad_callback_cancel">Отмена</string>
+    <string name="dialog_ad_callback_fraud_info">Мошенничество</string>
+    <string name="dialog_ad_callback_inappropriate_picture">Неприемлемые изображения</string>
+    <string name="dialog_ad_callback_others">Другое</string>
+    <string name="dialog_ad_callback_title">Сообщить о проблеме</string>
     <string name="dialog_ad_exit_exit_app">Позже</string>
     <string name="dialog_ad_exit_open_app">Открыть</string>
     <string name="dialog_cannot_resume">Загрузка прервана</string>
@@ -708,6 +740,12 @@ ID:%s
     <string name="dialog_confirm_delete_checkbox_message">Удалить также загруженные файлы</string>
     <string name="dialog_confirm_delete_downloads_message">Удалить выбранные загрузки?</string>
     <string name="dialog_confirm_delete_the_download_item_message">Удалить выбранную загрузку?</string>
+    <string name="dialog_dislike_reason_cancel">Отмена</string>
+    <string name="dialog_dislike_reason_not_interested">Не интересует</string>
+    <string name="dialog_dislike_reason_others">Другая причина</string>
+    <string name="dialog_dislike_reason_poor_quality">Плохое качество</string>
+    <string name="dialog_dislike_reason_repetitive">Надоедливая</string>
+    <string name="dialog_dislike_title">Почему вам не нравится эта реклама?</string>
     <string name="dialog_failed_body">Повторите попытку позже или удалите этот файл из очереди загрузки</string>
     <string name="dialog_file_already_exists">Файл уже загружен</string>
     <string name="dialog_file_missing_body">Ошибка открытия файла. Файл перемещён или удалён?</string>
@@ -993,12 +1031,34 @@ ID:%s
     <string name="fb_register_btn">Создать аккаунт</string>
     <string name="fcm_fallback_notification_channel_label">Другое</string>
     <string name="featured_this_week">Популярно на этой неделе</string>
+    <string name="feed_advise_good">Я бы порекомендовал друзьям</string>
     <string name="feed_content_protection">Защита контента</string>
     <string name="feedback">Обратная связь</string>
+    <string name="feedback_advise_this_app">Рекомендация</string>
+    <string name="feedback_advise_your_friends">Насколько вероятно, что вы порекомендуете Mi Браузер?</string>
+    <string name="feedback_amazing">Отлично</string>
     <string name="feedback_bad">Нет</string>
+    <string name="feedback_download_easy_find">Я могу найти загруженные файлы</string>
+    <string name="feedback_download_easy_get">Больше удобных вариантов загрузки</string>
+    <string name="feedback_download_failed">Загрузки прерываются</string>
+    <string name="feedback_download_file_loss">Не могу найти загруженные файлы</string>
+    <string name="feedback_download_file_open_failed">Загруженные файлы не открываются</string>
+    <string name="feedback_download_not_necessary">Необязательно</string>
+    <string name="feedback_download_obvious">Более понятное расположение загрузки</string>
+    <string name="feedback_download_slow">Низкая скорость загрузки</string>
+    <string name="feedback_download_speed_more">Более высокая скорость загрузки</string>
+    <string name="feedback_download_speed_quickly">Высокая скорость загрузки</string>
+    <string name="feedback_download_subtitle">Введите свой отзыв</string>
+    <string name="feedback_download_success_percent">Загрузки всегда завершаются</string>
+    <string name="feedback_download_success_percent_more">Более высокий процент успешных загрузок</string>
+    <string name="feedback_download_terrible">С какими проблемами вы столкнулись?</string>
+    <string name="feedback_download_title">Каковы впечатления от загрузки данных?</string>
     <string name="feedback_email">Пишите нам, если у вас есть вопросы о Wonderfic: wonderwebfiction@gmail.com.</string>
+    <string name="feedback_exit_title">Расскажите нам больше</string>
     <string name="feedback_general">Отчасти</string>
+    <string name="feedback_general_subtitle">Что могло бы улучшить ваши впечатления?</string>
     <string name="feedback_good">Да</string>
+    <string name="feedback_impossible">Маловероятно</string>
     <string name="feedback_info_app_package_name">"Имя пакета: "</string>
     <string name="feedback_info_app_version">"Версия приложения: "</string>
     <string name="feedback_info_language">"Язык: "</string>
@@ -1006,10 +1066,19 @@ ID:%s
     <string name="feedback_info_product">"Модель: "</string>
     <string name="feedback_info_system">"Система: "</string>
     <string name="feedback_info_system_version">"Версия системы: "</string>
+    <string name="feedback_multi">Выберите все, что подходит</string>
     <string name="feedback_not_interested_response">Вы будете видеть меньше таких отзывов</string>
+    <string name="feedback_possible">Вероятно</string>
+    <string name="feedback_recommend">Более высокие цифры соответствуют более высокой вероятности рекомендации</string>
     <string name="feedback_send_email_body_extra_info">Не удаляйте следующую информацию. Это поможет нам найти проблему.</string>
+    <string name="feedback_submit">Отправить</string>
+    <string name="feedback_terrible">Плохо</string>
     <string name="feedback_thank_you">Благодарим за отзыв!</string>
     <string name="feedback_title">Интересен ли вам этот контент?</string>
+    <string name="feedback_website_bad">Очень низкая</string>
+    <string name="feedback_website_general">Нормальная, но могла бы быть выше</string>
+    <string name="feedback_website_good">Хорошая</string>
+    <string name="feedback_website_speed_title">Какова скорость загрузки веб-страниц?</string>
     <string name="fetch_video">Подготовка видео…</string>
     <string name="fetch_video_fail">Не удалось получить данные</string>
     <string name="fetch_video_ssl_bad_clock">На устройстве установлена неверная дата и время (%s). Измените настройки и повторите попытку.</string>
@@ -1369,6 +1438,7 @@ ID:%s
     <string name="media_error_source">Не удалось найти источник</string>
     <string name="media_error_timeout">Тайм-аут подключения к сети</string>
     <string name="media_error_video_not_exist">Видео не существует</string>
+    <string name="memory_btn_clean">Очистить</string>
     <string name="memory_clear_nothing_result">Очистка памяти не требуется</string>
     <string name="memory_clear_result">Очищено %1$s</string>
     <string name="memory_management">Управление хранилищем</string>
@@ -1790,6 +1860,9 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="my_channel">Мои каналы</string>
     <string name="my_prize_entry">Мои награды</string>
     <string name="name_empty">Необходимо ввести имя.</string>
+    <string name="native_body">Текст</string>
+    <string name="native_headline">Заголовок</string>
+    <string name="native_media_view">Просмотр мультимедиа</string>
     <string name="nav_bottom_bar_back">Назад</string>
     <string name="nav_bottom_bar_close_all">Закрыть все</string>
     <string name="nav_bottom_bar_close_description">Закрыть</string>
@@ -1907,6 +1980,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="notification_download_failed">Ошибка загрузки.</string>
     <string name="notification_wechat_expired_empty">Эти видео были удалены из WeChat.</string>
     <string name="notifications">Уведомления</string>
+    <string name="notify_rencet_play">Недавние</string>
     <string name="novel_continue_read_popup">Читать</string>
     <string name="novel_tab_popup">Смотрите новейшие книги здесь</string>
     <string name="novel_tab_popup_ok">OK</string>
@@ -2131,6 +2205,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="popup_video">Всплывающее видео</string>
     <string name="popup_window_attempt">Разрешить сайту всплывающие окна?</string>
     <string name="positive_confirm_message">Отключить</string>
+    <string name="power_saving_btn_clean">Параметры</string>
     <string name="power_saving_settings">Экономия энергии</string>
     <string name="pref_accept_quicklink_push">Новостная лента</string>
     <string name="pref_accessibility">Специальные возможности</string>
@@ -2444,6 +2519,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="readmodelist_bookmarks_to_show">Список чтения</string>
     <string name="reboot">Перезагрузка</string>
     <string name="recent_apk_status_install">УСТАНОВЛЕНО</string>
+    <string name="recent_search_hint_text">%s</string>
     <string name="recommend">Рекомендуемое</string>
     <string name="recommend_button">Подписаться (%s)</string>
     <string name="recommend_description">Мы выбрали для вас несколько авторов, которые могут вам понравиться.</string>
@@ -2570,6 +2646,8 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="search_file_type_picture">Фото</string>
     <string name="search_file_type_video">Видео</string>
     <string name="search_for_anything">Ищите что угодно</string>
+    <string name="search_for_anything_test_1">Поиск в интернете или на устройстве</string>
+    <string name="search_for_anything_test_2">Поиск приложений и других объектов</string>
     <string name="search_hint">Поиск</string>
     <string name="search_history">История поиска</string>
     <string name="search_keyword_browser">Браузер</string>
@@ -2706,7 +2784,9 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="signin_with_facebook">Войти с помощью Facebook</string>
     <string name="signin_with_google">Войти с помощьют Google</string>
     <string name="simple_page_toast">Вы можете изменить вид главной страницы в разделе \"Настройки\" > \"Настройки главной страницы\"</string>
+    <string name="site_content_has_update">Содержимое страницы обновлено</string>
     <string name="skip">Пропуск</string>
+    <string name="skip_ad">Пропустить</string>
     <string name="skip_current_version">Пропустить эту версию</string>
     <string name="sku_all">Все</string>
     <string name="sku_price_everymonth">%1$s в месяц</string>
@@ -2733,6 +2813,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="snapshot_failed">Ошибка сохранения страницы</string>
     <string name="snapshot_successed">Сохранено в Закладки > Локальные</string>
     <string name="sniff_ask_every_times">Всегда спрашивать</string>
+    <string name="sniff_description">Получайте уведомления, когда страница содержит загружаемые объекты.</string>
     <string name="sniff_detect_resource">Мы обнаружили на этой странице загружаемый контент. Показать его?</string>
     <string name="sniff_dialog">Загружаемый контент</string>
     <string name="sniff_no_resource">Загружаемый контент не обнаружен</string>
@@ -2891,6 +2972,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="support_skip_button_label">Пропустить</string>
     <string name="surfing__shared__library">Библиотека</string>
     <string name="surfing__shared__me">Профиль</string>
+    <string name="survey_feedback_general">Хорошо</string>
     <string name="switchText">ДА</string>
     <string name="switch_proxy_dialog_msg">Обнаружен взлом сети. Используйте встроенное приложение \"Безопасность\" или сообщите об этом оператору связи.</string>
     <string name="switch_proxy_dialog_title">Сеть взломана</string>
@@ -2980,6 +3062,9 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
+    <string name="time_segmented_evening_title">Вечерний отдых</string>
+    <string name="time_segmented_morning_title">Доброе утро</string>
+    <string name="time_segmented_noon_title">Полуденная подборка</string>
     <string name="tip_drag">Удерживайте для изменения и перетаскивайте для сортировки</string>
     <string name="tip_not_support_external_sdcard_modify">Нельзя изменять файлы, сохранённые на SD-карте</string>
     <string name="tip_sync_disabled_by_incognito">Нельзя синхронизировать данные в режиме инкогнито.</string>
@@ -2992,6 +3077,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="title_recent">Недавние</string>
     <string name="title_select_volume">Выберите папку</string>
     <string name="title_use_sandbox_domain">Использовать домен песочницы</string>
+    <string name="toast_exit_branch">Нажмите еще раз, чтобы выйти</string>
     <string name="toast_exit_browser">Нажмите ещё раз для выхода</string>
     <string name="toast_feedback">Вы увидите меньше содержимого такого рода.</string>
     <string name="toast_not_support">Эта функция пока не поддерживается</string>
@@ -3257,6 +3343,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_subscribe_tips_3">Наслаждайтесь высокой скоростью</string>
     <string name="vpn_used_all_free_data_toast">Трафик закончился. Оформите подписку, чтобы продолжить.</string>
     <string name="vpn_used_all_toast">Трафик закончился</string>
+    <string name="watermark_label_prefix">AdMob –</string>
     <string name="weather_card_aqi">ИКВ</string>
     <string name="weather_card_baro">Давление</string>
     <string name="weather_card_dew_pt">Точка росы</string>

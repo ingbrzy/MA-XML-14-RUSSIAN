@@ -107,6 +107,9 @@
     <string name="ad_setting">Дополнительные настройки</string>
     <string name="add">Добавить</string>
     <string name="add_music">Добавить треки</string>
+    <string name="add_songs_manually_bottom">Добавить</string>
+    <string name="add_songs_manually_home">Добавить треки вручную</string>
+    <string name="add_songs_manually_setting">Добавить треки вручную</string>
     <string name="add_to_last_of_playlist">Добавить в конец плейлиста</string>
     <string name="add_to_playlist">Добавить в плейлист</string>
     <string name="add_to_playlist_successful">Успешно добавлено</string>
@@ -298,6 +301,7 @@
     <string name="create_playlist">Создать плейлист</string>
     <string name="create_playlist_failure">Не удалось создать плейлист</string>
     <string name="create_playlist_input_hint">Введите название плейлиста</string>
+    <string name="create_shortcut_for_playlist">Создать ярлык плейлиста на рабочем столе?</string>
     <string name="current_album">Текущая обложка</string>
     <string name="current_lyric">Текущий текст</string>
     <string name="current_version">Текущая версия</string>
@@ -670,6 +674,7 @@ ID: %s
     <string name="get_more_favorite_content_after_login">Войдите для поиска песен и видео</string>
     <string name="get_one_day_vip">Вы получили %d-дневный VIP!</string>
     <string name="get_one_hour_vip">Вы получили %d-часовой VIP!</string>
+    <string name="get_one_minute_vip">Вы получили VIP-доступ на %d минуту</string>
     <string name="get_ph_ticket">Получить код</string>
     <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 Xiaomi аккаунтов. Вы не можете добавить новый аккаунт.</string>
     <string name="get_phone_verifycode_exceed_limit">На этот номер отправлено слишком много кодов подтверждения. Повторите попытку через 24 часа.</string>
@@ -825,6 +830,10 @@ ID: %s
     <string name="joox_vip_expired_hint">Ваша VIP подписка истекла. Песни, загруженные с JOOX, будут только отображаться в ваших загрузках.</string>
     <string name="jooxdebugvip">Тест переключения JooxVip</string>
     <string name="jooxtestlogin">Тест входа в Joox</string>
+    <string name="jump_to_ytb_dialog_cancel">Отмена</string>
+    <string name="jump_to_ytb_dialog_desc">Вы будете перенаправлены из Mi Музыки в приложение YouTube. Открыть YouTube?</string>
+    <string name="jump_to_ytb_dialog_ok">Подтвердить</string>
+    <string name="jump_to_ytb_dialog_title">Выход из Mi Музыки</string>
     <string name="just_a_second">Подождите…</string>
     <string name="just_hit_next">Нажмите \"Далее\"</string>
     <string name="keep_queued_download">Оставить</string>
@@ -940,6 +949,7 @@ ID: %s
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -1136,6 +1146,7 @@ ID: %s
     <string name="ok">ОК</string>
     <string name="one_day_vip">%d-дневный VIP</string>
     <string name="one_hour_vip">%d-часовой VIP</string>
+    <string name="one_minute_vip">VIP-доступ на %d минуту</string>
     <string name="online_apk_acquired">Получено %d%%</string>
     <string name="online_apk_acquiring">Получение… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">Не удалось загрузить из-за нехватки свободного места.</string>
@@ -1540,6 +1551,7 @@ ID: %s
     <string name="retry_after_network_available">Не удалось подключиться к сети. Проверьте подключение и повторите попытку.</string>
     <string name="retry_download">Повторить</string>
     <string name="revoke_upload_playlist_to_hungama_toast">Онлайн контент не будет синхронизирован с Hungama</string>
+    <string name="reward_received">Вы получили VIP-подписку</string>
     <string name="ringtone_editing">Редактор рингтонов</string>
     <string name="ringtone_not_support">Этот формат не поддерживается</string>
     <string name="ringtone_selected">Выбранные</string>
@@ -1645,6 +1657,7 @@ ID: %s
     <string name="similar_songs">Похожие треки</string>
     <string name="similar_videos">Похожие видео</string>
     <string name="skip">Пропустить</string>
+    <string name="skip_ad">Пропустить</string>
     <string name="skip_query_account">Пропустить</string>
     <string name="sleep_mode">Таймер сна</string>
     <string name="sleep_mode_canceled">Таймер сна отключён</string>
@@ -1924,6 +1937,7 @@ ID: %s
     <string name="v_code_title">Введите код подтверждения</string>
     <string name="version_info">Версия</string>
     <string name="vhigh_sound_quality">HD</string>
+    <string name="video_loading_fail">Не удалось загрузить видео</string>
     <string name="video_play_cellular">Подключение к Wi-Fi отсутствует. Использовать мобильный интернет?</string>
     <string name="video_replay_btn">Повторить</string>
     <string name="video_retry_btn">Повторить</string>
@@ -1937,6 +1951,8 @@ ID: %s
     <string name="wallet_history_record">Записи</string>
     <string name="wallet_record">Записи</string>
     <string name="watch_video">Просмотр видео</string>
+    <string name="web_reward_dialog_cancle">Отмена</string>
+    <string name="web_reward_dialog_ok">Выйти</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
@@ -1944,6 +1960,16 @@ ID: %s
     <string name="weixin_login_btn_content_description">Войти с помощью WeChat</string>
     <string name="welcome_to_entertainment">Оцените новую функцию \"Развлечения\"</string>
     <string name="whats_app">WhatsApp</string>
+    <string name="whitelist_add_exist">Некоторые треки уже находятся в списке музыки на устройстве и не показаны здесь.</string>
+    <string name="whitelist_add_failed">Не удалось добавить файлы</string>
+    <string name="whitelist_desc_1">Если приложение Mi Музыка не смогло обнаружить на устройстве треки, которые вы ищите, вы можете добавить их вручную.</string>
+    <string name="whitelist_desc_2">Эти файлы будут отображаться, даже если размер файла и длина трека не совпадают или они находятся в скрытых папках.</string>
+    <string name="whitelist_dialog_content">Удаленные файлы больше не будут отображаться в исключениях Mi Музыки, но не будут удалены с вашего устройства. Удалить?</string>
+    <string name="whitelist_dialog_title">Удалить файлы?</string>
+    <string name="whitelist_entrance_desc">Добавьте файлы, которые приложение Mi Музыка не может найти автоматически, вручную.</string>
+    <string name="whitelist_entrance_text_1">"Не можете найти трек? "</string>
+    <string name="whitelist_multi_add_tips">%1$s. %2$s.</string>
+    <string name="whitelist_title">Исключения для файлов</string>
     <string name="wifi_required_body" formatted="false">"Подключитесь к Wi-Fi для завершения этой загрузки (%s).
 Нажмите %s для продолжения загрузки при следующем подключении к сети Wi-Fi."</string>
     <string name="wifi_required_title">Файл слишком большой</string>
@@ -1992,4 +2018,7 @@ ID: %s
     <string name="youtube_share_guide_tip">Теперь вы можете делиться с друзьями видео</string>
     <string name="youtube_tab_explore">Обзор</string>
     <string name="youtube_tab_playlist">Плейлисты</string>
+    <string name="youtube_tab_radar">Радар</string>
+    <string name="youtube_tab_shorts">Shorts</string>
+    <string name="youtube_tab_trend">Набирающие популярность</string>
 </resources>
