@@ -1704,6 +1704,8 @@ ID:%s
     <string name="pa_accessibility_picker_home_widget_slected">Выбран %1$s, размер: %2$s, состояние установки: %3$s. Нажмите дважды для подробностей. Нажмите и удерживайте, чтобы перетащить.</string>
     <string name="pa_accessibility_picker_home_widget_slected_for_pay">"%1$s, %2$s, состояние установки: %3$s.
 Нажмите дважды для подробностей."</string>
+    <string name="pa_accessibility_picker_home_widget_slected_no_drag">"%1$s, %2$s, состояние установки: %3$s.
+Нажмите дважды для подробностей."</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">Выбран %1$s, строка %2$d, номер %3$d. Нажмите дважды для подробностей.</string>
     <string name="pa_accessibility_picker_order_list_to_theme">Откройте Темы</string>
     <string name="pa_accessibility_picker_search_cancel">Панель поиска виджета. Нажмите дважды для отмены.</string>
@@ -1946,9 +1948,11 @@ ID:%s
     <string name="pa_picker_detail_add_maml_net_unavailable">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="pa_picker_detail_add_to_home">Добавить на рабочий стол</string>
     <string name="pa_picker_detail_add_to_minus">Добавить в Ленту виджетов</string>
+    <string name="pa_picker_detail_add_to_stack">Добавить в группу</string>
     <string name="pa_picker_detail_add_widget_success">Успешно добавлено</string>
     <string name="pa_picker_detail_app_not_in_market">В этом приложении нет виджетов</string>
     <string name="pa_picker_detail_app_not_off_shelf">Виджеты этого приложения больше не доступны</string>
+    <string name="pa_picker_detail_app_widget_in_dev">Виджет недоступен. Попробуйте другие виджеты.</string>
     <string name="pa_picker_detail_bottom_bt_source_home">Рабочий стол</string>
     <string name="pa_picker_detail_bottom_bt_source_minus">Лента виджетов</string>
     <string name="pa_picker_detail_bottom_bt_text_to_home">Добавить на рабочий стол</string>
@@ -1987,6 +1991,7 @@ ID:%s
     <string name="pa_picker_detail_theme_app_cta_pre">"Чтобы использовать этот виджет, разрешите приложению Темы подключение к интернету. "</string>
     <string name="pa_picker_detail_theme_app_need_login">Вход</string>
     <string name="pa_picker_detail_theme_app_need_login_pre">"Войдите в аккаунт Xiaomi. "</string>
+    <string name="pa_picker_detail_view_more">Ещё</string>
     <string name="pa_picker_detail_vp2_indicator">Выбранные страницы: %1$d из %2$d</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Ожидание загрузки через Wi-Fi</string>
     <string name="pa_picker_empty">"Виджеты недоступны в этой версии приложения. 
@@ -2043,6 +2048,9 @@ ID:%s
     <string name="pa_picker_search_result_type_recommend">Рекомендации</string>
     <string name="pa_picker_search_result_type_suit">Наборы виджетов</string>
     <string name="pa_picker_search_result_type_widget">Виджеты</string>
+    <string name="pa_picker_stack_operate_empty_title">"Ничего нет.
+Добавьте виджеты."</string>
+    <string name="pa_picker_stack_operate_title">Изменить группу</string>
     <string name="pa_picker_suit_list_activity_title">Пакеты персонализации</string>
     <string name="pa_picker_tab_title_category">Категории</string>
     <string name="pa_picker_tab_title_fun">Новое</string>
@@ -2050,6 +2058,7 @@ ID:%s
     <string name="pa_picker_theme_app_version_error">Некорректная версия приложения Темы</string>
     <string name="pa_picker_tips_count_limit_forbidden">Не удалось добавить виджеты. Удалите виджеты, чтобы добавить новые.</string>
     <string name="pa_picker_toast_add_successfully">Добавлено</string>
+    <string name="pa_picker_toast_count_limit_for_stack">Можно добавить не более 10 виджетов</string>
     <string name="pa_picker_toast_count_limit_forbidden">Достигнут лимит виджетов</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">Больше нельзя добавить виджетов такого типа</string>
     <string name="pa_picker_toast_count_limit_warning">Добавлено. Большое количество виджетов на рабочем столе может замедлить работу устройства.</string>
@@ -2220,6 +2229,8 @@ ID:%s
     <string name="pa_sports_widget_empty_football">Футбол</string>
     <string name="pa_sports_widget_empty_game">Honor of Kings</string>
     <string name="pa_sports_widget_empty_recommend">Рекомендуемые</string>
+    <string name="pa_stack_summary">Перемещать виджеты с обновлённой информацией наверх</string>
+    <string name="pa_stack_text">Обновлённые виджеты сверху</string>
     <string name="pa_stock_add_stock_button">Добавить</string>
     <string name="pa_stock_change_cp_code_alert">Эта операция может привести к некорректному отображению данных.</string>
     <string name="pa_stock_change_cp_code_error">Не удалось переключить источник данных</string>
@@ -2266,7 +2277,10 @@ ID:%s
     <string name="pa_vertical_right">Вертикальное расположение. Выравнивание по правому краю.</string>
     <string name="pa_widget_advert_loading_dialog_message">Подождите…</string>
     <string name="pa_widget_menu_edit">Изменить</string>
+    <string name="pa_widget_menu_edit_card_in_stack">Изменить \"%s\"</string>
+    <string name="pa_widget_menu_edit_stack">Изменить группу</string>
     <string name="pa_widget_menu_remove">Удалить</string>
+    <string name="pa_widget_menu_remove_card_in_stack">Удалить \"%s\"</string>
     <string name="pa_widget_menu_replace">Виджеты</string>
     <string name="pa_widget_need_download_dialog_cancel">Отмена</string>
     <string name="pa_widget_need_download_dialog_confirm">ОК</string>

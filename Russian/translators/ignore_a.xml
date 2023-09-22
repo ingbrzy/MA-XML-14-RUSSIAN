@@ -828,6 +828,8 @@
     <string-array name="get_fixed_rotation_in_freeform"></string-array>
     <string-array name="get_rotation_from_display_activity"></string-array>
     <string-array name="get_rotation_from_display_app"></string-array>
+    <string-array name="global_backup_display_title"></string-array>
+    <string-array name="global_backup_display_value"></string-array>
     <string-array name="global_criket_match"></string-array>
     <string-array name="global_elderly_man_like_apps"></string-array>
     <array name="global_football_match"></array>

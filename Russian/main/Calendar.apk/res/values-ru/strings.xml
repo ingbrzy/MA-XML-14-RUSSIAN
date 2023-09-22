@@ -440,7 +440,7 @@
     <string name="gas_detail_title">Оплата за газ</string>
     <string name="gas_event_delete_successfully">Удалено</string>
     <string name="gas_interval_label">Расчётный период</string>
-    <string name="glance_card_sub_title">Получайте захватывающие истории при каждой разблокировке</string>
+    <string name="glance_card_sub_title">Истории на экране блокировки</string>
     <string name="glance_card_title">Взгляд на Mi</string>
     <string name="global_action_text_card_manager">Настройте свой календарь</string>
     <string name="global_cricket_no_match">Сегодня матчей по крикету нет. Посмотрите другие дни.</string>
@@ -450,7 +450,7 @@
     <string name="global_joke_copy_toast_message">Текст успешно скопирован</string>
     <string name="global_joke_expand_text">Показать ещё</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
-    <string name="greeting_card_reminder_info_text">Получение ежедневных уведомлений о приветствиях и статусах</string>
+    <string name="greeting_card_reminder_info_text">Ежедневные уведомления о приветствиях и статусах</string>
     <string name="greeting_success_subtext">Уведомления включены</string>
     <string name="greeting_success_text">Готово</string>
     <string name="greetingcard_end_of_page">На сегодня все. Приходите завтра!</string>

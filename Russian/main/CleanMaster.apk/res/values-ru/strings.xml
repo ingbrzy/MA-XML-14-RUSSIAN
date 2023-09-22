@@ -134,6 +134,7 @@
     <string name="auto_clean_time_every_day">Каждый день</string>
     <string name="auto_cleaner_open">Включить</string>
     <string name="back">Назад</string>
+    <string name="be_figuring">Вычисление…</string>
     <string name="browser_scan_history_desc">Журнал посещений</string>
     <string name="browser_search_history_desc">История поиска</string>
     <string name="btn_text_done">Готово</string>
@@ -273,6 +274,7 @@
     <string name="dc_item_title_wechat_chat">История WeChat</string>
     <string name="dc_storage_cleaned">Освобождено %s</string>
     <string name="dc_storage_info">Доступно %1$s из %2$s</string>
+    <string name="dc_storage_info_new">Доступно %1$s</string>
     <string name="deep_clean_completed_tips">Очистка завершена</string>
     <string name="deep_clean_data_path_clean_title">Очистка кэша</string>
     <string name="deep_clean_uninstall_completed_tips">Удаление завершено</string>

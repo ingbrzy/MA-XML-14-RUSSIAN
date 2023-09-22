@@ -334,6 +334,7 @@
     <string name="backup_automatically_title">Автосинхронизация</string>
     <string name="backup_battery_low_desc">Вы можете возобновить синхронизацию</string>
     <string name="backup_battery_low_title">Низкий заряд батареи</string>
+    <string name="backup_category_title">БЭКАП</string>
     <string name="backup_close">Закрыть</string>
     <string name="backup_cloud_space_low_btn_text">Добавить</string>
     <string name="backup_cloud_space_low_desc">%1$s в Xiaomi Cloud | Доступно %2$s</string>
@@ -349,7 +350,10 @@
     <string name="backup_dirty_num">Всего: %s</string>
     <string name="backup_dirty_tip">Не выгруженные фото и видео</string>
     <string name="backup_disable_message">Галерее необходимо очистить кеш после отключения синхронизации с облаком.</string>
+    <string name="backup_display">Напоминание</string>
     <string name="backup_file_over_size_desc">Фото размером более %1$s и видео размером более %2$s не могут быть выгружены.</string>
+    <string name="backup_google_description">Защитите свои фото с помощью резервного копирования в аккаунт Google</string>
+    <string name="backup_google_name">Google Фото</string>
     <string name="backup_immediately">Начать</string>
     <string name="backup_need_sync_desc">Нажмите для продолжения</string>
     <string name="backup_need_sync_title">Выгрузка остановлена</string>
@@ -359,6 +363,10 @@
     <string name="backup_no_wifi_btn_text">Продолжить</string>
     <string name="backup_no_wifi_desc">Доступна выгрузка файлов через мобильный интернет</string>
     <string name="backup_no_wifi_title">Выгрузка возобновится после подключения к Wi-Fi</string>
+    <string name="backup_off_des">Включите синхронизацию с облаком для автоматического резервного копирования фото и видео</string>
+    <string name="backup_onedrive_description">Защита фото в облаке и доступ к ним на любом устройстве</string>
+    <string name="backup_onedrive_name">Microsoft OneDrive</string>
+    <string name="backup_onedrive_single_name">OneDrive</string>
     <string name="backup_only_in_wifi">Синхронизация только по Wi-Fi</string>
     <string name="backup_only_in_wifi_summary">Никогда не использовать мобильный интернет для синхронизации фото или видео</string>
     <string name="backup_only_wifi_dialog_message">Использовать мобильный интернет для синхронизации фото и видео?</string>
@@ -1268,6 +1276,8 @@ ID: %s
     <string name="getverifycode_seconde">сек.</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">" ГБ"</string>
+    <string name="global_cloud_action_upgrade_onedrive">Обновление OneDrive</string>
+    <string name="global_cloud_full_space_tip_message">Обновите тарифный план облачного хранилища для возможности резервного копирования всех фото и видео в облако</string>
     <string name="global_pad">Планшет</string>
     <string name="global_pc">ПК</string>
     <string name="global_phone">Устройство</string>
@@ -1586,6 +1596,7 @@ ID: %s
     <string name="main_save_compress">Сжать и сохранить</string>
     <string name="main_save_error_msg">Не удалось сохранить изменения из-за ошибки</string>
     <string name="main_save_origin">Сохранить оригинал</string>
+    <string name="manager_backup">Управление</string>
     <string name="manual_hide_manage">Добавить файлы \".nomedia\"</string>
     <string name="manual_hide_state">Файлы \".nomedia\" добавлены</string>
     <string name="map_album">Карта</string>
@@ -1936,6 +1947,7 @@ ID: %s
     <string name="online_video_vip_transcoding">"Потоковая передача для VIP…
 При первом использовании этой функции перекодирование может занять некоторое время."</string>
     <string name="open">ОК</string>
+    <string name="open_backup">Включить</string>
     <string name="open_public_message">Создайте ссылку, чтобы поделиться с друзьями</string>
     <string name="open_public_title">Общий доступ</string>
     <string name="open_settings">Настройки</string>
@@ -2739,6 +2751,7 @@ ID: %s
     <string name="see_ignore_faces">Просмотреть пропущенные фото</string>
     <string name="see_more_settings">Дополнительно</string>
     <string name="select_all">Выбрать все</string>
+    <string name="select_backup">Выбор резервной копии</string>
     <string name="select_image_operation">Добавление фото</string>
     <string name="select_item_face">"Это '%s'?"</string>
     <string name="select_origin_tip">Оригинал (%s)</string>
