@@ -147,7 +147,7 @@
     <string name="btn_text_stop">Остановить</string>
     <string name="button_agree">Принимаю</string>
     <string name="button_deny">Отмена</string>
-    <string name="button_optimizer">OK</string>
+    <string name="button_optimizer">ОК</string>
     <string name="button_text_add_to_white_list">Исключение</string>
     <string name="button_text_backup_uninstall">Резервировать</string>
     <string name="button_text_cancel">Отмена</string>
@@ -160,8 +160,8 @@
     <string name="button_text_install">Установить</string>
     <string name="button_text_install_now">Установить</string>
     <string name="button_text_keep_one">Оставить экземпляр</string>
-    <string name="button_text_known">OK</string>
-    <string name="button_text_let_me_select">OK</string>
+    <string name="button_text_known">ОК</string>
+    <string name="button_text_let_me_select">ОК</string>
     <string name="button_text_not_prompt_again">Больше не показывать</string>
     <string name="button_text_photo_selected">Выбранные</string>
     <string name="button_text_restore_ignore">Отменить</string>
@@ -246,7 +246,7 @@
     <string name="common_open_on_phone">Открыть на устройстве</string>
     <string name="common_signin_button_text">Войти</string>
     <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
-    <string name="confirm_auto_cleaner">OK</string>
+    <string name="confirm_auto_cleaner">ОК</string>
     <string name="conn_of_function_safe">Сетевое подключение приложения \"Безопасность\"</string>
     <string name="connecting">Подключение…</string>
     <string name="continue_check">Выбрать</string>
@@ -1219,7 +1219,7 @@
     <string name="whatsapp_content_empty">Нет объектов</string>
     <string name="whatsapp_delete_confirm_cancel">Отмена</string>
     <string name="whatsapp_delete_confirm_message">Удалить объекты?</string>
-    <string name="whatsapp_delete_confirm_ok">OK</string>
+    <string name="whatsapp_delete_confirm_ok">ОК</string>
     <string name="whatsapp_delete_done">Завершить</string>
     <string name="whatsapp_detail_cache_result">Очищено %s</string>
     <string name="whatsapp_detail_sort_created">По дате</string>

@@ -141,7 +141,7 @@
     <string name="common_signin_button_text">Войти</string>
     <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
     <string name="company">"Компания: "</string>
-    <string name="confirm">OK</string>
+    <string name="confirm">ОК</string>
     <string name="connect_to_wifi">Подключиться к этой сети</string>
     <string name="connect_wifi">Подключиться к Wi-Fi</string>
     <string name="contact_details">Информация о контакте:</string>
@@ -708,7 +708,7 @@
     <string name="secure_access_web_url">Перейти на сайт</string>
     <string name="see_app_details">Информация о приложении</string>
     <string name="see_details">Нажмите для информации</string>
-    <string name="select_dialog_confirm">OK</string>
+    <string name="select_dialog_confirm">ОК</string>
     <string name="select_from_album">Галерея</string>
     <string name="send">Отправить</string>
     <string name="send_email">Отправить email</string>

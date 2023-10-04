@@ -649,7 +649,7 @@
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">Моменты WeChat</string>
     <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
-    <string name="confirm">OK</string>
+    <string name="confirm">ОК</string>
     <string name="confirm_activate_email">Проверено</string>
     <string name="confirm_cancel_task_files">Отменить отправку файлов %1$s?</string>
     <string name="confirm_cancel_task_images">Отменить отправку изображений %1$s?</string>
@@ -657,7 +657,7 @@
     <string name="confirm_download_video_message">Для просмотра видео необходимо полностью загрузить его. Загрузка возобновится после подключения к Wi-Fi.</string>
     <string name="confirm_download_video_title">Загрузка видео</string>
     <string name="confirm_face">Совпадение</string>
-    <string name="confirm_hidden_recommend_group">OK</string>
+    <string name="confirm_hidden_recommend_group">ОК</string>
     <string name="confirm_hidden_recommend_group_message">При отключении рекомендаций вы сможете продолжить использование опции \"Ещё похожие люди\"</string>
     <string name="confirm_hidden_recommend_group_title">Не показывать рекомендации</string>
     <string name="confirm_hide_selected_albums">Скрыть выбранные альбомы? Просмотр и управление скрытыми альбомами доступны в настройках.</string>
@@ -717,7 +717,7 @@
     <string name="datetimepicker_dialog_title">Редактирование времени</string>
     <string name="datetimepicker_updatetime_failed">"Не удалось изменить время"</string>
     <string name="datetimepicker_updatetime_success">Время успешно изменено</string>
-    <string name="debugging_info">Данные отладки сгенерированы успешно. Нажмите OK для открытия папки.</string>
+    <string name="debugging_info">Данные отладки сгенерированы успешно. Нажмите ОК для открытия папки.</string>
     <string name="debugging_tip">Генерация данных отладки</string>
     <string name="decrypt_video_failed">"Ошибка подготовки видео"</string>
     <string name="decrypting_video">Подготовка видео…</string>
@@ -952,7 +952,7 @@ ID: %s
     <string name="ext_sdcard_permission_request_button_text">Понятно</string>
     <string name="ext_sdcard_permission_request_reason">Галерее требуется доступ к SD-карте. Это позволит вам удалять и редактировать фото и видео, хранящиеся на SD-карте.</string>
     <string name="ext_sdcard_permission_request_title">Предоставьте Галерее доступ к SD-карте</string>
-    <string name="ext_sdcard_request_failed_button_text">OK</string>
+    <string name="ext_sdcard_request_failed_button_text">ОК</string>
     <string name="ext_sdcard_request_succeed_toast_text">Всё готово!</string>
     <string name="face_album_empty">"Недостаточно фото для распознавания лиц.
 Делайте больше фото ваших друзей!"</string>
@@ -1262,7 +1262,7 @@ ID: %s
     <string name="gallery_sync_disable_toast">Синхронизация Галереи отключена</string>
     <string name="gallery_uninstall_description_content">Приложение \"Галерея\" является системным и позволяет просматривать, управлять и синхронизировать фото и видео на всех подключенных устройствах. После удаления приложения будут потеряны все файлы в приватном альбоме, также будут недоступны все функции, связанные с просмотром и выбором файлов в галерее.</string>
     <string name="gallery_uninstall_description_title">Удалить \"Галерею\"?</string>
-    <string name="generate_story_summary">MIUI проанализирует ваши фото и создаст подборки в \"Моментах\", когда наберется достаточное количество фото</string>
+    <string name="generate_story_summary">MIUI проанализирует ваши фото и создаст подборки в \"Моментах\", когда наберётся достаточное количество фото</string>
     <string name="generate_story_title">Моменты</string>
     <string name="get_GP_app_btn_install">Установить</string>
     <string name="get_GP_app_msg">Чтобы включить резервное копирование, необходимо установить Google Фото. После установки Google Фото, вернитесь на эту страницу чтобы продолжить.</string>
@@ -2695,7 +2695,7 @@ ID: %s
     <string name="search_login_sub_title">Войдите, чтобы найти больше фото</string>
     <string name="search_login_title">Xiaomi аккаунт</string>
     <string name="search_login_title_full_screen">Войдите в свой Xiaomi аккаунт для поиска объектов и людей</string>
-    <string name="search_mark_feedback_false_negative_title">OK</string>
+    <string name="search_mark_feedback_false_negative_title">ОК</string>
     <string name="search_mark_feedback_false_positive_title">Исправить</string>
     <string name="search_menu_title">Поиск</string>
     <string name="search_net_error">Произошла ошибка сети. Подключитесь к другой сети и повторите попытку.</string>

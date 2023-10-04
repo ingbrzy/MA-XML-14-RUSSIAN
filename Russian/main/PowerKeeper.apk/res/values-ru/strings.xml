@@ -73,7 +73,7 @@
     <string name="config_scenario_policies_title">Сценарии</string>
     <string name="config_suggest_description">Распознавание активности приложения для поддержания работы важных фоновых процессов и избирательный контроль остальной активности</string>
     <string name="config_suggest_suffix_title">Умный режим (рекомендуется)</string>
-    <string name="confirm">OK</string>
+    <string name="confirm">ОК</string>
     <string name="connect_intranet_hint">Подключитесь к интранету</string>
     <string name="copy">Копировать</string>
     <string name="current_allow_sync_is">Автообновление облака:</string>

@@ -2176,7 +2176,7 @@ ID: %s
     <string name="v_more">Ещё</string>
     <string name="v_network_failed">Произошла ошибка сети.</string>
     <string name="v_next">Далее</string>
-    <string name="v_ok">OK</string>
+    <string name="v_ok">ОК</string>
     <string name="v_online_play">Трансляция онлайн</string>
     <string name="v_pw_need_update_app">Обновите Mi Видео для использования всех функций</string>
     <string name="v_save">Сохранить</string>

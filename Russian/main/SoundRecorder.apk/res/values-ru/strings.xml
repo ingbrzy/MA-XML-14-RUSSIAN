@@ -69,7 +69,7 @@
     <string name="cloud_status_full_dialog_title">Хранилище Xiaomi Cloud заполнено</string>
     <string name="copy">Копировать</string>
     <string name="data_connection_body">Использование мобильного интернета для загрузки этого файла увеличит расход трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату.</string>
-    <string name="data_connection_button_text">OK</string>
+    <string name="data_connection_button_text">ОК</string>
     <string name="data_connection_title">Предупреждение о трафике</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
@@ -178,7 +178,7 @@
     <string name="loading_order_list">Подождите…</string>
     <string name="loading_order_list_empty">Заказов нет</string>
     <string name="low_battery_error">Заряд менее %s. Остановите и сохраните запись, чтобы не потерять её.</string>
-    <string name="low_battery_error_confirm">OK</string>
+    <string name="low_battery_error_confirm">ОК</string>
     <string name="low_battery_error_for_pad">Заряд менее %s. Остановите и сохраните запись, чтобы не потерять её.</string>
     <string name="low_battery_error_title">Батарея разряжена</string>
     <string name="low_bit_rate">MP3, ~%1$d кбит/с, ~%2$d МБ/ч</string>

@@ -149,7 +149,7 @@
     <string name="confirm_unbundled_phone_dialog_message">Номер телефона %1$s связан с Xiaomi аккаунтом %2$s. Если вы продолжите, он больше не будет связан с Xiaomi аккаунтом %3$s. Продолжить?</string>
     <string name="copy">Копировать</string>
     <string name="cta_cancel">Отмена</string>
-    <string name="cta_confirm">OK</string>
+    <string name="cta_confirm">ОК</string>
     <string name="cta_dialog_content">Для нормальной работы приложению необходимо подключение к интернету</string>
     <string name="cta_dialog_title">Доступ в интернет</string>
     <string name="cta_message">&lt;Data>Для нормальной работы приложению Обратная связь необходимо подключение к интернету. Приложение также может запросить разрешение на использование геолокации. Прежде чем продолжить, прочтите и примите наши &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a>.&lt;/Data></string>
@@ -531,7 +531,7 @@ ID: %s
     <string name="miui_feedback_edit_mobile_data_note_dialog_content">Вы подключены к платной сети. Отправка журналов может вызвать дополнительные затраты.</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_title">Предупреждение о трафике</string>
     <string name="miui_feedback_edit_need_phone_state_permission">Разрешите приложению доступ к информации об устройстве для считывания IMEI в целях выявления проблем. Нажмите \"ОК\", чтобы открыть Настройки.</string>
-    <string name="miui_feedback_edit_need_storage_permission">Разрешите приложению доступ к хранилищу для прикрепления изображений и видео к вашим отзывам. Нажмите \"OK\", чтобы открыть Настройки.</string>
+    <string name="miui_feedback_edit_need_storage_permission">Разрешите приложению доступ к хранилищу для прикрепления изображений и видео к вашим отзывам. Нажмите \"ОК\", чтобы открыть Настройки.</string>
     <string name="miui_feedback_edit_permission_denied_title">Ограниченные разрешения: %1$s</string>
     <string name="miui_feedback_edit_phone_state_permission_name">Доступ к информации об устройстве</string>
     <string name="miui_feedback_edit_reproductivity_everytime">Каждый раз</string>
@@ -731,7 +731,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="network_errortip_timeout">Время ожидания истекло, повторите попытку позже</string>
     <string name="network_errortip_unknow">Мы пытаемся это исправить…</string>
     <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
-    <string name="network_unavailable_dialog_button_ok">OK</string>
+    <string name="network_unavailable_dialog_button_ok">ОК</string>
     <string name="network_unavailable_dialog_content">Ваш отчёт будет отправлен при подключении к сети.</string>
     <string name="network_unavailable_dialog_title">Интернет недоступен</string>
     <string name="nick_name">Псевдоним</string>

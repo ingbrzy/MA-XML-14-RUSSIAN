@@ -234,12 +234,12 @@
     <string name="antivirus_monitor_virus_advice">Это приложение может содержать вирус, удалите его</string>
     <string name="antivirus_monitored_app_empty">Совместимые платежные приложения не найдены</string>
     <string name="antivirus_monitored_tips">Автоматически проверять платежную среду на наличие возможных рисков</string>
-    <string name="antivirus_none_engine_dialog_ok">OK</string>
+    <string name="antivirus_none_engine_dialog_ok">ОК</string>
     <string name="antivirus_not_remind_for_app">Не предупреждать об этом приложении</string>
     <string name="antivirus_not_wlan">Подключение к Wi-Fi отсутствует. Использование мобильного интернета может привести к дополнительным расходам. Продолжить?</string>
     <string name="antivirus_privacy_dialog_cloudscan">Облачная проверка</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Для более эффективного обнаружения и нейтрализации вирусов мы будем загружать имена и свойства пакетов приложений для сканирования в облачном антивирусном движке</string>
-    <string name="antivirus_privacy_dialog_ok">OK</string>
+    <string name="antivirus_privacy_dialog_ok">ОК</string>
     <string name="antivirus_privacy_dialog_summary">Эта функция работает на стороннем антивирусном движке. Чтобы узнать больше, прочтите &lt;font color='#37A5FF'&gt;&lt;a href =\"%1$s\"&gt;Лицензионное соглашение&lt;/font&gt;&lt;/a&gt;.</string>
     <string name="antivirus_privacy_dialog_summary_kddi"><Data>"Когда вы запускаете сканирование, модель устройства и результаты сканирования передаются на сервера %1$s и используются в соответствии с &lt;a href=\"%2$s\">условиями и положениями&lt;/a>.&lt;br/>&lt;br/>Перед началом сканирования прочтите и примите условия и положения %3$s.&lt;br/>&lt;br/>В случае несогласия с загрузкой данных на серверы %4$s, будут использоваться определения вирусов, хранящиеся локально на устройстве."</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Политика конфиденциальности</string>
@@ -519,7 +519,7 @@
     <string name="app_manager_disabled_by_admin">Отключено администратором</string>
     <string name="app_manager_dlg_cancel">Отмена</string>
     <string name="app_manager_dlg_clear_cache_title">Очистить кэш?</string>
-    <string name="app_manager_dlg_ok">OK</string>
+    <string name="app_manager_dlg_ok">ОК</string>
     <string name="app_manager_enable_text">Включить</string>
     <string name="app_manager_enabled">Включено</string>
     <string name="app_manager_factory_reset">Удалить обновления</string>
@@ -1132,7 +1132,7 @@
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="brand_diagnostic">Диагностика бренда оператора</string>
     <string name="btn_back">Назад</string>
-    <string name="btn_finish_diagnostic">OK</string>
+    <string name="btn_finish_diagnostic">ОК</string>
     <string name="btn_start_diagnostic">Диагностика сети</string>
     <string name="btn_stop_diagnostic">Остановить</string>
     <string name="btn_text_already_opened">Включено</string>
@@ -1176,7 +1176,7 @@
     <string name="button_text_forbid_now">Запретить</string>
     <string name="button_text_ignore">Игнорировать</string>
     <string name="button_text_ignore_alert_title">Игнорировать это предупреждение?</string>
-    <string name="button_text_known">OK</string>
+    <string name="button_text_known">ОК</string>
     <string name="button_text_let_me_select">Понятно</string>
     <string name="button_text_next_step">Далее</string>
     <string name="button_text_next_step_timer">Далее (%d)</string>
@@ -1789,7 +1789,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="ew_main_detail_title">Настройки</string>
     <string name="ew_main_emergency_tips">Запишите свою основную медицинскую информацию, чтобы всегда иметь её под рукой</string>
     <string name="ew_main_emergency_title">Медицинская карта</string>
-    <string name="ew_main_open_tips">Эта функция будет уведомлять вас о предстоящих землетрясениях и воспроизводить звуковое предупреждение. Вам также будет предоставлена информация об экстренных службах после того, как прекратится обратный отсчет.</string>
+    <string name="ew_main_open_tips">Эта функция будет уведомлять вас о предстоящих землетрясениях и воспроизводить звуковое предупреждение. Вам также будет предоставлена информация об экстренных службах после того, как прекратится обратный отсчёт.</string>
     <string name="ew_main_open_title">Оповещения и получение помощи</string>
     <string name="ew_main_place_tips">Узнайте, где находится ближайшее убежище</string>
     <string name="ew_main_place_title">Ближайшие убежища</string>
@@ -2887,7 +2887,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="lock_screen_warning_value">Порог предупреждения</string>
     <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">Отпечаток не распознан, повторите попытку</string>
     <string name="lockpattern_access_need_to_unlock_wrong_pattern">Неверный пароль, повторите попытку</string>
-    <string name="lockpattern_confirm_button_text">OK</string>
+    <string name="lockpattern_confirm_button_text">ОК</string>
     <string name="lockpattern_continue_button_text">Далее</string>
     <string name="lockpattern_need_to_confirm">Подтвердите графический ключ</string>
     <string name="lockpattern_need_to_unlock_wrong">Пароли не совпадают, повторите попытку</string>
@@ -2900,7 +2900,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Слишком много неудачных попыток</string>
     <string name="lockpattern_tutorial_cancel_label">Отмена</string>
     <string name="lockpattern_tutorial_continue_label">Далее</string>
-    <string name="lockpattern_tutorial_continue_label_confirm">Нажмите \"OK\"</string>
+    <string name="lockpattern_tutorial_continue_label_confirm">Нажмите \"ОК\"</string>
     <string name="lockpattern_tutorial_continue_label_next">Нажмите \"Далее\"</string>
     <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
     <string name="lockscreen_access_pattern_cleared">Ключ очищен</string>
@@ -3216,7 +3216,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="mtrl_picker_a11y_next_month">Следующий месяц</string>
     <string name="mtrl_picker_a11y_prev_month">Предыдущий месяц</string>
     <string name="mtrl_picker_announce_current_selection">Текущий выбор: %1$s</string>
-    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_confirm">ОК</string>
     <string name="mtrl_picker_date_header_title">Выбор даты</string>
     <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
     <string name="mtrl_picker_day_of_week_column_header">День: %1$s</string>
@@ -5785,7 +5785,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="terminal_privacy_ability_img">Обработка изображений</string>
     <string name="terminal_privacy_ability_img_summary">Умное редактирование и распознавание фото и видео в приложениях Камера, Галерея и Taplus</string>
     <string name="terminal_privacy_ability_model">Распознавание взаимодействия устройства с окружающей средой</string>
-    <string name="terminal_privacy_ability_model_summary">Счетчик шагов, умные жесты, режим \"В кармане\" и автояркость</string>
+    <string name="terminal_privacy_ability_model_summary">Счётчик шагов, умные жесты, режим \"В кармане\" и автояркость</string>
     <string name="terminal_privacy_ability_others">Другие механизмы</string>
     <string name="terminal_privacy_ability_others_summary">Совместное использование экрана, тестирование платежной среды, распознавание отпечатков пальцев и лиц</string>
     <string name="terminal_privacy_ability_suggest">Рекомендации</string>

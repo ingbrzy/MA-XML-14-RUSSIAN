@@ -171,7 +171,7 @@
     <string name="cn_privacy_update_dialog_title">Обновленная Политика конфиденциальности</string>
     <string name="complain_message_title">Отчёт</string>
     <string name="compressing">Изображение слишком большое. Выполняется сжатие…</string>
-    <string name="confirm">OK</string>
+    <string name="confirm">ОК</string>
     <string name="confirm_add_blacklist_dialog_dspt">Добавить номер в чёрный список?</string>
     <string name="confirm_delete_SIM_message">Удалить это сообщение с SIM-карты?</string>
     <string name="confirm_delete_all_SIM_messages">Удалить все сообщения с SIM карты?</string>
@@ -1004,7 +1004,7 @@
     <string name="qrcode_editor_business_title">Должность</string>
     <string name="qrcode_editor_tip_text">\"Информация о компании\" содержит название компании, должность и контактную информацию</string>
     <string name="quick_reply">Ответить</string>
-    <string name="rate_limit_surpassed">OK</string>
+    <string name="rate_limit_surpassed">ОК</string>
     <string name="rcs_accept_group_invite_faild">Не удалось принять приглашение</string>
     <string name="rcs_accept_group_invite_hint">Принятие приглашения…</string>
     <string name="rcs_auto_resend_as_sms_remind_change">Изменить настройки</string>
@@ -1331,7 +1331,7 @@
     <string name="send">Отправить</string>
     <string name="send_after_compress">Сжать</string>
     <string name="send_message_dlg_check_hint">Больше не показывать</string>
-    <string name="send_message_dlg_mgs">Уведомление CMCC: нам необходимо зарегистрировать ваше устройство на нашей платформе управления устройствами, чтобы предоставлять бесплатные услуги и поддержку клиентов. Эта платформа CMCC управляет мобильными устройствами и позволяет удаленно изменять настройки и обновлять программное обеспечение. Для регистрации будет отправлено бесплатное текстовое сообщение с информацией о вашем устройстве. Сообщение будет отправлено только один раз и не будет содержать ваши личные данные. Это сообщение не может быть отправлено клиентами из Гонконга, Макао, Тайваня и за рубежом. Нажмите \"OK\", чтобы согласиться и зарегистрировать свое устройство. Нажмите \"Отмена\", если вы не согласны с условиями. В этом случае услуги вам предоставляться не будут.</string>
+    <string name="send_message_dlg_mgs">Уведомление CMCC: нам необходимо зарегистрировать ваше устройство на нашей платформе управления устройствами, чтобы предоставлять бесплатные услуги и поддержку клиентов. Эта платформа CMCC управляет мобильными устройствами и позволяет удаленно изменять настройки и обновлять программное обеспечение. Для регистрации будет отправлено бесплатное текстовое сообщение с информацией о вашем устройстве. Сообщение будет отправлено только один раз и не будет содержать ваши личные данные. Это сообщение не может быть отправлено клиентами из Гонконга, Макао, Тайваня и за рубежом. Нажмите \"ОК\", чтобы согласиться и зарегистрировать свое устройство. Нажмите \"Отмена\", если вы не согласны с условиями. В этом случае услуги вам предоставляться не будут.</string>
     <string name="send_message_dlg_title">Управление устройством</string>
     <string name="send_message_notification_msg">Нажмите для просмотра.</string>
     <string name="send_message_notification_tickerText">Запрос разрешения управления устройством</string>
@@ -1701,7 +1701,7 @@
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
     <string name="yellowpage_recommend_msg">"Проверьте функции обмена сообщениями MIUI"</string>
-    <string name="yes">OK</string>
+    <string name="yes">ОК</string>
     <string name="yesterday">Вчера</string>
     <string name="you_have_new_message">У вас есть новые сообщения</string>
     <string name="yulore_term">Политика Конфиденциальности</string>

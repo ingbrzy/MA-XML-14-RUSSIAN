@@ -730,7 +730,7 @@
     <string name="change_pin_enter_new_pin_hint">PIN должен содержать %1$d-%2$d цифр.</string>
     <string name="change_pin_enter_old_pin_header">Подтвердите текущий PIN</string>
     <string name="change_pin_enter_old_pin_hint">Для продолжения введите PIN голосовой почты.</string>
-    <string name="change_pin_ok_label">OK</string>
+    <string name="change_pin_ok_label">ОК</string>
     <string name="change_pin_succeeded">PIN голосовой почты обновлён</string>
     <string name="change_pin_system_error">Не удалось задать PIN</string>
     <string name="change_pin_title">Изменить PIN голосовой почты</string>
@@ -1310,7 +1310,7 @@
     <string name="get_smsc_address_timeout">Время ожидания истекло</string>
     <string name="goPrivate">Приватная конференция</string>
     <string name="go_to_virtual_sim_title">Виртуальная SIM-карта</string>
-    <string name="got_it">OK</string>
+    <string name="got_it">ОК</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Режим сети</string>
     <string name="gsm_umts_network_preferences_title">Режим сети</string>
     <string name="gsm_umts_options">Параметры GSM/UMTS</string>
@@ -1759,7 +1759,7 @@
     <string name="msim_apn_not_set">Не задано</string>
     <string name="msim_cmcc_dds_switch_not_support">Невозможно сменить SIM-карту из-за ограничений оператора.</string>
     <string name="msim_default_setting">Настройки по умолчанию</string>
-    <string name="msim_disable_sim_card_btn_text">OK</string>
+    <string name="msim_disable_sim_card_btn_text">ОК</string>
     <string name="msim_disable_sim_card_summary_default_card">Эта SIM-карта используется по умолчанию. Если вы отключите её, то не сможете совершать вызовы и использовать мобильный интернет. Сначала назначьте другую SIM-карту по умолчанию.</string>
     <string name="msim_disable_sim_card_summary_non_default_card">Вы не сможете совершать вызовы и использовать мобильный интернет. Отключить SIM-карту %s?</string>
     <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">Не отключайте свою вторую SIM-карту в режиме экстренных обратных вызовов.</string>

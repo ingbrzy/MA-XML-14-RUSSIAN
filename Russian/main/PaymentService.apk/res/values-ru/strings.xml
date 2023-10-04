@@ -128,7 +128,7 @@ ID:%s
     <string name="google_application_id" />
     <string name="goto_sign_up">Создать аккаунт</string>
     <string name="hybrid_provider">Предоставлено %1$s</string>
-    <string name="i_know">OK</string>
+    <string name="i_know">ОК</string>
     <string name="identity">Идентификация</string>
     <string name="inconsistent_pwd">Пароли не совпадают</string>
     <string name="input_email_address_notice">Этот адрес электронной почты будет использоваться для подтверждения вашего аккаунта</string>
@@ -141,7 +141,7 @@ ID:%s
     <string name="mibi_account_disable_dialog_btn_positive">Включить</string>
     <string name="mibi_account_disable_dialog_msg">Чтобы использовать Mi Coin, необходимо войти в свою учётную запись Xiaomi. Включите сервис аккаунта Xiaomi в Настройки > Управление приложениями.</string>
     <string name="mibi_account_disable_dialog_title">Внимание</string>
-    <string name="mibi_all_license_message">Вы собираетесь использовать Mi Coin, сервис, предоставляемый Xiaomi Inc. Перед использованием вы должны принять Условиями обслуживания. Нажмите OK, если принимаете условия, описанные в %1$s и %2$s. Вам нужно подключиться к интернету, найти ваше устройство, чтобы использовать Mi Coin.</string>
+    <string name="mibi_all_license_message">Вы собираетесь использовать Mi Coin, сервис, предоставляемый Xiaomi Inc. Перед использованием вы должны принять Условиями обслуживания. Нажмите ОК, если принимаете условия, описанные в %1$s и %2$s. Вам нужно подключиться к интернету, найти ваше устройство, чтобы использовать Mi Coin.</string>
     <string name="mibi_all_purpose">Добро пожаловать в Mi Coin! Это приложение можно использовать для пополнения баланса Mi Coin, проверки подарочных карт и т. д.</string>
     <string name="mibi_applock_config">Невозможно установить блокировку приложения при использовании разделенного экрана.</string>
     <string name="mibi_applock_dialog_cancel">Не сейчас</string>

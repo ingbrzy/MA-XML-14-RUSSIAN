@@ -1030,7 +1030,7 @@
     <string name="dlg_confirm_kill_storage_users_text">При включении USB накопителя некоторые приложения будут остановлены и могут стать недоступны до отключения USB накопителя.</string>
     <string name="dlg_confirm_kill_storage_users_title">Включение USB накопителя</string>
     <string name="dlg_error_title">USB операция не удалась</string>
-    <string name="dlg_ok">OK</string>
+    <string name="dlg_ok">ОК</string>
     <string name="dnd_is_off">Режим \"Не беспокоить\" отключён</string>
     <string name="dnd_notification_warnings_title">Включён режим \"Не беспокоить\". Звук и вибрация отключены.</string>
     <string name="dnd_suppressing_shade_text">Уведомления приостановлены режимом \"Не беспокоить\"</string>
@@ -2987,7 +2987,7 @@ mm"</string>
     <string name="speed_bump_explanation">Показать менее важные уведомления</string>
     <string name="speed_label_fast">Быстрая</string>
     <string name="speed_label_medium">Средняя</string>
-    <string name="speed_label_okay">OK</string>
+    <string name="speed_label_okay">ОК</string>
     <string name="speed_label_slow">Медленная</string>
     <string name="speed_label_very_fast">Очень быстрая</string>
     <string name="speed_label_very_slow">Очень медленная</string>

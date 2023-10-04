@@ -79,7 +79,7 @@
     <string name="complete_setting">Завершить</string>
     <string name="complete_setting_sub_title">Вы можете вернуться позже для изменения настроек</string>
     <string name="complete_setting_title">Настройка завершена!</string>
-    <string name="confirm">OK</string>
+    <string name="confirm">ОК</string>
     <string name="confirmClose">Отключить</string>
     <string name="confirmCloseSpaceDes">Вы не сможете войти во второе пространство после его удаления. Все данные будут перемещены или удалены.</string>
     <string name="confirmDelete">Удалить</string>
@@ -282,7 +282,7 @@
     <string name="loading_success">Загрузка завершена</string>
     <string name="lock_screen_open_second_space">Входите во второе пространство с экрана блокировки</string>
     <string name="master_clear_apply_step_1">Для отмены авторизации требуется выполнить сброс устройства к заводским настройкам. При этом будут навсегда удалены все файлы и данные, включая аккаунты, контакты, фото и приложения. До отмены авторизации создайте резервную копию всех важных данных на ПК.</string>
-    <string name="master_clear_apply_step_2">Убедитесь, что все важные объекты сохранены на ПК. После нажатия \"OK\" будет выполнен сброс устройства к заводским настройкам с удалением всех файлов и данных, включая аккаунты, контакты, фото и приложения.</string>
+    <string name="master_clear_apply_step_2">Убедитесь, что все важные объекты сохранены на ПК. После нажатия \"ОК\" будет выполнен сброс устройства к заводским настройкам с удалением всех файлов и данных, включая аккаунты, контакты, фото и приложения.</string>
     <string name="master_clear_apply_title">Внимание</string>
     <string name="master_clear_not_available">Сброс к заводским настройкам запрещён вашей компанией.</string>
     <string name="master_clear_not_available_ep">Вы не можете выполнить сброс к заводским настройкам или отменить авторизацию. Свяжитесь с руководителем.</string>
@@ -385,7 +385,7 @@
     <string name="notification_recommend_title">Топ 12 приложений для второго пространства</string>
     <string name="notification_setting_second_space">Настройте второе пространство</string>
     <string name="notification_setting_second_space_desc">Задайте пароль второго пространства и переместите данные</string>
-    <string name="ok_button">OK</string>
+    <string name="ok_button">ОК</string>
     <string name="openPasswordGuard">Задать пароль</string>
     <string name="openSuccess">Включено</string>
     <string name="opened">Вкл</string>

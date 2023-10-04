@@ -741,7 +741,7 @@ mm"</string>
     <string name="mtrl_picker_toggle_to_day_selection">Выбрать день</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Ручной ввод</string>
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
-    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="mtrl_timepicker_confirm">ОК</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Этот рингтон будет применён для обеих SIM-карт.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">Рингтон применён для обеих SIM-карт.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Понятно</string>
@@ -1066,7 +1066,7 @@ mm"</string>
     <string name="resource_downloaded_title">Загруженные</string>
     <string name="resource_downloading">Загрузка…</string>
     <string name="resource_exchange">Активировать код</string>
-    <string name="resource_exchange_confirm">OK</string>
+    <string name="resource_exchange_confirm">ОК</string>
     <string name="resource_exchange_device_not_support">Этот компонент не поддерживается на вашем устройстве</string>
     <string name="resource_exchange_empty_format">Введите подарочный код</string>
     <string name="resource_exchange_has_bought">Вы уже приобрели этот компонент ранее</string>
@@ -1193,7 +1193,7 @@ mm"</string>
     <string name="resource_trial_end_time">(пробный период до %1$s)</string>
     <string name="resource_trial_end_time_format">hh:mma d MMM</string>
     <string name="resource_trial_end_title">Пробный период окончен</string>
-    <string name="resource_trial_fail_cancel">OK</string>
+    <string name="resource_trial_fail_cancel">ОК</string>
     <string name="resource_trial_fail_go_settings">Настройки</string>
     <string name="resource_trial_fail_message">Убедитесь, что системное время установлено правильно.</string>
     <string name="resource_trial_fail_title">Не удалось создать пробную сессию</string>
@@ -1202,7 +1202,7 @@ mm"</string>
     <string name="resource_trial_minutes">(пробная версия: %1$d мин.)</string>
     <string name="resource_unknow_error">Неизвестная ошибка</string>
     <string name="resource_update">Обновить</string>
-    <string name="resource_user_know">OK</string>
+    <string name="resource_user_know">ОК</string>
     <string name="resource_waiting_download">Ожидание…</string>
     <string name="resource_waiting_pause">Пауза</string>
     <string name="resource_wallpaper_download">Загрузить обои</string>
@@ -1697,7 +1697,7 @@ mm"</string>
     <string name="wednesday_shortest">Ср</string>
     <string name="weibo">Weibo</string>
     <string name="wifi_check_cancel">Отмена</string>
-    <string name="wifi_check_confirm">OK</string>
+    <string name="wifi_check_confirm">ОК</string>
     <string name="wifi_check_message">Использовать мобильный интернет для загрузки обновлений?</string>
     <string name="wifi_check_tip">Больше не показывать</string>
     <string name="xiaoai_speech_not_installed_download">Загрузить</string>

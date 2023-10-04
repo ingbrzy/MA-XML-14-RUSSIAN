@@ -101,7 +101,7 @@
     <string name="common_signin_button_text">Войти</string>
     <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
     <string name="complete_time">Завершено:</string>
-    <string name="confirm">OK</string>
+    <string name="confirm">ОК</string>
     <string name="confirm_delete_downloads_message">Будут удалены загрузки: %d</string>
     <string name="confirm_delete_the_download_item_message">Удалить эти загрузки?</string>
     <string name="continue_download">Продолжить</string>
@@ -124,7 +124,7 @@
 ID: %s
 Отправьте этот код руководителю."</string>
     <string name="dialog_btn_cancel">Отмена</string>
-    <string name="dialog_btn_ok">OK</string>
+    <string name="dialog_btn_ok">ОК</string>
     <string name="dialog_btn_ok_disabled_net">Настройки сети</string>
     <string name="dialog_cannot_resume">Загрузка прервана, повторите попытку.</string>
     <string name="dialog_confirm_delete_checkbox_message">Удалить также загруженные файлы</string>
@@ -460,7 +460,7 @@ ID: %s
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="privacy_tip_cancel">Отмена</string>
     <string name="privacy_tip_content">Использовать ускоритель Xunlei для ускорения загрузки? URL-адрес узла загрузки будет загружен на серверы Xunlei. Ваши данные учётной записи Mi также будут загружены, чтобы проверить, есть ли у вас какие-либо активные подписки на эту услугу.</string>
-    <string name="privacy_tip_ok">OK</string>
+    <string name="privacy_tip_ok">ОК</string>
     <string name="privacy_tip_title">Использовать ускоритель Xunlei </string>
     <string name="quit_btn">Выход</string>
     <string name="rank">Рейтинги</string>
@@ -665,7 +665,7 @@ ID: %s
     <string name="sunday_shortest">Вс</string>
     <string name="task_add">Добавление загрузки…</string>
     <string name="task_detail">Загрузки</string>
-    <string name="task_detail_notfound_confirm">OK</string>
+    <string name="task_detail_notfound_confirm">ОК</string>
     <string name="task_fail">Ошибка</string>
     <string name="temporary_not_available">временно недоступно</string>
     <string name="tenthousands" />

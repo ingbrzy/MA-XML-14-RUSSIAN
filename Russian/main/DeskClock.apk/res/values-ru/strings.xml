@@ -546,7 +546,7 @@ mm"</string>
     <string name="sleep_record_desc">Включить отслеживание сна</string>
     <string name="sleep_record_desc_detailed">Функция отслеживания сна предоставляется приложением Здоровье. После включения функции, приложение будет автоматически отслеживать ваш сон на основе использования телефона и статистики активности, а также установленного времени начала сна и пробуждения, отображая статистику в виде диаграмм. Для более точного отслеживания сна, разрешите автозапуск приложения Здоровье.  Все данные будут храниться локально на устройстве для удобства управления.</string>
     <string name="sleep_record_desc_detailed_new">Отслеживание сна обеспечивается функцией Mi Фитнес Sleep. Если вы включите эту функцию, Mi Фитнес будет автоматически собирать и отображать статистику о вашем сне на основе использовании телефона и вашей активности, а также установленного времени начала сна и пробуждения. Для более точного отслеживания сна, разрешите автозапуск для Mi Фитнес.</string>
-    <string name="sleep_record_no_data">Ваша статистика появится здесь после того, как наберется достаточно данных и приложение Здоровье проанализирует их</string>
+    <string name="sleep_record_no_data">Ваша статистика появится здесь после того, как наберётся достаточно данных и приложение Здоровье проанализирует их</string>
     <string name="sleep_remind">Напоминание</string>
     <string name="sleep_time">Начало сна</string>
     <string name="sleep_wake_time">%1$s-%2$s</string>
@@ -689,7 +689,7 @@ mm"</string>
     <string name="timer_end_time">Таймер остановится в %s</string>
     <string name="timer_end_time_format">HH:mm d MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
-    <string name="timer_got_it">OK</string>
+    <string name="timer_got_it">ОК</string>
     <string name="timer_got_it_new">Отключить</string>
     <string name="timer_is_paused">Таймер остановлен</string>
     <string name="timer_item_delete">Удалить</string>

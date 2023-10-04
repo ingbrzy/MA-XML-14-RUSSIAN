@@ -65,7 +65,7 @@
     <string name="backup_cancel">Не создавать резервные копии</string>
     <string name="backup_checkbox_msg">Создавать резервные копии автоматически</string>
     <string name="backup_confirm">Создать резервную копию</string>
-    <string name="backup_success_cancel">OK</string>
+    <string name="backup_success_cancel">ОК</string>
     <string name="backup_success_confirm">Просмотр</string>
     <string name="backup_success_message">Резервное копирование на %1$s</string>
     <string name="backup_success_title">Готово</string>
@@ -183,9 +183,9 @@
     <string name="compress_fail_unknown">Ошибка сжатия. Недостаточно места или неизвестная ошибка.</string>
     <string name="compress_message">Архивация в…</string>
     <string name="compress_title">Создание архива</string>
-    <string name="confirm">OK</string>
+    <string name="confirm">ОК</string>
     <string name="confirm_clean">Очистить</string>
-    <string name="confirm_know">OK</string>
+    <string name="confirm_know">ОК</string>
     <string name="connection_error">Не удалось подключиться</string>
     <string name="connection_lost">Отключено</string>
     <string name="copy">Копировать</string>
@@ -579,7 +579,7 @@
     <string name="mtrl_picker_a11y_next_month">Следующий месяц</string>
     <string name="mtrl_picker_a11y_prev_month">Предыдущий месяц</string>
     <string name="mtrl_picker_announce_current_selection">Текущий выбор: %1$s</string>
-    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_confirm">ОК</string>
     <string name="mtrl_picker_date_header_title">Выбор даты</string>
     <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
     <string name="mtrl_picker_day_of_week_column_header">День: %1$s</string>

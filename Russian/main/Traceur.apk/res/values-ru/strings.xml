@@ -697,7 +697,7 @@
     <string name="softap_ocv_summary">Включить SoftAp OCV с использованием точки доступа</string>
     <string name="speed_label_fast">Быстрая</string>
     <string name="speed_label_medium">Средняя</string>
-    <string name="speed_label_okay">OK</string>
+    <string name="speed_label_okay">ОК</string>
     <string name="speed_label_slow">Медленная</string>
     <string name="speed_label_very_fast">Очень быстрая</string>
     <string name="speed_label_very_slow">Очень медленная</string>

@@ -372,10 +372,10 @@
     <string name="miui_screen_ratio_hint_dont_show_again">Больше не показывать</string>
     <string name="miui_screen_ratio_hint_go_to_settings">Настройки</string>
     <string name="miui_screen_ratio_hint_message">Этому приложению разрешено работать в полноэкранном режиме, что может привести к его неправильной работе. Для изменения перейдите в Настройки &gt; Экран &gt; Полноэкранный режим</string>
-    <string name="miui_screen_ratio_hint_ok">OK</string>
+    <string name="miui_screen_ratio_hint_ok">ОК</string>
     <string name="miui_upgrading_notification_title">Идёт загрузка, некоторые функции могут быть недоступны.</string>
     <string name="miui_warning_button_cancel">Отмена</string>
-    <string name="miui_warning_button_ok">OK</string>
+    <string name="miui_warning_button_ok">ОК</string>
     <string name="miui_warning_tip_info">В приложении %1$s произошла ошибка. Закрыть его?</string>
     <string name="mix">МИКС</string>
     <string name="moment">Мгновение</string>
@@ -517,7 +517,7 @@
     <string name="screen_paper_mode_enter_toast">Включён режим чтения. Для его отключения перейдите в Настройки &gt; Экран &gt; Режим чтения.</string>
     <string name="screen_rotation_freeze_message">Ориентация экрана зафиксирована в альбомном режиме</string>
     <string name="screen_shot">Скриншот</string>
-    <string name="screenshot_gesture_detect_alert_button">OK</string>
+    <string name="screenshot_gesture_detect_alert_button">ОК</string>
     <string name="screenshot_gesture_detect_alert_dont_again">Больше не показывать</string>
     <string name="screenshot_gesture_detect_alert_msg">Вы провели вниз тремя пальцами. Использовать этот жест для скриншотов?</string>
     <string name="screenshot_gesture_detect_alert_title">Скриншот тремя пальцами</string>

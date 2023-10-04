@@ -1983,7 +1983,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="notify_rencet_play">Недавние</string>
     <string name="novel_continue_read_popup">Читать</string>
     <string name="novel_tab_popup">Смотрите новейшие книги здесь</string>
-    <string name="novel_tab_popup_ok">OK</string>
+    <string name="novel_tab_popup_ok">ОК</string>
     <string name="occupy" formatted="false">Занято %d%</string>
     <string name="offline_notification_text">Нажмите для просмотра рекламы, сохранённой в автономном режиме</string>
     <string name="offline_notification_title">Просмотр рекламы</string>
@@ -2122,7 +2122,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="pay_now">Оплатить</string>
     <string name="pay_success_toast">Оплачено</string>
     <string name="payment_method">Способы оплаты</string>
-    <string name="pdf_confirm">OK</string>
+    <string name="pdf_confirm">ОК</string>
     <string name="pdf_failed_message">Не удалось создать смарт-конспект</string>
     <string name="pdf_retry">Повторите попытку</string>
     <string name="pdf_summary">Конспект</string>
@@ -3365,7 +3365,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_ad_clear_dialog_msg">Удалить рекламные метки с \"%s\"?</string>
     <string name="web_ad_clear_dialog_title">Удалить рекламные метки</string>
     <string name="web_enhance_dialog_cancel">Отмена</string>
-    <string name="web_enhance_dialog_confirm">OK</string>
+    <string name="web_enhance_dialog_confirm">ОК</string>
     <string name="web_enhance_dialog_msg">Начать блокировать рекламу на %s?</string>
     <string name="web_enhance_dialog_title">Блокировать рекламу</string>
     <string name="web_intercept_ad_empty_record_hint">Если вы по-прежнему видите рекламу, нажмите на нее и удерживайте, чтобы добавить рекламную метку.</string>

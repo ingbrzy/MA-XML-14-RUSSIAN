@@ -1434,7 +1434,7 @@
     <string name="blob_never_expires_text">Бессрочно</string>
     <string name="block_list_connected_devices">Подключённые устройства</string>
     <string name="block_list_diaglog_cancle">Отмена</string>
-    <string name="block_list_diaglog_ok">OK</string>
+    <string name="block_list_diaglog_ok">ОК</string>
     <string name="block_list_dialog_content">Это действие отключит \"%s\" от этого устройства и добавит его в чёрный список</string>
     <string name="block_list_dialog_title">Отключить сейчас?</string>
     <string name="block_list_no_device">В черном списке нет устройств</string>
@@ -2084,8 +2084,8 @@
     <string name="button_text_login">Войти</string>
     <string name="button_text_next_step">Далее</string>
     <string name="button_text_next_step_timer">Далее (%d)</string>
-    <string name="button_text_ok">OK</string>
-    <string name="button_text_ok_timer">OK (%d)</string>
+    <string name="button_text_ok">ОК</string>
+    <string name="button_text_ok_timer">ОК (%d)</string>
     <string name="button_text_reboot_now">Перезагрузка</string>
     <string name="button_text_reject">Отклонить</string>
     <string name="byteShort">" Б"</string>
@@ -2266,7 +2266,7 @@
     <string name="charge_animation_style_wave">Волна</string>
     <string name="charge_length_format">%1$s назад</string>
     <string name="charging_sounds_title">Звуки зарядки и вибрация</string>
-    <string name="check_find_device_status_failure_confirm">OK</string>
+    <string name="check_find_device_status_failure_confirm">ОК</string>
     <string name="check_update">Проверить обновления</string>
     <string name="checkbox_notification_same_as_incoming_call">Использовать этот уровень громкости для уведомлений</string>
     <string name="checkbox_text">Переключатель</string>
@@ -2471,7 +2471,7 @@
     <string name="configure_input_method">Настройка методов ввода</string>
     <string name="configure_notification_settings">Уведомления</string>
     <string name="configure_section_header">Настройки</string>
-    <string name="confirm_action">OK</string>
+    <string name="confirm_action">ОК</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Привязка Xiaomi аккаунта</string>
     <string name="confirm_convert_to_fbe_warning">Удалить пользовательские данные и перейти к шифрованию?</string>
     <string name="confirm_device_credential_password">Введите пароль</string>
@@ -2494,7 +2494,7 @@
     <string name="confirm_privacy_password">Введите пароль конфиденциальности</string>
     <string name="confirm_privacy_password_fingerprint">"Отсканируйте отпечаток или 
 введите пароль конфиденциальности"</string>
-    <string name="confirm_reset_aaid">OK</string>
+    <string name="confirm_reset_aaid">ОК</string>
     <string name="confirm_sim_deletion_description">Подтверждение вашей личности перед очисткой SIM-карты</string>
     <string name="confirm_sim_deletion_title">Подтверждение очистки SIM-карты</string>
     <string name="confirmation_turn_on">Включить</string>
@@ -3472,7 +3472,7 @@ ID: %s
     <string name="emergency_gesture_screen_summary">Для активации функции \"Экстренная помощь\" быстро нажмите кнопку питания не менее пяти раз, это запустит перечисленные ниже действия: Звуковой сигнал (если включено), Вызов экстренней службы</string>
     <string name="emergency_gesture_screen_title">Экстренная помощь</string>
     <string name="emergency_gesture_settings_package" />
-    <string name="emergency_gesture_sound_setting_summary">Включить громкий звуковой сигнал с обратным отсчетом перед экстренным вызовом</string>
+    <string name="emergency_gesture_sound_setting_summary">Включить громкий звуковой сигнал с обратным отсчётом перед экстренным вызовом</string>
     <string name="emergency_gesture_sound_setting_title">Звуковой сигнал</string>
     <string name="emergency_gesture_switchbar_title">Использовать функцию</string>
     <string name="emergency_info_contextual_card_summary">Медицинская информация, экстренные контакты</string>
@@ -4116,7 +4116,7 @@ ID: %s
     <string name="fp_nav_center_back_to_home_title">Возврат на рабочий стол касанием кнопки \"Домой\"</string>
     <string name="free_memory">Свободно</string>
     <string name="free_wifi_agreement_remind_never">Больше не показывать</string>
-    <string name="free_wifi_confirm">OK</string>
+    <string name="free_wifi_confirm">ОК</string>
     <string name="free_wifi_connect">Подключиться</string>
     <string name="free_wifi_connect_dialog_summary">Сеть Wi-Fi \"%1$s предоставлена %2$s</string>
     <string name="free_wifi_connect_dialog_title">Бесплатная сеть Wi-Fi</string>
@@ -5541,7 +5541,7 @@ ID: %s
     <string name="lockpattern_change_lock_pattern_label">Изменить графический ключ</string>
     <string name="lockpattern_change_lock_pin_label">Изменить PIN-код</string>
     <string name="lockpattern_choose_pattern_description">Чтобы обеспечить дополнительную безопасность, задайте графический ключ для разблокировки устройства</string>
-    <string name="lockpattern_confirm_button_text">OK</string>
+    <string name="lockpattern_confirm_button_text">ОК</string>
     <string name="lockpattern_continue_button_text">Далее</string>
     <string name="lockpattern_need_to_confirm">Повторите графический ключ</string>
     <string name="lockpattern_need_to_unlock_wrong">Повторите попытку</string>
@@ -6436,7 +6436,7 @@ ID: %s
     <string name="msd_help_title">Помощь</string>
     <string name="msd_install">Переустановить драйвер?</string>
     <string name="msd_install_download_zhushou">Mi Phone Manager загружен</string>
-    <string name="msd_install_finish">OK</string>
+    <string name="msd_install_finish">ОК</string>
     <string name="msd_install_next">Далее</string>
     <string name="msd_install_retry">Если ваш ПК все ещё не обнаруживает устройство, попробуйте сделать следующее:</string>
     <string name="msd_install_retry_connect">Подключите USB-кабель заново.</string>
@@ -8946,7 +8946,7 @@ UT-интерфейс: %5$s"</string>
     <string name="setup_lock_settings_picker_message">Чтобы никто не мог пользоваться этим устройством без вашего разрешения, активируйте его защиту. Выберите подходящий для вас способ защиты устройства.</string>
     <string name="setup_lock_settings_picker_title">Защитите устройство</string>
     <string name="setup_password_back">Назад</string>
-    <string name="setup_password_confirm">OK</string>
+    <string name="setup_password_confirm">ОК</string>
     <string name="setup_password_skip">Пропустить</string>
     <string name="severe_threats_summary">Получать уведомления о серьезных угрозах жизни и имуществу</string>
     <string name="severe_threats_title">Серьезные угрозы</string>
@@ -9042,7 +9042,7 @@ UT-интерфейс: %5$s"</string>
     <string name="show_touches_summary">Визуализировать касания и жесты</string>
     <string name="show_user_info_on_lockscreen_label">Показывать подпись на экране блокировки</string>
     <string name="show_wifi_name_title">Показывать Wi-Fi</string>
-    <string name="shut_down_find_device_failure_confirm">OK</string>
+    <string name="shut_down_find_device_failure_confirm">ОК</string>
     <string name="shut_down_find_device_network_failure_content">Не удалось отключить Поиск устройства. Убедитесь, что устройство подключено к интернету.</string>
     <string name="shut_down_find_device_network_failure_title">Не удалось подключиться к сети</string>
     <string name="shuting_down_find_device">Отключение Поиска устройства…</string>
@@ -9408,7 +9408,7 @@ UT-интерфейс: %5$s"</string>
     <string name="speech_category_title">Речь</string>
     <string name="speed_label_fast">Быстрая</string>
     <string name="speed_label_medium">Средняя</string>
-    <string name="speed_label_okay">OK</string>
+    <string name="speed_label_okay">ОК</string>
     <string name="speed_label_slow">Медленная</string>
     <string name="speed_label_very_fast">Очень быстрая</string>
     <string name="speed_label_very_slow">Очень медленная</string>
@@ -10210,7 +10210,7 @@ UT-интерфейс: %5$s"</string>
     <string name="touch_sensitive_summary">Увеличить чувствительность экрана для возможности работы в перчатках</string>
     <string name="touch_sensitive_title">Режим \"В перчатках\"</string>
     <string name="touch_sensitive_turn_off_cancel">Отмена</string>
-    <string name="touch_sensitive_turn_off_confirm">OK</string>
+    <string name="touch_sensitive_turn_off_confirm">ОК</string>
     <string name="touch_sensitive_turn_off_summary">Отключить также режим \"В кармане\"?</string>
     <string name="touch_sensitive_turn_off_title">Режим \"В перчатках\" отключён</string>
     <string name="touch_sounds_title">Звук нажатия на экран</string>
@@ -10849,7 +10849,7 @@ UT-интерфейс: %5$s"</string>
     <string name="virus_scanner_scan">Проверить</string>
     <string name="virus_scanner_scanning">Проверка…</string>
     <string name="virus_scanner_select_Cancel">Отмена</string>
-    <string name="virus_scanner_select_OK">OK</string>
+    <string name="virus_scanner_select_OK">ОК</string>
     <string name="virus_scanner_select_lib">Выберите сигнатуры</string>
     <string name="virus_scanner_select_multi">Использование нескольких комплектов сигнатур замедлит скорость проверки и установки приложений</string>
     <string name="virus_scanner_select_single">Используйте только сигнатуры из надёжного источника.</string>
@@ -11214,7 +11214,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_connect">Подключить</string>
     <string name="wifi_connect_channel">Канал Wi-Fi:</string>
     <string name="wifi_connect_cmcc_dialog_cancel">Отмена</string>
-    <string name="wifi_connect_cmcc_dialog_confirm">OK</string>
+    <string name="wifi_connect_cmcc_dialog_confirm">ОК</string>
     <string name="wifi_connect_cmcc_dialog_content">Подключение к сети передачи данных CMCC. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату.</string>
     <string name="wifi_connect_cmcc_dialog_not_remind">Больше не показывать</string>
     <string name="wifi_connect_cmcc_dialog_title">Уведомление о трафике</string>
@@ -11453,7 +11453,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_notify_open_networks">Оповещения об открытых сетях</string>
     <string name="wifi_notify_open_networks_summary">Сообщать о наличии общедоступных сетей с хорошим сигналом</string>
     <string name="wifi_off_airplane_on_cancel">Отмена</string>
-    <string name="wifi_off_airplane_on_confirm">OK</string>
+    <string name="wifi_off_airplane_on_confirm">ОК</string>
     <string name="wifi_off_airplane_on_content">Можно включить Wi-Fi вручную в режиме полёта.</string>
     <string name="wifi_off_airplane_on_not_remind">Больше не показывать</string>
     <string name="wifi_off_airplane_on_title">Внимание</string>
@@ -11610,13 +11610,13 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_share_connected_summary">Вы подключились к сети Wi-Fi, которой поделился другой пользователь.</string>
     <string name="wifi_share_connected_title">Сеть Wi-Fi подключена</string>
     <string name="wifi_share_current_network">Текущая сеть</string>
-    <string name="wifi_share_know">OK</string>
+    <string name="wifi_share_know">ОК</string>
     <string name="wifi_share_list_empty">Нет общих сетей Wi-Fi</string>
     <string name="wifi_share_login">Поделиться сетью Wi-Fi</string>
     <string name="wifi_share_login_summary">Если сеть Wi-Fi публичная, можно поделиться ею с другими пользователями MIUI.</string>
     <string name="wifi_share_notification_summary">MIUI подключила вас к публичной сети Wi-Fi</string>
     <string name="wifi_share_other_network">Другие сети</string>
-    <string name="wifi_share_qrcode_finish">OK</string>
+    <string name="wifi_share_qrcode_finish">ОК</string>
     <string name="wifi_share_qrcode_summary">Для подключения отсканируйте этот QR-код</string>
     <string name="wifi_share_qrcode_title">Код для подключения к Wi-Fi</string>
     <string name="wifi_share_show_network">Показать сети</string>

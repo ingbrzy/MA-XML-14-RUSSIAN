@@ -27,7 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с помощью</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
-    <string name="accept">OK</string>
+    <string name="accept">ОК</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="activate">Активировать</string>
     <string name="activate_auto_sms_notification_desc_1_card">SMS для активации Поиска устройства отправлено</string>

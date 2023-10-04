@@ -45,7 +45,7 @@
     <string name="bubble_text">Начать запись</string>
     <string name="button_back">Назад</string>
     <string name="button_clear_storage">Освободить</string>
-    <string name="button_confirm">OK</string>
+    <string name="button_confirm">ОК</string>
     <string name="button_goon_recorder">Продолжить</string>
     <string name="cancel_edit">Отмена</string>
     <string name="cannot_change_frames">Частоту кадров можно настроить только для записей с фиксированной частотой кадров.</string>

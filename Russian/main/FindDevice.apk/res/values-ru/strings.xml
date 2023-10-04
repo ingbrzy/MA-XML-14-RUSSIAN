@@ -78,7 +78,7 @@
     <string name="find_device_notice_sms_alert_with_common_charge_hint">После смены SIM-карты будет отправлено одно &lt;font color=#0097FF>&lt;b>платное SMS&lt;/b>&lt;/font> для того чтобы обновить статус SIM-карты и убедиться, что все службы работают нормально. Оплата согласно тарифу вашего оператора.</string>
     <string name="find_device_notice_sms_alert_with_domestic_charge_hint">После смены SIM-карты будет отправлено одно &lt;font color=#0097FF>&lt;b>обычное платное SMS&lt;/b>&lt;/font> для того чтобы обновить статус SIM-карты и убедиться, что все службы работают нормально. Оплата согласно тарифу вашего оператора.</string>
     <string name="find_device_notice_sms_alert_with_internal_charge_hint">После смены SIM-карты будет отправлено одно &lt;font color=#0097FF>&lt;b>международное платное SMS&lt;/b>&lt;/font> для того чтобы обновить статус SIM-карты и убедиться, что все службы работают нормально. Оплата согласно тарифу вашего оператора.</string>
-    <string name="find_device_stop_noise">Нажмите OK для отключения звука</string>
+    <string name="find_device_stop_noise">Нажмите ОК для отключения звука</string>
     <string name="find_device_storage_corrupted">Хранилище повреждено. Ваше устройство под угрозой.</string>
     <string name="find_device_success_title">Поиск устройства</string>
     <string name="find_device_telephony_fault">Поиск устройства: ошибка Телефонии (%s).</string>
@@ -101,7 +101,7 @@
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
-    <string name="i_know">OK</string>
+    <string name="i_know">ОК</string>
     <string name="lock_msg_phone">Контактная информация: %s</string>
     <string name="login_extra_steps">Проверка входа</string>
     <string name="login_failed">Ошибка авторизации. %s.</string>

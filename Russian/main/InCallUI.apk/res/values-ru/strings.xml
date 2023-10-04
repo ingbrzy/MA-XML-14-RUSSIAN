@@ -334,7 +334,7 @@
     <string name="notification_on_hold">Ждет ответа</string>
     <string name="notification_ongoing_call">Текущий вызов</string>
     <string name="notification_requesting_video_call">Входящий запрос видео</string>
-    <string name="ok">OK</string>
+    <string name="ok">ОК</string>
     <string name="onscreenEndCallText">Завершить</string>
     <string name="onscreen_add_call_text">Добавить</string>
     <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>

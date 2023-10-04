@@ -37,7 +37,7 @@
     <string name="activate_find_device_success">Поиск устройства активирован</string>
     <string name="activate_finddevice">Подключитесь к сети для активации устройства</string>
     <string name="activating">Активация…</string>
-    <string name="add_short_cut">OK</string>
+    <string name="add_short_cut">ОК</string>
     <string name="added_successfully">Успешно добавлено</string>
     <string name="afternoon">После полудня</string>
     <string name="agree_and_continue">Принимаю</string>
@@ -216,7 +216,7 @@
     <string name="gallery_service_termination_more_info">Подробнее см. \"%s\"</string>
     <string name="help_and_feedback">Помощь и обратная связь</string>
     <string name="hybrid_provider">Предоставлено %1$s</string>
-    <string name="i_know">OK</string>
+    <string name="i_know">ОК</string>
     <string name="input_password_hint">Введите пароль</string>
     <string name="internet_access_dspt">Приложению для нормальной работы требуется подключение к интернету.</string>
     <string name="keybag_create_by_new_passcode_prompt">Этот код доступа защищает ваши пароли, хранящиеся в облаке. Вы не сможете получить к ним доступ, если забудете его.</string>
@@ -301,7 +301,7 @@
     <string name="mi_drive_not_publish_toast">Mi Drive скоро будет доступен</string>
     <string name="mi_drive_summary">Доступ к документам из Xiaomi Cloud на нескольких устройствах</string>
     <string name="mi_drive_title">Mi Drive</string>
-    <string name="micloud_alert_dialog_positive">OK</string>
+    <string name="micloud_alert_dialog_positive">ОК</string>
     <string name="micloud_all_sub_resend_common_sms_with_charge_hint">"Чтобы включить Поиск устройства и службы Xiaomi Cloud, будет автоматически отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>платн. SMS&lt;/b>&lt;/font>.&lt;br/>В случае замены SIM-карты, также будет автоматически отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>платн. SMS&lt;/b>&lt;/font> для повторной активации.&lt;br/>Все сборы за SMS, связанные с вышеупомянутыми действиями, будут взиматься вашим оператором связи. Xiaomi не взимает плату за эти сообщения."</string>
     <string name="micloud_all_sub_resend_domestic_sms_with_charge_hint">"Чтобы включить Поиск устройства и службы Xiaomi Cloud, будет автоматически отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>обычн. SMS&lt;/b>&lt;/font>.&lt;br/>В случае замены SIM-карты, также будет автоматически отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>обычн. SMS&lt;/b>&lt;/font> для повторной активации.&lt;br/>Все сборы за SMS, связанные с вышеупомянутыми действиями, будут взиматься вашим оператором связи. Xiaomi не взимает плату за эти сообщения."</string>
     <string name="micloud_all_sub_resend_inter_sms_with_charge_hint">"Чтобы включить Поиск устройства и службы Xiaomi Cloud, будет автоматически отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>междунар. SMS&lt;/b>&lt;/font>.&lt;br/>В случае замены SIM-карты, также будет автоматически отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>междунар. SMS&lt;/b>&lt;/font> для повторной активации.&lt;br/>Все сборы за SMS, связанные с вышеупомянутыми действиями, будут взиматься вашим оператором связи. Xiaomi не взимает плату за эти сообщения."</string>
@@ -332,7 +332,7 @@
     <string name="micloud_confusion_finish_message">Отключите синхронизацию для других устройств.</string>
     <string name="micloud_confusion_finish_title">Аккаунт проверен</string>
     <string name="micloud_confusion_no">Нет</string>
-    <string name="micloud_confusion_ok">OK</string>
+    <string name="micloud_confusion_ok">ОК</string>
     <string name="micloud_confusion_setting_notify_text">Отключите синхронизацию для других устройств, связанных с вашим аккаунтом.</string>
     <string name="micloud_confusion_setting_notify_title">Защитите ваш аккаунт</string>
     <string name="micloud_confusion_setting_password_error">Введен неверный пароль</string>
@@ -365,7 +365,7 @@
     <string name="micloud_find_device_guide_alert_content">Поиск устройства связан с вашим Xiaomi аккаунтом. Вам нужно задать пароль или ввести ранее заданный пароль. Убедитесь, что вы запомнили ID вашего Xiaomi аккаунта и пароль.</string>
     <string name="micloud_find_device_guide_alert_negtive">Нет, спасибо</string>
     <string name="micloud_find_device_guide_alert_negtive_activate">Нет, спасибо</string>
-    <string name="micloud_find_device_guide_alert_positive">OK</string>
+    <string name="micloud_find_device_guide_alert_positive">ОК</string>
     <string name="micloud_find_device_guide_alert_title">Запомните свой пароль</string>
     <string name="micloud_find_device_guide_button">Включить Поиск устройства</string>
     <string name="micloud_find_device_guide_desc_pad">Если вы потеряли устройство, войдите на &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> на любом другом устройстве, чтобы найти, удаленно заблокировать или стереть данные на потерянном устройстве. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Подробности&lt;/a>.</string>
@@ -528,7 +528,7 @@
     <string name="micloud_sync_alert_dialog_message_pad">Синхронизируйте фото, заметки и многое другое на всех устройствах</string>
     <string name="micloud_sync_alert_dialog_message_v2">Синхронизируйте фото, контакты, заметки, приложения и многое другое на всех устройствах</string>
     <string name="micloud_sync_alert_dialog_negative">Отмена</string>
-    <string name="micloud_sync_alert_dialog_positive">OK</string>
+    <string name="micloud_sync_alert_dialog_positive">ОК</string>
     <string name="micloud_sync_alert_dialog_title">Используйте Xiaomi Cloud</string>
     <string name="micloud_sync_prompt_for_no_gallery_sync">Контакты, Календарь и Заметки синхронизируются автоматически. Перейдите в настройки Xiaomi Cloud для синхронизации других объектов.</string>
     <string name="micloud_sync_prompt_for_no_gallery_sync_pad">Будут синхронизированы только мероприятия календаря и заметки. Для синхронизации остальных данных, перейдите в настройки Xiaomi Cloud.</string>

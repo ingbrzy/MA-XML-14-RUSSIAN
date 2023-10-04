@@ -121,7 +121,7 @@
     <string name="aqi_top_pollution">Загрязняющие агенты</string>
     <string name="button_abandon">Выход</string>
     <string name="button_add_city">Добавить местоположение</string>
-    <string name="button_allow">OK</string>
+    <string name="button_allow">ОК</string>
     <string name="button_confirm">Принимаю</string>
     <string name="button_exit">Отмена</string>
     <string name="button_not_allow">Отмена</string>
