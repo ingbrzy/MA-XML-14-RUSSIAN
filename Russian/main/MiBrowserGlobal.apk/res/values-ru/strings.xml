@@ -2928,7 +2928,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="suggest_access_item_topic_mark">ТЕМЫ</string>
     <string name="suggest_access_item_video_mark">ВИДЕО</string>
     <string name="suggest_access_item_weather_mark">ПОГОДА</string>
-    <string name="suggest_access_item_yellow_mark">ЖЕЛТЫЕ СТРАНИЦЫ</string>
+    <string name="suggest_access_item_yellow_mark">ЖЁЛТЫЕ СТРАНИЦЫ</string>
     <string name="suggest_access_music">Mi Музыка</string>
     <string name="suggest_item_delete_text">Удалить</string>
     <string name="suggest_open_app_failed">Ошибка открытия приложения</string>

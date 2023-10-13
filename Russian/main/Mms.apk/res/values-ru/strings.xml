@@ -52,8 +52,12 @@
     <string name="add_timing">Таймер</string>
     <string name="add_to_block_by_number">"%s добавлен
 в чёрный список"</string>
+    <string name="add_to_block_by_number_failed">"Не удалось добавить %s в чёрный список.
+Повторите попытку."</string>
     <string name="add_to_block_by_tag">"Сообщение, содержащее \"%s\",
 добавлено в чёрный список"</string>
+    <string name="add_to_block_by_tag_failed">"Не удалось добавить сообщения, содержащие \"%s\", в чёрный список.
+Повторите попытку."</string>
     <string name="add_to_browser_favorite_failed">Не удалось добавить</string>
     <string name="add_to_browser_favorite_success">Успешно добавлено</string>
     <string name="add_video">Добавить видео</string>
@@ -158,6 +162,7 @@
     <string name="click_to_view">Нажмите для просмотра</string>
     <string name="close">Закрыть</string>
     <string name="cloud_recommend_view_tip">Включите синхронизацию с облаком для восстановления важных сообщений в любое время</string>
+    <string name="cloud_space_not_enough">Облачное хранилище заполнено. Обновите свою подписку, чтобы синхронизировать последние сообщения.</string>
     <string name="cloud_state_disabled">Включите синхронизацию с облаком</string>
     <string name="cloud_state_sync_finished">Синхронизировано с Xiaomi Cloud</string>
     <string name="cloud_state_syncing">Синхронизация с Xiaomi Cloud…</string>
@@ -222,6 +227,8 @@
     <string name="converting_to_text_message">Преобразование в SMS…</string>
     <string name="converting_vcard_failed">Не удалось преобразовать контакт</string>
     <string name="copy">Копировать</string>
+    <string name="copy_message">Копировать</string>
+    <string name="copy_message_success">Успешно скопировано</string>
     <string name="copy_message_text">Копировать</string>
     <string name="copy_message_text_success">Текст скопирован</string>
     <string name="copy_to_sdcard">Сохранить вложение</string>
@@ -331,6 +338,7 @@
     <string name="expire_on">Срок истекает: %s</string>
     <string name="exporting_progress_private_message">Экспорт…</string>
     <string name="fail_to_add_attachment">Не удалось добавить вложение</string>
+    <string name="fail_to_add_image">Не удалось получить доступ к скопированному содержимому</string>
     <string name="fail_to_view_attachment">Вложение недоступно</string>
     <string name="failed_due_to_not_login">Выполните вход</string>
     <string name="failed_to_add_media">Невозможно добавить это %1$s к вашему сообщению.</string>
@@ -736,8 +744,8 @@
     <string name="network_error_description">Произошла ошибка сети. Подождите немного и повторите попытку.</string>
     <string name="network_unconnected">Не удалось подключиться к сети</string>
     <string name="networking_allow_continue">Разрешить</string>
-    <string name="networking_allow_desc">\"Mi Сообщениям\" для нормальной работы требуется подключение к интернету. Для предоставления бесплатных текстовых и голосовых услуг, распознавания неизвестных номеров, фильтрации спама и включения других функций, \"Mi Сообщениям\" требуется использование \"Желтых страниц\". Разрешить \"Желтым страницам\" подключение к интернету, использование геолокации и чтение контактов?</string>
-    <string name="networking_allow_desc_without_mx">\"Mi Сообщениям\" для нормальной работы требуется подключение к интернету. Для распознавания неизвестных номеров, фильтрации спама и включения других функций, \"Mi Сообщениям\" требуется использование \"Желтым страницам\". \"Mi Сообщениям\" требуется использование \"Желтых страниц\". Разрешить \"Желтым страницам\" подключение к интернету, использование геолокации и чтение контактов?</string>
+    <string name="networking_allow_desc">Для нормальной работы \"Mi Сообщениям\" необходимо подключение к интернету. Для предоставления бесплатных текстовых и голосовых услуг, распознавания неизвестных номеров, фильтрации спама и включения других функций, \"Mi Сообщениям\" необходимо использование \"Жёлтых страниц\". Разрешить \"Жёлтым страницам\" подключение к интернету, использование геолокации и чтение контактов?</string>
+    <string name="networking_allow_desc_without_mx">Для нормальной работы \"Mi Сообщениям\" необходимо подключение к интернету. Для распознавания неизвестных номеров, фильтрации спама и включения других функций, \"Mi Сообщениям\" необходимо использование \"Жёлтых страниц\". Разрешить \"Жёлтым страницам\" подключение к интернету, использование геолокации и чтение контактов?</string>
     <string name="networking_allow_title">Внимание</string>
     <string name="new_group_manager">%s - новый администратор чата</string>
     <string name="new_group_manager_self">Вы - новый администратор чата</string>
@@ -822,6 +830,7 @@
     <string name="pref_collapse_sp_messages_summary">Автоматически группировать уведомления о SMS</string>
     <string name="pref_delivery_ringtone">Звук отчёта о доставке</string>
     <string name="pref_edit_smsc_address">Номер SMS центра (SMSC)</string>
+    <string name="pref_feedback_title">Обратная связь</string>
     <string name="pref_forward_title">Переслать</string>
     <string name="pref_group_ad_mms_recognition">Группировать рекламные сообщения</string>
     <string name="pref_hide_verification_code_summary">Автоматически скрывать одноразовые пароли в тексте уведомлений на экране блокировки</string>
@@ -1301,6 +1310,7 @@
     <string name="search_path_mms">Настройки/Системные приложения/Сообщения</string>
     <string name="search_setting_description">Текст в сообщениях</string>
     <string name="search_show_more_results">Показать ещё</string>
+    <string name="search_sms">Поиск сообщений</string>
     <string name="search_title_mms">Сообщения</string>
     <string name="second_mms_introduction">Перейдите во второе пространство</string>
     <string name="second_mms_switch">Перейти</string>
@@ -1604,6 +1614,7 @@
     <string name="title_show_sms_template">Умные сообщения</string>
     <string name="title_show_sms_template_in">Распознавание одноразовых паролей</string>
     <string name="title_timed_message_dialog">Время отправки сообщения</string>
+    <string name="title_timed_remind_message_dialog">Настройка напоминания</string>
     <string name="title_use_gsm_alphabet">Использовать алфавит GSM</string>
     <string name="to_address_label">"Получатель: "</string>
     <string name="to_label">"Кому: "</string>
@@ -1705,7 +1716,7 @@
     <string name="yesterday">Вчера</string>
     <string name="you_have_new_message">У вас есть новые сообщения</string>
     <string name="yulore_term">Политика Конфиденциальности</string>
-    <string name="zero_sms_feedback_message">Отчёты загружаются на наши серверы вместе с номерами телефонов отправителей и используются только для улучшения работы черных списков.</string>
+    <string name="zero_sms_feedback_message">Отчёты загружаются на наши серверы вместе с номерами телефонов отправителей и используются только для улучшения работы чёрных списков.</string>
     <string name="zero_sms_feedback_success">Отчёт отправлен</string>
     <string name="zero_sms_feedback_title">Отчёт</string>
 </resources>

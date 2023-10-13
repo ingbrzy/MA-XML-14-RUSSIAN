@@ -19,7 +19,7 @@
     <string name="provider_label">Контакты</string>
     <string name="read_write_all_voicemail_description">Разрешить приложению доступ ко всем голосовым сообщениям на устройстве.</string>
     <string name="read_write_all_voicemail_label">Доступ ко всем голосовым сообщениям</string>
-    <string name="search_the_yellowpage">Поиск по желтым страницам</string>
+    <string name="search_the_yellowpage">Поиск по жёлтым страницам</string>
     <string name="send_sms">Отправить сообщение</string>
     <string name="sharedUserLabel">Основные приложения Android</string>
     <string name="sim_state_changed">SIM карта заменена</string>

@@ -61,6 +61,7 @@
     <string name="alarm_notify_text">Отложите или отключите будильник.</string>
     <string name="alarm_permanent_alert">Сигнал</string>
     <string name="alarm_repeat">Повтор</string>
+    <string name="alarm_repeat_self_define_button">Настройка</string>
     <string name="alarm_ringtone">Мелодии будильников</string>
     <string name="alarm_ringtone_picker">Будильник</string>
     <string name="alarm_set_new">До срабатывания будильника менее %d мин.</string>
@@ -285,6 +286,7 @@
     <string name="listen_news_msg">Приложению необходим доступ к интернету</string>
     <string name="listen_news_privacy"><Data>Для предоставления персонализированных услуг и включения утренних новостей в будильники, приложению необходимо подключение к интернету. Перед использованием этой функции примите &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%3$s\">Политику конфиденциальности&lt;/a>.</Data></string>
     <string name="loading_ringtone">Загрузка мелодий…</string>
+    <string name="look_sleep_data">Данные о сне</string>
     <string name="menu_add_worldclock">Добавить</string>
     <string name="menu_desk_clock">Часы</string>
     <string name="menu_edit_timer_item">Изменить таймер</string>
@@ -449,6 +451,10 @@ mm"</string>
     <string name="notification_adv_time_entries4">За <xliff id="HOUR" refersto="1">%d</xliff> ч.</string>
     <string name="notification_adv_time_entries5">Не уведомлять</string>
     <string name="notification_permission_desc">Вы не сможете отключать будильники в уведомлениях, если не предоставите необходимое разрешение. Предоставить разрешение?</string>
+    <string name="notification_permission_dialog_content">Разрешите этому приложению отправку уведомлений, чтобы получать уведомления будильников. Разрешение можно предоставить в Настройках.</string>
+    <string name="notification_permission_dialog_not_open">Отмена</string>
+    <string name="notification_permission_dialog_open">Настройки</string>
+    <string name="notification_permission_dialog_title">Предоставьте разрешения</string>
     <string name="oneshot_alarm">Удалить после срабатывания</string>
     <string name="open_keep_screen">Экран будет включён постоянно</string>
     <string name="open_notification_permission_remind">Разрешите отключение будильников в уведомлениях</string>
@@ -723,6 +729,7 @@ mm"</string>
     <string name="unselect_all">Отменить</string>
     <string name="upcoming_alarm">Будильник: %s</string>
     <string name="upcoming_alarm_hint">Можно отключить этот будильник</string>
+    <string name="upcoming_alarm_new">Будильник: %s</string>
     <string name="update_health_app">Обновление приложения</string>
     <string name="update_health_app_desc">Функция отслеживания сна предоставляется приложением Здоровье. Обновите приложение до последней версии, чтобы получить доступ к соответствующим функциям.</string>
     <string name="update_health_app_desc_new">Функция отслеживания сна предоставляется Mi Фитнес. Обновите Mi Фитнес до последней версии, чтобы получить доступ к соответствующим функциям.</string>
