@@ -362,6 +362,13 @@
     <string name="cached_apps_freezer_disabled">Отключено</string>
     <string name="cached_apps_freezer_enabled">Включено</string>
     <string name="cached_apps_freezer_reboot_dialog_text">Чтобы это изменение вступило в силу, устройство должно быть перезагружено. Перезагрузите сейчас или отмените изменения.</string>
+    <string name="call_notification_answer_action">Ответить</string>
+    <string name="call_notification_answer_video_action">Видео</string>
+    <string name="call_notification_decline_action">Отклонить</string>
+    <string name="call_notification_hang_up_action">Завершить</string>
+    <string name="call_notification_incoming_text">Входящий вызов</string>
+    <string name="call_notification_ongoing_text">Текущий вызов</string>
+    <string name="call_notification_screening_text">Проверка входящего вызова</string>
     <string name="carrier_network_change_mode">Изменение сети оператора</string>
     <string name="category_personal">Личный профиль</string>
     <string name="category_work">Рабочий профиль</string>
@@ -639,6 +646,11 @@ ID: %s
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="garbage_count">Присутствуют старые экземпляры: %1$s</string>
+    <string name="grant_dialog_button_allow_all">Разрешить для всех</string>
+    <string name="grant_dialog_button_allow_more_selected_photos">Разрешить дополнительный выбор</string>
+    <string name="grant_dialog_button_allow_selected_photos">Выбор</string>
+    <string name="grant_dialog_button_always_allow_all">Разрешать всегда для всех</string>
+    <string name="grant_dialog_button_dont_allow_more_selected_photos">Запретить дополнительный выбор</string>
     <string name="guest_exit_guest">Выйти из гостевого аккаунта</string>
     <string name="guest_exit_guest_dialog_message">Все приложения и данные в этом аккаунте будут удалены</string>
     <string name="guest_exit_guest_dialog_remove">Удалить</string>
@@ -1380,7 +1392,7 @@ mm"</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="speed_label_fast">Быстрая</string>
     <string name="speed_label_medium">Средняя</string>
-    <string name="speed_label_okay">OK</string>
+    <string name="speed_label_okay">ОК</string>
     <string name="speed_label_slow">Медленная</string>
     <string name="speed_label_very_fast">Очень быстрая</string>
     <string name="speed_label_very_slow">Очень медленная</string>

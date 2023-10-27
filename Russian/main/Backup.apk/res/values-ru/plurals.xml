@@ -84,6 +84,11 @@
         <item quantity="one">Выбран %d объект</item>
         <item quantity="few">Выбрано %d объекта</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новых уведомлений</item>
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+     </plurals>
     <plurals name="new_task_backup_failed">
         <item quantity="other">Резервное копирование завершено. %d объектов пропущено.</item>
         <item quantity="one">Резервное копирование завершено. %d объект пропущен.</item>
