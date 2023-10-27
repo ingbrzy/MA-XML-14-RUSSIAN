@@ -249,6 +249,7 @@
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -605,6 +606,7 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
+    <string name="switch_network">Переключение сети</string>
     <string name="system_navigation_mode">Способ навигации</string>
     <string name="systemdesktop_introduction">Плагин службы Рабочего стола предоставляет такие функции, как Рабочий стол, системный пользовательский интерфейс и скриншоты.</string>
     <string name="term_condition_detail">Получайте ежедневно потрясающие изображения и захватывающие истории на экран блокировки. Эта функция не будет использовать ваши данные для персонализации без вашего согласия. Перед использованием этой функции, прочтите и примите &lt;a href =%1$s>Политику конфиденциальности&lt;/a> и &lt;a href =%2$s>Пользовательское соглашение&lt;/a> стороннего поставщика контента.</string>

@@ -211,6 +211,7 @@
     <string-array name="bookmarks_vodafone_uk"></string-array>
     <array name="bookshelf_recommend_detail_background"></array>
     <array name="boot_msg_text" />
+    <array name="bouncer_pin_shapes"></array>
     <string-array name="broadcast_locales"></string-array>
     <string-array name="bt_hci_snoop_log_values"></string-array>
     <string-array name="bt_hci_snoop_log_values_enhanced"></string-array>
@@ -236,6 +237,7 @@
     <string-array name="captioning_typeface_selector_values"></string-array>
     <array name="card_game_bg_arr"></array>
     <string-array name="card_game_text_arr"></string-array>
+    <array name="carrierId_2032_iconOverrides"></array>
     <array name="carrier_properties" />
     <array name="cast_expanded_controller_default_control_buttons"></array>
     <array name="cast_mini_controller_default_control_buttons"></array>
@@ -307,6 +309,7 @@
     <array name="config_ambientThresholdLevels" />
     <array name="config_ambientThresholdsOfPeakRefreshRate" />
     <integer-array name="config_apfEthTypeBlackList"></integer-array>
+    <array name="config_appsSupportMultiInstancesSplit" />
     <string-array name="config_appsToPin"></string-array>
     <array name="config_autoBrightnessButtonBacklightValues" />
     <array name="config_autoBrightnessDisplayValuesNits" />
@@ -343,6 +346,7 @@
     <string-array name="config_callBarringMMI_for_ims"></string-array>
     <integer-array name="config_cameraLaunchGestureVibePattern"></integer-array>
     <string-array name="config_canCustomNotificationAppIcon"></string-array>
+    <string-array name="config_canCustomNotificationBg"></string-array>
     <string-array name="config_canSendSubstituteNotificationPackages"></string-array>
     <string-array name="config_canSendSubstituteNotificationPackages"></string-array>
     <string-array name="config_canShowBadgePackages"></string-array>
@@ -426,12 +430,16 @@
     <array name="config_ethernet_interfaces" />
     <string-array name="config_except_charge_support_lite"></string-array>
     <array name="config_face_acquire_biometricprompt_ignorelist" />
+    <array name="config_face_acquire_device_entry_ignorelist" />
     <array name="config_face_acquire_enroll_ignorelist" />
     <array name="config_face_acquire_keyguard_ignorelist" />
     <array name="config_face_acquire_vendor_biometricprompt_ignorelist" />
     <array name="config_face_acquire_vendor_enroll_ignorelist" />
     <array name="config_face_acquire_vendor_keyguard_ignorelist" />
     <array name="config_face_auth_props" />
+    <integer-array name="config_face_auth_wake_up_triggers"></integer-array>
+    <array name="config_face_help_msgs_defer_until_timeout" />
+    <integer-array name="config_face_help_msgs_when_fingerprint_enrolled"></integer-array>
     <array name="config_fillBuiltInDisplayCutoutArray"></array>
     <array name="config_foldedDeviceStates" />
     <string-array name="config_forbidenLongScreenshot"></string-array>
@@ -451,6 +459,8 @@
     <array name="config_keep_warming_services" />
     <array name="config_keySystemUuidMapping" />
     <integer-array name="config_keyboardTapVibePattern"></integer-array>
+    <string-array name="config_keyguardQuickAffordanceDefaults"></string-array>
+    <string-array name="config_keyguardQuickAffordanceSlots"></string-array>
     <array name="config_keyguard_statusbar_icon_blocklist"></array>
     <string-array name="config_legacyPinnerServiceFiles"></string-array>
     <string-array name="config_legacy_networktype_restore_timers"></string-array>
@@ -504,6 +514,7 @@
     <array name="config_packagesExemptFromSuspension" />
     <string-array name="config_panel_keep_observe_uri"></string-array>
     <array name="config_perDeviceStateRotationLockDefaults" />
+    <string-array name="config_pluginAllowlist"></string-array>
     <string-array name="config_pluginWhitelist"></string-array>
     <string-array name="config_preInstalledPackages"></string-array>
     <array name="config_preinstalled_audio_and_caption_services" />

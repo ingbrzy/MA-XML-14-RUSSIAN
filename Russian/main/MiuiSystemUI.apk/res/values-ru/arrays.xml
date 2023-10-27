@@ -407,7 +407,17 @@
         <item>Откл.</item>
         <item>Вкл.</item>
     </string-array>
+    <string-array name="tile_states_dream">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
     <string-array name="tile_states_flashlight">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_font_scaling">
         <item>Недоступно</item>
         <item>Откл.</item>
         <item>Вкл.</item>
