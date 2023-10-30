@@ -177,6 +177,7 @@
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_values"></string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_values"></string-array>
     <string-array name="bluetooth_a2dp_codec_values"></string-array>
+    <string-array name="bluetooth_audio_routing_values"></string-array>
     <string-array name="bluetooth_avrcp_version_values"></string-array>
     <string-array name="bluetooth_broadcast_pin_config_values"></string-array>
     <string-array name="bluetooth_map_version_values"></string-array>
@@ -227,6 +228,7 @@
     <array name="bytes_picker_sizes"></array>
     <string-array name="cached_apps_freezer_entries"></string-array>
     <string-array name="cached_apps_freezer_values"></string-array>
+    <string-array name="calendar_type"></string-array>
     <string-array name="call_waiting_tone_entries"></string-array>
     <string-array name="call_waiting_tone_entry_values"></string-array>
     <string-array name="callrecordview_menu_show_values"></string-array>
@@ -255,7 +257,11 @@
     <string-array name="change_security_lock_picker_key"></string-array>
     <string-array name="charge_animation_style_entries"></string-array>
     <string-array name="charge_animation_style_values"></string-array>
+    <string-array name="china_broadcast_ids"></string-array>
+    <string-array name="china_mobile_ids"></string-array>
     <array name="china_ntp_servers" />
+    <string-array name="china_telecom_ids"></string-array>
+    <string-array name="china_union_ids"></string-array>
     <string-array name="chinese_days"></string-array>
     <string-array name="chinese_digits"></string-array>
     <string-array name="chinese_leap_months"></string-array>
@@ -439,6 +445,7 @@
     <array name="config_ephemeralResolverPackage" />
     <array name="config_ethernet_interfaces" />
     <string-array name="config_except_charge_support_lite"></string-array>
+    <string-array name="config_exempt_wifi_permission_uid_name"></string-array>
     <array name="config_face_acquire_biometricprompt_ignorelist" />
     <array name="config_face_acquire_device_entry_ignorelist" />
     <array name="config_face_acquire_enroll_ignorelist" />
@@ -477,6 +484,7 @@
     <string-array name="config_keyguardQuickAffordanceDefaults"></string-array>
     <string-array name="config_keyguardQuickAffordanceSlots"></string-array>
     <array name="config_keyguard_statusbar_icon_blocklist"></array>
+    <string-array name="config_known_host_certs"></string-array>
     <string-array name="config_legacyPinnerServiceFiles"></string-array>
     <string-array name="config_legacy_networktype_restore_timers"></string-array>
     <string-array name="config_load_only_fiveg_apns"></string-array>
@@ -528,6 +536,7 @@
     <array name="config_order_display_services" />
     <array name="config_order_interaction_control_services" />
     <string-array name="config_order_screen_reader_services"></string-array>
+    <array name="config_order_speech_services" />
     <integer-array name="config_originalLux"></integer-array>
     <array name="config_packagesExemptFromSuspension" />
     <string-array name="config_panel_keep_observe_uri"></string-array>
@@ -541,6 +550,7 @@
     <array name="config_preinstalled_display_services" />
     <string-array name="config_preinstalled_interaction_control_services"></string-array>
     <string-array name="config_preinstalled_screen_reader_services"></string-array>
+    <array name="config_preinstalled_speech_services" />
     <array name="config_primaryCredentialProviderService" />
     <string-array name="config_prioritizedPackages"></string-array>
     <string-array name="config_priorityOnlyDndExemptPackages"></string-array>
@@ -677,6 +687,8 @@
     <array name="data_type_name_mcc_mnc_key" />
     <array name="data_type_name_mcc_mnc_value" />
     <array name="data_type_name_mcc_value" />
+    <array name="datausage_hiding_carrier_service_carrier_id" />
+    <array name="datausage_hiding_carrier_service_package_names" />
     <string-array name="dates"></string-array>
     <string-array name="dates_eng"></string-array>
     <string-array name="dax_geq_preset_values"></string-array>
@@ -739,6 +751,7 @@
     <string-array name="dndm_vip_list_group_array"></string-array>
     <string-array name="doc_titles"></string-array>
     <string-array name="document_default_extensions"></string-array>
+    <string-array name="domestic_roaming_mplmns"></string-array>
     <string-array name="doodle_color_selector_array"></string-array>
     <string-array name="double_click_mode_entries"></string-array>
     <string-array name="double_key_mode_values"></string-array>
@@ -774,6 +787,7 @@
     <string-array name="enabled_networks_cdma_only_lte_values"></string-array>
     <string-array name="enabled_networks_cdma_values"></string-array>
     <string-array name="enabled_networks_choices"></string-array>
+    <string-array name="enabled_networks_except_gsm_3g_values"></string-array>
     <string-array name="enabled_networks_except_gsm_4g_choices"></string-array>
     <string-array name="enabled_networks_except_gsm_choices"></string-array>
     <string-array name="enabled_networks_except_gsm_lte_choices"></string-array>
@@ -814,10 +828,12 @@
     <string-array name="fast_hide_path"></string-array>
     <integer-array name="fat_rate_line_chart_default_y"></integer-array>
     <string-array name="filter_broadcasts"></string-array>
+    <array name="fingerprint_acquired_ignore_list" />
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="fingerprint_unlock_type_entries"></string-array>
     <string-array name="fingerprint_unlock_type_values"></string-array>
+    <string-array name="first_day_of_week"></string-array>
     <string-array name="first_guide_images"></string-array>
     <array name="fiveg_network_mode_enabled_devices" />
     <string-array name="fiveg_network_mode_entries"></string-array>
@@ -1083,6 +1099,7 @@
     <string-array name="ncc_locales"></string-array>
     <string-array name="need_trace_list"></string-array>
     <string-array name="networkAttributes"></string-array>
+    <array name="network_mode_3g_deprecated_carrier_id" />
     <string-array name="network_state_display"></string-array>
     <string-array name="network_state_display_values"></string-array>
     <string-array name="networks_not_clear_data"></string-array>
@@ -1339,6 +1356,10 @@
     <integer-array name="scan_modes"></integer-array>
     <string-array name="scenario_selector_titles"></string-array>
     <string-array name="scenario_selector_values"></string-array>
+    <string-array name="screen_flash_color_entries"></string-array>
+    <array name="screen_flash_color_icons"></array>
+    <string-array name="screen_flash_color_values"></string-array>
+    <array name="screen_flash_notification_preset_opacity_colors"></array>
     <string-array name="screen_key_long_press_action_value"></string-array>
     <string-array name="screen_key_long_press_default_action"></string-array>
     <string-array name="screen_key_long_press_timeout_value"></string-array>
@@ -1371,6 +1392,7 @@
     <string-array name="search_tabs_name_array"></string-array>
     <string-array name="search_voice_assistant_suggestion"></string-array>
     <string-array name="second_guide_images"></string-array>
+    <string-array name="select_gpo_version_values"></string-array>
     <string-array name="select_logd_size_values"></string-array>
     <string-array name="select_logpersist_values"></string-array>
     <string-array name="send_inline_filter_array"></string-array>
@@ -1502,6 +1524,7 @@
     <string-array name="super_wallpaper_res_scale_10_devices"></string-array>
     <string-array name="support_accessibility_haptic_device_list"></string-array>
     <string-array name="support_eight_word_calibrate_devices"></string-array>
+    <string-array name="support_lite_Optimization_device"></string-array>
     <string-array name="support_magic_window_device_list"></string-array>
     <string-array name="support_mi_nmea_devices"></string-array>
     <integer-array name="support_networktypes_cdma_master"></integer-array>
@@ -1525,6 +1548,7 @@
     <string-array name="swipe_direction_values"></string-array>
     <string-array name="switch_sdk_value"></string-array>
     <string-array name="switch_sound_effect"></string-array>
+    <string-array name="switch_to_dock_user_when_docked_timeout_values"></string-array>
     <string-array name="switch_to_user_zero_when_docked_timeout_values"></string-array>
     <string-array name="system_alert_window_notification_whitelist"></string-array>
     <string-array name="system_cta_runtime_perm"></string-array>
@@ -1547,11 +1571,14 @@
     <string-array name="tare_app_balance_subfactors"></string-array>
     <string-array name="tare_consumption_limit_subfactors"></string-array>
     <string-array name="tare_job_scheduler_actions"></string-array>
+    <string-array name="tare_job_scheduler_app_balance_subfactors"></string-array>
+    <string-array name="tare_job_scheduler_rewards_subfactors"></string-array>
     <string-array name="tare_policies"></string-array>
     <string-array name="tare_rewards_subfactors"></string-array>
     <string-array name="target_activity"></string-array>
     <string-array name="temperature_setting_unit_values"></string-array>
     <string-array name="temperature_unit_settings_labels"></string-array>
+    <string-array name="temperature_units"></string-array>
     <string-array name="tencent_string_info"></string-array>
     <string-array name="text_style"></string-array>
     <array name="three_drop"></array>
@@ -1672,7 +1699,9 @@
     <string-array name="wfcSpnFormats"></string-array>
     <string-array name="wfc_restore_blocked_countries"></string-array>
     <string-array name="when_to_start_screensaver_entries"></string-array>
+    <string-array name="when_to_start_screensaver_entries_no_battery"></string-array>
     <string-array name="when_to_start_screensaver_values"></string-array>
+    <string-array name="when_to_start_screensaver_values_no_battery"></string-array>
     <string-array name="whetstone_level_values"></string-array>
     <string-array name="white_list_ad"></string-array>
     <string-array name="white_list_cache"></string-array>
@@ -1711,6 +1740,7 @@
     <string-array name="wifi_eap_method_add_sim"></string-array>
     <string-array name="wifi_eap_method_add_sim_for_cmcc"></string-array>
     <string-array name="wifi_eap_method_target_strings"></string-array>
+    <string-array name="wifi_eap_tls_ver"></string-array>
     <string-array name="wifi_frequency_band_values"></string-array>
     <array name="wifi_known_signers" />
     <string-array name="wifi_link_turbo_mode_values"></string-array>

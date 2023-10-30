@@ -29,6 +29,13 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="accessing_notification_title">Доступ к файлам из %1$s</string>
     <string name="app_label">MTP-хост</string>
+    <string name="call_notification_answer_action">Ответить</string>
+    <string name="call_notification_answer_video_action">Видео</string>
+    <string name="call_notification_decline_action">Отклонить</string>
+    <string name="call_notification_hang_up_action">Завершить</string>
+    <string name="call_notification_incoming_text">Входящий вызов</string>
+    <string name="call_notification_ongoing_text">Текущий вызов</string>
+    <string name="call_notification_screening_text">Фильтрация входящего вызова</string>
     <string name="downloads_app_label">Загрузки</string>
     <string name="error_busy_device">Другое устройство занято, передача файлов недоступна</string>
     <string name="error_locked_device">Файлы не найдены. Если другое устройство заблокировано, разблокируйте его и повторите попытку.</string>

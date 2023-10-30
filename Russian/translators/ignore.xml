@@ -1576,6 +1576,7 @@
     <string name="config_batterymeterFillMask">M2,18 v-14 h8 v14 z</string>
     <string name="config_batterymeterPerimeterPath">M3.5,2 v0 H1.33 C0.6,2 0,2.6 0,3.33 V13v5.67 C0,19.4 0.6,20 1.33,20 h9.33 C11.4,20 12,19.4 12,18.67 V13V3.33 C12,2.6 11.4,2 10.67,2 H8.5 V0 H3.5 z M2,18v-7V4h8v9v5H2L2,18z</string>
     <string name="config_batterymeterPowersavePath">M9,10l-2,0l0,-2l-2,0l0,2l-2,0l0,2l2,0l0,2l2,0l0,-2l2,0z</string>
+    <string name="config_batterymeterShieldPath">M5 0L0 1.88V6.19C0 9.35 2.13 12.29 5 13.01C7.87 12.29 10 9.35 10 6.19V1.88L5 0Z</string>
     <string name="config_biometric_prompt_ui_package">com.android.systemui</string>
     <string name="config_bodyFontFamily">sans-serif</string>
     <string name="config_bodyFontFamilyMedium">sans-serif-medium</string>
@@ -1776,6 +1777,7 @@
     <string name="config_rtt_setting_package_name" />
     <string name="config_schedules_provider_caller_package">com.android.settings</string>
     <string name="config_screenRecorderComponent">com.android.systemui/com.android.systemui.screenrecord.ScreenRecordDialog</string>
+    <string name="config_screenshotAppClipsActivityComponent">com.android.systemui/com.android.systemui.screenshot.appclips.AppClipsActivity</string>
     <string name="config_screenshotErrorReceiverComponent">com.android.systemui/com.android.systemui.screenshot.ScreenshotServiceErrorReceiver</string>
     <string name="config_screenshotServiceComponent">com.android.systemui/com.android.systemui.screenshot.TakeScreenshotService</string>
     <string name="config_secondaryBuiltInDisplayCutout" />
@@ -1841,6 +1843,7 @@
     <string name="config_videos_storage_category_uri">content://com.android.providers.media.documents/root/videos_root</string>
     <string name="config_wallpaperCropperPackage">com.android.wallpapercropper</string>
     <string name="config_wallpaperManagerServiceName">com.android.server.wallpaper.WallpaperManagerService</string>
+    <string name="config_wallpaperPickerPackage">com.android.wallpaper</string>
     <string name="config_wallpaper_picker_class">com.android.settings.Settings$WallpaperSettingsActivity</string>
     <string name="config_wallpaper_picker_launch_extra">com.android.wallpaper.LAUNCH_SOURCE</string>
     <string name="config_wallpaper_picker_package">com.android.settings</string>
@@ -3059,8 +3062,10 @@
     <string name="lock_pattern_view_aspect">square</string>
     <string name="lock_screen_business_hongbao_message"> </string>
     <string name="lock_screen_hongbao_message"> </string>
+    <string name="lockscreen_clock_id_fallback">DEFAULT</string>
     <string name="lockscreen_wallpaper_changed">@string/theme_apply_success</string>
     <string name="lockscreen_wallpaper_changed">@string/theme_apply_success</string>
+    <string name="log_access_confirmation_learn_more_url">https://support.google.com/android/answer/12986432</string>
     <string name="long_press_home_key_def_function">launch_voice_assistant</string>
     <string name="long_press_menu_key_def_function">show_menu</string>
     <string name="long_press_menu_key_when_lock_def_function">turn_on_torch</string>
@@ -4009,6 +4014,7 @@
     <string name="pref_key_max_long_trace_duration">max_long_trace_duration</string>
     <string name="pref_key_max_long_trace_size">max_long_trace_size</string>
     <string name="pref_key_quick_setting">quick_setting_enabled</string>
+    <string name="pref_key_recording_was_trace">recording_was_trace</string>
     <string name="pref_key_stack_sampling_on">stack_sampling_on</string>
     <string name="pref_key_stop_on_bugreport">stop_on_bugreport_enabled</string>
     <string name="pref_key_tags">current_tags_4</string>

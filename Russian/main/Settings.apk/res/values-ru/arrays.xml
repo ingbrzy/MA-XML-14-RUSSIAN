@@ -473,6 +473,11 @@
         <item>" | Активно (медиа)"</item>
         <item>" | Активно (устройство)"</item>
     </string-array>
+    <string-array name="bluetooth_audio_routing_titles">
+        <item>Использовать приложение по умолчанию</item>
+        <item>Использовать слуховой аппарат</item>
+        <item>Использовать динамик телефона</item>
+    </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.5 (по умолчанию)</item>
         <item>AVRCP 1.3</item>
@@ -509,6 +514,17 @@
         <item>Включён</item>
         <item>Включён фильтр заголовков</item>
         <item>Включён фильтр медиа-пакетов</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>Только заголовки списка контроля доступа</item>
+        <item>Фильтровать A2DP-медиапакеты</item>
+        <item>Фильтровать RFCOMM-канал"</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>Отключить</item>
+        <item>Заполнить строкой символов</item>
+        <item>Оставить только заголовок</item>
+        <item>Удалить полностью</item>		
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 секунда</item>
@@ -1398,6 +1414,18 @@
         <item>Запретить</item>
         <item>Разрешить</item>
     </string-array>
+    <string-array name="select_gpo_version_summaries">
+        <item>Откл.</item>
+        <item>GPO4</item>
+        <item>GPO5</item>
+        <item>GPO6</item>
+    </string-array>
+    <string-array name="select_gpo_version_titles">
+        <item>Откл.</item>
+        <item>GPO4</item>
+        <item>GPO5</item>
+        <item>GPO6</item>
+    </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Отключён</item>
         <item>64 КБ</item>
@@ -1460,6 +1488,11 @@
         <item>По умолчанию</item>
         <item>Компактный</item>
     </string-array>
+    <string-array name="switch_to_dock_user_when_docked_timeout_entries">
+        <item>Никогда</item>
+        <item>Через 1 минуту</item>
+        <item>Через 5 минут</item>
+    </string-array>
     <string-array name="switch_to_user_zero_when_docked_timeout_entries">
         <item>Никогда</item>
         <item>Через 1 минуту</item>
@@ -1479,6 +1512,10 @@
         <item>Спящий режим</item>
         <item>Режим экономии заряда</item>
         <item>Состояние процесса</item>
+    </string-array>
+    <string-array name="tare_units">
+        <item>ARC</item>
+        <item>Cake</item>
     </string-array>
     <string-array name="time_format_entries">
         <item>12-часовой</item>
@@ -1549,6 +1586,12 @@
         <item>Стандартный</item>
         <item>Сенсорный</item>
         <item>Прямое касание</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Переместите палец влево</item>
+        <item>Переместите палец вниз</item>
+        <item>Переместите палец вправо</item>
+        <item>Переместите палец вверх</item>
     </string-array>
     <string-array name="uplmn_prefer_network_mode_td_choices">
         <item>GSM</item>
