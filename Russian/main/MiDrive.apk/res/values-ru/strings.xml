@@ -257,8 +257,8 @@
     <string name="micloud_space_applist_detail">Вы можете просматривать резервные копии рабочего стола на мобильном устройстве.</string>
     <string name="micloud_space_duokan_detail">Откройте Duokan на устройстве и перейдите в \"Книжная полка и облачное хранилище\" для управления пространством. Убедитесь, что текущий Xiaomi аккаунт установлен в качестве системного аккаунта MIUI.</string>
     <string name="micloud_space_duokan_title">Хранилище Duokan</string>
-    <string name="micloud_space_soundrecorder_detail">Откройте приложение Диктофон на устройстве и выберите папку с файлами, хранящимися в облаке.
-Убедитесь, что текущий Xiaomi аккаунт установлен в качестве системного аккаунта MIUI.</string>
+    <string name="micloud_space_soundrecorder_detail">"Откройте Диктофон на устройстве Xiaomi и выберите папку с файлами, сохраненными в облаке.
+Убедитесь, что текущая учетная запись Xiaomi используется в качестве системной учетной записи MIUI."</string>
     <string name="micloud_space_soundrecorder_title">Диктофон</string>
     <string name="midnight">Ночь</string>
     <string name="miuix_access_state_desc">Выбрано</string>

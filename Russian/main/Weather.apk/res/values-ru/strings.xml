@@ -175,6 +175,7 @@
     <string name="daily_forecast_add_city_add">Подписаться</string>
     <string name="daily_forecast_add_city_message">Подпишитесь на погоду в %1$s для подробного прогноза.</string>
     <string name="daily_forecast_add_city_title">Следите за погодой в %1$s</string>
+    <string name="daily_forecast_card_title">%d-дневный прогноз</string>
     <string name="daily_forecast_detail_date">dd.MM</string>
     <string name="daily_forecast_no_data">"Не удалось получить данные
 Потяните вниз для обновления или проверьте настройки сети"</string>
@@ -247,7 +248,7 @@
     <string name="feedback_result_fail_no_reason">Спасибо за ваш отзыв!</string>
     <string name="feedback_result_fail_same_type">Похоже, ваш отчёт не отличается от текущей погоды. Попробуйте ещё раз.</string>
     <string name="feedback_result_success">Успешно отправлено, спасибо за ваш отчёт</string>
-    <string name="feedback_sandy">Пыль</string>
+    <string name="feedback_sandy">Пыльная буря</string>
     <string name="feedback_sunny">Ясно</string>
     <string name="first_start_network_title">Интернет и местоположение</string>
     <string name="fmt_date_long_month_day">d MMMM</string>

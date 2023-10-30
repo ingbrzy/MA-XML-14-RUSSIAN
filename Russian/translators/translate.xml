@@ -347,7 +347,12 @@
     <string name="bluetooth_talkback_imaging">Камера</string>
     <string name="bluetooth_talkback_input_peripheral">Периферийное устройство ввода</string>
     <string name="bluetooth_talkback_phone">Телефон</string>
+    <string name="bottomsheet_action_collapse">Свернуть нижний лист</string>
+    <string name="bottomsheet_action_expand">Развернуть нижний лист</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
+    <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
+    <string name="bottomsheet_drag_handle_clicked">Перетащите указатель, дважды коснувшись его</string>
+    <string name="bottomsheet_drag_handle_content_description">Перетащите указатель</string>
     <string name="bouncer_face_not_recognized">Лицо не распознано</string>
     <string name="bt_hci_snoop_log">Включить журнал HCI Bluetooth</string>
     <string name="bt_hci_snoop_log_summary">Сохранять все пакеты HCI Bluetooth в файле</string>
@@ -551,6 +556,7 @@ ID: %s
     <string name="enhanced_connectivity_summary">Включение функции улучшения соединения</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
+    <string name="error_a11y_label">Ошибка: недопустимо</string>
     <string name="error_disable_esim_msg">Не удалось отключить eSIM</string>
     <string name="error_disable_esim_title">Ошибка</string>
     <string name="error_icon_content_description">Ошибка</string>
@@ -1040,6 +1046,8 @@ mm"</string>
     <string name="mtrl_picker_toggle_to_day_selection">Выбрать день</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Ручной ввод</string>
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
+    <string name="mtrl_timepicker_cancel">Отмена</string>
+    <string name="mtrl_timepicker_confirm">ОК</string>
     <string name="mtrl_timepicker_confirm">ОК</string>
     <string name="multi_window_cvw_summary_global">Перетащите угол, чтобы переключиться на плавающее окно или изменить его размер</string>
     <string name="multi_window_cvw_title">Плавающее окно</string>
