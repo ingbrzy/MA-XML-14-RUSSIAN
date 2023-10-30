@@ -4306,10 +4306,10 @@ ID: %s
     <string name="guest_nickname">Гость</string>
     <string name="guest_remove_guest_confirm_button">Удалить</string>
     <string name="guest_remove_guest_dialog_title">Удалить гостя?</string>
-    <string name="guest_reset_guest">Сбросить гостевой аккаунт</string>
+    <string name="guest_reset_guest">Сбросить гостевой сеанс</string>
     <string name="guest_reset_guest_confirm_button">Сбросить</string>
-    <string name="guest_reset_guest_dialog_title">Сбросить гостевой аккаунт?</string>
-    <string name="guest_resetting">Сброс гостевого аккаунта…</string>
+    <string name="guest_reset_guest_dialog_title">Сбросить гостевой сеанс?</string>
+    <string name="guest_resetting">Сброс гостевого сеанса…</string>
     <string name="guide_button_text">Понятно</string>
     <string name="guide_text_center">"Проведите вверх по центру.
 Область разблокировки экрана будет по центру."</string>

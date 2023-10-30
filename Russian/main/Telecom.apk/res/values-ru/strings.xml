@@ -444,10 +444,10 @@
     <string name="guest_exit_guest">Выйти из гостевого аккаунта</string>
     <string name="guest_new_guest">Войти в гостевой аккаунт</string>
     <string name="guest_nickname">Гость</string>
-    <string name="guest_reset_guest">Сбросить гостевой аккаунт</string>
+    <string name="guest_reset_guest">Сбросить гостевой сеанс</string>
     <string name="guest_reset_guest_confirm_button">Сбросить</string>
-    <string name="guest_reset_guest_dialog_title">Сбросить гостевой аккаунт?</string>
-    <string name="guest_resetting">Сброс гостевого аккаунта…</string>
+    <string name="guest_reset_guest_dialog_title">Сбросить гостевой сеанс?</string>
+    <string name="guest_resetting">Сброс гостевого сеанса…</string>
     <string name="handle_restricted">RESTRICTED</string>
     <string name="hdcp_checking_dialog_title">Порядок проверки HDCP</string>
     <string name="hdcp_checking_title">Проверка HDCP</string>

@@ -1321,10 +1321,10 @@
     <string name="guest_notification_title">Гость</string>
     <string name="guest_remove_guest_confirm_button">Удалить</string>
     <string name="guest_remove_guest_dialog_title">Удалить гостя?</string>
-    <string name="guest_reset_guest">Сбросить гостевой аккаунт</string>
+    <string name="guest_reset_guest">Сбросить гостевой сеанс</string>
     <string name="guest_reset_guest_confirm_button">Сбросить</string>
-    <string name="guest_reset_guest_dialog_title">Сбросить гостевой аккаунт?</string>
-    <string name="guest_resetting">Сброс гостевого аккаунта…</string>
+    <string name="guest_reset_guest_dialog_title">Сбросить гостевой сеанс?</string>
+    <string name="guest_resetting">Сброс гостевого сеанса…</string>
     <string name="guest_wipe_session_dontwipe">Да, продолжить</string>
     <string name="guest_wipe_session_message">Хотите продолжить сессию?</string>
     <string name="guest_wipe_session_title">Рады видеть вас снова!</string>
