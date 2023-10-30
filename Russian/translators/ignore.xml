@@ -4009,6 +4009,7 @@
     <string name="pref_key_max_long_trace_duration">max_long_trace_duration</string>
     <string name="pref_key_max_long_trace_size">max_long_trace_size</string>
     <string name="pref_key_quick_setting">quick_setting_enabled</string>
+    <string name="pref_key_stack_sampling_on">stack_sampling_on</string>
     <string name="pref_key_stop_on_bugreport">stop_on_bugreport_enabled</string>
     <string name="pref_key_tags">current_tags_4</string>
     <string name="pref_key_tracing_on">tracing_on</string>
@@ -5343,6 +5344,7 @@ feedsContentId:
     <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
     <string name="wifitrackerlib_certinstaller_package">com.android.certinstaller</string>
+    <string name="wifitrackerlib_multiband_separator">,</string>
     <string name="wifitrackerlib_no_attribution_annotation_packages">com.google.android.setupwizard,com.google.android.gms</string>
     <string name="wifitrackerlib_settings_package">com.android.settings</string>
     <string name="wifitrackerlib_summary_separator">" / "</string>

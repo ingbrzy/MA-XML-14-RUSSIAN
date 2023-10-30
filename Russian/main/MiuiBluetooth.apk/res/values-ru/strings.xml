@@ -102,7 +102,7 @@
     <string name="allow_mock_location">Эмуляция расположения</string>
     <string name="allow_mock_location_summary">Эмуляция расположения</string>
     <string name="animator_duration_scale_title">Шкала продолжительности анимации</string>
-    <string name="apn_settings_not_available">Настройки имени точки доступа недоступны для этого пользователя</string>
+    <string name="apn_settings_not_available">Этот пользователь не может изменять настройки точки доступа</string>
     <string name="app_name">MIUI Bluetooth</string>
     <string name="app_process_limit_title">Ограничение фонового процесса</string>
     <string name="audio_relay_default_device_name">Mi AI динамики</string>
@@ -462,10 +462,10 @@
     <string name="guest_exit_guest">Выйти из гостевого аккаунта</string>
     <string name="guest_new_guest">Войти в гостевой аккаунт</string>
     <string name="guest_nickname">Гость</string>
-    <string name="guest_reset_guest">Сбросить гостевой аккаунт</string>
+    <string name="guest_reset_guest">Сбросить гостевой сеанс</string>
     <string name="guest_reset_guest_confirm_button">Сбросить</string>
-    <string name="guest_reset_guest_dialog_title">Сбросить гостевой аккаунт?</string>
-    <string name="guest_resetting">Сброс гостевого аккаунта…</string>
+    <string name="guest_reset_guest_dialog_title">Сбросить гостевой сеанс?</string>
+    <string name="guest_resetting">Сброс гостевого сеанса…</string>
     <string name="hdcp_checking_dialog_title">Поведение проверки HDCP</string>
     <string name="hdcp_checking_title">Проверка HDCP</string>
     <string name="headset_autoswitch_connect_button">Подключить</string>
@@ -810,7 +810,7 @@
     <string name="pointer_location">Местоположение указателя</string>
     <string name="pointer_location_summary">Отображать касания</string>
     <string name="power_charging_duration">%1$s - %2$s до полной зарядки</string>
-    <string name="power_charging_limited">%1$s - зарядка временно ограничена</string>
+    <string name="power_charging_limited">%1$s - зарядка оптимизирована</string>
     <string name="power_discharge_by">Заряда (%2$s) хватит примерно до %1$s</string>
     <string name="power_discharge_by_enhanced">Заряда хватит примерно до %1$s при текущем уровне использования (%2$s)</string>
     <string name="power_discharge_by_only">Заряда хватит примерно до %1$s</string>

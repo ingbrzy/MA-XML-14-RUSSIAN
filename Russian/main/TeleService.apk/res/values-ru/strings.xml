@@ -599,6 +599,13 @@
     <string name="call_forwarding_number_hint">Переадресовывать вызовы на</string>
     <string name="call_forwarding_settings">Переадресация вызовов</string>
     <string name="call_forwarding_settings_with_label">Переадресация вызовов (%s)</string>
+    <string name="call_notification_answer_action">Ответить</string>
+    <string name="call_notification_answer_video_action">Видео</string>
+    <string name="call_notification_decline_action">Отклонить</string>
+    <string name="call_notification_hang_up_action">Завершить</string>
+    <string name="call_notification_incoming_text">Входящий вызов</string>
+    <string name="call_notification_ongoing_text">Текущий вызов</string>
+    <string name="call_notification_screening_text">Фильтрация входящего вызова</string>
     <string name="call_quality_notification_bluetooth_details">Слабый сигнал Bluetooth. Попробуйте переключиться на громкую связь.</string>
     <string name="call_quality_notification_name">Уведомление о качестве вызова</string>
     <string name="call_record_add_numbers">Добавить номера</string>
@@ -788,6 +795,7 @@
     <string name="clh_callFailed_requested_facility_not_subscribed_txt">Запрашиваемый объект отсутствует в подписках</string>
     <string name="clh_callFailed_resources_unavailable_unspecified_txt">Ресурсы недоступны, не указаны</string>
     <string name="clh_callFailed_response_to_STATUS_ENQUIRY_txt">Ответ на STATUS ENQUIRY</string>
+    <string name="clh_callFailed_satelliteEnabled_txt">Включен спутниковый режим</string>
     <string name="clh_callFailed_semantically_incorrect_message_txt">Семантически неверное сообщение</string>
     <string name="clh_callFailed_service_or_option_not_available_unspecified_txt">Услуга или опция недоступна, не указано</string>
     <string name="clh_callFailed_service_or_option_not_implemented_unspecified_txt">Услуга или опция не реализована, не указано</string>
@@ -977,6 +985,7 @@
     <string name="dial_emergency_empty_error">Вызов не осуществлен. Наберите экстренный номер.</string>
     <string name="dial_emergency_error">Вызов не осуществлен. Номер %s не является экстренным.</string>
     <string name="dial_related_setting_catory">Набор номера</string>
+    <string name="dial_settings_screen_title">Настройки номеронабирателя</string>
     <string name="dialerKeyboardHintText">Для набора используйте клавиатуру</string>
     <string name="dialog_alert_title">Внимание</string>
     <string name="dialog_cancel">Отмена</string>
@@ -1212,6 +1221,7 @@
     <string name="fdn_list_with_label">Разрешённые номера (%s)</string>
     <string name="fdn_summary">Настройки ограничения исходящих вызовов списком разрешённых номеров или определёнными префиксами</string>
     <string name="fdn_with_label">Разрешённые номера (%s)</string>
+    <string name="feedback_title">Обратная связь</string>
     <string name="fire_type_description">Активность</string>
     <string name="fiveg_available_status1">Доступность NR :</string>
     <string name="fiveg_bearer_status1">Статус носителя 5G :</string>
@@ -1317,10 +1327,10 @@
     <string name="guest_exit_guest">Выйти из гостевого аккаунта</string>
     <string name="guest_new_guest">Войти в гостевой аккаунт</string>
     <string name="guest_nickname">Гость</string>
-    <string name="guest_reset_guest">Сбросить гостевой аккаунт</string>
+    <string name="guest_reset_guest">Сбросить гостевой сеанс</string>
     <string name="guest_reset_guest_confirm_button">Сбросить</string>
-    <string name="guest_reset_guest_dialog_title">Сбросить гостевой аккаунт?</string>
-    <string name="guest_resetting">Сброс гостевого аккаунта…</string>
+    <string name="guest_reset_guest_dialog_title">Сбросить гостевой сеанс?</string>
+    <string name="guest_resetting">Сброс гостевого сеанса…</string>
     <string name="hac_mode_summary">Включить поддержку слухового аппарата</string>
     <string name="hac_mode_title">Слуховые аппараты</string>
     <string name="handon_ringer_summary">Возьмите звонящий телефон в руки для снижения громкости звонка</string>
@@ -1366,6 +1376,7 @@
 Доступны только экстренные вызовы."</string>
     <string name="incall_error_power_off_wfc">Для совершения вызова отключите режим полёта или подключитесь к сети Wi-Fi.</string>
     <string name="incall_error_promote_wfc">Чтобы позвонить, включите Wi-Fi вызовы.</string>
+    <string name="incall_error_satellite_enabled">Чтобы позвонить, отключите спутниковый режим</string>
     <string name="incall_error_supp_service_conference">Не удалось создать конференц-вызов.</string>
     <string name="incall_error_supp_service_hangup">Не удалось завершить вызов.</string>
     <string name="incall_error_supp_service_hold">Удержание невозможно.</string>
@@ -1380,6 +1391,7 @@
     <string name="incall_number_anonymous_kd">ID не отправлен</string>
     <string name="incall_number_unavailable_kd">Не поддерживается</string>
     <string name="incall_status_dialed_mmi">Запуск последовательности MMI…</string>
+    <string name="install_messages_on_work_profile_action_str">Установите приложение для обмена рабочими сообщениями</string>
     <string name="install_other_apps">Установка неизвестных приложений</string>
     <string name="intelligent_dual_sim_summary">Использовать мобильный интернет второй SIM-карты для увеличения скорости соединения</string>
     <string name="intelligent_dual_sim_title">Умная двойная SIM-карта</string>
@@ -1631,6 +1643,7 @@
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -1679,6 +1692,7 @@
     <string name="mobile_network_settings_not_available">Настройки мобильных сетей недоступны этому пользователю</string>
     <string name="mobile_networks">Мобильные сети</string>
     <string name="mobile_property">Свойства</string>
+    <string name="mobile_settings_screen_title">Мобильный интернет</string>
     <string name="mobile_special_network_optimization_config_summary">Интеллектуальная обработка разных сценариев в сети для улучшения качества связи</string>
     <string name="mobile_special_network_optimization_config_title">Сценарии адаптивного режима</string>
     <string name="mock_location_app">Выбрать приложение для фиктивных геоданных</string>
@@ -1686,6 +1700,8 @@
     <string name="mock_location_app_set">Приложение для создания фиктивных геоданных: %1$s</string>
     <string name="modem_dialog_body">Мобильная сеть нестабильна, это вызывает перебои или сетевые проблемы. Отправить отчёт об ошибке в Xiaomi? Он может содержать некоторые личные данные. Мы используем отчёты только для анализа и исправления неполадок и не предоставляем их третьим лицам в коммерческих целях.</string>
     <string name="modem_dialog_title">Мобильная сеть нестабильна</string>
+    <string name="modem_log_notification__message">Это может увеличить расход батареи</string>
+    <string name="modem_log_notification_title">Формирование журналов модема…</string>
     <string name="modem_set_title">НАСТРОЙКА МОДЕМА</string>
     <string name="modem_setting_button_title">руководство по настройке</string>
     <string name="modem_setting_info">ИНФОРМАЦИЯ О НАСТРОЙКЕ МОДЕМА</string>
@@ -1788,6 +1804,8 @@
     <string name="msim_setting_categery_title">Настройки SIM-карты</string>
     <string name="msim_setting_default_data">Интернет</string>
     <string name="msim_setting_default_data_description">Интернет SIM-карта %d</string>
+    <string name="msim_setting_default_sms">SIM-карта для SMS</string>
+    <string name="msim_setting_default_sms_description">SIM-карта %d для SMS</string>
     <string name="msim_setting_default_voice">Вызовы</string>
     <string name="msim_setting_default_voice_description">SIM-карта %d для вызовов</string>
     <string name="msim_setting_install_virtual_sim_install">Установить</string>
@@ -1798,9 +1816,11 @@
     <string name="msim_setting_no_sim_package_info">Нет информации о балансе</string>
     <string name="msim_setting_operator_network_title">Сеть оператора</string>
     <string name="msim_setting_pop_text">Выберите SIM-карту для вызовов</string>
+    <string name="msim_setting_satellite_sim">SateLlite SIM-карта</string>
     <string name="msim_setting_screen_title">SIM-карты и мобильные сети</string>
     <string name="msim_setting_set_package">Выберите план</string>
     <string name="msim_setting_sim_info_editor_title">Информация SIM-карты</string>
+    <string name="msim_setting_sms_pop_text">Выберите при отправке SMS</string>
     <string name="msim_sim_lock">Заблокирована</string>
     <string name="msim_sim_radio_off">Отключена</string>
     <string name="msim_switch_data_conn_toast">Вы сменили SIM-карту. Тип сети изменён.</string>
@@ -1900,6 +1920,7 @@
     <string name="no_internet_available">Для вызова через SIP, проверьте подключение к интернету.</string>
     <string name="no_mobile_data">Мобильный интернет недоступен</string>
     <string name="no_mobile_data_roaming">Интернет-роуминг недоступен</string>
+    <string name="no_need_unlock_tip">Разблокировка не требуется, это устройство не заблокировано</string>
     <string name="no_rtt_when_roaming">Примечание: RTT не доступен в роуминге</string>
     <string name="no_unlock_chance_hint">"Все попытки исчерпаны.
 Свяжитесь с оператором."</string>
@@ -2011,6 +2032,7 @@
     <string name="other_settings">Другие настройки вызовов</string>
     <string name="other_settings_category">Прочие настройки</string>
     <string name="other_settings_categorys">Дополнительные функции</string>
+    <string name="other_settings_screen_title">Прочие настройки</string>
     <string name="overlay_display_devices_title">Эмуляция доп. экранов</string>
     <string name="overseas_roaming_setting">Интернет-роуминг</string>
     <string name="pane_title_emergency_dialpad">Экстренные вызовы</string>
@@ -2061,6 +2083,7 @@
     <string name="phoneAppLabel">Телефон</string>
     <string name="phoneIconLabel">Телефон</string>
     <string name="phone_account_settings">Аккаунты для вызовов</string>
+    <string name="phone_account_settings_user_restriction">Настройки аккаунта может изменить только работающий с ним сотрудник или администратор</string>
     <string name="phone_accounts">Аккаунты для вызовов</string>
     <string name="phone_accounts_add_sip_account">Добавить SIP аккаунт</string>
     <string name="phone_accounts_all_calling_accounts">Все аккаунты для вызовов</string>
@@ -2116,7 +2139,7 @@
     <string name="police_type_description">Полиция</string>
     <string name="port_title">Номер порта</string>
     <string name="power_charging_duration">^1 - ^2 до полной зарядки</string>
-    <string name="power_charging_limited">%1$s - оптимизация использования батареи</string>
+    <string name="power_charging_limited">%1$s - зарядка оптимизирована</string>
     <string name="power_discharge_by">Заряда (%2$s) хватит примерно до %1$s</string>
     <string name="power_discharge_by_enhanced">При текущем уровне использования (%2$s) заряда хватит примерно до %1$s</string>
     <string name="power_discharge_by_only">Заряда хватит примерно до %1$s</string>
@@ -2239,6 +2262,7 @@
     <string name="preferred_network_type_pref_entries_3g_non_preferred_mx_at">3G/2G</string>
     <string name="preferred_network_type_pref_entries_3g_preferred">Предпочтительно 3G</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Предпочтительно 3G (CDMA)</string>
+    <string name="preferred_network_type_pref_entries_3g_preferred_jp_kd">3G</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_jp_sb">3G/GSM</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">WCDMA/GSM (автоматически)</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_mx_at">3G/2G (3G предпочтительно)</string>
@@ -2249,6 +2273,7 @@
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Предпочтительно 4G (CDMA)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_custom">Предпочтительно 4G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_dtag">2G/3G/4G</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_jp_kd">4G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_jp_sb">4G/3G/GSM</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM (автоматически)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (автоматически)</string>
@@ -2260,6 +2285,7 @@
     <string name="preferred_network_type_pref_entries_4g_preferred_za_mtn">2G/3G/4G (автоматически)</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">Предпочтительно 5G</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_dtag">2G/3G/4G/5G</string>
+    <string name="preferred_network_type_pref_entries_5g_preferred_jp_kd">5G (рекомендуется)</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_jp_sb">5G/4G/3G/GSM</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_lm_cr">5G/LTE/WCDMA/GSM (автоматически)</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (автоматически)</string>
@@ -2279,6 +2305,7 @@
     <string name="preferred_network_type_pref_entries_only_3g_lm_cr">Только WCDMA</string>
     <string name="preferred_network_type_pref_entries_only_3g_mx_telcel">Только WCDMA</string>
     <string name="preferred_network_type_pref_entries_only_4g">Только LTE</string>
+    <string name="preferred_network_type_pref_entries_only_support_4g_preferred_jp_kd">4G (рекомендуется)</string>
     <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_title">Предпочтительный тип сети</string>
     <string name="preferred_phone_account">Предпочтительный аккаунт</string>
@@ -2329,6 +2356,7 @@ SIM-карта будет заблокирована при неудачной �
     <string name="radioInfo_display_bytes">байты</string>
     <string name="radioInfo_display_dbm">dBm</string>
     <string name="radioInfo_display_packets">пакеты</string>
+    <string name="radioInfo_imei_primary">Основной</string>
     <string name="radioInfo_lac">LAC</string>
     <string name="radioInfo_menu_getIMS">Статус сервиса IMS</string>
     <string name="radioInfo_menu_viewADN">Просм. адр. книгу на SIM-карте</string>
@@ -2356,6 +2384,7 @@ SIM-карта будет заблокирована при неудачной �
     <string name="radio_info_data_connection_disable">Отключить передачу данных</string>
     <string name="radio_info_data_connection_enable">Включить передачу данных</string>
     <string name="radio_info_data_network_type_label">Тип сети для передачи данных:</string>
+    <string name="radio_info_data_raw_registration_state_label">Статус начальной регистрации данных:</string>
     <string name="radio_info_dcnr_restricted">Ограничение DCNR:</string>
     <string name="radio_info_dds">SubId SIM-карты по умолчанию для мобильного интернета:</string>
     <string name="radio_info_dl_kbps">Пропускная способность DL-канала (кбит/c):</string>
@@ -2401,6 +2430,8 @@ UT-интерфейс: %5$s"</string>
     <string name="radio_info_toggle_dns_check_label">Включить/отключить проверку DNS</string>
     <string name="radio_info_ul_kbps">Пропускная способность UL-канала (кбит/с):</string>
     <string name="radio_info_voice_network_type_label">Тип сети для голосовой связи:</string>
+    <string name="radio_info_voice_raw_registration_state_label">Статус начальной регистрации Voice:</string>
+    <string name="radio_info_wlan_data_raw_registration_state_label">Статус начальной регистрации Wi-Fi:</string>
     <string name="radio_off_during_emergency_call">Во время экстренного вызова перейти в режим полёта нельзя</string>
     <string name="radio_off_error">Включите радиомодуль для просмотра этих настроек.</string>
     <string name="read_call_log">Запись аудио</string>
@@ -2495,6 +2526,27 @@ UT-интерфейс: %5$s"</string>
     <string name="runningservices_settings_title">Работающие приложения</string>
     <string name="sa_switch_debug_summary">Показывать параметры режима 5G в дополнительных настройках SIM-карты</string>
     <string name="sa_switch_debug_title">Параметры режима 5G</string>
+    <string name="sat_CBCHInd">CBCHInd:</string>
+    <string name="sat_ChQual">ChQual:</string>
+    <string name="sat_PhoneAngle">Phone Angle:</string>
+    <string name="sat_Pwr">PWR:</string>
+    <string name="sat_Snr">Snr:</string>
+    <string name="sat_TXPWR">TXPWR:</string>
+    <string name="sat_USIMPre">USIMPre:</string>
+    <string name="sat_USIMStart">USIMStart:</string>
+    <string name="sat_USIMType">USIMType:</string>
+    <string name="sat_call_status">Статус вызова:</string>
+    <string name="sat_cpst_info">Информация CPST:</string>
+    <string name="sat_id">ID спутника:</string>
+    <string name="sat_info">Инфо о спутнике</string>
+    <string name="sat_location">Местоположение спутника:</string>
+    <string name="sat_plmn">PLMN:</string>
+    <string name="sat_sub_id">Sub Id:</string>
+    <string name="sat_version">Версия модема:</string>
+    <string name="satellite_findout_settings_title">Найти спутник tiantong</string>
+    <string name="satellite_mobile_settings_summary">Поддерживается только SIM-картой China Telecom</string>
+    <string name="satellite_mobile_settings_title">Открытый спутник</string>
+    <string name="satellite_tiantong_setting">спутник tiantong</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
@@ -2530,6 +2582,10 @@ UT-интерфейс: %5$s"</string>
     <string name="select_webview_provider_toast_text">Вариант недействителен. Повторите попытку.</string>
     <string name="send">Отправить</string>
     <string name="send_button">Отправить</string>
+    <string name="send_from_work_profile_action_str">Перейти в рабочий профиль</string>
+    <string name="send_from_work_profile_cancel">Отмена</string>
+    <string name="send_from_work_profile_description">В вашей организации разрешено отправлять сообщения только из рабочих приложений</string>
+    <string name="send_from_work_profile_title">Нельзя отправлять сообщения из личного приложения</string>
     <string name="send_keepalive_title">Отправлять keep-alive</string>
     <string name="sensor_answer_summary">Автоматически отвечать на входящий вызов при поднесении устройства к уху</string>
     <string name="sensor_answer_title">Ответ при поднесении к уху</string>
@@ -2595,6 +2651,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sim_service_setting">Mi SIM и Mi Роуминг</string>
     <string name="simmelock_name">Блокировка SIM ME</string>
     <string name="simulate_color_space">Имитировать аномалию</string>
+    <string name="simulate_out_of_service_string">Моделирование нахождения вне зоны обслуживания (только отладочная сборка)</string>
     <string name="singleContactImportedMsg">Контакт импортирован</string>
     <string name="single_emergency_number_title">Экстренный номер</string>
     <string name="single_fiveg_deactivate_sim_dialog_btn_disable_sim">Отключить</string>

@@ -213,6 +213,8 @@
     <array name="boot_msg_text" />
     <array name="bouncer_pin_shapes"></array>
     <string-array name="broadcast_locales"></string-array>
+    <string-array name="bt_hci_snoop_log_filters_values"></string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_values"></string-array>
     <string-array name="bt_hci_snoop_log_values"></string-array>
     <string-array name="bt_hci_snoop_log_values_enhanced"></string-array>
     <array name="bt_icon_bg_colors"></array>

@@ -155,7 +155,7 @@
     <string name="adb_wireless_verifying_qrcode_text">Сопряжение…</string>
     <string name="adbwifi_warning_message">Беспроводная отладка предназначена только для целей разработки.  Этот режим позволяет перемещать файлы (с компьютера и на компьютер), напрямую устанавливать приложения и просматривать системные журналы</string>
     <string name="adbwifi_warning_title">Разрешить беспроводную отладку?</string>
-    <string name="add_guest_failed">Не удалось создать нового гостя</string>
+    <string name="add_guest_failed">Не удалось создать гостя</string>
     <string name="add_to_trust_device">Это доверенное устройство</string>
     <string name="add_user_failed">Ошибка создания нового пользователя</string>
     <string name="afternoon">После полудня</string>
@@ -166,6 +166,7 @@
     <string name="alarms_and_reminders_label">Будильники и напоминания</string>
     <string name="alarms_and_reminders_switch_title">Разрешить установку будильников и напоминаний</string>
     <string name="alarms_and_reminders_title">Будильники и напоминания</string>
+    <string name="all_recordings_will_be_deleted">Все записи будут удалены из /data/local/traces</string>
     <string name="allow_mock_location">Фиктивные геоданные</string>
     <string name="allow_mock_location_summary">Использовать фиктивные геоданные</string>
     <string name="allow_mock_modem">Разрешить имитацию модема</string>
@@ -173,6 +174,7 @@
     <string name="allow_turn_screen_on">Разрешить включение экрана</string>
     <string name="allow_turn_screen_on_description">Разрешить приложению включать экран. Приложение сможет включать экран в любое время без вашего участия.</string>
     <string name="animator_duration_scale_title">Длительность анимации</string>
+    <string name="apn_settings_not_available">Этот пользователь не может изменять настройки точки доступа</string>
     <string name="app_info_all_services_label">Все сервисы</string>
     <string name="app_locale_picker_summary">Выберите язык для каждого приложения</string>
     <string name="app_locale_picker_title">Язык приложения</string>
@@ -190,6 +192,7 @@
     <string name="back_navigation_animation_summary">Включение системной анимации для предиктивного отклика</string>
     <string name="back_triple_tap">Тройное касание</string>
     <string name="battery_info_status_charging">Заряжается</string>
+    <string name="battery_info_status_charging_dock">Зарядка</string>
     <string name="battery_info_status_charging_fast">Быстрая зарядка</string>
     <string name="battery_info_status_charging_lower">Заряжается</string>
     <string name="battery_info_status_charging_slow">Медленная зарядка</string>
@@ -378,6 +381,7 @@
     <string name="call_notification_ongoing_text">Текущий вызов</string>
     <string name="call_notification_screening_text">Фильтрация входящего вызова</string>
     <string name="carrier_network_change_mode">Изменение сети оператора</string>
+    <string name="category_clone">Клон</string>
     <string name="category_personal">Личный профиль</string>
     <string name="category_work">Рабочий профиль</string>
     <string name="cell_data_off_content_description">Мобильный интернет отключён</string>
@@ -649,6 +653,7 @@ ID: %s
     <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
     <string name="fmt_time_second">"s'с'"</string>
     <string name="fmt_time_second_millis">"s.S'с'"</string>
+    <string name="font_scale_percentage">%1$d%%</string>
     <string name="for_diagnosis_usage_only">Использовать только для диагностики.</string>
     <string name="freeform_guide_free_drag_summary">Перетаскивание текста, изображений или файлов между окнами поддерживаемых приложений</string>
     <string name="freeform_guide_free_drag_title">Перетаскивание между окнами</string>
@@ -661,24 +666,41 @@ ID: %s
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="garbage_count">Присутствуют старые экземпляры: %1$s</string>
+    <string name="grant_admin">Предоставить права администратора</string>
     <string name="grant_dialog_button_allow_all">Разрешить для всех</string>
     <string name="grant_dialog_button_allow_more_selected_photos">Разрешить дополнительный выбор</string>
     <string name="grant_dialog_button_allow_selected_photos">Выбор</string>
     <string name="grant_dialog_button_always_allow_all">Разрешать всегда для всех</string>
     <string name="grant_dialog_button_dont_allow_more_selected_photos">Запретить дополнительный выбор</string>
-    <string name="guest_exit_guest">Выйти из гостевого аккаунта</string>
+    <string name="guest_exit_button">Выйти из гостевого режима</string>
+    <string name="guest_exit_clear_data_button">Удалить</string>
+    <string name="guest_exit_dialog_button">Выйти</string>
+    <string name="guest_exit_dialog_message">Все приложения и данные текущего гостевого сеанса будут удалены</string>
+    <string name="guest_exit_dialog_message_non_ephemeral">Сохраните историю текущего сеанса или удалите данные и приложения</string>
+    <string name="guest_exit_dialog_title">Выйти из гостевого режима?</string>
+    <string name="guest_exit_dialog_title_non_ephemeral">Сохранить историю сеанса?</string>
+    <string name="guest_exit_guest">Удалить гостевой аккаунт</string>
     <string name="guest_exit_guest_dialog_message">Все приложения и данные в этом аккаунте будут удалены</string>
     <string name="guest_exit_guest_dialog_remove">Удалить</string>
     <string name="guest_exit_guest_dialog_title">Удалить гостевой аккаунт?</string>
+    <string name="guest_exit_quick_settings_button">Выйти из гостевого режима</string>
+    <string name="guest_exit_save_data_button">Сохранить</string>
     <string name="guest_new_guest">Войти в гостевой аккаунт</string>
+    <string name="guest_new_guest">Добавить гостя</string>
     <string name="guest_nickname">Гость</string>
+    <string name="guest_notification_ephemeral">История будет удалена сразу после выхода</string>
+    <string name="guest_notification_non_ephemeral">При выходе вы можете сохранить или удалить историю</string>
+    <string name="guest_notification_non_ephemeral_non_first_login">Можно сбросить историю сеанса прямо сейчас, либо удалить или сохранить её при выходе.</string>
     <string name="guest_notification_text">Для удаления приложений и данных, удалите гостевой аккаунт</string>
     <string name="guest_remove_guest_confirm_button">Удалить</string>
     <string name="guest_remove_guest_dialog_title">Удалить гостя?</string>
-    <string name="guest_reset_guest">Сбросить гостевой аккаунт</string>
+    <string name="guest_reset_and_restart_dialog_message">При этом начнется новый гостевой сеанс, а все данные и приложения предыдущего сеанса будут удалены.</string>
+    <string name="guest_reset_and_restart_dialog_title">Сбросить гостевой сеанс?</string>
+    <string name="guest_reset_button">Сбросить гостевой сеанс</string>
+    <string name="guest_reset_guest">Сбросить гостевой сеанс</string>
     <string name="guest_reset_guest_confirm_button">Сбросить</string>
-    <string name="guest_reset_guest_dialog_title">Сбросить гостевой аккаунт?</string>
-    <string name="guest_resetting">Сброс гостевого аккаунта…</string>
+    <string name="guest_reset_guest_dialog_title">Сбросить гостевой сеанс?</string>
+    <string name="guest_resetting">Сброс гостевого сеанса…</string>
     <string name="hdcp_checking_dialog_title">Поведение проверки HDCP</string>
     <string name="hdcp_checking_title">Проверка HDCP</string>
     <string name="help_feedback_label">Обратная связь</string>
@@ -714,6 +736,7 @@ ID: %s
     <string name="input_method_function_xiaoai">Mi AI голосовой ввод</string>
     <string name="input_method_function_xiaoai_des">Нажмите для использования Mi AI голосового ввода</string>
     <string name="install_other_apps">Ненадежные источники</string>
+    <string name="install_type_instant">Приложение с мгновенным запуском</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="just_a_sec">Подождите…</string>
     <string name="keep_screen_on">Не выключать экран</string>
@@ -871,9 +894,19 @@ ID: %s
     <string name="material_timepicker_text_input_mode_description">Ввод времени в текстовом режиме</string>
     <string name="media_category">Мультимедиа</string>
     <string name="media_category">Мультимедиа</string>
+    <string name="media_output_status_device_in_low_power_mode">Для воспроизведения выведите устройство из спящего режима</string>
+    <string name="media_output_status_not_support_downloads">Не удается воспроизвести скачанные файлы</string>
+    <string name="media_output_status_require_premium">Для переключения требуется премиум-аккаунт</string>
+    <string name="media_output_status_track_unsupported">Невозможно воспроизвести медиафайл</string>
+    <string name="media_output_status_try_after_ad">Повторите попытку после просмотра объявления</string>
+    <string name="media_output_status_unauthorized">Для воспроизведения необходима авторизация</string>
+    <string name="media_output_status_unknown_error">Невозможно воспроизвести на этом устройстве</string>
     <string name="media_projection_action_text">Начать</string>
     <string name="media_projection_dialog_text">Приложение %s получит доступ к изображению на экране устройства.</string>
     <string name="media_projection_remember_text">Больше не показывать</string>
+    <string name="media_transfer_default_device_name">Подключённое устройство</string>
+    <string name="media_transfer_dock_speaker_device_name">Колонка с док-станцией</string>
+    <string name="media_transfer_external_device_name">Внешнее устройство</string>
     <string name="media_transfer_this_device_name">Это устройство</string>
     <string name="media_transfer_this_device_name">Это устройство</string>
     <string name="media_transfer_this_phone">Это устройство</string>
@@ -1059,6 +1092,7 @@ mm"</string>
     <string name="no_network">Не удалось подключиться к сети</string>
     <string name="noon">Полдень</string>
     <string name="not_default_data_content_description">Не настроено для использования данных</string>
+    <string name="not_grant_admin">Не предоставлять права администратора</string>
     <string name="not_selected">Не выбрано</string>
     <string name="not_set">Не задано</string>
     <string name="notification_channel_alerts">Предупреждения</string>
@@ -1328,7 +1362,8 @@ mm"</string>
     <string name="pointer_location">Местоположение указателя</string>
     <string name="pointer_location_summary">Отображать в наложенном окне данные сенсора</string>
     <string name="power_charging_duration">%1$s - %2$s до полной зарядки</string>
-    <string name="power_charging_limited">%1$s - оптимизация использования батареи</string>
+    <string name="power_charging_limited">%1$s - зарядка оптимизирована</string>
+    <string name="power_charging_limited">%1$s - зарядка оптимизирована</string>
     <string name="power_discharge_by">Заряда (%2$s) хватит примерно до %1$s</string>
     <string name="power_discharge_by_enhanced">Заряда хватит примерно до %1$s при текущем уровне использования (%2$s)</string>
     <string name="power_discharge_by_only">Заряда хватит примерно до %1$s</string>
@@ -1349,6 +1384,10 @@ mm"</string>
     <string name="power_suggestion_battery_run_out">Батарея может разрядиться на %1$s</string>
     <string name="power_suggestion_extend_battery">Продлите время работы батареи на %1$s</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
+    <string name="preferred_network_type_pref_entries_3g_preferred_jp_kd">3G</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_jp_kd">4G</string>
+    <string name="preferred_network_type_pref_entries_5g_preferred_jp_kd">5G (рекомендуется)</string>
+    <string name="preferred_network_type_pref_entries_only_support_4g_preferred_jp_kd">4G (рекомендуется)</string>
     <string name="private_dns_broken">Частный DNS-сервер недоступен</string>
     <string name="private_dns_mode_off">Выкл.</string>
     <string name="private_dns_mode_opportunistic">Автоматически</string>
@@ -1369,6 +1408,9 @@ mm"</string>
     <string name="radio_info_nr_state">Состояние NR:</string>
     <string name="range_end">Конец диапазона</string>
     <string name="range_start">Начало диапазона</string>
+    <string name="record_stack_samples">Запись профиля ЦП</string>
+    <string name="record_stack_samples_summary">Создание образцов стека вызовов также можно включить в настройках трассировки, выбрав категорию \"Процессор\"</string>
+    <string name="record_trace_summary">Запись трассировки системы, с использованием конфигурации из раздела \"Настройки трассировки\"</string>
     <string name="register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="register_by_local_phone_short_text">Создать аккаунт</string>
     <string name="remaining_length_format">Осталось %1$s</string>
@@ -1393,6 +1435,7 @@ mm"</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="saved_network">Сохранено %1$s</string>
+    <string name="saving_stack_samples">Сохранение образцов стека</string>
     <string name="screen_zoom_summary_custom">Другой (%d)</string>
     <string name="screen_zoom_summary_default">По умолчанию</string>
     <string name="screen_zoom_summary_extremely_large">Максимальный</string>
@@ -1441,6 +1484,10 @@ mm"</string>
     <string name="selected">Выбрано</string>
     <string name="send">Отправить</string>
     <string name="send_diagnosis_log">Отправить журнал</string>
+    <string name="send_from_work_profile_action_str">Перейти в рабочий профиль</string>
+    <string name="send_from_work_profile_cancel">Отмена</string>
+    <string name="send_from_work_profile_description">В вашей организации разрешено отправлять сообщения только из рабочих приложений</string>
+    <string name="send_from_work_profile_title">Нельзя отправлять сообщения из личного приложения</string>
     <string name="setting_later">Не сейчас</string>
     <string name="setting_now">Добавить</string>
     <string name="settings_label">Настройки</string>
@@ -1517,6 +1564,8 @@ mm"</string>
     <string name="speed_label_slow">Медленная</string>
     <string name="speed_label_very_fast">Очень быстрая</string>
     <string name="speed_label_very_slow">Очень медленная</string>
+    <string name="stack_samples_are_being_recorded">Образцы стека записываются</string>
+    <string name="stack_samples_saved">Образцы стека сохранены</string>
     <string name="standby_bucket_summary">Приложение в режиме ожидания: %s</string>
     <string name="status_unavailable">Недоступен</string>
     <string name="storage_category">Память</string>
@@ -1539,6 +1588,7 @@ mm"</string>
     <string name="support_skip_button_label">Пропустить</string>
     <string name="system_error_info">Система занята. Попробуйте позже.</string>
     <string name="tap_to_renew_subscription_and_connect">Нажмите для продления подписки и подключения</string>
+    <string name="tap_to_stop_stack_sampling">Нажмите, чтобы остановить создание образцов стека</string>
     <string name="template_percent">%1$d%%.</string>
     <string name="tether_settings_title_all">Модем и точка доступа</string>
     <string name="tether_settings_title_bluetooth">Bluetooth-модем</string>
@@ -1607,6 +1657,8 @@ mm"</string>
     <string name="transcode_settings_title">Настройки перекодирования медиа</string>
     <string name="transcode_user_control">Отменить настройки перекодирования по умолчанию</string>
     <string name="transition_animation_scale_title">Анимация переходов</string>
+    <string name="transparent_navigation_bar">Прозрачная панель навигации</string>
+    <string name="transparent_navigation_bar_summary">Сделать цвет фона панели навигации прозрачным по умолчанию</string>
     <string name="tts_default_lang_summary">Выбор языка по умолчанию для синтезатора речи</string>
     <string name="tts_default_lang_title">Язык</string>
     <string name="tts_default_pitch_summary">Влияет на высоту синтезированной речи</string>
@@ -1671,6 +1723,9 @@ mm"</string>
     <string name="user_agreement_hint_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
     <string name="user_agreement_hint_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%3$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
     <string name="user_agreement_protocal_dialog_hint_default"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта."</Data></string>
+    <string name="user_grant_admin_button">Назначить</string>
+    <string name="user_grant_admin_message">У администраторов права шире, чем у других пользователей. Администратор может управлять аккаунтами всех пользователей, обновлять ПО на устройстве, менять и сбрасывать его настройки, просматривать установленные приложения, а также предоставлять и отзывать права администратора.</string>
+    <string name="user_grant_admin_title">Назначить этого пользователя администратором?</string>
     <string name="user_guest">Гость</string>
     <string name="user_image_choose_photo">Выбрать изображение</string>
     <string name="user_image_photo_selector">Выбрать фото</string>

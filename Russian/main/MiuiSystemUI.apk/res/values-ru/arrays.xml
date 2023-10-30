@@ -528,10 +528,10 @@
         <item>Максимальная</item>
     </string-array>
     <string-array name="udfps_accessibility_touch_hints">
-        <item>Переместите влево</item>
-        <item>Переместите вниз</item>
-        <item>Переместите вправо</item>
-        <item>Переместите вверх</item>
+        <item>Переместите палец влево</item>
+        <item>Переместите палец вниз</item>
+        <item>Переместите палец вправо</item>
+        <item>Переместите палец вверх</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Только зарядка</item>

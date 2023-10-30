@@ -88,7 +88,7 @@
     <string name="adb_wireless_verifying_qrcode_text">Сопряжение…</string>
     <string name="adbwifi_warning_message">Беспроводная отладка предназначена только для целей разработки.  Этот режим позволяет перемещать файлы (с ПК или на ПК), напрямую устанавливать приложения и просматривать системные журналы</string>
     <string name="adbwifi_warning_title">Разрешить беспроводную отладку?</string>
-    <string name="add_guest_failed">Не удалось создать нового гостя</string>
+    <string name="add_guest_failed">Не удалось создать гостя</string>
     <string name="add_user_failed">Ошибка создания нового пользователя</string>
     <string name="alarms_and_reminders_footer_title">"Разрешите приложению устанавливать будильники и планировать действия по времени. Это позволит приложению работать в фоновом режиме, но может увеличить расход батареи.
 
@@ -96,13 +96,14 @@
     <string name="alarms_and_reminders_label">Будильники и напоминания</string>
     <string name="alarms_and_reminders_switch_title">Разрешить установку будильников и напоминаний</string>
     <string name="alarms_and_reminders_title">Будильники и напоминания</string>
+    <string name="all_recordings_will_be_deleted">Все записи будут удалены из /data/local/traces</string>
     <string name="all_traces_will_be_deleted">Все файлы трассировки будут удалены из /data/local/traces</string>
     <string name="allow_mock_location">Фиктивные геоданные</string>
     <string name="allow_mock_location_summary">Использовать фиктивные геоданные</string>
     <string name="allow_turn_screen_on">Разрешить включение экрана</string>
     <string name="allow_turn_screen_on_description">Разрешить приложению включать экран. Приложение сможет включать экран в любое время без вашего участия.</string>
     <string name="animator_duration_scale_title">Длительность анимации</string>
-    <string name="apn_settings_not_available">Access Point Name settings are not available for this user</string>
+    <string name="apn_settings_not_available">Этот пользователь не может изменять настройки точки доступа</string>
     <string name="app_process_limit_title">Лимит фоновых процессов</string>
     <string name="applications">Приложения</string>
     <string name="attach_to_bug_report">Прикрепление трассировок</string>
@@ -269,6 +270,9 @@
     <string name="choose_profile">Выбор профиля</string>
     <string name="clear">ОЧИСТИТЬ</string>
     <string name="clear_adb_keys">Отозвать доступ для USB-отладки</string>
+    <string name="clear_saved_files">Очистить сохранённые файлы</string>
+    <string name="clear_saved_files_question">Очистить сохранённые файлы?</string>
+    <string name="clear_saved_files_summary">Записи удаляются через месяц</string>
     <string name="clear_saved_traces">Очистить файлы трассировки</string>
     <string name="clear_saved_traces_question">Удалить файлы трассировки?</string>
     <string name="clear_saved_traces_summary">Файлы трассировки будут удалены через месяц</string>
@@ -414,9 +418,9 @@
     <string name="guest_nickname">Гость</string>
     <string name="guest_remove_guest_confirm_button">Удалить</string>
     <string name="guest_remove_guest_dialog_title">Удалить гостя?</string>
-    <string name="guest_reset_guest">Сбросить гостевой аккаунт</string>
+    <string name="guest_reset_guest">Сбросить гостевой сеанс</string>
     <string name="guest_reset_guest_confirm_button">Сбросить</string>
-    <string name="guest_reset_guest_dialog_title">Сбросить гостевой аккаунт?</string>
+    <string name="guest_reset_guest_dialog_title">Сбросить гостевой сеанс?</string>
     <string name="guest_resetting">Выполняется сброс…</string>
     <string name="hdcp_checking_dialog_title">Поведение проверки HDCP</string>
     <string name="hdcp_checking_title">Проверка HDCP</string>
@@ -436,6 +440,7 @@
     <string name="inactive_app_inactive_summary">Неактивно. Нажмите для включения.</string>
     <string name="inactive_apps_title">Неактивные приложения</string>
     <string name="install_other_apps">Ненадёжные источники</string>
+    <string name="install_type_instant">Приложение с мгновенным запуском</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="keep_screen_on">Не выключать экран</string>
     <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включён</string>
@@ -597,7 +602,7 @@
     <string name="pointer_location">Местоположение указателя</string>
     <string name="pointer_location_summary">Отображать в наложенном окне данные сенсора</string>
     <string name="power_charging_duration">%1$s - %2$s до полной зарядки</string>
-    <string name="power_charging_limited">%1$s - оптимизация использования батареи</string>
+    <string name="power_charging_limited">%1$s - зарядка оптимизирована</string>
     <string name="power_discharge_by">Заряда (%2$s) хватит примерно до %1$s</string>
     <string name="power_discharge_by_enhanced">Заряда хватит примерно до %1$s при текущем уровне использования (%2$s)</string>
     <string name="power_discharge_by_only">Заряда хватит примерно до %1$s</string>
@@ -617,6 +622,9 @@
     <string name="power_remaining_only_more_than_subtext">Осталось больше %1$s</string>
     <string name="power_suggestion_battery_run_out">Батарея может разрядиться на %1$s</string>
     <string name="power_suggestion_extend_battery">Продлите время работы батареи на %1$s</string>
+    <string name="pref_category_misc">Разное</string>
+    <string name="pref_category_saved_files">Сохранённые файлы</string>
+    <string name="pref_category_trace_settings">Настройки трассировки</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="private_dns_broken">Частный DNS-сервер недоступен</string>
     <string name="private_dns_mode_off">Выкл.</string>
@@ -626,8 +634,11 @@
     <string name="private_dns_mode_provider_hostname_hint">Введите имя хоста DNS-провайдера</string>
     <string name="profile_connect_timeout_subtext">Проблема с подключением. Выключите и снова включите устройство</string>
     <string name="profile_info_settings_title">Информация о профиле</string>
+    <string name="record_stack_samples">Запись профиля ЦП</string>
+    <string name="record_stack_samples_summary">Создание образцов стека вызовов также можно включить в настройках трассировки, выбрав категорию \"Процессор\"</string>
     <string name="record_system_activity">Запись активности системы и последующий анализ для улучшения производительности</string>
     <string name="record_trace">Запись трассировки</string>
+    <string name="record_trace_summary">Запись трассировки системы, с использованием конфигурации из раздела \"Настройки трассировки\"</string>
     <string name="remaining_length_format">Осталось %1$s</string>
     <string name="restore_default_categories">Восстановить категории по умолчанию</string>
     <string name="retail_demo_reset_message">Для сброса настроек в деморежиме введите пароль.</string>
@@ -637,6 +648,7 @@
     <string name="runningservices_settings_summary">Просмотр и управление запущенными приложениями</string>
     <string name="runningservices_settings_title">Запущенные приложения</string>
     <string name="saved_network">Сохранено %1$s</string>
+    <string name="saving_stack_samples">Сохранение образцов стека</string>
     <string name="saving_trace">Сохранение трассировки</string>
     <string name="screen_zoom_summary_custom">Другой (%d)</string>
     <string name="screen_zoom_summary_default">По умолчанию</string>
@@ -662,6 +674,7 @@
     <string name="settings_label">Настройки</string>
     <string name="settingslib_learn_more_text">Подробнее</string>
     <string name="share">Отправить</string>
+    <string name="share_file">Отправить файл?</string>
     <string name="share_trace">Отправить трассировку?</string>
     <string name="shared_data_delete_failure_text">Произошла ошибка при удалении общих данных</string>
     <string name="shared_data_no_accessors_dialog_text">Для этих общих данных нет договоров аренды. Удалить их?</string>
@@ -701,6 +714,8 @@
     <string name="speed_label_slow">Медленная</string>
     <string name="speed_label_very_fast">Очень быстрая</string>
     <string name="speed_label_very_slow">Очень медленная</string>
+    <string name="stack_samples_are_being_recorded">Образцы стека записываются</string>
+    <string name="stack_samples_saved">Образцы стека сохранены</string>
     <string name="standby_bucket_summary">Приложение в режиме ожидания: %s</string>
     <string name="start_new_trace">Начать новую трассировку</string>
     <string name="status_unavailable">Недоступен</string>
@@ -720,6 +735,7 @@
     <string name="tap_to_renew_subscription_and_connect">Нажмите для продления подписки и подключения</string>
     <string name="tap_to_share">Нажмите, чтобы поделиться</string>
     <string name="tap_to_sign_up">Нажмите, чтобы зарегистрироваться</string>
+    <string name="tap_to_stop_stack_sampling">Нажмите, чтобы остановить создание образцов стека</string>
     <string name="tap_to_stop_tracing">Нажмите, чтобы остановить трассировку</string>
     <string name="ten_gb">10 ГБ</string>
     <string name="ten_minutes">10 минут</string>
@@ -953,6 +969,7 @@
     <string name="wifitrackerlib_admin_restricted_network">Запрещено вашей организацией</string>
     <string name="wifitrackerlib_auto_connect_disable">Без автоподключения</string>
     <string name="wifitrackerlib_available_via_app">Доступно через %1$s</string>
+    <string name="wifitrackerlib_checking_for_internet_access">Проверка доступа в интернет…</string>
     <string name="wifitrackerlib_connected_via_app">Подключено через %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer">Автоматически подключено через %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
@@ -979,6 +996,7 @@
     <string name="wifitrackerlib_wifi_disabled_generic">Отключено</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">Ошибка конфигурации IP</string>
     <string name="wifitrackerlib_wifi_disabled_password_failure">Ошибка аутентификации</string>
+    <string name="wifitrackerlib_wifi_disabled_transition_disable_indication">Доступ закрыт согласно настройкам безопасности</string>
     <string name="wifitrackerlib_wifi_disconnected">Не подключено</string>
     <string name="wifitrackerlib_wifi_limited_connection">Ограниченное подключение</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">Не удалось подключиться. Повторите позже.</string>

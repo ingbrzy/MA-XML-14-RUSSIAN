@@ -212,6 +212,17 @@
         <item>Включен фильтр</item>
         <item>Включено</item>
     </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>Только заголовки списка контроля доступа</item>
+        <item>Фильтровать A2DP-медиапакеты</item>
+        <item>Фильтровать RFCOMM-канал"</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>Отключить</item>
+        <item>Заполнить строкой символов</item>
+        <item>Оставить только заголовок</item>
+        <item>Удалить полностью</item>		
+    </string-array>
     <string-array name="color_mode_descriptions">
         <item>Улучшенные цвета</item>
         <item>Натуральные цвета, привычные глазу</item>
@@ -358,6 +369,12 @@
         <item>Ускоренная</item>
         <item>Сильно ускоренная</item>
         <item>Максимальная</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Переместите палец влево</item>
+        <item>Переместите палец вниз</item>
+        <item>Переместите палец вправо</item>
+        <item>Переместите палец вверх</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Только зарядка</item>
