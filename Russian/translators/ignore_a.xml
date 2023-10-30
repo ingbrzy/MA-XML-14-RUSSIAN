@@ -272,6 +272,7 @@
     <string-array name="clir_choices_default_only"></string-array>
     <string-array name="clir_values_default_only"></string-array>
     <string-array name="clock_bg_setting_values"></string-array>
+    <array name="cloneable_apps" />
     <string-array name="cmas_alert_extreme_channels_range_strings"></string-array>
     <string-array name="cmas_alerts_severe_range_strings"></string-array>
     <string-array name="cmas_amber_alerts_channels_range_strings"></string-array>
@@ -369,6 +370,7 @@
     <array name="config_countries_to_enable_shortcut_view" />
     <array name="config_crossSpaceNotificationPackageNames" />
     <array name="config_dbv_change_node_for_spec_apps"></array>
+    <string-array name="config_defaultAmbientContextServices"></string-array>
     <string-array name="config_defaultAppFiles0"></string-array>
     <string-array name="config_defaultAppFiles1"></string-array>
     <string-array name="config_defaultAppFiles2"></string-array>
@@ -389,6 +391,8 @@
     <array name="config_deviceStatesAvailableForAppRequests" />
     <array name="config_deviceStatesOnWhichToSleep" />
     <array name="config_deviceStatesOnWhichToWakeUp" />
+    <array name="config_deviceStatesToReverseDefaultDisplayRotationAroundZAxis" />
+    <array name="config_deviceTabletopRotations" />
     <array name="config_device_lock_need" />
     <array name="config_device_state_postures" />
     <array name="config_disableApkUnlessMatchedSku_skus_list" />
@@ -401,6 +405,7 @@
     <array name="config_displayCompositionColorSpaces" />
     <string-array name="config_displayCutoutApproximationRectArray"></string-array>
     <string-array name="config_displayCutoutPathArray"></string-array>
+    <string-array name="config_displayShapeArray"></string-array>
     <array name="config_displayUniqueIdArray" />
     <array name="config_displayWhiteBalanceAmbientColorTemperatures" />
     <array name="config_displayWhiteBalanceBaseThresholds"></array>
@@ -408,6 +413,8 @@
     <array name="config_displayWhiteBalanceDisplayColorTemperatures" />
     <string-array name="config_displayWhiteBalanceDisplayNominalWhite"></string-array>
     <string-array name="config_displayWhiteBalanceDisplayPrimaries"></string-array>
+    <integer-array name="config_displayWhiteBalanceDisplayRangeMinimums"></integer-array>
+    <integer-array name="config_displayWhiteBalanceDisplaySteps"></integer-array>
     <array name="config_displayWhiteBalanceHighLightAmbientBiases" />
     <array name="config_displayWhiteBalanceHighLightAmbientBrightnesses" />
     <array name="config_displayWhiteBalanceIncreaseThresholds"></array>
@@ -428,6 +435,7 @@
     <string-array name="config_dropboxLowPriorityTags"></string-array>
     <string-array name="config_dynamicPinnerServiceApps"></string-array>
     <string-array name="config_emergency_iso_country_codes"></string-array>
+    <array name="config_enabledCredentialProviderService" />
     <array name="config_ephemeralResolverPackage" />
     <array name="config_ethernet_interfaces" />
     <string-array name="config_except_charge_support_lite"></string-array>
@@ -444,13 +452,18 @@
     <integer-array name="config_face_help_msgs_when_fingerprint_enrolled"></integer-array>
     <array name="config_fillBuiltInDisplayCutoutArray"></array>
     <array name="config_foldedDeviceStates" />
+    <array name="config_fontManagerServiceCerts" />
     <string-array name="config_forbidenLongScreenshot"></string-array>
     <string-array name="config_forceQueryablePackages"></string-array>
+    <array name="config_forceSlowJpegModeList" />
     <string-array name="config_globalActionsList"></string-array>
     <array name="config_gnssParameters" />
+    <array name="config_halfFoldedDeviceStates" />
     <integer-array name="config_hbm_backlight_levels"></integer-array>
     <integer-array name="config_hbm_lux_levels"></integer-array>
     <integer-array name="config_hbm_nit_levels"></integer-array>
+    <array name="config_healthConnectMigrationKnownSigners" />
+    <array name="config_healthConnectRestoreKnownSigners" />
     <array name="config_hideWhenDisabled_packageNames" />
     <array name="config_highAmbientBrightnessThresholdsOfFixedRefreshRate" />
     <array name="config_highDisplayBrightnessThresholdsOfFixedRefreshRate" />
@@ -471,6 +484,7 @@
     <array name="config_locationDriverAssistancePackageNames" />
     <string-array name="config_locationExtraPackageNames"></string-array>
     <string-array name="config_locationProviderPackageNames"></string-array>
+    <array name="config_loggable_dream_prefixes" />
     <integer-array name="config_longPressOnPowerDurationSettings"></integer-array>
     <integer-array name="config_longPressVibePattern"></integer-array>
     <array name="config_lowGrayBrightnessLevels" />
@@ -504,7 +518,9 @@
     <array name="config_notificationMsgPkgsAllowedAsConvos" />
     <string-array name="config_notificationSignalExtractors"></string-array>
     <integer-array name="config_notification_snooze_times"></integer-array>
+    <string-array name="config_ntpServers"></string-array>
     <array name="config_oemUsbModeOverride" />
+    <array name="config_openDeviceStates" />
     <array name="config_optionalIpSecAlgorithms" />
     <array name="config_order_audio_and_caption_services" />
     <array name="config_order_audio_services" />
@@ -525,11 +541,13 @@
     <array name="config_preinstalled_display_services" />
     <string-array name="config_preinstalled_interaction_control_services"></string-array>
     <string-array name="config_preinstalled_screen_reader_services"></string-array>
+    <array name="config_primaryCredentialProviderService" />
     <string-array name="config_prioritizedPackages"></string-array>
     <string-array name="config_priorityOnlyDndExemptPackages"></string-array>
     <integer-array name="config_protectedNetworks"></integer-array>
     <string-array name="config_quickSettingsAutoAdd"></string-array>
     <string-array name="config_rcs_provision_error_on_publish_response"></string-array>
+    <array name="config_rearDisplayDeviceStates" />
     <string-array name="config_reduceBrightColorsCoefficients"></string-array>
     <string-array name="config_reduceBrightColorsCoefficientsNonlinear"></string-array>
     <array name="config_restrictedImagesServices" />
@@ -559,6 +577,7 @@
     <string-array name="config_serviceStateLocationAllowedPackages"></string-array>
     <array name="config_settableAutoRotationDeviceStatesDescriptions" />
     <array name="config_settings_slices_accessibility_components" />
+    <string-array name="config_sfps_enroll_stage_thresholds"></string-array>
     <array name="config_sfps_sensor_props" />
     <array name="config_sharedLibrariesLoadedAfterApp" />
     <array name="config_showSpnByGIDWhenAirPlane" />
@@ -573,6 +592,7 @@
     <string-array name="config_statusBarIconBlackList"></string-array>
     <string-array name="config_statusBarIcons"></string-array>
     <string-array name="config_statusBarIconsToExclude"></string-array>
+    <array name="config_strictFoldedDeviceStates" />
     <array name="config_support_tdscdma_roaming_on_networks" />
     <array name="config_supportedDreamComplications" />
     <integer-array name="config_supported_cellular_usage_settings"></integer-array>
@@ -593,6 +613,7 @@
     <array name="config_twoDigitNumberPattern" />
     <string-array name="config_udfps_enroll_stage_thresholds"></string-array>
     <array name="config_udfps_sensor_props" />
+    <string-array name="config_udfps_touch_detection_options"></string-array>
     <array name="config_usbHostBlacklist" />
     <array name="config_usbHostDenylist" />
     <array name="config_virtualKeyUpPattern" />
@@ -681,12 +702,21 @@
     <string-array name="default_vol_stream_values"></string-array>
     <array name="delete_no_ad_animation_array"></array>
     <integer-array name="delete_repeating_values"></integer-array>
+    <string-array name="demo_device_provisioning_known_signers"></string-array>
     <array name="desktop_lyric_seekbar_track_color"></array>
     <string-array name="detailed_am_pms"></string-array>
     <array name="device_settings_deep_shallow_sleep_imgs_res_ids"></array>
     <string-array name="device_settings_screen_wake_sates"></string-array>
     <array name="device_settings_sleep_snore_imgs_res_ids"></array>
     <string-array name="device_settings_vibrate_mode_type_array"></string-array>
+    <string-array name="device_state_notification_active_contents"></string-array>
+    <string-array name="device_state_notification_active_titles"></string-array>
+    <string-array name="device_state_notification_names"></string-array>
+    <string-array name="device_state_notification_power_save_contents"></string-array>
+    <string-array name="device_state_notification_power_save_titles"></string-array>
+    <integer-array name="device_state_notification_state_identifiers"></integer-array>
+    <string-array name="device_state_notification_thermal_contents"></string-array>
+    <string-array name="device_state_notification_thermal_titles"></string-array>
     <string-array name="device_support_3gonly2gonly"></string-array>
     <string-array name="device_support_pickup_by_MTK"></string-array>
     <array name="device_support_video_24_wallpaper" />
