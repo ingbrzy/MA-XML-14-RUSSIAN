@@ -1231,11 +1231,11 @@
     <string name="face_data_suggesstion_first">Внимание: разблокировка по лицу менее безопасна, чем использование PIN-кода, пароля или графического ключа. Устройство может быть разблокировано вашей фотографией, а также людьми с похожей внешностью.</string>
     <string name="face_data_suggesstion_second">Убедитесь, что лицо хорошо видно и освещено.</string>
     <string name="face_dialog_looking_for_face">Поиск лица…</string>
-    <string name="face_re_enroll_dialog_content">"Для повторной настройки фейсконтроля существующая модель лица будет удалена с устройства.\n\nЧтобы разблокировать телефон с помощью фейсконтроля, вам потребуется настроить эту функцию заново."</string>
-    <string name="face_re_enroll_dialog_title">"Настройка фейсконтроля"</string>
-    <string name="face_re_enroll_notification_name">"Фейсконтроль"</string>
-    <string name="face_re_enroll_notification_title">"Настройте фейсконтроль заново"</string>
-    <string name="face_reenroll_failure_dialog_content">"Не удалось настроить фейсконтроль. Перейдите в настройки и повторите попытку."</string>
+    <string name="face_re_enroll_dialog_content">Для повторной настройки распознавания по лицу существующая модель лица будет удалена с устройства.\n\nЧтобы разблокировать телефон с помощью лица, вам потребуется настроить эту функцию заново.</string>
+    <string name="face_re_enroll_dialog_title">Настройка распознавания по лицу</string>
+    <string name="face_re_enroll_notification_name">Распознавание по лицу</string>
+    <string name="face_re_enroll_notification_title">Настройте распознавание по лицу заново</string>
+    <string name="face_reenroll_failure_dialog_content">Не удалось настроить распознавание по лицу. Перейдите в настройки и повторите попытку.</string>
     <string name="face_unlock_adjust_distance">Убедитесь, что расстояние между лицом и устройством оптимально</string>
     <string name="face_unlock_be_on_the_screen">Держите устройство напротив лица</string>
     <string name="face_unlock_by_notification_screen_on_msg">Разблокировать устройство по лицу, когда экран включается при поступлении уведомлений. Возможен более быстрый разряд батареи.</string>
