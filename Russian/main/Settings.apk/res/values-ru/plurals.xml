@@ -344,6 +344,11 @@
         <item quantity="other">Подождите %d сек. и повторите попытку</item>
         <item quantity="one">Подождите %d сек. и повторите попытку</item>
     </plurals>
+    <plurals name="lockscreen_quick_affordances_summary">
+        <item quantity="other">%1$s, %2$s</item>
+        <item quantity="zero">Нет</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d приложений с доступом к уведомлениям</item>
         <item quantity="one">%d приложение с доступом к уведомлениям</item>

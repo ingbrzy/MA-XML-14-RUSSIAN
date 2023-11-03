@@ -29,6 +29,14 @@
         <item quantity="other">%d мин. назад</item>
         <item quantity="one">%d мин. назад</item>
     </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Не отключать для %d приложений</item>
+        <item quantity="one">Не отключать для %d приложения</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Всегда отключать для %d приложений</item>
+        <item quantity="one">Всегда отключать для %d приложения</item>
+    </plurals>
     <plurals name="fileCount">
         <item quantity="other">%d объектов</item>
         <item quantity="one">%d объект</item>
@@ -64,6 +72,11 @@
         <item quantity="one">Выбран %d объект</item>
         <item quantity="few">Выбрано %d объекта</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новых уведомлений</item>
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d минут назад</item>
         <item quantity="one">1 минуту назад</item>

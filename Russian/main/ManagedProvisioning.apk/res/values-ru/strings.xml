@@ -159,7 +159,10 @@
     <string name="fully_managed_device_provisioning_step_2_subheader">ИТ-администратор может видеть ваши данные и действия на этом устройстве.</string>
     <string name="fully_managed_device_provisioning_summary">Используйте устройство для доступа к вашим рабочим приложениям. Данное устройство не является личным, ИТ-администратор может видеть ваши данные и действия.</string>
     <string name="fully_managed_device_reset_and_return_button">Сброс и возврат устройства</string>
-    <string name="fully_managed_device_with_permission_control_provisioning_summary">Используйте это устройство для доступа к рабочим приложениям. Это устройство не является личным, поэтому ИТ-администратор может видеть ваши действия и данные, а также устанавливать разрешения для приложений на устройстве, например, разрешения на микрофон, камеру и геолокацию.</string>
+    <string name="fully_managed_device_reset_button">Сбросить настройки</string>
+    <string name="fully_managed_device_unsupported_DPC_in_headless_mode_header">Невозможно настроить устройство</string>
+    <string name="fully_managed_device_unsupported_DPC_in_headless_mode_subheader">Устройство нельзя перевести в полностью управляемый режим. Сбросьте настройки и обратитесь к системному администратору.</string>
+    <string name="fully_managed_device_with_permission_control_provisioning_summary">С помощью устройства %1$s вы можете пользоваться рабочими приложениями. У системного администратора есть доступ к вашим данным и истории действий на устройстве %1$s, он может предоставлять разрешения приложениям на устройстве, например доступ к микрофону, камере и геолокации.</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="if_questions_contact_admin">Если у вас есть вопросы, обратитесь к своему ИТ-администратору</string>
     <string name="info_anim_title_0">Измените стиль работы</string>
@@ -287,6 +290,7 @@
     <string name="speed_bump_lockout_message">Сосредоточьтесь на дороге</string>
     <string name="stop_setup_reset_device_question">Остановить настройку и выполнить сброс до заводских параметров?</string>
     <string name="sud_back_button_label">Назад</string>
+    <string name="sud_default_device_name">Устройство</string>
     <string name="sud_more_button_label">Ещё</string>
     <string name="sud_next_button_label">Далее</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>

@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">Принять</string>
+    <string name="apm_enabled_first_time_message">Функция Wi-Fi останется включенной в режиме полёта. Вы можете отключить ее, если хотите.</string>
+    <string name="apm_enabled_first_time_title">Функция Wi-Fi остается включенной</string>
     <string name="decline">Отклонить</string>
     <string name="dlg_ok">ОК</string>
+    <string name="notification_channel_apm_alerts">Оповещения в режиме полёта</string>
     <string name="notification_channel_network_alerts">Оповещения сети</string>
     <string name="notification_channel_network_available">Сеть доступна</string>
     <string name="notification_channel_network_status">Статус сети</string>
@@ -86,14 +89,29 @@
     <string name="wifi_enable_request_dialog_negative_button">Отмена</string>
     <string name="wifi_enable_request_dialog_positive_button">Разрешить</string>
     <string name="wifi_enable_request_dialog_title">Разрешить %1$s включить Wi-Fi?</string>
+    <string name="wifi_enabled_apm_first_time_message">Если не отключить функцию Wi-Fi, в следующий раз она останется включенной в режиме полёта</string>
+    <string name="wifi_enabled_apm_first_time_title">W-Fi будет включен в режиме полёта</string>
     <string name="wifi_interface_priority_approve">Разрешить</string>
+    <string name="wifi_interface_priority_interface_name_ap">Точка доступа Wi-Fi</string>
+    <string name="wifi_interface_priority_interface_name_ap_bridge">Точка доступа Wi-Fi</string>
+    <string name="wifi_interface_priority_interface_name_nan">Wi-Fi Aware</string>
+    <string name="wifi_interface_priority_interface_name_p2p">Wi-Fi Direct</string>
+    <string name="wifi_interface_priority_interface_name_sta">STA</string>
     <string name="wifi_interface_priority_message">Это может привести к проблемам в %3$s.</string>
     <string name="wifi_interface_priority_message_plural">Это может привести к проблемам в следующих приложениях: %3$s.</string>
     <string name="wifi_interface_priority_reject">Отмена</string>
     <string name="wifi_interface_priority_title">%1$s запрашивает доступ к сетевому ресурсу</string>
+    <string name="wifi_network_disabled_by_admin_button">Закрыть</string>
+    <string name="wifi_network_disabled_by_admin_message">Администратор отключил функцию %1$s.</string>
+    <string name="wifi_network_disabled_by_admin_title">Сеть недоступна</string>
+    <string name="wifi_network_switch_dialog_negative_button">Нет</string>
+    <string name="wifi_network_switch_dialog_positive_button">Да</string>
+    <string name="wifi_network_switch_dialog_title_bad_internet">Сеть %1$s низкого качества. Переключиться на %2$s?</string>
+    <string name="wifi_network_switch_dialog_title_no_internet">Сеть %1$s не подключена к интернету. Переключиться на %2$s?</string>
     <string name="wifi_p2p_enter_pin_message">Введите PIN-код:</string>
     <string name="wifi_p2p_frequency_conflict_message">При подключении к устройству %1$s телефон будет временно отключаться от сети Wi-Fi</string>
     <string name="wifi_p2p_from_message">От:</string>
+    <string name="wifi_p2p_invitation_seconds_remaining">{0,plural, =1{Осталась # сек.}one{Осталась # сек.}few{Осталось # сек.}many{Осталось # сек.}other{Осталось # сек.}}</string>
     <string name="wifi_p2p_invitation_sent_title">Приглашение отправлено</string>
     <string name="wifi_p2p_invitation_to_connect_title">Приглашение к подключению</string>
     <string name="wifi_p2p_show_pin_message">PIN-код:</string>

@@ -90,6 +90,14 @@
         <item>Приложение по умолчанию</item>
         <item>Клон приложения</item>
     </string-array>
+    <string-array name="screen_key_position_action">
+        <item>Кнопка \"Меню\" слева, кнопка \"Назад\" справа</item>
+        <item>Кнопка \"Назад\" слева, кнопка \"Меню\" справа</item>
+    </string-array>
+    <string-array name="screen_key_press_action">
+        <item>Показать Недавние</item>
+        <item>Показать меню</item>
+    </string-array>
     <string-array name="switch_apps_entries">
         <item>Используется в первом пространстве</item>
         <item>Используется в текущем пространстве</item>

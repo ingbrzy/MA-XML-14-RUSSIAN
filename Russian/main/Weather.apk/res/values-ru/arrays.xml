@@ -149,6 +149,30 @@
         <item>Опасно загрязненный</item>
         <item>Вне индекса</item>
     </string-array>
+    <string-array name="realtime_humidity_status">
+        <item>Сухо</item>
+        <item>Комфортно</item>
+        <item>Влажно</item>
+    </string-array>
+    <string-array name="realtime_pressure_status">
+        <item>Высокое</item>
+        <item>Нормальное</item>
+        <item>Низкое</item>
+    </string-array>
+    <string-array name="realtime_temperature_status">
+        <item>Холодно</item>
+        <item>Прохладно</item>
+        <item>Комфортно</item>
+        <item>Тепло</item>
+        <item>Жарко</item>
+    </string-array>
+    <string-array name="realtime_uv_level">
+        <item>Слабый</item>
+        <item>Умеренный</item>
+        <item>Сильный</item>
+        <item>Очень сильный</item>
+        <item>Значительный</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Ясно</item>
         <item>Облачно</item>
@@ -197,21 +221,6 @@
         <item>ЮЗ</item>
         <item>З</item>
         <item>СЗ</item>
-    </string-array>
-    <string-array name="wind_power">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
     </string-array>
     <string-array name="wind_unit_detail">
         <item>Шкала Бофорта</item>

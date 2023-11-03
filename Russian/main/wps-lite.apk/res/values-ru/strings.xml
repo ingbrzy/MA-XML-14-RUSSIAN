@@ -150,6 +150,7 @@
     <string name="highlight">Выделить</string>
     <string name="kslite_sign_url" />
     <string name="kslite_sign_url_test" />
+    <string name="kslite_sign_url_v2" />
     <string name="online_security_error_code_no_operation_permission">У вас нет разрешения на выполнение этой операции</string>
     <string name="pdf_comment">Комментарий</string>
     <string name="pdf_decrypt_edit_tips">Автор настроил пароль для редактирования документа. Для продолжения введите пароль.</string>
@@ -188,8 +189,8 @@
     <string name="ppt_video_install_videoplayer_tip">Установите видеопроигрыватель.</string>
     <string name="ppt_volume_is_too_low_tip">Наденьте наушники или сделайте громче звук</string>
     <string name="projection_fail">Ошибка трансляции. Проверьте внешний монитор и повторите попытку.</string>
+    <string name="public_2pic">Экспорт в изображение</string>
     <string name="public_amazon_autosave_finished">Этот документ был автоматически сохранён.</string>
-    <string name="public_app_language">1049</string>
     <string name="public_bad_doc_to_process">Документ содержит ошибки и не может быть обработан.</string>
     <string name="public_bookmark">Закладка</string>
     <string name="public_cancel">Отмена</string>
@@ -199,6 +200,7 @@
     <string name="public_close">Закрыть</string>
     <string name="public_comment">Комментарий</string>
     <string name="public_continue">Продолжить</string>
+    <string name="public_converter_pdf">Преобразование в PDF</string>
     <string name="public_copy">Копир.</string>
     <string name="public_crash_dialog_content">Работа программы завершена по неизвестной причине.</string>
     <string name="public_crash_dialog_content_2">Выберите, отсылать ли отчёт об ошибке. Отправляя отчёт об ошибке Вы можете помочь нам решить проблему.</string>
@@ -216,6 +218,7 @@
     <string name="public_enter_phonemode">Перейти к мобильному виду</string>
     <string name="public_exit_phonemode">Выйти из мобильного вида</string>
     <string name="public_exit_play">Выход</string>
+    <string name="public_export_pdf">Экспорт в PDF</string>
     <string name="public_feedback">Обратная связь</string>
     <string name="public_fileNotExist">Файл не существует. Файл мог быть переименован, перемещён или удалён.</string>
     <string name="public_file_cant_write_tips">Невозможно сохранить файл в текущий каталог. Сохранить как новый файл в другой каталог?</string>
@@ -260,6 +263,8 @@
     <string name="public_other_app">Открыть в другом приложении</string>
     <string name="public_outline">Содержимое</string>
     <string name="public_paste">Вставить</string>
+    <string name="public_pdf2word">PDF в Word</string>
+    <string name="public_pdfFillForm">Заполнить форму</string>
     <string name="public_pdf_converter_item_name">PDF</string>
     <string name="public_pdf_converter_normal">Стандартный</string>
     <string name="public_pdf_converter_open_tip">Открыть документ?</string>
@@ -277,6 +282,7 @@
     <string name="public_permission_storage_disallow_msg">После неудачной попытки авторизации вы не сможете просматривать и сохранять локальные документы в программе WPS. Попробуйте повторно выполнить авторизацию</string>
     <string name="public_play">Слайды</string>
     <string name="public_ppt_label">Просмотр презентаций</string>
+    <string name="public_privacy_policy">Политика конфиденциальности</string>
     <string name="public_privacy_update">&lt;Data>Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочтите и примите нашу новую &lt;a href=\"%s\">Политику конфиденциальности&lt;/a>.&lt;/Data></string>
     <string name="public_re_licensing">Выполнить лицензирование</string>
     <string name="public_readOnlyMode">Только чтение</string>
@@ -338,6 +344,9 @@
     <string name="public_wpscloud_recovery_edit_not_exist_tips">Документ восстановлен с помощью службы облачных документов WPS. Возможно, он был удалён другими приложениями.</string>
     <string name="public_wpscloud_recovery_edit_not_save_tips">Последнее измененное содержимое не было сохранено и было восстановлено с помощью службы облачных документов WPS.</string>
     <string name="public_wpscloud_recovery_edit_not_saved_and_to_save">Сохраните документ надёжным способом</string>
+    <string name="public_writer2pic">Экспорт в графический файл</string>
+    <string name="public_writer_font_enlarge">Увеличить шрифт</string>
+    <string name="public_writer_font_narrow">Уменьшить шрифт</string>
     <string name="public_writer_label">Просмотр текста</string>
     <string name="public_writer_table_of_contents_empty">Каталог пуст</string>
     <string name="public_writer_ui_delete">Удалить</string>

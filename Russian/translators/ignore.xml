@@ -1883,10 +1883,16 @@
     <string name="config_wearSysUiPackage" />
     <string name="config_wearableAmbientContextEventArrayExtraKey" />
     <string name="config_wearableAmbientContextPackageNameExtraKey" />
+    <string name="config_wifiApmEnhancementHelpLink">https://support.google.com/pixelphone/answer/12639358</string>
+    <string name="config_wifiBugreportDeepLink">com.google.android.apps.betterbug.intent.FILE_BUG_DEEPLINK</string>
     <string name="config_wifiCertInstallationHelpLink">https://support.google.com/pixelphone/answer/2844832</string>
     <string name="config_wifiCoexTableFilepath">/vendor/etc/wifi/coex_table.xml</string>
     <string name="config_wifiDriverWorldModeCountryCode">00</string>
+    <string name="config_wifiOobPseudonymEntitlementServerUrl" />
     <string name="config_wifiP2pDeviceNamePrefix">Android_</string>
+    <string name="config_wifiP2pGoEapolIpAddressRangeEnd" />
+    <string name="config_wifiP2pGoEapolIpAddressRangeStart" />
+    <string name="config_wifiSelfRecoveryInterfaceName">wlan0</string>
     <string name="config_wifiSoftap2gChannelList" />
     <string name="config_wifiSoftap5gChannelList" />
     <string name="config_wifiSoftap60gChannelList" />
@@ -2445,6 +2451,8 @@
     <string name="extra_photo_common_transition_menu_view">tag_transition_view_menu</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+    <string name="face_acquired_dark_glasses_detected">@string/face_acquired_dark_glasses_detected_alt</string>
+    <string name="face_acquired_mouth_covering_detected">@string/face_acquired_mouth_covering_detected_alt</string>
     <string name="face_ani_duration">100</string>
     <string name="face_beauty_age_alias_0_7">0-7</string>
     <string name="face_beauty_age_alias_18_30">18-30</string>
