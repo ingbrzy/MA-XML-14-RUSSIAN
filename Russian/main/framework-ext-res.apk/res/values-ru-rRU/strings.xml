@@ -102,6 +102,7 @@
     <string name="clank">Лязг</string>
     <string name="close">Откл.</string>
     <string name="close_app">Закрытие приложения</string>
+    <string name="config_individual_brightness_component" />
     <string name="configure_input_methods">Выбрать способы ввода</string>
     <string name="confirm_cancel_task_files">Отменить отправку файлов на %1$s?</string>
     <string name="confirm_cancel_task_images">Отменить отправку изображений на %1$s?</string>
@@ -189,6 +190,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Не сейчас</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Включить</string>
     <string name="fp_nav_center_action_choose_dlg_title">Включить \"Быстрый возврат\"?</string>
+    <string name="free_form_recommend_tip">Плавающее окно</string>
     <string name="freeform_exchange_tip">Откройте плавающее окно в полноэкранном режиме</string>
     <string name="freeform_exchange_tip2">Перетащите в угол для отмены</string>
     <string name="freeform_exchange_tip3">Откройте плавающее окно в полноэкранном режиме</string>
@@ -393,6 +395,8 @@
     <string name="nps_ContentText">Нажмите для подробностей</string>
     <string name="nps_ContentTitle">Поиск GPS</string>
     <string name="nps_app_name">GpsNps</string>
+    <string name="nps_blur_ContentText">Используется геолокация пониженной точности</string>
+    <string name="nps_close_blur_location">Включить точную геолокацию</string>
     <string name="nps_close_mock_location">Отключить фиктивные геоданные</string>
     <string name="nps_description">Уведомление о статусе GPS</string>
     <string name="nps_location_service_unavailable">Сервис геолокации недоступен</string>
@@ -487,11 +491,13 @@
     <string name="rescuepartyplus_config_reset_context">Возможно, некоторые данные были удалены. Нажмите для подробностей.</string>
     <string name="rescuepartyplus_config_reset_title">Восстановление системы завершено</string>
     <string name="resolver_app_recommend_flag">Рекомендовать</string>
+    <string name="resolver_cast">Трансляция</string>
     <string name="resolver_checkbox_always">Всегда</string>
     <string name="resolver_checkbox_once">Один раз</string>
     <string name="resolver_mi_browser">Mi Браузер</string>
     <string name="resolver_offical_recommend">Официальное</string>
     <string name="resolver_other_method">Другой вариант</string>
+    <string name="resolver_print">Печать</string>
     <string name="resolver_recommend_options_tag">Рекомендуемый вариант</string>
     <string name="resource_select">Выбрать</string>
     <string name="reveries">Грезы (стерео)</string>
@@ -571,9 +577,11 @@
     <string name="smartisan_phone">Smartisan</string>
     <string name="softap_notifif_summary">Подключено: %d</string>
     <string name="softap_notifif_title">Точка доступа \"%s\" включена</string>
+    <string name="softap_stat_toast">Точка доступа активна</string>
     <string name="southwestmountain_preview">Горы</string>
     <string name="spaceage">Космическая эра</string>
     <string name="split_screen">Разделение экрана</string>
+    <string name="split_screen_recommend_tip">Разделение экрана</string>
     <string name="spring">Весна</string>
     <string name="standard">Без звука</string>
     <string name="standard_description">Отключение звука для входящих вызовов и уведомлений</string>
@@ -693,6 +701,14 @@
     <string name="waterdrop_preview">Капли</string>
     <string name="wifi_assistant_wifi_no_internet">Сеть Wi-Fi без доступа в интернет</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Нажмите для просмотра.</string>
+    <string name="wifi_disable_micar_p2p_dialog_message">Подключение к новой сети Wi-Fi приведет к отключению устройства от автомобиля. Отключиться?</string>
+    <string name="wifi_disable_micar_p2p_dialog_message_carwith">Подключение к новой сети Wi-Fi приведет к отключению устройства от CarWith. Отключиться?</string>
+    <string name="wifi_disable_micar_p2p_dialog_message_carwith_china">Подключение к новой сети Wi-Fi приведет к отключению устройства от CarWith. Отключиться?</string>
+    <string name="wifi_disable_micar_p2p_dialog_message_china">Подключение к новой сети Wi-Fi приведет к отключению устройства от автомобиля. Отключиться?</string>
+    <string name="wifi_disable_micar_p2p_dialog_negative_button">Нет</string>
+    <string name="wifi_disable_micar_p2p_dialog_positive_button">Да</string>
+    <string name="wifi_disable_micar_p2p_dialog_title">Отключиться от автомобиля?</string>
+    <string name="wifi_disable_micar_p2p_dialog_title_carwith">Отключиться от CarWith?</string>
     <string name="windchime">Музыка ветра</string>
     <string name="wireless_charging_notification_message1">Не удалось найти беспроводные устройства для зарядки. Обратная беспроводная зарядка отключена.</string>
     <string name="wireless_charging_notification_message2">Заряд батареи менее %s. Обратная беспроводная зарядка отключена.</string>
@@ -720,6 +736,8 @@
     <string name="xiaomi_poco_f1">POCO F1</string>
     <string name="xspace_head">Клон приложения</string>
     <string name="xspace_resolver_activity_title">Выберите приложение</string>
+    <string name="zone_volume_automatic_change_optimization_text">Рекомендуется пройти послепродажную проверку. Заблокировать кнопки громкости и использовать громкость по умолчанию?</string>
+    <string name="zone_volume_automatic_change_optimization_title">Отклонения в работе кнопок громкости</string>
     <string name="zte">ZTE</string>
     <string name="zte_phone">ZTE</string>
 </resources>

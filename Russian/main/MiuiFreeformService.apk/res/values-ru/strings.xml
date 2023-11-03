@@ -70,6 +70,8 @@
     <string name="freeform_demo_title_skip">Пропустить</string>
     <string name="freeform_guide_free_drag_summary">Перетаскивание текста, изображений или файлов между окнами поддерживаемых приложений</string>
     <string name="freeform_guide_free_drag_title">Перетаскивание между окнами</string>
+    <string name="freeform_guide_free_drag_title_phone">Перетащите, чтобы скопировать в другие приложения</string>
+    <string name="freeform_guide_how_to_free_drag_summary_phone">Нажмите и удерживайте изображение, а затем перетащите его в другое приложение</string>
     <string name="freeform_guide_multiple_window_summary">"Нажмите и удерживайте значок приложения в панели, чтобы открыть новое окно.
 *Функция работает в приложениях Заметки, Почта, Браузер и WPS."</string>
     <string name="freeform_guide_multiple_window_title">Открытие нескольких окон</string>
@@ -87,7 +89,13 @@
     <string name="fullscreen_slide_to_small_freeform">Плавающее окно</string>
     <string name="fullscreen_slide_to_small_freeform_summary">Проведите от нижней части экрана к правому верхнему углу</string>
     <string name="fullscreen_slide_to_small_freeform_summary_squarehot">Проведите от нижнего края экрана к верхнему</string>
+    <string name="gesture_fullscreen_to_splitscreen">Переключение в режим разделения экрана</string>
+    <string name="gesture_split_left_to_right_summary">Проведите вправо тремя пальцами</string>
+    <string name="gesture_split_right_to_left_summary">Проведите влево тремя пальцами</string>
+    <string name="gesture_to_split_screen">Жесты</string>
     <string name="how_to_close_or_fullscreen_freeform">Закрытие или переключение в полноэкранный режим</string>
+    <string name="how_to_create_split_screen_combination">Создание комбинации для разделения экрана</string>
+    <string name="how_to_create_split_screen_combination_summary">Нажмите и удерживайте комбинацию, затем перетащите её на рабочий стол</string>
     <string name="how_to_drop_down_to_fullscreen">Полноэкранный режим</string>
     <string name="how_to_drop_down_to_fullscreen_summary">Потяните панель действий плавающего окна вниз</string>
     <string name="how_to_hang_freeform">Сворачивание окна</string>
@@ -101,6 +109,8 @@
     <string name="how_to_open_freeform">Открытие уведомлений в плавающем окне</string>
     <string name="how_to_slide_up_to_close">Закрытие окна</string>
     <string name="how_to_slide_up_to_close_summary">Проведите вверх от панели действий плавающего окна</string>
+    <string name="how_to_split_screen_combination">Комбинация для разделения экрана</string>
+    <string name="how_to_split_screen_combination_summary_pad">Создайте ярлык для комбинации разделения экрана с помощью панели приложений</string>
     <string name="how_to_use_freeform">Использование плавающих окон</string>
     <string name="midnight">Ночь</string>
     <string name="miuix_access_state_desc">Выбрано</string>
@@ -250,6 +260,8 @@
     <string name="the_united_nations_day">День Организации Объединенных Наций</string>
     <string name="the_valentines_day">День святого Валентина</string>
     <string name="the_water_lantern_festival">Фестиваль водных фонарей</string>
+    <string name="three_fingers_slide_horizontally_into_splitscreen_fold">Проведите горизонтально тремя пальцами по внутреннему экрану, чтобы использовать разделение экрана</string>
+    <string name="three_fingers_slide_horizontally_into_splitscreen_pad">Проведите горизонтально тремя пальцами, чтобы использовать разделение экрана</string>
     <string name="thursday">Четверг</string>
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>
