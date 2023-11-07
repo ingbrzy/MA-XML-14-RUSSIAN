@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>А</item>
         <item>Б</item>
@@ -58,6 +84,12 @@
         <item>Э</item>
         <item>Ю</item>
         <item>Я</item>
+    </string-array>
+    <string-array name="apk_size_byte_unit">
+        <item>%.1f Б</item>
+        <item>%.1f Кб</item>
+        <item>%.1f Мб</item>
+        <item>%.1f Гб</item>
     </string-array>
     <string-array name="aqi_detail_title">
         <item>Хороший</item>
@@ -228,6 +260,12 @@
         <item>Метры в секунду</item>
         <item>Мили в час</item>
         <item>Узлы</item>
+    </string-array>
+    <string-array name="wind_unit_no_translate">
+        <item>км/ч</item>
+        <item>м/с</item>
+        <item>миль/ч</item>
+        <item>уз</item>
     </string-array>
     <string-array name="wind_unit_replace">
         <item>Баллы: %1$s</item>

@@ -130,6 +130,7 @@
     <string name="default_text">Я</string>
     <string name="degDesc">Угол</string>
     <string name="del">DEL</string>
+    <string name="delete">"Удалить"</string>
     <string name="deleteDesc">удалить</string>
     <string name="description_content">Помимо базовых функций, Калькулятор содержит многоцелевой конвертер, ипотечный и налоговый калькулятор. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
     <string name="description_title">О приложении</string>
@@ -372,6 +373,7 @@
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -1151,6 +1153,9 @@
     <string name="xiaomi_calculator_remove_icon_title">Удалить \"Калькулятор\" с рабочего стола?</string>
     <string name="xiaomi_connect_download_manager_fail">Не удалось начать загрузку. Убедитесь в том, что диспетчер загрузок работает нормально.</string>
     <string name="xiaomi_external_storage_unavailable">Накопитель недоступен, проверьте SD-карту.</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
     <string name="xiaomi_update_dialog_message">"Доступна версия %1$s
 Размер: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Доступна версия %1$s

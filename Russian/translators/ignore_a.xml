@@ -89,6 +89,7 @@
     <string-array name="animator_duration_scale_values"></string-array>
     <string-array name="aod_notification_status_entries"></string-array>
     <string-array name="aod_show_style_values"></string-array>
+    <string-array name="apk_download_num_unit"></string-array>
     <array name="apk_list_tier1" />
     <array name="apk_list_tier2" />
     <array name="apk_path_list_tier1" />
@@ -938,6 +939,7 @@
     <string-array name="input_package_names"></string-array>
     <string-array name="inputdebuglog_select_level_entryValues"></string-array>
     <string-array name="international_notification_list"></string-array>
+    <string-array name="investment_type"></string-array>
     <array name="item_shake_animation_scaler"></array>
     <string-array name="ivr_type_settings_entries"></string-array>
     <string-array name="ivr_type_settings_values"></string-array>
@@ -1173,6 +1175,7 @@
     <integer-array name="pc_time_choice_items"></integer-array>
     <array name="pen_default_color_item"></array>
     <integer-array name="pen_default_size_item"></integer-array>
+    <string-array name="perioid"></string-array>
     <string-array name="permission_array"></string-array>
     <string-array name="permission_array_pie"></string-array>
     <string-array name="permission_array_pie_subtitle"></string-array>

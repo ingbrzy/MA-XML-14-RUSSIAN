@@ -339,6 +339,7 @@
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -702,6 +703,9 @@
     <string name="wind_direction_no_data">Ветер</string>
     <string name="wind_power">%d</string>
     <string name="wind_unit">%1$s км/ч</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
     <string name="xiaomi_weather_description_content">Приложение дает вам точную информацию о погоде. Виджеты \"Погода\" в строке состояния и на рабочем столе не будут работать без него должным образом. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
     <string name="xiaomi_weather_description_content_remove">Приложение \"Погода\" является системным, удалить его нельзя. После удаления ярлыка приложения с рабочего стола, связанные виджеты и просмотр информации о погоде могут быть недоступны.</string>
     <string name="xiaomi_weather_description_title">О приложении</string>
