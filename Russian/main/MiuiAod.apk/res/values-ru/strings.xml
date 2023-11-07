@@ -262,6 +262,7 @@ dd.MM"</string>
     <string name="mtrl_picker_announce_current_range_selection">Начало: %1$s – Окончание: %2$s</string>
     <string name="mtrl_picker_announce_current_selection">Текущий выбор: %1$s</string>
     <string name="mtrl_picker_announce_current_selection_none">не выбрано</string>
+    <string name="mtrl_picker_cancel">Отмена</string>
     <string name="mtrl_picker_confirm">ОК</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Выбор даты</string>
