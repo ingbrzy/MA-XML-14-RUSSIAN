@@ -411,8 +411,8 @@
     <string name="bluetooth_profile_opp">Профиль OPP</string>
     <string name="bluetooth_profile_pan">Доступ к интернету</string>
     <string name="bluetooth_profile_pan_nap">Общий доступ к интернету</string>
-    <string name="bluetooth_profile_pbap">Обмен контактами</string>
-    <string name="bluetooth_profile_pbap_summary">Использовать для обмена контактами</string>
+    <string name="bluetooth_profile_pbap">Обмен контактами и журналом вызовов</string>
+    <string name="bluetooth_profile_pbap_summary">Использовать для обмена контактами и журналом вызовов</string>
     <string name="bluetooth_profile_sap">Доступ к SIM-карте</string>
     <string name="bluetooth_profile_vcp">Регулировка громкости</string>
     <string name="bluetooth_sap_profile_summary_connected">Подключено к точке доступа</string>
@@ -3290,8 +3290,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_security_short_wpa2_wpa3">WPA2/WPA3</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
     <string name="wifi_security_short_wpa_wpa2_wpa3">WPA/WPA2/WPA3</string>
-    <string name="wifi_security_wapi_cert">WAPI-Cert</string>
-    <string name="wifi_security_wapi_psk">WAPI-PSK</string>
+    <string name="wifi_security_wapi_cert">WAPI CERT</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
     <string name="wifi_security_wapi_psk_ascii">ASCII</string>
     <string name="wifi_security_wapi_psk_hexadecimal">Шестнадцатеричный</string>
     <string name="wifi_security_wep">WEP</string>

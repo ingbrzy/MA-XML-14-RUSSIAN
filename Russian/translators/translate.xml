@@ -649,8 +649,8 @@
     <string name="bluetooth_profile_opp">Профиль OPP</string>
     <string name="bluetooth_profile_pan">Доступ к Интернету</string>
     <string name="bluetooth_profile_pan_nap">Профиль PAN</string>
-    <string name="bluetooth_profile_pbap">Обмен контактами</string>
-    <string name="bluetooth_profile_pbap_summary">Использовать для обмена контактами</string>
+    <string name="bluetooth_profile_pbap">Обмен контактами и журналом вызовов</string>
+    <string name="bluetooth_profile_pbap_summary">Использовать для обмена контактами и журналом вызовов</string>
     <string name="bluetooth_profile_sap">Доступ к SIM-карте</string>
     <string name="bluetooth_profile_vcp">Регулировка громкости</string>
     <string name="bluetooth_profile_volume_control">Регулировка громкости</string>
@@ -1249,12 +1249,12 @@ ID: %s
     <string name="face_acquired_too_much_motion">"Не перемещайте устройство. Держите его неподвижно."</string>
     <string name="face_acquired_too_right">"Переместите телефон левее"</string>
     <string name="face_acquired_too_similar">"Немного измените положение головы"</string>
-    <string name="face_error_hw_not_available">"Не удалось распознать лицо. Сканер недоступен."</string>
     <string name="face_app_setting_name">"Использовать распознавание по лицу"</string>
     <string name="face_authenticated_confirmation_required">"Лицо распознано, нажмите кнопку \"Подтвердить\""</string>
     <string name="face_authenticated_no_confirmation_required">"Лицо распознано"</string>
     <string name="face_dialog_default_subtitle">"Чтобы продолжить, используйте распознавание по лицу"</string>
     <string name="face_error_canceled">"Распознавание отменено"</string>
+    <string name="face_error_hw_not_available">"Не удалось распознать лицо. Сканер недоступен."</string>
     <string name="face_error_hw_not_present">"Распознавание по лицу не поддерживается на этом устройстве."</string>
     <string name="face_error_lockout">"Слишком много попыток. Повторите позже."</string>
     <string name="face_error_lockout_permanent">"Слишком много попыток. Распознавание по лицу недоступно."</string>
@@ -1313,7 +1313,6 @@ ID: %s
     <string name="fingerprint_acquired_too_fast">"Плотно прижмите палец к сканеру."</string>
     <string name="fingerprint_acquired_too_slow">"Вы перемещали палец слишком медленно. Повторите попытку."</string>
     <string name="fingerprint_acquired_try_adjusting">"Попробуйте изменить положение пальца."</string>
-    <string name="fingerprint_error_not_match">"Отпечаток не распознан."</string>
     <string name="fingerprint_app_setting_name">"Использовать отпечаток пальца"</string>
     <string name="fingerprint_authenticated">"Отпечаток пальца проверен"</string>
     <string name="fingerprint_dialog_default_subtitle">"Чтобы продолжить, используйте цифровой отпечаток"</string>
@@ -1325,6 +1324,7 @@ ID: %s
     <string name="fingerprint_error_lockout_permanent">"Слишком много попыток. Используйте другой способ разблокировки экрана."</string>
     <string name="fingerprint_error_no_fingerprints">"Нет отсканированных отпечатков пальцев"</string>
     <string name="fingerprint_error_no_space">"Не удалось сохранить отпечаток."</string>
+    <string name="fingerprint_error_not_match">"Отпечаток не распознан."</string>
     <string name="fingerprint_error_power_pressed">"Нажата кнопка питания."</string>
     <string name="fingerprint_error_security_update_required">"Сканер отпечатков пальцев временно отключен."</string>
     <string name="fingerprint_error_timeout">"Время настройки отпечатка пальца истекло. Повторите попытку."</string>
@@ -2975,6 +2975,7 @@ mm"</string>
     <string name="phoneTypeCallback">"Обр. вызов"</string>
     <string name="phoneTypeCar">"В авто"</string>
     <string name="phoneTypeCompanyMain">"Телефон офиса"</string>
+    <string name="phoneTypeCustom">"Новый тип"</string>
     <string name="phoneTypeFaxHome">"Домашний факс"</string>
     <string name="phoneTypeFaxWork">"Рабочий факс"</string>
     <string name="phoneTypeHome">"Домашний"</string>
@@ -2991,7 +2992,6 @@ mm"</string>
     <string name="phoneTypeWork">"Рабочий"</string>
     <string name="phoneTypeWorkMobile">"Рабочий моб."</string>
     <string name="phoneTypeWorkPager">"Раб. пейджер"</string>
-    <string name="phoneTypeCustom">"Новый тип"</string>
     <string name="picture_color_mode">Цветовой режим</string>
     <string name="picture_color_mode_desc">Использовать sRGB</string>
     <string name="pin_specific_target">"Закрепить приложение \"%1$s\""</string>
@@ -3813,10 +3813,10 @@ mm"</string>
     <string name="wednesday_shortest">Ср</string>
     <string name="week">"нед."</string>
     <string name="weeks">"нед."</string>
-    <string name="wfcSpnFormat_spn_wifi_calling">"%s Звонки по Wi-Fi"</string>
     <string name="wfcRegErrorTitle">"Не удалось подключить функцию \"Звонки по Wi-Fi\""</string>
     <string name="wfcSpnFormat_spn_vowifi">"%s VoWifi"</string>
     <string name="wfcSpnFormat_spn_wifi">"%s Wi-Fi"</string>
+    <string name="wfcSpnFormat_spn_wifi_calling">"%s Звонки по Wi-Fi"</string>
     <string name="wfcSpnFormat_spn_wifi_calling_vo_hyphen">"Звонок по Wi-Fi через оператора \"%s\""</string>
     <string name="wfcSpnFormat_spn_wlan_call">"%s Вызов WLAN"</string>
     <string name="wfcSpnFormat_vowifi">"VoWifi"</string>

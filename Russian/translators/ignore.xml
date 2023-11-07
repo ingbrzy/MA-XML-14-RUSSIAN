@@ -3570,7 +3570,6 @@
     <string name="mtrl_checkbox_button_path_name">button path</string>
     <string name="mtrl_checkbox_button_path_unchecked">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z M23,23H9V9h14V23z</string>
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
-    <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_header_selected">%1$s</string>
     <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>

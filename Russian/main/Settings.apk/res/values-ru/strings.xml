@@ -1778,8 +1778,8 @@
     <string name="bluetooth_is_discoverable">Виден другим Bluetooth-устройствам: %1$s</string>
     <string name="bluetooth_is_discoverable_always">Доступно для всех устройств Bluetooth поблизости</string>
     <string name="bluetooth_is_visible_message">Устройства поблизости могут обнаружить %1$s, пока открыты настройки Bluetooth.</string>
-    <string name="bluetooth_le_audio_profile_summary_connected">Подключено к LE_AUDIO</string>
-    <string name="bluetooth_le_audio_profile_summary_use_for">Использовать для LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Подключено к LE Аudio</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Использовать для LE Audio</string>
     <string name="bluetooth_left_name">Левое</string>
     <string name="bluetooth_lock_voice_dialing">Заблокировать голосовой набор</string>
     <string name="bluetooth_lock_voice_dialing_summary">Предотвратить использование набора номера Bluetooth, когда экран заблокирован</string>
@@ -1886,13 +1886,13 @@
     <string name="bluetooth_profile_headset">Аудиоустройство</string>
     <string name="bluetooth_profile_hearing_aid">Слуховой аппарат</string>
     <string name="bluetooth_profile_hid">Устройство ввода</string>
-    <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
+    <string name="bluetooth_profile_le_audio">LE Audio</string>
     <string name="bluetooth_profile_map">Доступ к сообщениям</string>
     <string name="bluetooth_profile_opp">Передача файлов</string>
     <string name="bluetooth_profile_pan">Доступ в интернет</string>
     <string name="bluetooth_profile_pan_nap">Общий доступ к интернету</string>
-    <string name="bluetooth_profile_pbap">Обмен контактами</string>
-    <string name="bluetooth_profile_pbap_summary">Использовать для обмена контактами</string>
+    <string name="bluetooth_profile_pbap">Обмен контактами и журналом вызовов</string>
+    <string name="bluetooth_profile_pbap_summary">Использовать для обмена контактами и журналом вызовов</string>
     <string name="bluetooth_profile_sap">Доступ к SIM карте</string>
     <string name="bluetooth_profile_vcp">Регулировка громкости</string>
     <string name="bluetooth_profile_volume_control">Регулировка громкости</string>
@@ -7713,7 +7713,7 @@ OTG отключается автоматически через 10 минут �
     <string name="power_center">Экономия батареи</string>
     <string name="power_charge_remaining">%1$s до окончания зарядки</string>
     <string name="power_charging_duration">%1$s - %2$s до полной зарядки</string>
-    <string name="power_charging_limited">%1$s - оптимизация использования батареи</string>
+    <string name="power_charging_limited">%1$s - зарядка оптимизирована</string>
     <string name="power_checker">Мониторинг питания</string>
     <string name="power_cpu">"Процессор"</string>
     <string name="power_discharge_by">Заряда (%2$s) хватит примерно до %1$s</string>
