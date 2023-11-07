@@ -2137,6 +2137,7 @@ mm"</string>
     <string name="mtrl_picker_announce_current_range_selection">Начало: %1$s – Окончание: %2$s</string>
     <string name="mtrl_picker_announce_current_selection">Текущий выбор: %1$s</string>
     <string name="mtrl_picker_announce_current_selection_none">не выбрано</string>
+    <string name="mtrl_picker_cancel">Отмена</string>
     <string name="mtrl_picker_confirm">ОК</string>
     <string name="mtrl_picker_date_header_title">Выбор даты</string>
     <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
@@ -3965,9 +3966,9 @@ mm"</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_wapi_cert">WAPI-Cert</string>
+    <string name="wifi_security_wapi_cert">WAPI CERT</string>
     <string name="wifi_security_wapi_certificate">Сертификат WAPI</string>
-    <string name="wifi_security_wapi_psk">WAPI-PSK</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
     <string name="wifi_security_wapi_psk_ascii">ASCII</string>
     <string name="wifi_security_wapi_psk_hexadecimal">Шестнадцатеричный</string>
     <string name="wifi_security_wep">WEP</string>
