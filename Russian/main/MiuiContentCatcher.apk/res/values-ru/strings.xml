@@ -36,7 +36,7 @@
     <string name="auth_fingerprint_content_message_error">Не удалось проверить отпечаток, повторите попытку</string>
     <string name="auth_fingerprint_title">Проверка отпечатка</string>
     <string name="autofill_description">"MIUI может шифровать и хранить ваши пароли, чтобы вводить их автоматически, когда вам нужно. Xiaomi не сможет прочитать ваши зашифрованные пароли."</string>
-    <string name="autofill_hint_email_address">Электронная почта</string>
+    <string name="autofill_hint_email_address">Аккаунт</string>
     <string name="autofill_hint_name">Имя</string>
     <string name="autofill_hint_password">Пароль</string>
     <string name="autofill_hint_phone">Номер телефона</string>

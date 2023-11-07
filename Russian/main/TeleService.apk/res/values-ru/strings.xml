@@ -321,10 +321,10 @@
     <string name="badPin2">Неверный текущий PIN2. Повторите попытку.</string>
     <string name="badPuk2">Неверный PUK2. Повторите попытку.</string>
     <string name="bad_pin">Неверный PIN.</string>
-    <string name="bad_pin2">Неверный PIN2.</string>
-    <string name="bad_pin2_old">Неверный текущий PIN2.</string>
+    <string name="bad_pin2">Неверный PIN%d.</string>
+    <string name="bad_pin2_old">Неверный текущий PIN%d.</string>
     <string name="bad_puk">Неверный PUK.</string>
-    <string name="bad_puk2">Неверный PUK2.</string>
+    <string name="bad_puk2">Неверный PUK%d.</string>
     <string name="band_mode_failed">Неуспешно</string>
     <string name="band_mode_loading">Загрузка списка частот…</string>
     <string name="band_mode_set">Установить</string>
@@ -837,7 +837,7 @@
     <string name="confirm_enable_oem_unlock_title">Разрешить заводскую разблокировку?</string>
     <string name="confirm_password_label">Подтвердите пароль</string>
     <string name="confirm_phone_number">Подтвердите номер телефона</string>
-    <string name="confirm_pin2_label">Подтвердите новый PIN2</string>
+    <string name="confirm_pin2_label">Подтвердите новый PIN%d</string>
     <string name="confirm_pin_label">Подтвердите новый PIN</string>
     <string name="connect_disconnect_vibrate_none">Нет</string>
     <string name="connect_disconnect_vibrate_normal">Обычная</string>
@@ -1100,7 +1100,7 @@
     <string name="emm_cause_2">Не удалось зарегистрировать номер телефона. Выключите устройство, затем включите его и попробуйте снова.</string>
     <string name="emm_cause_3">Не удалось проверить пользователя. Выключите устройство, затем включите его и попробуйте снова.</string>
     <string name="emm_cause_6">Не удалось проверить устройство. Выключите устройство, затем включите его и попробуйте снова.</string>
-    <string name="emm_cause_7_8_12_13_15_16_17_22">Роуминг недоступен. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (SKT: +82-2-6346-9000).</string>
+    <string name="emm_cause_7_8_12_13_15_16_17_22">Роуминг недоступен. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (SKT: +%1$d-%2$d-%3$d-%4$d).</string>
     <string name="empty_alert">Поле \"%s\" должно быть заполнено.</string>
     <string name="empty_networks_list">Сети не найдены</string>
     <string name="enable">Включить</string>
@@ -1213,7 +1213,7 @@
     <string name="fdn_contact_deleted">Разрешённый номер удалён</string>
     <string name="fdn_contact_updated">Разрешённый номер обновлён</string>
     <string name="fdn_disabled">Разрешённые номера не используются</string>
-    <string name="fdn_enable_puk2_requested">Неверный пароль, PIN2 заблокирован. Измените PIN2 и повторите попытку.</string>
+    <string name="fdn_enable_puk2_requested">Неверный пароль, PIN%1$d заблокирован. Измените PIN%2$d и повторите попытку.</string>
     <string name="fdn_enabled">Разрешённые номера используются</string>
     <string name="fdn_failed">Сбой операции FDN</string>
     <string name="fdn_full">Разрешённый номер не обновлён. Список заполнен.</string>
@@ -1406,9 +1406,9 @@
     <string name="invalidPuk2">PUK2 должен содержать 8 цифр.</string>
     <string name="invalid_password">Пароль должен содержать %d символов</string>
     <string name="invalid_pin">PIN должен содержать от %1$d до %2$d цифр</string>
-    <string name="invalid_pin2">PIN должен содержать от %1$d до %2$d цифр</string>
+    <string name="invalid_pin2">PIN%1$d должен содержать от %2$d до %3$d цифр</string>
     <string name="invalid_puk">PUK должен содержать от %1$d до %2$d цифр</string>
-    <string name="invalid_puk2">PUK2 должен содержать %d цифр</string>
+    <string name="invalid_puk2">PUK%1$d должен содержать %2$d цифр</string>
     <string name="invalid_secretcode_format_txt">Неверный формат секретного кода!</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="ivr_mo_area_code_settings">Текущий код региона</string>
@@ -1445,19 +1445,19 @@
     <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включён</string>
     <string name="keywords_alarms_and_reminders">расписание, будильник, напоминание, часы</string>
     <string name="keywords_carrier_settings_euicc">оператор, esim, sim, euicc</string>
-    <string name="kr_emergency_111">Национальная безопасность (111)</string>
-    <string name="kr_emergency_112">Полиция (112)</string>
-    <string name="kr_emergency_113">Сообщить о шпионаже (113)</string>
-    <string name="kr_emergency_117">Горячая линия по вопросам школьного насилия (117)</string>
-    <string name="kr_emergency_118">Сообщить о кибертерроризме (118)</string>
-    <string name="kr_emergency_119">Пожарная команда, скорая помощь (119)</string>
-    <string name="kr_emergency_122">Чрезвычайная ситуация береговой охраны (122)</string>
-    <string name="kr_emergency_125">Сообщить о контрабанде (125)</string>
+    <string name="kr_emergency_111">Национальная безопасность (%d)</string>
+    <string name="kr_emergency_112">Полиция (%d)</string>
+    <string name="kr_emergency_113">Сообщить о шпионаже (%d)</string>
+    <string name="kr_emergency_117">Горячая линия по вопросам школьного насилия (%d)</string>
+    <string name="kr_emergency_118">Сообщить о кибертерроризме (%d)</string>
+    <string name="kr_emergency_119">Пожарная команда, скорая помощь (%d)</string>
+    <string name="kr_emergency_122">Чрезвычайная ситуация береговой охраны (%d)</string>
+    <string name="kr_emergency_125">Сообщить о контрабанде (%d)</string>
     <string name="kr_emergency_message">Подтвердите набор %s. Набрать сейчас?</string>
     <string name="kr_emergency_with_number">Введите номер телефона для набора</string>
     <string name="kt_lte_emm_cause_19_22">Регистрация сети… Повторите попытку позже.</string>
     <string name="kt_lte_emm_cause_3">Не удалось проверить пользователя. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, посетите центр обслуживания клиентов.</string>
-    <string name="kt_lte_emm_cause_6">Не удалось проверить устройство. Перезагрузите устройство 2 или 3 раза после установки новой USIM-карты. Если проблема повторяется, посетите центр обслуживания клиентов.</string>
+    <string name="kt_lte_emm_cause_6">Не удалось проверить устройство. Перезагрузите устройство %1$d или %2$d раза после установки новой USIM-карты. Если проблема повторяется, посетите центр обслуживания клиентов.</string>
     <string name="kt_lte_emm_cause_8">Требуется активация. Посетите центр обслуживания клиентов.</string>
     <string name="kt_lte_emm_cause_others">Не удалось зарегистрировать сеть</string>
     <string name="kt_lte_msim_emm_cause_19_22">SIM %d регистрация сети… Повторите попытку позже.</string>
@@ -1508,20 +1508,20 @@
     <string name="launch_defaults_some">Установлены некоторые настройки по умолчанию</string>
     <string name="lgu_emm_16_17_22">Регистрация сети… Повторите попытку позже.</string>
     <string name="lgu_emm_cause_11_12_13_15">Не удалось зарегистрировать сеть</string>
-    <string name="lgu_emm_cause_2">Требуется активация. Посетите центр обслуживания клиентов. (+82-2-3416-7010).</string>
-    <string name="lgu_emm_cause_3">Не удалось проверить пользователя. Посетите центр обслуживания клиентов. (+82-2-3416-7010).</string>
-    <string name="lgu_emm_cause_6">Не удалось проверить устройство. Посетите центр обслуживания клиентов. (+82-2-3416-7010).</string>
+    <string name="lgu_emm_cause_2">Требуется активация. Посетите центр обслуживания клиентов. (+%1$d-%2$d-%3$d-%4$d).</string>
+    <string name="lgu_emm_cause_3">Не удалось проверить пользователя. Посетите центр обслуживания клиентов. (+%1$d-%2$d-%3$d-%4$d).</string>
+    <string name="lgu_emm_cause_6">Не удалось проверить устройство. Посетите центр обслуживания клиентов. (+%1$d-%2$d-%3$d-%4$d).</string>
     <string name="lgu_emm_cause_7_14">Сеть не предоставляет услуги мобильной передачи данных</string>
-    <string name="lgu_emm_cause_8">Не удалось зарегистрировать сеть. Посетите центр обслуживания клиентов. (+82-2-3416-7010).</string>
-    <string name="lgu_emm_cause_others">Не удалось подключиться к сети. Посетите центр обслуживания клиентов. (+82-2-3416-7010).</string>
+    <string name="lgu_emm_cause_8">Не удалось зарегистрировать сеть. Посетите центр обслуживания клиентов. (+%1$d-%2$d-%3$d-%4$d).</string>
+    <string name="lgu_emm_cause_others">Не удалось подключиться к сети. Посетите центр обслуживания клиентов. (+%1$d-%2$d-%3$d-%4$d).</string>
     <string name="lgu_msim_emm_cause_11_12_13_15">SIM %d не удалось зарегистрировать сеть</string>
     <string name="lgu_msim_emm_cause_16_17_22">SIM %d регистрация сети… Повторите попытку позже.</string>
-    <string name="lgu_msim_emm_cause_2">SIM %d требуется активация. Посетите центр обслуживания клиентов. (+82-2-3416-7010).</string>
-    <string name="lgu_msim_emm_cause_3">SIM %d не удалось проверить пользователя. Посетите центр обслуживания клиентов. (+82-2-3416-7010).</string>
-    <string name="lgu_msim_emm_cause_6">SIM %d не удалось проверить устройство. Посетите центр обслуживания клиентов.(+82-2-3416-7010).</string>
+    <string name="lgu_msim_emm_cause_2">SIM %1$d требуется активация. Посетите центр обслуживания клиентов. (+%2$d-%3$d-%4$d-%5$d).</string>
+    <string name="lgu_msim_emm_cause_3">SIM %1$d не удалось проверить пользователя. Посетите центр обслуживания клиентов. (+%2$d-%3$d-%4$d-%5$d).</string>
+    <string name="lgu_msim_emm_cause_6">SIM %1$d не удалось проверить устройство. Посетите центр обслуживания клиентов.(+%2$d-%3$d-%4$d-%5$d).</string>
     <string name="lgu_msim_emm_cause_7_14">SIM %d сеть не предоставляет услуги мобильной передачи данных</string>
-    <string name="lgu_msim_emm_cause_8">SIM %d не удалось зарегистрировать сеть. Посетите центр обслуживания клиентов. (+82-2-3416-7010).</string>
-    <string name="lgu_msim_emm_cause_others">SIM %d не удалось подключиться к сети. Посетите центр обслуживания клиентов. (+82-2-3416-7010).</string>
+    <string name="lgu_msim_emm_cause_8">SIM %1$d не удалось зарегистрировать сеть. Посетите центр обслуживания клиентов. (+%2$d-%3$d-%4$d-%5$d).</string>
+    <string name="lgu_msim_emm_cause_others">SIM %1$d не удалось подключиться к сети. Посетите центр обслуживания клиентов. (+%2$d-%3$d-%4$d-%5$d).</string>
     <string name="limited_service_alert_dialog_description">"Экстренные вызовы по Wi-Fi:
 	
 Экстренные вызовы по Wi-Fi невозможны. 
@@ -1596,8 +1596,8 @@
 Номер для переадресации, если абонент недоступен"</string>
     <string name="messageCFNRy">Номер для переадресации вызовов без ответа</string>
     <string name="messageCFU">Всегда переадресовывать на этот номер</string>
-    <string name="messageCFU_kr" formatted="false">Сетевой сервис для перенаправления всех входящих вызовов и текстовых сообщений на указанный номер. Необходима подписка на этот сервис. С вас будет взиматься ежемесячная плата. Свяжитесь с центром поддержки (114+[Отправить]), чтобы подписаться или отказаться от этого сервиса. Введите %s+[номер для переадресации] [Отправить], чтобы включить, или %s[Отправить], чтобы отключить.</string>
-    <string name="messageCFU_kr_kt">"Сетевой сервис для перенаправления всех входящих вызовов и текстовых сообщений на указанный номер. Необходима подписка на этот сервис. С вас будет взиматься ежемесячная плата. Свяжитесь с центром поддержки (114+[Отправить]), чтобы подписаться или отказаться от этого сервиса. Введите *71+[номер для переадресации] [Отправить], чтобы включить, или *710[Отправить], чтобы отключить.
+    <string name="messageCFU_kr" formatted="false">Сетевой сервис для перенаправления всех входящих вызовов и текстовых сообщений на указанный номер. Необходима подписка на этот сервис. С вас будет взиматься ежемесячная плата. Свяжитесь с центром поддержки (%1$d+[Отправить]), чтобы подписаться или отказаться от этого сервиса. Введите %2$d+[номер для переадресации] [Отправить], чтобы включить, или %3$d[Отправить], чтобы отключить.</string>
+    <string name="messageCFU_kr_kt">"Сетевой сервис для перенаправления всех входящих вызовов и текстовых сообщений на указанный номер. Необходима подписка на этот сервис. С вас будет взиматься ежемесячная плата. Свяжитесь с центром поддержки (%1$d+[Отправить]), чтобы подписаться или отказаться от этого сервиса. Введите %2$d+[номер для переадресации] [Отправить], чтобы включить, или %3$d[Отправить], чтобы отключить.
 
 Всегда переадресовывать на этот номер"</string>
     <string name="messageCW_kr" formatted="false">Бесплатный сетевой сервис для ответа на второй вызов во время разговора, переводя первый в режим удержания. Введите %s[Отправить] чтобы включить, или %s[Отправить], чтобы отключить.</string>
@@ -1608,7 +1608,7 @@
     <string name="mhh_enable">Медицинские учреждения включены</string>
     <string name="mi_mobile_settings_summary">Тарифные планы Xiaomi</string>
     <string name="mi_mobile_settings_title">Mi Mobile</string>
-    <string name="mi_mobile_sim_activate_message">Активируйте SIM %d, чтобы использовать Mi Mobile. Это может занять до 5 минут.</string>
+    <string name="mi_mobile_sim_activate_message">Активируйте SIM %1$d, чтобы использовать Mi Mobile. Это может занять до %2$d-%3$d мин.</string>
     <string name="mi_mobile_sim_activate_ok">Активировать</string>
     <string name="mi_mobile_sim_activate_title">Добро пожаловать в Mi Mobile!</string>
     <string name="mi_sim_not_active">SIM-карта не активирована</string>
@@ -1620,7 +1620,7 @@
     <string name="mismatchPin2">Введенные PIN2 не совпадают. Повторите попытку.</string>
     <string name="mismatch_password">Введенные пароли не совпадают</string>
     <string name="mismatch_pin">Введенные PIN не совпадают.</string>
-    <string name="mismatch_pin2">Введенные PIN2 не совпадают. Повторите попытку.</string>
+    <string name="mismatch_pin2">Введенные PIN%d не совпадают. Повторите попытку.</string>
     <string name="missed_call_notify_five_times">%d раз</string>
     <string name="missed_call_notify_none">Не напоминать</string>
     <string name="missed_call_notify_once">%d раз</string>
@@ -1785,7 +1785,7 @@
     <string name="msim_emm_cause_2">SIM %d не удалось зарегистрировать номер телефона. Выключите устройство, затем включите его и попробуйте снова.</string>
     <string name="msim_emm_cause_3">SIM %d не удалось проверить пользователя. Выключите устройство, затем включите его и попробуйте снова.</string>
     <string name="msim_emm_cause_6">SIM %d не удалось проверить устройство. Выключите устройство, затем включите его и попробуйте снова.</string>
-    <string name="msim_emm_cause_7_8_12_13_15_16_17_22">"SIM %d роуминг недоступен. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (SKT: +82-2-6346-9000)."</string>
+    <string name="msim_emm_cause_7_8_12_13_15_16_17_22">"SIM %d роуминг недоступен. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (SKT: +%2$d-%3$d-%4$d-%5$d)."</string>
     <string name="msim_enable_sim">Включить SIM-карту</string>
     <string name="msim_general_setting">Основные настройки</string>
     <string name="msim_has_been_disabled">(отключено)</string>
@@ -1824,7 +1824,7 @@
     <string name="msim_sim_lock">Заблокирована</string>
     <string name="msim_sim_radio_off">Отключена</string>
     <string name="msim_switch_data_conn_toast">Вы сменили SIM-карту. Тип сети изменён.</string>
-    <string name="msim_switch_data_conn_toast_for_h2xct">SIM-карта 2 поддерживает только сети GSM. Тип сети данной SIM-карты будет изменён на 2G.</string>
+    <string name="msim_switch_data_conn_toast_for_h2xct">Слот %d SIM поддерживает только сети GSM. Тип сети данной SIM-карты будет изменён на 2G.</string>
     <string name="mtn_simlock_emergency">SOS</string>
     <string name="mtn_simlock_text_tip">Вставленная SIM-карта не соответствует требованиям. Необходимо вставить SIM-карту, предусмотренную контрактом. Для получения подробной информации обратитесь к оператору связи.</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
@@ -1910,7 +1910,7 @@
     <string name="newPin2Label">Новый PIN2</string>
     <string name="newPinLabel">Новый PIN</string>
     <string name="new_password_label">Новый пароль (%d симв.)</string>
-    <string name="new_pin2_label">Новый PIN2</string>
+    <string name="new_pin2_label">Новый PIN%d</string>
     <string name="new_pin_label">Новый PIN</string>
     <string name="night">Вечер</string>
     <string name="no_active_esim_text">eSIM не активна</string>
@@ -1975,7 +1975,7 @@
     <string name="oldPin2Label">Текущий PIN2</string>
     <string name="oldPinLabel">Текущий PIN</string>
     <string name="old_password_label">Текущий пароль (%d симв.)</string>
-    <string name="old_pin2_label">Текущий PIN2</string>
+    <string name="old_pin2_label">Текущий PIN%d</string>
     <string name="old_pin_label">Текущий PIN</string>
     <string name="onHold">Ждет ответа</string>
     <string name="onscreenAddCallText">Добавить</string>
@@ -2113,12 +2113,12 @@
     <string name="picture_color_mode_desc">Использовать sRGB</string>
     <string name="pin2_attempts">"
 Осталось попыток: %d"</string>
-    <string name="pin2_changed">PIN2 успешно изменён</string>
+    <string name="pin2_changed">PIN%d успешно изменён</string>
     <string name="pin2_error_exception">Ошибка сети или SIM-карты</string>
     <string name="pin2_invalid">Разрешённый номер не обновлён. Введен неверный PIN2.</string>
     <string name="pin2_invalid_or_name_is_too_long">Вы ввели неверный PIN2 или слишком длинное имя</string>
     <string name="pin2_lock_warning">"
-Функционал PIN2 будет заблокирован при неудачной попытке ввода."</string>
+Функционал PIN%d будет заблокирован при неудачной попытке ввода."</string>
     <string name="pin2_or_fdn_invalid">Разрешённый номер не обновлён. Введен неверный PIN2 или номер телефона.</string>
     <string name="pin2_unblocked">PIN2 разблокирован</string>
     <string name="pin_changed">PIN SIM-карты успешно изменён</string>
@@ -2126,7 +2126,7 @@
     <string name="pin_lock_warning">"
 Телефон будет заблокирован при неудачной попытке ввода"</string>
     <string name="pin_progress_change_pin">Изменение PIN…</string>
-    <string name="pin_progress_change_pin2">Изменение PIN2…</string>
+    <string name="pin_progress_change_pin2">Изменение PIN%d…</string>
     <string name="pin_progress_set_fdn_lock">Установка блокировки разрешённых номеров…</string>
     <string name="pin_progress_set_icc_lock">Установка блокировки ICC…</string>
     <string name="pin_progress_unlock_icc">Разблокировка SIM-карты…</string>
@@ -2338,7 +2338,7 @@
     <string name="pstn_connection_service_label">Встроенные SIM-карты</string>
     <string name="pstn_phone">Вызов по сотовой сети</string>
     <string name="puk2_blocked">PUK2 заблокирован навсегда</string>
-    <string name="puk2_label">Введите PUK2</string>
+    <string name="puk2_label">Введите PUK%d</string>
     <string name="puk2_locked">PUK2 заблокирован. Обратитесь к оператору для разблокировки.</string>
     <string name="puk2_requested">Неверный пароль, SIM-карта заблокирована. Введите код PUK2.</string>
     <string name="puk_label">Введите PUK</string>
@@ -2502,7 +2502,7 @@ UT-интерфейс: %5$s"</string>
     <string name="roaming">Роуминг</string>
     <string name="roaming_alert_title">Разрешить интернет в роуминге?</string>
     <string name="roaming_check_price_warning">Уточните цены услуг сотовой связи у оператора связи.</string>
-    <string name="roaming_customer_service_message_kr">Нажмите для связи со службой поддержки клиентов в роуминге (+ 82-2-2190-0901). Звонок за границей бесплатный.</string>
+    <string name="roaming_customer_service_message_kr">Нажмите для связи со службой поддержки клиентов в роуминге (+%1$d-%2$d-%3$d-%4$d%5$d). Звонок за границей бесплатный.</string>
     <string name="roaming_customer_service_summary_kr">Звонок за границей бесплатный</string>
     <string name="roaming_customer_service_title_kr">Поддержка клиентов в роуминге</string>
     <string name="roaming_disable">Настройки подключения к службам передачи данных в роуминге</string>
@@ -2564,7 +2564,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_menu">Поиск настроек</string>
     <string name="search_menu_title">Поиск</string>
     <string name="selectContact">выбрать контакт</string>
-    <string name="select_apn_list_title">APN по-умолчанию для карты %1$s</string>
+    <string name="select_apn_list_title">Сервис SIM %1$s</string>
     <string name="select_application">Выбор приложения</string>
     <string name="select_automatically">Автовыбор сети</string>
     <string name="select_dds_dialog_title">Выберите SIM-карту для интернета</string>
@@ -2696,15 +2696,15 @@ UT-интерфейс: %5$s"</string>
     <string name="sip_settings">Настройки SIP</string>
     <string name="sip_system_decide">Автоматически</string>
     <string name="skt_emm_cause_12_13_16_17_22">Не удалось зарегистрировать сеть. Выключите устройство, затем включите его и попробуйте снова.</string>
-    <string name="skt_emm_cause_2">Не удалось зарегистрировать номер телефона. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (1599-0011).</string>
-    <string name="skt_emm_cause_3">Не удалось проверить пользователя. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (1599-0011).</string>
-    <string name="skt_emm_cause_6">Не удалось проверить устройство. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (1599-0011).</string>
-    <string name="skt_emm_cause_7_8_15">Не удалось зарегистрировать сеть. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (1599-0011).</string>
+    <string name="skt_emm_cause_2">Не удалось зарегистрировать номер телефона. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (%1$d-%2$d%3$d%4$d).</string>
+    <string name="skt_emm_cause_3">Не удалось проверить пользователя. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (%1$d-%2$d%3$d%4$d).</string>
+    <string name="skt_emm_cause_6">Не удалось проверить устройство. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (%1$d-%2$d%3$d%4$d).</string>
+    <string name="skt_emm_cause_7_8_15">Не удалось зарегистрировать сеть. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (%1$d-%2$d%3$d%4$d).</string>
     <string name="skt_msim_emm_cause_12_13_16_17_22">SIM %d не удалось зарегистрировать сеть. Выключите устройство, затем включите его и попробуйте снова.</string>
-    <string name="skt_msim_emm_cause_2">SIM %d не удалось зарегистрировать номер телефона. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (1599-0011).</string>
-    <string name="skt_msim_emm_cause_3">SIM %d не удалось проверить пользователя. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (1599-0011).</string>
-    <string name="skt_msim_emm_cause_6">SIM %d не удалось проверить устройство. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (1599-0011).</string>
-    <string name="skt_msim_emm_cause_7_8_15">SIM %d не удалось зарегистрировать сеть. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (1599-0011).</string>
+    <string name="skt_msim_emm_cause_2">SIM %1$d не удалось зарегистрировать номер телефона. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (%2$d-%3$d%4$d%5$d).</string>
+    <string name="skt_msim_emm_cause_3">SIM %1$d не удалось проверить пользователя. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (%2$d-%3$d%4$d%5$d).</string>
+    <string name="skt_msim_emm_cause_6">SIM %1$d не удалось проверить устройство. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (%2$d-%3$d%4$d%5$d).</string>
+    <string name="skt_msim_emm_cause_7_8_15">SIM %1$d не удалось зарегистрировать сеть. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (%2$d-%3$d%4$d%5$d).</string>
     <string name="smart_dds_switch">Умное переключение DDS</string>
     <string name="smart_dds_switch_summary">Разрешить модему умное переключение DDS</string>
     <string name="smart_divert_summary">Настройки CFNRc</string>
@@ -2776,7 +2776,7 @@ UT-интерфейс: %5$s"</string>
     <string name="stock_quotes_disable">Котировки ценных бумаг отключены</string>
     <string name="stock_quotes_enable">Котировки ценных бумаг включены</string>
     <string name="storage_category">Хранилище</string>
-    <string name="strPasswordLengthIncorrect">4-16 цифр</string>
+    <string name="strPasswordLengthIncorrect">%1$d-%2$d цифр</string>
     <string name="strict_mode">Строгий режим</string>
     <string name="strict_mode_summary">Подсвечивать экран во время длительных операций</string>
     <string name="sum_call_barring_disabled">Отключено</string>
@@ -3074,7 +3074,7 @@ UT-интерфейс: %5$s"</string>
     <string name="user_switch_to_user">Переключиться на %s</string>
     <string name="username_title">Имя пользователя</string>
     <string name="ussdRunning">Выполняется USSD запрос…</string>
-    <string name="ussdinitiated_title">USSD запущен</string>
+    <string name="ussdinitiated_title">Инициированный сеанс USSD </string>
     <string name="ut_not_support">UT не поддерживается</string>
     <string name="ut_unavailable_to_set_video_cf_toast">UT недоступно для установки переадресации вызовов для видео, закройте эту страницу и выйдите.</string>
     <string name="v7_preference_off">ОТКЛ.</string>

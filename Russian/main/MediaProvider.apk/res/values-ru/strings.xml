@@ -232,12 +232,12 @@
     <string name="picker_motion_photo">Фото с движением</string>
     <string name="picker_motion_photo_text">Фото с движением</string>
     <string name="picker_mute_video">Отключить звук видео</string>
-    <string name="picker_pause_video">Приостановить видео</string>
+    <string name="picker_pause_video">Пауза</string>
     <string name="picker_personal_profile">Перейти в личный профиль</string>
     <string name="picker_photo">Фото</string>
     <string name="picker_photos">Фотографии</string>
     <string name="picker_photos_empty_message">Фото или видео нет.</string>
-    <string name="picker_play_video">Воспроизвести видео</string>
+    <string name="picker_play_video">Воспроизведение</string>
     <string name="picker_preview">Предварительный просмотр</string>
     <string name="picker_privacy_message">У этого приложения есть доступ только к тем фото, которые вы выбрали.</string>
     <string name="picker_profile_admin_msg_from_personal">Доступ к рабочим данным из личного приложения запрещён.</string>

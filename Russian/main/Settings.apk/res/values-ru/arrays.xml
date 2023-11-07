@@ -514,11 +514,12 @@
         <item>Включён</item>
         <item>Включён фильтр заголовков</item>
         <item>Включён фильтр медиа-пакетов</item>
+        <item>Включён фильтр профилей</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_filters_entries">
         <item>Только заголовки списка контроля доступа</item>
         <item>Фильтровать A2DP-медиапакеты</item>
-        <item>Фильтровать RFCOMM-канал"</item>
+        <item>Фильтровать RFCOMM-канал</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_profile_filter_entries">
         <item>Отключить</item>

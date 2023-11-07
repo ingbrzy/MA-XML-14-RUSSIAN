@@ -41,7 +41,7 @@
     <string name="action_sms">Отправить</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
-    <string name="android_beam">Android Beam</string>
+    <string name="android_beam">Mi Beam</string>
     <string name="antenna_blocked_alert_link"/>
     <string name="app_name">Служба NFC</string>
     <string name="ask_nfc_tap">Коснитесь другого устройства, чтобы передать данные</string>
@@ -49,11 +49,11 @@
     <string name="beam_canceled">Передача отменена</string>
     <string name="beam_complete">Передача завершена</string>
     <string name="beam_failed">Ошибка передачи</string>
-    <string name="beam_handover_not_supported">Устройство получателя не поддерживает передачу больших объемов данных через Android Beam.</string>
+    <string name="beam_handover_not_supported">Устройство получателя не поддерживает передачу больших объемов данных через Beam.</string>
     <string name="beam_outgoing">Передача…</string>
     <string name="beam_progress">Получение…</string>
     <string name="beam_requires_external_storage_permission">Приложение не имеет разрешения на доступ к внешнему накопителю. Оно необходимо для передачи этого файла</string>
-    <string name="beam_requires_nfc_enabled">Для работы Android Beam требуется NFC. Включить?</string>
+    <string name="beam_requires_nfc_enabled">Для работы Mi Beam требуется NFC. Включить?</string>
     <string name="beam_tap_to_view">Нажмите, чтобы просмотреть</string>
     <string name="beam_try_again">Повторить попытку</string>
     <string name="call_notification_answer_action">Ответить</string>

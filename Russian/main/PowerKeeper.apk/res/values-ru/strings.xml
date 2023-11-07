@@ -312,9 +312,9 @@
     <string name="search_result_text">Приложения не найдены</string>
     <string name="send">Отправить</string>
     <string name="show_system_app">Показать системные приложения</string>
-    <string name="sleep_config_enhance_description">Для экономии заряда батареи во время вашего сна, MIUI закроет фоновые приложения, ограничит использование NFC, Bluetooth, GPS, мобильных данных и Wi-Fi, не будет включать экран для уведомлений.</string>
-    <string name="sleep_config_enhance_description_non_nfc">Для экономии заряда батареи во время вашего сна, MIUI закроет фоновые приложения, ограничит использованиеBluetooth, GPS, мобильных данных и Wi-Fi, не будет включать экран для уведомлений.</string>
-    <string name="sleep_config_enhance_description_pad">Для экономии заряда батареи во время вашего сна, MIUI закроет фоновые приложения, ограничит использование Bluetooth и Wi-Fi, не будет включать экран для уведомлений.</string>
+    <string name="sleep_config_enhance_description">Пока экран выключен, для экономии заряда MIUI закроет фоновые приложения, ограничит использование NFC, Bluetooth, GPS, мобильных данных и Wi-Fi, не будет включать экран для уведомлений.</string>
+    <string name="sleep_config_enhance_description_non_nfc">Пока экран выключен, для экономии заряда MIUI закроет фоновые приложения, ограничит использование Bluetooth, GPS, мобильных данных и Wi-Fi, не будет включать экран для уведомлений.</string>
+    <string name="sleep_config_enhance_description_pad">Пока экран выключен, для экономии заряда MIUI закроет фоновые приложения, ограничит использование Bluetooth и Wi-Fi, не будет включать экран для уведомлений.</string>
     <string name="sleep_config_enhance_title">Режим сна</string>
     <string name="sleepmode_disclaimer_agree">Принять</string>
     <string name="sleepmode_disclaimer_cancel">Отмена</string>

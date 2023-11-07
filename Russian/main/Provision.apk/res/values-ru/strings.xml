@@ -129,7 +129,7 @@
     <string name="early_morning">Утро</string>
     <string name="empty_title">" "</string>
     <string name="enable_accessibility_canceled">Помощник отключён.</string>
-    <string name="enable_accessibility_dialog_message">Вы включили TalkBack, нажимая на экран двумя пальцами дольше 10 секунд. TalkBack – это голосовой сервис для людей с нарушением зрения. Если вы случайно включили его, нажмите кнопку \"Отмена\", а затем дважды коснитесь экрана.</string>
+    <string name="enable_accessibility_dialog_message">Вы включили TalkBack, нажимая на экран %1$d пальцами дольше %2$d сек. TalkBack – это голосовой сервис для людей с нарушением зрения. Если вы случайно включили его, нажмите кнопку \"Отмена\", а затем дважды коснитесь экрана.</string>
     <string name="enable_accessibility_dialog_negative_btn">Отмена</string>
     <string name="enable_accessibility_dialog_positive_btn">ОК</string>
     <string name="enable_or_disable_bluetooth">Включение/выключение Bluetooth</string>
@@ -315,8 +315,8 @@
     <string name="msim_setting_default_data">Интернет</string>
     <string name="msim_setting_default_voice">Вызовы</string>
     <string name="multisim_settings_category">Настройки SIM-карты</string>
-    <string name="multisim_settings_sb_title">Обнаружена 1 SIM-карта</string>
-    <string name="multisim_settings_title">Обнаружено 2 SIM-карты</string>
+    <string name="multisim_settings_sb_title">Обнаружена %d SIM-карта</string>
+    <string name="multisim_settings_title">Обнаружено %d SIM-карты</string>
     <string name="navigation_picker_gesture_guide">Руководство по жестам</string>
     <string name="navigation_picker_radio_text_full_screen">Жесты</string>
     <string name="navigation_picker_radio_text_virtual_key">Кнопки</string>
@@ -539,7 +539,7 @@
     <string name="service_name_recorder">Диктофон</string>
     <string name="service_name_screen_recording">Запись экрана</string>
     <string name="service_name_security">Безопасность</string>
-    <string name="service_name_service_framework">Mi Services Framework</string>
+    <string name="service_name_service_framework">Xiaomi Services Framework</string>
     <string name="service_name_systemdesktop">Плагин службы Рабочего стола</string>
     <string name="service_policy">&lt;Data&gt;Прочитайте и примите &lt;a href=\"%1$s\"&gt;Политику конфиденциальности&lt;/a &gt;.&lt;/Data&gt;</string>
     <string name="service_policy_adjust_content">Политика конфиденциальности Xunlei</string>
