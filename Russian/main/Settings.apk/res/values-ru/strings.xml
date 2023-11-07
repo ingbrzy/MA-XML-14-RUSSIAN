@@ -10140,12 +10140,12 @@ UT-интерфейс: %5$s"</string>
     <string name="storage_wizard_init_internal_summary">Для хранения данных (приложений, фотографий и других файлов) только на этом устройстве. Необходимо отформатировать карту, чтобы её нельзя было использовать на других устройствах.</string>
     <string name="storage_wizard_init_internal_title">Внутренняя память</string>
     <string name="storage_wizard_init_title">Настройте карту \"^1\"</string>
-    <string name="storage_wizard_init_v2_title">"Как будет использоваться ^1?"</string>
-    <string name="storage_wizard_init_v2_or">"Или"</string>
-    <string name="storage_wizard_init_v2_external_title">"Форматирование SD-карты как съемного накопителя"</string>
-    <string name="storage_wizard_init_v2_external_summary">"Хранить фото, видео, музыку и файлы для использования на других устройствах. Подробнее о том, &lt;ahref=https://support.google.com/android/answer/12153449&gt;как настроить SD-карту&lt;/a&gt;…"</string>
     <string name="storage_wizard_init_v2_external_action">"Форматировать"</string>
+    <string name="storage_wizard_init_v2_external_summary">"Хранить фото, видео, музыку и файлы для использования на других устройствах. Подробнее о том, &lt;ahref=https://support.google.com/android/answer/12153449&gt;как настроить SD-карту&lt;/a&gt;…"</string>
+    <string name="storage_wizard_init_v2_external_title">"Форматирование SD-карты как съемного накопителя"</string>
     <string name="storage_wizard_init_v2_later">"Настроить позже"</string>
+    <string name="storage_wizard_init_v2_or">"Или"</string>
+    <string name="storage_wizard_init_v2_title">"Как будет использоваться ^1?"</string>
     <string name="storage_wizard_migrate_body">"Вы можете переместить фото, файлы и некоторые приложения на устройство ^1.
 Перемещение займет ^2 и освободит ^3 внутренней памяти. Во время этого процесса некоторые приложения работать не будут."</string>
     <string name="storage_wizard_migrate_confirm_body">На это уйдет примерно ^1, после чего освободится ^2 на устройстве \"^3\".</string>
