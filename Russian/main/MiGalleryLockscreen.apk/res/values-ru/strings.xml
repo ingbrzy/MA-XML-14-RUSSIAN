@@ -67,6 +67,13 @@
     <string name="account_user_phone">Телефон</string>
     <string name="account_user_region">Регион</string>
     <string name="action_add_phone">Добавить номер телефона</string>
+    <string name="action_more_dlg_add_to_loop">Добавить в слайд-шоу</string>
+    <string name="action_more_dlg_apply">Применить на экран блокировки</string>
+    <string name="action_more_dlg_dislike">Не нравится</string>
+    <string name="action_more_dlg_my_favor">Добавить в избранные</string>
+    <string name="action_more_dlg_save">Сохранить</string>
+    <string name="action_more_dlg_settings">Доп. настройки</string>
+    <string name="action_more_dlg_share">Отправить</string>
     <string name="action_update_phone">Изменить номер телефона</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="activate_email_notice">Обязательно активируйте аккаунт в течение 24 часов</string>
@@ -80,6 +87,7 @@
     <string name="ad_delimiter_4">%1$s | %2$s | %3$s | %4$s</string>
     <string name="ad_delimiter_5">%1$s | %2$s | %3$s | %4$s | %5$s</string>
     <string name="ad_delimiter_6">%1$s | %2$s | %3$s | %4$s | %5$s | %6$s</string>
+    <string name="ad_delimiter_6_version">Версия: %1$s | %2$s | %3$s | %4$s | %5$s | %6$s</string>
     <string name="ad_delimiter_7">%1$s | %2$s | %3$s | %4$s | %5$s | %6$s | %7$s</string>
     <string name="ad_download_now">Загрузить</string>
     <string name="ad_feed_badge">Реклама</string>
@@ -111,6 +119,7 @@
     <string name="app_self_upgrade_toast_downloading_install">Обновление…</string>
     <string name="applied_and_added_to_custom_wallpaper">Добавлено в слайдшоу. &lt;font color ='#3482FF'>&lt;a href=\"%1$s\">Просмотр&lt;/font>&lt;/a></string>
     <string name="apply">Применить</string>
+    <string name="apply_success_toast">Обои применены</string>
     <string name="apply_to_above_all">Применить везде</string>
     <string name="apply_to_screenlock">Применить к экрану блокировки</string>
     <string name="apply_to_wallpaper">Применить к рабочему столу</string>
@@ -267,6 +276,7 @@ ID:%s
     <string name="disable_dlg_ok">Отключить</string>
     <string name="disable_dlg_title">Карусель обоев</string>
     <string name="dislike">Удалить</string>
+    <string name="dlg_add_to_loop_success_toast">Добавлено в слайд-шоу</string>
     <string name="dlg_cancel">Отмена</string>
     <string name="dlg_ok">ОК</string>
     <string name="doing_login">Вход…</string>
@@ -355,6 +365,7 @@ ID:%s
     <string name="just_a_second">Подождите…</string>
     <string name="later">Не выключать</string>
     <string name="launch_bg_permission_exception">Разрешите приложению всплывающие окна в фоновом режиме</string>
+    <string name="left_lks_detail_entrance">Ещё</string>
     <string name="like">Добавить в избранные</string>
     <string name="liked">Добавлено в избранные</string>
     <string name="lks_cta_dont_mention">Больше не показывать</string>
@@ -389,6 +400,11 @@ ID:%s
     <string name="lks_loop_icon_open_ok">Понятно</string>
     <string name="lks_more">Ещё</string>
     <string name="lks_more_pics_coming_toast">Новые изображения будут позже</string>
+    <string name="lks_new_data_loaded">Успешно загружено</string>
+    <string name="lks_new_data_warning">Эта функция может расходовать трафик</string>
+    <string name="lks_new_user_guide_horizontal">Проведите влево или вправо, чтобы просмотреть больше изображений</string>
+    <string name="lks_new_user_guide_left">Проведите влево, чтобы просмотреть больше изображений</string>
+    <string name="lks_new_user_guide_up">Проведите вверх для дополнительной информации</string>
     <string name="lks_new_user_help_anime">Проведите вверх, чтобы увидеть больше</string>
     <string name="lks_no_network">Не удалось подключиться к сети</string>
     <string name="lks_please_reload">Обновить</string>
@@ -403,6 +419,7 @@ ID:%s
     <string name="llks_display_error">Предоставьте разрешения</string>
     <string name="llks_display_error_des">Разрешите приложению отображение на экране блокировки</string>
     <string name="llks_learn_more_cate">Дополнительные категории</string>
+    <string name="llks_loading">Загрузка…</string>
     <string name="llks_pop_btm_des">Начните день с улыбки</string>
     <string name="llks_pop_btm_des_backup">Хорошего начала дня</string>
     <string name="llks_pop_btm_title">Доброе утро</string>
@@ -457,6 +474,16 @@ ID:%s
     <string name="logout_summary">После выхода из аккаунта вы не сможете синхронизировать свои подписки и индивидуальные настройки на связанных с аккаунтом устройствах. Выйти?</string>
     <string name="logout_title">Выйти из аккаунта?</string>
     <string name="look_str">Популярные</string>
+    <string name="loop_service_dlg_content">Слайд-шоу будет менять изображения на экране блокировки с установленной периодичностью. Включить слайд-шоу на экране блокировки и добавить это изображение?</string>
+    <string name="loop_service_dlg_negative">Отмена</string>
+    <string name="loop_service_dlg_positive">Включить</string>
+    <string name="loop_service_dlg_positive_toast_day">Слайд-шоу включено. Обои будут меняться каждый день. Периодичность можно изменить в настройках Карусели обоев.</string>
+    <string name="loop_service_dlg_positive_toast_hour_1">Слайд-шоу включено. Обои будут меняться каждый час. Периодичность можно изменить в настройках Карусели обоев.</string>
+    <string name="loop_service_dlg_positive_toast_hour_3">Слайд-шоу включено. Обои будут меняться каждые 3 часа. Периодичность можно изменить в настройках Карусели обоев.</string>
+    <string name="loop_service_dlg_positive_toast_minutes_15">Слайд-шоу включено. Обои будут меняться каждые 15 минут. Периодичность можно изменить в настройках Карусели обоев.</string>
+    <string name="loop_service_dlg_positive_toast_minutes_5">Слайд-шоу включено. Обои будут меняться каждые 5 минут. Периодичность можно изменить в настройках Карусели обоев.</string>
+    <string name="loop_service_dlg_positive_toast_unlock">Слайд-шоу включено. Обои будут меняться при каждой разблокировке. Периодичность можно изменить в настройках Карусели обоев.</string>
+    <string name="loop_service_dlg_title">Включить слайд-шоу на экране блокировки?</string>
     <string name="main_fragment_title_discover">Тематические</string>
     <string name="main_fragment_title_home">Рекомендуемые</string>
     <string name="main_fragment_title_home_excellent">Подборки</string>
@@ -990,6 +1017,13 @@ mm"</string>
     <string name="setting_title">Слайд-шоу</string>
     <string name="settings">Настройки</string>
     <string name="share">Поделиться</string>
+    <string name="share_dlg_more">Ещё</string>
+    <string name="share_dlg_qq">Отправить в QQ</string>
+    <string name="share_dlg_save">Сохранить в Галерею</string>
+    <string name="share_dlg_title">Отправить обои</string>
+    <string name="share_dlg_wechat">Отправить другу</string>
+    <string name="share_dlg_wechat_moment">Моменты WeChat</string>
+    <string name="share_dlg_weibo">Отправить в Weibo</string>
     <string name="share_today_morning">Поделиться</string>
     <string name="shield">Блокировка: </string>
     <string name="shield_failed">Не удалось заблокировать</string>
@@ -1253,6 +1287,7 @@ mm"</string>
     <string name="v_code_title">Введите 2-шаговый проверочный код</string>
     <string name="view_privacy_policy">Политика конфиденциальности</string>
     <string name="wallpaper">Обои</string>
+    <string name="wallpaper_added_success_toast">Обои добавлены</string>
     <string name="wallpaper_feed_title">Вам также может понравиться</string>
     <string name="wallpaper_relations_title">Рекомендуемые</string>
     <string name="wechat_application_id"/>

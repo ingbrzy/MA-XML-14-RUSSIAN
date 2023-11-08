@@ -1205,7 +1205,7 @@
 Выберите другой почтовый ящик."</string>
     <string name="no_search_results">Искать на сервере</string>
     <string name="noon">Полдень</string>
-    <string name="not_install_qq_tip">Успешно скопировано. Откройте QQ и найдите эту группу, чтобы присоединиться к ней.</string>
+    <string name="not_install_qq_tip">Скопировано. Откройте QQ и найдите эту группу, чтобы присоединиться к ней.</string>
     <string name="not_set">Не задано</string>
     <string name="not_subject">(Без темы)</string>
     <string name="not_synced_title">Аккаунт не синхронизирован</string>
@@ -1339,6 +1339,7 @@
     <string name="pdf_viewer_file_damage_toast">PDF-файл повреждён. Проверьте файл и повторите попытку.</string>
     <string name="pdf_viewer_new_email">Отправить по почте</string>
     <string name="pdf_viewer_reply">Использовать этот файл в ответе</string>
+    <string name="pdf_viewer_reply_all">Использовать этот файл в ответе для всех</string>
     <string name="pdf_viewer_save_signature">Сохранить подпись</string>
     <string name="pdf_viewer_sign_file_damage_toast">Файл не существует</string>
     <string name="pdf_viewer_signature">Подписать PDF</string>
@@ -1661,6 +1662,7 @@
     <string name="sign_in_dialog_outlook_enterprise">Office 365 Корпоративный</string>
     <string name="sign_in_dialog_outlook_exchange">EXCHANGE (с календарем)</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (без календаря)</string>
+    <string name="sign_in_dialog_title">Выберите способ входа</string>
     <string name="sign_in_graph_error">Можно войти в систему с использованием протоколов IMAP или EXCHANGE, только если ваша организация не изменила общую конфигурацию сервера. Если адрес сервера изменён организацией или соответствующие протоколы отключены, используйте для входа новый протокол Microsoft.</string>
     <string name="sign_in_no_useful_provider_error">Не удается получить конфигурацию протокола от Microsoft. Обновите протокол или используйте другой.</string>
     <string name="signature">"

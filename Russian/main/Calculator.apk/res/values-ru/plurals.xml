@@ -44,6 +44,11 @@
         <item quantity="one">год</item>
         <item quantity="few">года</item>
     </plurals>
+    <plurals name="delete_msg">
+        <item quantity="other">Удалить %d элементов?</item>
+        <item quantity="one">Удалить %d элемент?</item>
+        <item quantity="few">Удалить %d элемента?</item>
+    </plurals>
     <plurals name="entries">
         <item quantity="other">%d элементов</item>
         <item quantity="one">%d элемент</item>
@@ -99,6 +104,11 @@
         <item quantity="one">%d минуту назад</item>
         <item quantity="few">%d минуты назад</item>
     </plurals>
+    <plurals name="select_items">
+        <item quantity="other">Выбрано %d элементов</item>
+        <item quantity="one">Выбрано %d элемент</item>
+        <item quantity="few">Выбрано %d элемента</item>
+    </plurals>
     <plurals name="tenure_months">
         <item quantity="other">%d месяцев</item>
         <item quantity="one">%d месяц</item>
@@ -108,5 +118,29 @@
         <item quantity="other">%d лет</item>
         <item quantity="one">%d год</item>
         <item quantity="few">%d года</item>
+    </plurals>
+    <plurals name="unit_data_display_data_b">
+        <item quantity="other">Б</item>
+        <item quantity="one">Б</item>
+    </plurals>
+    <plurals name="unit_data_display_data_gb">
+        <item quantity="other">ГБ</item>
+        <item quantity="one">ГБ</item>
+    </plurals>
+    <plurals name="unit_data_display_data_kb">
+        <item quantity="other">КБ</item>
+        <item quantity="one">КБ</item>
+    </plurals>
+    <plurals name="unit_data_display_data_mb">
+        <item quantity="other">МБ</item>
+        <item quantity="one">МБ</item>
+    </plurals>
+    <plurals name="unit_data_display_data_pb">
+        <item quantity="other">ПБ</item>
+        <item quantity="one">ПБ</item>
+    </plurals>
+    <plurals name="unit_data_display_data_tb">
+        <item quantity="other">ТБ</item>
+        <item quantity="one">ТБ</item>
     </plurals>
 </resources>

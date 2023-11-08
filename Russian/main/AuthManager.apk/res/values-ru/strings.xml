@@ -332,7 +332,7 @@
     <string name="perm_educate_post_notification">Уведомления могут сопровождаться звуком и вибрацией при появлении в шторке уведомлений и на значках приложений на рабочем столе. Параметры уведомлений можно изменить в Настройках.</string>
     <string name="perm_manager_suggest_operation">Управление разрешениями</string>
     <string name="perm_manager_suggest_title">Настроить разрешения?</string>
-    <string name="perm_modem_location">Доступ к геопозиции</string>
+    <string name="perm_modem_location">Использование геолокации</string>
     <string name="perm_modem_location_desc">Разрешить оператору связи получать вашу геопозицию</string>
     <string name="permdesc_add_voicemail">Разрешить %1$s добавлять голосовые сообщения?</string>
     <string name="permdesc_call_phone">Разрешить %1$s совершать вызовы?</string>

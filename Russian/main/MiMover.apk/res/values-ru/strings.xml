@@ -180,6 +180,12 @@
     <string name="dialog_rating_desc_less">Могли бы вы оставить отзыв?</string>
     <string name="dialog_rating_desc_perfect">Хотите оценить приложение в GetApps?</string>
     <string name="dialog_rating_title">Оцените приложение</string>
+    <string name="dialog_request_all_permission_content">"Чтобы перенести данные со старого устройства на новое, приложению необходимы подключение к интернету и следующие разрешения:
+• Доступ к фото, аудио и видео
+• Доступ к сообщениям, контактам и журналу вызовов
+• Доступ к хранилищу
+• Доступ к списку приложений на устройстве"</string>
+    <string name="dialog_request_all_permission_title">Предоставьте разрешения</string>
     <string name="dialog_request_network_btn_negative">Выход</string>
     <string name="dialog_request_network_btn_positive">Принимаю</string>
     <string name="dialog_request_network_message">Добро пожаловать в Mi Mover! Это приложение можно использовать для переноса данных со старого устройства на новое.
@@ -601,6 +607,7 @@
     <string name="permdesc_sendSmsNoConfirmation">Приложение может отправлять SMS-сообщения без вашего разрешения. Ваш оператор может взимать плату за эти сообщения.</string>
     <string name="permission_about_contacts">Разрешите редактирование контактов и журнала вызовов</string>
     <string name="permission_about_storage">Разрешите доступ к хранилищу устройства</string>
+    <string name="permission_about_storage_pad">Разрешите доступ к хранилищу устройства</string>
     <string name="permission_alert_message_usage_access">Mi Mover требуется доступ к истории использования. Предоставьте Mi Mover необходимые разрешения в настройках.</string>
     <string name="permission_alert_title">Предоставьте разрешения</string>
     <string name="permission_bluetooth_summary">Для поиска доступных устройств поблизости</string>
@@ -637,12 +644,17 @@
     <string name="prompt_before_transmission_message4_title">Сохранение подключения</string>
     <string name="prompt_before_transmission_message5_summary">Беспроводная передача больших объемов данных может приводить к нагреву устройства, что является нормальным.</string>
     <string name="prompt_before_transmission_message5_title">Нагрев устройства</string>
+    <string name="provisiion_set_old_pad_summary">Используйте Mi Mover для импорта данных со старого устройства без подключения к интернету</string>
     <string name="provisiion_set_old_phone">Импорт со старого устройства</string>
     <string name="provisiion_set_old_phone_summary">Используйте Mi Mover для импорта данных со старого устройства без подключения к интернету</string>
     <string name="provision_cta_title">Перенос со старого устройства</string>
+    <string name="provision_cta_title_pad">Перенос со старого устройства</string>
     <string name="provision_receiver_finish_button">Далее</string>
     <string name="provision_select_data_null">Выберите данные для передачи</string>
+    <string name="provision_select_data_one">Выберите данные для передачи</string>
+    <string name="provision_set_new_pad">Использовать как новое устройство</string>
     <string name="provision_set_new_phone">Использовать как новое устройство</string>
+    <string name="provision_set_old_pad">Импорт со старого устройства</string>
     <string name="qq_app_receive_fail">Не удалось получить QQ</string>
     <string name="qq_app_send_fail">Не удалось отправить QQ</string>
     <string name="qq_data_external">QQ данные SD-карты</string>
@@ -654,8 +666,10 @@
     <string name="receiver_finish_not_transferred">Не передано</string>
     <string name="receiver_finish_title">Все готово!</string>
     <string name="receiver_finish_transferred">Передано</string>
-    <string name="receiver_video_summary">Разблокируйте свое старое устройство, нажмите \"Перенести\" и отсканируйте это изображение</string>
+    <string name="receiver_video_summary">Разблокируйте старое устройство, нажмите \"Перенести\" и отсканируйте это изображение</string>
+    <string name="receiver_video_summary_pad">Разблокируйте старое устройство, нажмите \"Перенести\" и отсканируйте это изображение</string>
     <string name="receiver_video_title">Перенос со старого устройства</string>
+    <string name="receiver_video_title_pad">Перенос со старого устройства</string>
     <string name="recent_one_year">За 1 год</string>
     <string name="recent_seven_days">За 7 дней</string>
     <string name="recent_thirty_days">За 30 дней</string>

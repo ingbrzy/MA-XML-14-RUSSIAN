@@ -312,6 +312,8 @@
     <string name="image_annotation_edit_hint">Описание изображения</string>
     <string name="image_annotation_edit_length_warning">Описание изображения может содержать не более %d символов</string>
     <string name="info_note_enter_desktop">Заметка добавлена на рабочий стол</string>
+    <string name="insert_image_menu_take_photo_by_local_device">Сделать снимок с помощью этого устройства</string>
+    <string name="insert_image_menu_take_photo_by_remote_device">Сделать снимок с помощью %1$s</string>
     <string name="insert_image_size_limit_tip">Размер изображения превышает %d МБ. Оно было автоматически сжато.</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="last_excerpt_unfinish_hint">Последняя выдержка неполная</string>
@@ -400,6 +402,7 @@
     <string name="miui_penengine_setting_show_black_background">Чёрный</string>
     <string name="miui_penengine_setting_show_grid_background">Пунктирный</string>
     <string name="miui_penengine_setting_show_white_background">Белый</string>
+    <string name="miui_penengine_toast_add_to_clip">Успешно скопировано</string>
     <string name="miui_penengine_tool_brush">Выбранный инструмент</string>
     <string name="miui_penengine_tool_brush_stroke1">Ширина штриха 1</string>
     <string name="miui_penengine_tool_brush_stroke2">Ширина штриха 2</string>
@@ -586,6 +589,7 @@
     <string name="option_menu_save_as_pic">Сохранить как изображение</string>
     <string name="option_menu_share">Отправить</string>
     <string name="pad_collpase_navigation">Скрыть панель навигации</string>
+    <string name="pad_dialog_take_photo_by_device">Съёмка с помощью %1$s</string>
     <string name="pad_dialog_tip_content_take_photo_by_phone">Использование камеры…</string>
     <string name="pad_expand_navigation">Показать панель навигации</string>
     <string name="pad_insert_image_menu_select_from_pad_gallery">Галерея</string>
@@ -643,7 +647,8 @@
     <string name="permission_storage_desc_pad_v12">Для добавления изображений в заметки и сохранения заметок в виде изображений</string>
     <string name="permission_storage_desc_v12">Для добавления изображений в заметки и сохранения заметок в виде изображений</string>
     <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI сохранит ваши голосовые записи и ID устройства для транскрибирования и создания голосовых заметок. Узнайте больше о Mi AI в &lt;a href=\"%1$s\"&gt;Политике конфиденциальности&lt;/a&gt;.&lt;/Data&gt;</string>
-    <string name="permission_xiaoai_desc_new"><Data>Для сервиса преобразования речи в текст, Mi AI требуется сбор аудиоданных и получение идентификатора устройства, который генерируется случайным образом. Перед использованием примите &lt;a href=\"%1$s\">Заявление о совместном использовании данных третьими сторонами&lt;/a>. Для подробностей ознакомьтесь с &lt;a href=\"%2$s\">Политикой конфиденциальности&lt;/a> Mi AI.</Data></string>
+    <string name="permission_xiaoai_desc_m"><Data>Для преобразования речи в текст, Mi AI необходимо разрешение на сбор аудиоданных и получение IMEI. Перед использованием прочтите &lt;a href=\"%1$s\">аявление о совместном использовании данных третьими сторонами&lt;/a>. Подробности в &lt;a href=\"%2$s\">Политике конфиденциальности&lt;/a> Mi AI.</Data></string>
+    <string name="permission_xiaoai_desc_new"><Data>Для преобразования речи в текст, Mi AI необходимо разрешение на сбор аудиоданных и получение идентификатора устройства, который генерируется случайным образом. Перед использованием прочтите &lt;a href=\"%1$s\">Заявление о совместном использовании данных третьими сторонами&lt;/a>. Подробности в &lt;a href=\"%2$s\">Политике конфиденциальности&lt;/a> Mi AI.</Data></string>
     <string name="permission_xiaoai_title">Преобразование речи в текст</string>
     <string name="permlab_accessNote">Доступ к заметкам</string>
     <string name="pm">PM</string>
