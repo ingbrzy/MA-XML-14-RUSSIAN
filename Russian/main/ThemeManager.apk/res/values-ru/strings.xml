@@ -57,11 +57,13 @@
     <string name="ad_download_open">Открыть</string>
     <string name="ad_download_pause">Пауза</string>
     <string name="ad_download_pending">Ожидание</string>
+    <string name="ad_download_progress">%1$d%%</string>
     <string name="ad_download_resume">Продолжить</string>
     <string name="ad_downloading_tip">Идёт загрузка. Вы можете посмотреть прогресс в шторке уведомлений.</string>
     <string name="ad_experience_now">Открыть</string>
     <string name="ad_in_downloading">Загрузка</string>
     <string name="ad_in_installing">Установка</string>
+    <string name="ad_installing">Установка…</string>
     <string name="ad_tag_text_1">Популярное</string>
     <string name="ad_tag_text_2">Тренд</string>
     <string name="add">Добавить</string>
@@ -547,6 +549,9 @@
     <string name="local_mode_hint">"Включён офлайн-режим.
 Нажмите, чтобы отключить."</string>
     <string name="local_mode_open">Офлайн-режим</string>
+    <string name="local_notification_default_title">Темы</string>
+    <string name="local_notification_font_trial_title">Посмотрите новые шрифты</string>
+    <string name="local_notification_update_theme_title">Обновите темы</string>
     <string name="local_photos">Фото на устройстве</string>
     <string name="local_resouce_creator_name">Автор: %1$s</string>
     <string name="lock_screen_apply">Установить на экран блокировки</string>
@@ -1144,6 +1149,7 @@ mm"</string>
     <string name="resource_restore_succ">Успешно восстановлено</string>
     <string name="resource_ringtone_default">Мелодии</string>
     <string name="resource_ringtone_playing_error">Ошибка</string>
+    <string name="resource_ringtone_too_large_waring">Файл рингтона должен быть не более %1$d МБ</string>
     <string name="resource_ringtone_volume_mute">Звук отключён</string>
     <string name="resource_save_to_note">Сохранить в заметки</string>
     <string name="resource_search_color_hint_blue">Синий</string>
@@ -1236,6 +1242,7 @@ mm"</string>
     <string name="selected_resource_file_invalid">Выбранный файл не поддерживается</string>
     <string name="send">Отправить</string>
     <string name="server_internal_error">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="server_message">Горячая линия: 400–100–5678</string>
     <string name="service_btn_text_know">Ознакомиться</string>
     <string name="service_btn_text_try">Попробовать</string>
     <string name="set_as_colorring">Установить рингтон</string>
